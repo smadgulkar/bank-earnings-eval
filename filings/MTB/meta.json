@@ -1,0 +1,23 @@
+{
+  "ticker": "MTB",
+  "name": "M&T Bank",
+  "cik": 36270,
+  "accession": "0000036270-26-000057",
+  "filed": "2026-10-16",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000057/ex991release3q26.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000057/a3q26earningspresentatio.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:51+00:00"
+}

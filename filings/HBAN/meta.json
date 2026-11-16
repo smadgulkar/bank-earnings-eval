@@ -1,0 +1,23 @@
+{
+  "ticker": "HBAN",
+  "name": "Huntington Bancshares",
+  "cik": 49196,
+  "accession": "0000049196-26-000084",
+  "filed": "2026-10-22",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/hban20260930_8kex991.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/hban20260930_8kex992.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:49+00:00"
+}

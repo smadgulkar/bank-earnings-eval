@@ -1,0 +1,29 @@
+{
+  "ticker": "RF",
+  "name": "Regions Financial",
+  "cik": 1281761,
+  "accession": "0001281761-26-000063",
+  "filed": "2026-10-16",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000063/rf-2026930xexhibit991.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000063/rf-2026930xexhibitx992.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    },
+    {
+      "type": "EX-99.3",
+      "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000063/rf-2026930xexhibit993.htm",
+      "description": "EX-99.3",
+      "file": "ex-99_3.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:50+00:00"
+}

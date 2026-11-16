@@ -1,0 +1,29 @@
+{
+  "ticker": "CFG",
+  "name": "Citizens Financial Group",
+  "cik": 759944,
+  "accession": "0000759944-26-000206",
+  "filed": "2026-10-16",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000206/a3q26earningsrelease.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000206/a3q26earningspresentatio.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    },
+    {
+      "type": "EX-99.3",
+      "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000206/q326financialsupplement.htm",
+      "description": "EX-99.3",
+      "file": "ex-99_3.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:53+00:00"
+}

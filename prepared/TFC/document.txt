@@ -1,0 +1,1016 @@
+===== ex-99_1.htm =====
+[B0001] EX-99.1
+[B0002] 2
+[B0003] ex991-3q26.htm
+[B0004] EX-99.1
+[B0005] Document created using Wdesk Copyright 2026 Workiva Document
+[B0006] `
+[B0007] News Release
+[B0008] Truist reports third quarter 2026 results
+[B0009] Solid 3Q26 results; simplifying and reallocating resources to drive stronger growth, profitability, and returns Diluted EPS of $0.56; adjusted diluted EPS (1) of $1.16, up 12% compared to 3Q25
+[B0010] 3Q26 Key Financial Data | 3Q26 Performance Highlights (3)
+[B0011] (Dollars in billions, except per share data) | 3Q26 | 2Q26 | 3Q25
+[B0012] Summary Income Statement
+[B0013] Net interest income | $3.66 | $3.62 | $3.63
+[B0014] Net interest income - TE (1) | 3.71 | 3.67 | 3.68
+[B0015] Noninterest income | 0.08 | 1.64 | 1.56
+[B0016] Total revenue | 3.75 | 5.27 | 5.19
+[B0017] Total revenue - TE (1) | 3.79 | 5.31 | 5.24
+[B0018] Noninterest expense | 3.11 | 3.06 | 3.01
+[B0019] Net income | 0.80 | 1.55 | 1.45
+[B0020] Net income available to common shareholders | 0.68 | 1.52 | 1.35
+[B0021] Adjusted net income available to common shareholders (1) | 1.42 | 1.52 | 1.35
+[B0022] PPNR (1) | 0.69 | 2.26 | 2.22
+[B0023] Adjusted PPNR (1) | 2.24 | 2.26 | 2.22
+[B0024] Key Metrics
+[B0025] Diluted EPS | $0.56 | $1.23 | $1.04
+[B0026] Adjusted diluted EPS (1) | 1.16 | 1.23 | 1.04
+[B0027] BVPS | 46.78 | 48.04 | 46.70
+[B0028] TBVPS (1) | 31.90 | 33.40 | 32.57
+[B0029] ROCE | 4.7% | 10.4% | 9.0%
+[B0030] ROTCE (1) | 7.2 | 15.4 | 13.6
+[B0031] Adjusted ROTCE (1) | 14.6 | 15.4 | 13.6
+[B0032] Efficiency ratio | 82.9 | 58.0 | 58.1
+[B0033] NIM - TE (1) | 3.00 | 2.98 | 3.01
+[B0034] NCO ratio | 0.77 | 0.50 | 0.48
+[B0035] ALLL ratio | 1.25 | 1.51 | 1.54
+[B0036] CET1 ratio (2) | 10.7 | 10.9 | 11.0
+[B0037] Average Balances
+[B0038] Assets | $550 | $550 | $542
+[B0039] Securities | 118 | 118 | 119
+[B0040] Loans and leases | 329 | 332 | 322
+[B0041] Deposits | 411 | 405 | 397
+[B0042] Amounts may not foot due to rounding.
+[B0043] (1) Represents a non-GAAP measure. For additional details, see the “Non-GAAP Financial Information” section of this release and reconciliations of non-GAAP measures to the most directly comparable GAAP measures included in this release or Truist’s Third Quarter 2026 Quarterly Performance Summary.
+[B0044] (2) Current quarter capital ratios are preliminary.
+[B0045] (3) This section summarizes changes from third quarter of 2026 compared to second quarter of 2026, unless otherwise noted.
+[B0046] • Third quarter results reflect the completion of the Regional Acceptance Corporation (RAC) loan sale and the subsequent AFS securities repositioning
+[B0047] • Signed an agreement on October 14, 2026, to sell $7.7 billion of unsecured consumer loans representing substantially all assets of LightStream, our unsecured lending platform, to Carlyle Group Inc.
+[B0048] • Adjusted net income available to common shareholders (1) of $1.4 billion, resulting in adjusted diluted EPS (1) of $1.16 per share and adjusted ROTCE (1) of 14.6%, which excludes:
+[B0049] ◦ $1.4 billion pre-tax, or $0.90 per share, loss on the sale of AFS securities
+[B0050] ◦ $581 million pre-tax, or $0.36 per share, loan loss reserve recapture and $106 million pre-tax, or $0.06 per share, of impacts associated with the RAC loan sale
+[B0051] • Adjusted revenue - TE (1) of $5.3 billion was stable
+[B0052] ◦ Net interest income - TE (1) increased 1.1%; NIM - TE (1) was up two basis points
+[B0053] ◦ Noninterest income was impacted by losses on the RAC loan sale and the AFS securities repositioning, partially offset by record quarterly income for wealth management
+[B0054] • Noninterest expense, excluding $40 million of RAC loan sale costs, was stable
+[B0055] • End of period loans and leases HFI were $323.9 billion, down $5.9 billion, $5.5 billion of which was due to the RAC loan sale
+[B0056] • End of period deposits were $413.2 billion, up $3.9 billion, or 0.9%
+[B0057] • Asset quality improved as a result of the RAC loan sale
+[B0058] ◦ NCO ratio of 77 basis points, which includes 39 basis points related to RAC
+[B0059] ◦ Nonperforming loans to total loans HFI were 0.40%, down 11 basis points
+[B0060] ◦ ALLL ratio of 1.25% declined 26 basis points
+[B0061] ◦ Ratio of ALLL to nonperforming loans and leases HFI of 3.1x
+[B0062] CEO Commentary
+[B0063] “Since joining Truist, I’ve become even more confident in the strength of our franchise and the significant opportunities ahead. We delivered a solid quarter while also taking decisive actions to better position Truist for the future. These actions strengthen our risk, liquidity, and funding profile and create greater capacity to invest in our best businesses. We’re simplifying the company and focusing our resources, capital, and expenses on the businesses and capabilities that will help us become the most important financial partner to our clients. Looking ahead, we remain confident in our ability to deliver against our near- and long-term ROTCE targets and will work to build a more focused company positioned to deliver sustainable growth and stronger returns for shareholders.”
+[B0064] — Mike Lyons, Truist President & CEO
+[B0065] `
+[B0066] Contact:
+[B0067] Investors: | Brad Milsaps | investors@truist.com
+[B0068] Media: | Kyle Tarrance | media@truist.com
+[B0069] Net Interest Income, Net Interest Margin, and Average Balances
+[B0070] Quarter Ended | Change
+[B0071] (Dollars in millions) | 3Q26 | 2Q26 | 3Q25 | Link Quarter | Like Quarter
+[B0072] Interest income | $6,030 | $5,967 | $6,286 | $63 | 1.1% | $(256) | (4.1)%
+[B0073] Plus: TE adjustment (1) | 44 | 46 | 51 | (2) | (4.3) | (7) | (13.7)
+[B0074] Interest income - TE (1) | 6,074 | 6,013 | 6,337 | 61 | 1.0 | (263) | (4.2)
+[B0075] Interest expense | 2,367 | 2,346 | 2,657 | 21 | 0.9 | (290) | (10.9)
+[B0076] Net interest income - TE (1) | $3,707 | $3,667 | $3,680 | $40 | 1.1 | $27 | 0.7
+[B0077] NIM - TE (1) | 3.00% | 2.98% | 3.01% | 2 bps | (1) bp
+[B0078] Average Balances (2)
+[B0079] Total earning assets | $491,430 | $492,461 | $486,006 | $(1,031) | (0.2)% | $5,424 | 1.1%
+[B0080] Total interest-bearing liabilities | 371,474 | 370,782 | 359,103 | 692 | 0.2 | 12,371 | 3.4
+[B0081] Yields / Rates (1)
+[B0082] Total earning assets | 4.91% | 4.89% | 5.18% | 2 bps | (27) bps
+[B0083] Total interest-bearing liabilities | 2.53 | 2.54 | 2.94 | (1) bp | (41) bps
+[B0084] (1) Amounts related to interest income and yields are on a TE basis, which represents a non-GAAP measure, utilizing the federal income tax rate of 21% for the periods presented. Interest income includes certain fees, deferred costs, and dividends. A reconciliation of net interest income - TE to net interest income is included within the table above. NIM – TE is calculated using net interest income on a TE basis to determine the total yield on interest-earning assets.
+[B0085] (2) Represents daily average balances. Unrealized gains and losses on AFS securities are included in nonearning assets. Active hedge basis adjustments for fair value hedges are included in nonearning assets and other liabilities.
+[B0086] Taxable-equivalent net interest income was up $40 million, or 1.1%, compared to the second quarter of 2026, driven by an additional day and fixed asset and liability repricing, partially offset by lower loan balances. NIM - TE was 3.00%, up two basis points compared to the second quarter of 2026.
+[B0087] • Average earning assets decreased $1.0 billion, or 0.2%, primarily due to a decrease in average total loans of $2.3 billion, or 0.7%, partially offset by an increase in other earning assets of $1.2 billion, or 3.4%.
+[B0088] • The yield on the average total loan portfolio was 5.71%, up three basis points. The yield on the average securities portfolio was 3.03%, up seven basis points.
+[B0089] • Average deposits increased $5.8 billion, or 1.4%, average short-term borrowings decreased $10.3 billion, or 36%, and average long-term debt increased $4.5 billion, or 11%.
+[B0090] • The average cost of total deposits was 1.59%, up three basis points. The average cost of short-term borrowings was 3.96%, down one basis point. The average cost of long-term debt was 4.73%, down four basis points.
+[B0091] Taxable-equivalent net interest income was up $27 million, or 0.7%, compared to the third quarter of 2025, primarily driven by fixed asset and liability repricing, higher client deposit balances, and higher loan balances, partially offset by lower loan spreads and unfavorable deposit mix. NIM - TE was 3.00%, stable compared to the third quarter of 2025.
+[B0092] • Average earning assets increased $5.4 billion, or 1.1%, primarily due to an increase in average total loans of $7.4 billion, or 2.3%.
+[B0093] • The yield on the average total loan portfolio was 5.71%, down 29 basis points. The yield on the average securities portfolio was 3.03%, down 13 basis points.
+[B0094] • Average deposits increased $14.1 billion, or 3.6%, average short-term borrowings decreased $8.2 billion, or 31%, and average long-term debt increased $3.7 billion, or 8.9%.
+[B0095] • The average cost of total deposits was 1.59%, down 25 basis points. The average cost of short-term borrowings was 3.96%, down 46 basis points. The average cost of long-term debt was 4.73%, down 31 basis points.
+[B0096] - 2 -
+[B0097] Noninterest Income
+[B0098] Quarter Ended | Change
+[B0099] (Dollars in millions) | 3Q26 | 2Q26 | 3Q25 | Link Quarter | Like Quarter
+[B0100] Wealth management income | $407 | $375 | $374 | $32 | 8.5% | $33 | 8.8%
+[B0101] Card and treasury management fees | 347 | 353 | 340 | (6) | (1.7) | 7 | 2.1
+[B0102] Investment banking and trading income | 324 | 352 | 323 | (28) | (8.0) | 1 | 0.3
+[B0103] Other deposit revenue | 125 | 120 | 125 | 5 | 4.2 | — | —
+[B0104] Mortgage banking income | 113 | 116 | 118 | (3) | (2.6) | (5) | (4.2)
+[B0105] Lending related fees | 120 | 120 | 103 | — | — | 17 | 16.5
+[B0106] Securities gains (losses) | (1,447) | — | — | (1,447) | NM | (1,447) | NM
+[B0107] Other income | 95 | 208 | 175 | (113) | (54.3) | (80) | (45.7)
+[B0108] Total noninterest income | $84 | $1,644 | $1,558 | $(1,560) | (94.9) | $(1,474) | (94.6)
+[B0109] Securities losses | 1,447 | — | —
+[B0110] Loss on RAC loan sale | 66 | — | —
+[B0111] Adjusted noninterest income (1) | $1,597 | $1,644 | $1,558 | $(47) | (2.9)% | $39 | 2.5%
+[B0112] (1) Adjusted noninterest income is a non-GAAP measure that excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods.
+[B0113] Noninterest income was down $1.6 billion compared to the second quarter of 2026, and down $1.5 billion compared to the third quarter of 2025. The third quarter of 2026 included losses from AFS securities sales of $1.4 billion and losses associated with the RAC loan sale of $66 million (other income). For both periods:
+[B0114] • Wealth management income increased primarily reflecting favorable market performance.
+[B0115] • Other income decreased primarily due to the losses associated with the RAC loan sale and lower returns from investments held for post-retirement benefits (which were offset by lower personnel expense).
+[B0116] Investment banking and trading income decreased compared to the second quarter of 2026, primarily due to lower trading income.
+[B0117] Noninterest Expense
+[B0118] Quarter Ended | Change
+[B0119] (Dollars in millions) | 3Q26 | 2Q26 | 3Q25 | Link Quarter | Like Quarter
+[B0120] Personnel expense | $1,853 | $1,792 | $1,748 | $61 | 3.4% | $105 | 6.0%
+[B0121] Professional fees and outside processing | 365 | 335 | 346 | 30 | 9.0 | 19 | 5.5
+[B0122] Software expense | 254 | 239 | 233 | 15 | 6.3 | 21 | 9.0
+[B0123] Net occupancy expense | 180 | 171 | 185 | 9 | 5.3 | (5) | (2.7)
+[B0124] Equipment expense | 77 | 79 | 90 | (2) | (2.5) | (13) | (14.4)
+[B0125] Marketing and customer development | 83 | 91 | 79 | (8) | (8.8) | 4 | 5.1
+[B0126] Amortization of intangibles | 62 | 63 | 72 | (1) | (1.6) | (10) | (13.9)
+[B0127] Regulatory costs | 61 | 61 | 32 | — | — | 29 | 90.6
+[B0128] Other expense | 170 | 224 | 229 | (54) | (24.1) | (59) | (25.8)
+[B0129] Total noninterest expense | $3,105 | $3,055 | $3,014 | $50 | 1.6 | $91 | 3.0
+[B0130] RAC loan sale cost | (40) | — | —
+[B0131] Adjusted noninterest expense (1) | $3,065 | $3,055 | $3,014 | $10 | 0.3% | $51 | 1.7%
+[B0132] (1) Adjusted noninterest expense is a non-GAAP measure that excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods.
+[B0133] Noninterest expense was up $50 million compared to the second quarter of 2026, and up $91 million compared to the third quarter of 2025. Noninterest expense was stable compared to the second quarter of 2026, excluding $40 million of RAC loan sale costs. For both periods:
+[B0134] • Personnel expense increased primarily due to higher employee benefit expenses, including costs associated with the RAC loan sale, partially offset by lower post-retirement benefit expense (which was offset by lower other income). Additionally, higher incentive expense related to revenue generating businesses contributed to the increase in personnel expense compared to the third quarter of 2025.
+[B0135] • Professional fees and outside processing expense increased primarily due to continued investment in technology infrastructure.
+[B0136] • Other expense decreased primarily driven by adjustments to non-fraud operating loss accruals.
+[B0137] - 3 -
+[B0138] Provision for Income Taxes
+[B0139] Quarter Ended | Change
+[B0140] (Dollars in millions) | 3Q26 | 2Q26 | 3Q25 | Link Quarter | Like Quarter
+[B0141] Provision for income taxes | $96 | $262 | $285 | $(166) | (63.4)% | $(189) | (66.3)%
+[B0142] Effective tax rate | 10.7% | 14.4% | 16.4% | (370) bps | (570) bps
+[B0143] The lower effective tax rate for the third quarter of 2026 compared to the second quarter of 2026 and the third quarter of 2025 was primarily driven by lower income before tax resulting from the AFS securities repositioning, which increased the relative benefit of tax credits and other tax-advantaged items on the effective tax rate.
+[B0144] Average Loans and Leases
+[B0145] (Dollars in millions) | 3Q26 | 2Q26 | Change | % Change
+[B0146] Commercial:
+[B0147] Commercial and industrial | $165,989 | $168,817 | $(2,828) | (1.7)%
+[B0148] CRE | 25,493 | 24,938 | 555 | 2.2
+[B0149] Commercial construction | 7,515 | 7,455 | 60 | 0.8
+[B0150] Total commercial | 198,997 | 201,210 | (2,213) | (1.1)
+[B0151] Consumer:
+[B0152] Residential mortgage | 57,286 | 56,342 | 944 | 1.7
+[B0153] Home equity | 9,663 | 9,656 | 7 | 0.1
+[B0154] Indirect auto | 21,406 | 24,430 | (3,024) | (12.4)
+[B0155] Other consumer | 33,360 | 32,661 | 699 | 2.1
+[B0156] Total consumer | 121,715 | 123,089 | (1,374) | (1.1)
+[B0157] Credit card | 4,811 | 4,863 | (52) | (1.1)
+[B0158] Total loans and leases held for investment | $325,523 | $329,162 | $(3,639) | (1.1)
+[B0159] Average loans and leases HFI were $325.5 billion, a decrease of $3.6 billion, or 1.1%, compared to the second quarter of 2026.
+[B0160] • Average commercial loans decreased 1.1% primarily due to a decrease in the commercial and industrial portfolio.
+[B0161] • Average consumer loans decreased 1.1% primarily due to a decline in the indirect auto portfolio which was impacted by the RAC loan sale, partially offset by an increase in the residential mortgage portfolio.
+[B0162] End of period loans and leases HFI were $323.9 billion, down $5.9 billion, or 1.8%, compared to June 30, 2026, primarily due to the RAC loan sale in the third quarter of 2026 and a decline in the commercial and industrial portfolio, partially offset by an increase in the residential mortgage portfolio.
+[B0163] Average Deposits
+[B0164] (Dollars in millions) | 3Q26 | 2Q26 | Change | % Change
+[B0165] Noninterest-bearing deposits | $102,954 | $103,620 | $(666) | (0.6)%
+[B0166] Interest checking | 131,507 | 123,556 | 7,951 | 6.4
+[B0167] Money market and savings | 137,166 | 136,423 | 743 | 0.5
+[B0168] Time deposits | 39,072 | 41,270 | (2,198) | (5.3)
+[B0169] Total deposits | $410,699 | $404,869 | $5,830 | 1.4
+[B0170] Average deposits for the third quarter of 2026 were $410.7 billion, up $5.8 billion, or 1.4%, compared to the second quarter of 2026, driven by an increase in interest checking. Average noninterest-bearing deposits decreased 0.6% compared to the second quarter of 2026 and represented 25.1% of total deposits for the third quarter of 2026 and 25.6% for the second quarter of 2026.
+[B0171] End of period deposits were $413.2 billion, up $3.9 billion, or 0.9%, compared to June 30, 2026, primarily due to an increase in interest checking deposits, partially offset by a decline in time deposits and noninterest-bearing deposits.
+[B0172] - 4 -
+[B0173] Capital Ratios
+[B0174] 3Q26 | 2Q26 | 1Q26 | 4Q25 | 3Q25
+[B0175] Risk-based: | (preliminary)
+[B0176] CET1 | 10.7% | 10.9% | 10.8% | 10.8% | 11.0%
+[B0177] Tier 1 | 12.0 | 12.2 | 11.9 | 11.9 | 12.3
+[B0178] Total | 13.6 | 14.0 | 13.7 | 13.8 | 14.2
+[B0179] Leverage | 9.6 | 9.8 | 9.9 | 10.0 | 10.2
+[B0180] Supplementary leverage | 8.0 | 8.2 | 8.3 | 8.3 | 8.5
+[B0181] Capital ratios remain strong relative to the regulatory requirements for well-capitalized banks. Truist’s CET1 ratio was 10.7% as of September 30, 2026, down 20 basis points compared to June 30, 2026, primarily due to capital returned to shareholders and the repositioning of the AFS securities portfolio, partially offset by current quarter earnings and benefits from the RAC loan sale.
+[B0182] Truist declared common dividends of $0.52 per share during the third quarter of 2026 and repurchased $1.2 billion of common stock.
+[B0183] Truist’s average consolidated LCR was 110% for the three months ended September 30, 2026, compared to the regulatory minimum of 100%.
+[B0184] - 5 -
+[B0185] Asset Quality
+[B0186] (Dollars in millions) | 3Q26 | 2Q26 | 1Q26 | 4Q25 | 3Q25
+[B0187] Total nonperforming assets | $1,338 | $1,748 | $1,785 | $1,633 | $1,629
+[B0188] Total loans 90 days or more past due and still accruing | 703 | 698 | 760 | 684 | 584
+[B0189] Total loans 30-89 days past due and still accruing | 1,512 | 1,774 | 1,743 | 1,980 | 1,743
+[B0190] Nonperforming loans and leases as a percentage of loans and leases HFI | 0.40% | 0.51% | 0.50% | 0.48% | 0.48%
+[B0191] Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI | 0.22 | 0.21 | 0.23 | 0.21 | 0.18
+[B0192] Loans 90 days or more past due and still accruing as a percentage of loans and leases HFI, excluding government guaranteed loans | 0.04 | 0.04 | 0.05 | 0.05 | 0.05
+[B0193] Loans 30-89 days past due and still accruing as a percentage of loans and leases HFI | 0.47 | 0.54 | 0.53 | 0.60 | 0.54
+[B0194] ALLL as a percentage of loans and leases HFI | 1.25 | 1.51 | 1.53 | 1.53 | 1.54
+[B0195] Ratio of ALLL to NCO (annualized) (1) | 1.6x | 3.0x | 2.5x | 2.7x | 3.3x
+[B0196] Ratio of ALLL to nonperforming loans and leases HFI | 3.1x | 2.9x | 3.1x | 3.2x | 3.2x
+[B0197] (1) Includes $251 million of net charge-offs upon the transfer of RAC loans to LHFS in the third quarter of 2026. Additionally includes $66 million of net charge-offs prior to their transfer to LHFS, for the three months ended September 30, 2026.
+[B0198] Nonperforming assets totaled $1.3 billion at September 30, 2026, down $410 million compared to June 30, 2026, primarily due to the RAC loan sale, partially offset by an increase in the commercial and industrial portfolio. Nonperforming loans and leases were 0.40% of loans and leases HFI at September 30, 2026, down eleven basis points compared to June 30, 2026.
+[B0199] The ACL was $4.4 billion at September 30, 2026, and included $4.1 billion for the ALLL and $370 million for the reserve for unfunded commitments. The ALLL ratio at September 30, 2026 was 1.25%, down 26 basis points compared with June 30, 2026 driven by a reserve recapture related to the RAC loan sale.
+[B0200] Provision for Credit Losses
+[B0201] Quarter Ended | Change
+[B0202] (Dollars in millions) | 3Q26 | 2Q26 | 3Q25 | Link Quarter | Like Quarter
+[B0203] Provision (benefit) for credit losses (1) | $(253) | $395 | $436 | $(648) | (164.1)% | $(689) | (158.0)%
+[B0204] Net charge-offs (2) | 629 | 414 | 385 | 215 | 51.9 | 244 | 63.4
+[B0205] Net charge-offs as a percentage of average loans and leases (annualized) | 0.77% | 0.50% | 0.48% | 27 bps | 29 bps
+[B0206] (1) Includes benefit of $581 million for the three months ended September 30, 2026 from the release of ACL following the recognition of held for sale-related charge-offs resulting from the RAC loan sale.
+[B0207] (2) Includes $251 million of net charge-offs upon the transfer of RAC loans to LHFS in the third quarter of 2026. Additionally includes $66 million of net charge-offs prior to their transfer to LHFS, for the three months ended September 30, 2026.
+[B0208] The benefit for credit losses was $253 million for the third quarter of 2026, compared with provisions for credit losses of $395 million in the second quarter of 2026 and $436 million for the third quarter of 2025. The third quarter of 2026 reflects the benefit from the release of remaining ACL upon the transfer of RAC loans to loans held for sale.
+[B0209] - 6 -
+[B0210] Earnings Presentation and Quarterly Performance Summary
+[B0211] Investors can access the live third quarter 2026 earnings call at 8 a.m. ET today by webcast or dial-in as follows:
+[B0212] Webcast: app.webinar.net/BAM6O91OpkL
+[B0213] Dial-in: 1-877-883-0383, passcode 2090022
+[B0214] Additional details: The news release and presentation materials are available at ir.truist.com under “Events & Presentations.” A replay of the call will be available on the website for 30 days.
+[B0215] The presentation, including an appendix reconciling non-GAAP disclosures, and Truist’s Third Quarter 2026 Quarterly Performance Summary, which contains detailed financial schedules, are available at https://ir.truist.com/earnings .
+[B0216] About Truist
+[B0217] Truist Financial Corporation is a purpose-driven financial services company committed to inspiring and building better lives and communities. Headquartered in Charlotte, North Carolina, Truist has leading market share in many of the high-growth markets in the U.S. and offers a wide range of products and services through wholesale and consumer businesses, including consumer and small business banking, commercial and corporate banking, investment banking and capital markets, wealth management, payments, and specialized lending businesses. Truist is a top-10 commercial bank with total assets of $554 billion as of September 30, 2026. Truist Bank, Member FDIC. Equal Housing Lender. Learn more at Truist.com.
+[B0218] #-#-#
+[B0219] Glossary of Defined Terms
+[B0220] Term | Definition
+[B0221] ACL | Allowance for credit losses
+[B0222] AFS | Available-for-sale
+[B0223] AI | Artificial intelligence, including machine learning
+[B0224] ALLL | Allowance for loan and lease losses
+[B0225] ATM | Automated teller machine
+[B0226] BVPS | Book value (common equity) per share
+[B0227] CEO | Chief Executive Officer
+[B0228] CET1 | Common equity tier 1
+[B0229] CRE | Commercial real estate
+[B0230] EPS | Earnings per common share
+[B0231] FDIC | Federal Deposit Insurance Corporation
+[B0232] FHLB | Federal Home Loan Bank
+[B0233] GAAP | Accounting principles generally accepted in the United States of America
+[B0234] GSE | U.S. government-sponsored enterprise
+[B0235] HFI | Held for investment
+[B0236] HTM | Held-to-maturity
+[B0237] LCR | Liquidity Coverage Ratio
+[B0238] LHFS | Loans held for sale
+[B0239] Like Quarter | Third quarter of 2025
+[B0240] Link Quarter | Second quarter of 2026
+[B0241] MBS | Mortgage-backed securities
+[B0242] MSR | Mortgage servicing rights
+[B0243] NCO | Net charge-offs
+[B0244] NIM - TE | Net interest margin, computed on a TE basis
+[B0245] NM | Not meaningful
+[B0246] NQDCP | Non-Qualified Defined Contribution Plan
+[B0247] PPNR | Pre-provision net revenue
+[B0248] ROA | Return on average assets
+[B0249] ROCE | Return on average common equity
+[B0250] ROTCE | Return on average tangible common equity
+[B0251] TBVPS | Tangible book value per common share
+[B0252] TE | Taxable equivalent
+[B0253] - 7 -
+[B0254] Non-GAAP Financial Information
+[B0255] This news release contains financial information and performance measures determined by methods other than in accordance with GAAP. Truist’s management uses these “non-GAAP” measures in its analysis of Truist’s performance and the efficiency of its operations. Management believes these non-GAAP measures provide a greater understanding of ongoing operations, enhance comparability of results with prior periods, and demonstrate the effects of significant items in the current period. Truist believes a meaningful analysis of its financial performance requires an understanding of the factors underlying that performance. These disclosures should not be viewed as a substitute for financial measures determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Below is a listing of the types of non-GAAP measures used in this news release:
+[B0256] • Adjusted net income available to common shareholders and adjusted diluted EPS - Adjusted net income available to common shareholders and adjusted diluted EPS are non-GAAP in that these measures exclude selected items, net of tax. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods, as well as demonstrate the effects of significant gains and charges. Diluted EPS impact for individual items may not foot to difference between GAAP diluted and adjusted diluted EPS due to rounding.
+[B0257] • Taxable-Equivalent Measures - Taxable-equivalent revenue, taxable-equivalent interest income, taxable-equivalent net interest income, and taxable-equivalent net interest margin include a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+[B0258] • Adjusted revenue - Adjusted revenue includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted revenue additionally excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods.
+[B0259] • Adjusted noninterest income and expense - Adjusted noninterest income and expense are non-GAAP measures that exclude selected items. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+[B0260] • PPNR - PPNR is a non-GAAP measure that adjusts net income determined in accordance with GAAP to exclude the impact of the provision for credit losses and provision for income taxes and includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted PPNR is a non-GAAP measure that additionally excludes selected items. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+[B0261] • Tangible Common Equity and Related Measures - Tangible common equity, average tangible common equity, and related measures, including ROTCE, adjusted ROTCE, and TBVPS, are non-GAAP measures that exclude the impact of intangible assets, net of deferred taxes, and its related amortization. Adjusted ROTCE is a non-GAAP measure that additionally excludes other selected items. These measures are useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist’s management uses these measures to assess profitability, returns relative to balance sheet risk, and shareholder value.
+[B0262] Truist does not provide reconciliations for forward-looking non-GAAP financial measures because it is unable to provide a meaningful or accurate calculation or estimation of reconciling items and the information is not available without unreasonable effort. This is due to the difficulty of forecasting the occurrence and the financial impact of various items that have not yet occurred, are out of Truist’s control, or cannot be reasonably predicted. For the same reasons, Truist is unable to address the probable significance of the unavailable information.
+[B0263] Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in this release or Truist’s Third Quarter 2026 Quarterly Performance Summary, which is available at https://ir.truist.com/earnings .
+[B0264] - 8 -
+[B0265] Forward-Looking Statements
+[B0266] From time to time we have made, and in the future will make, forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. Forward-looking statements often use words such as “believe,” “expect,” “anticipate,” “intend,” “pursue,” “seek,” “continue,” “estimate,” “project,” “outlook,” “forecast,” “potential,” “target,” “objective,” “trend,” “plan,” “goal,” “initiative,” “priorities,” or other words of comparable meaning or future-tense or conditional verbs such as “may,” “will,” “should,” “would,” or “could.” Forward-looking statements convey our expectations, intentions, or forecasts about future events, circumstances, or results. These statements include, among other things, statements regarding Truist’s near- and long-term ROTCE targets and its confidence in its ability to deliver against those targets.
+[B0267] This news release, including any information incorporated by reference herein, contains forward-looking statements. We also may make forward-looking statements in other documents that are filed or furnished with the SEC. In addition, we may make forward-looking statements orally or in writing to investors, analysts, members of the media, and others. All forward-looking statements, by their nature, are subject to assumptions, risks, and uncertainties, which may change over time and many of which are beyond our control. You should not rely on any forward-looking statement as a prediction or guarantee about the future. Actual future objectives, strategies, plans, prospects, performance, conditions, and results may differ materially from those set forth in any forward-looking statement. While no list of assumptions, risks, and uncertainties could be complete, some of the factors that may cause actual results or other future events or circumstances to differ from those in forward-looking statements include:
+[B0268] • changes in monetary, fiscal, and trade laws or policies, including tariffs or interest rates;
+[B0269] • evolving political, geopolitical, business, social, economic, and market conditions at the local, regional, national, and international levels;
+[B0270] • our ability to effectively address economic, business, or market deterioration, slowdowns or disruptions;
+[B0271] • disruptions and shifts in investor sentiment or behavior in the securities, capital, or other financial markets, including financial or systemic shocks and volatility or changes in market liquidity, interest or currency rates, or valuations;
+[B0272] • changes in business and consumer sentiment, preferences, or behavior, including spending, borrowing, or saving by businesses or households;
+[B0273] • negative market perceptions of our investment portfolio or its value;
+[B0274] • our ability to manage credit risk, including in connection with the loans that we originate or purchase;
+[B0275] • the credit, liquidity, or other financial condition of our clients, counterparties, service providers, or competitors;
+[B0276] • our ability to cost-effectively fund our businesses and operations, including by accessing long- and short-term funding and liquidity and by retaining and growing client deposits;
+[B0277] • our ability to manage any unexpected outflows of uninsured deposits and, in such a circumstance, to access substitute funding, and avoid selling investment securities or other assets at an unfavorable time or at a loss;
+[B0278] • changes in our credit ratings and the related effects on our funding costs, ability to attract or retain funding, and relationships with clients and counterparties;
+[B0279] • any instability or breakdown in the financial system, including as a result of the actual or perceived soundness of another financial institution or another participant in the financial system;
+[B0280] • our ability to maintain secure and functional financial, accounting, technology, data processing, or other operating systems or infrastructure, including those that safeguard personal and other sensitive information;
+[B0281] • our ability to keep pace with changes in technology, including technology-driven products and services relating to AI, that affect us or our clients, counterparties, service providers, or competitors or to maintain rights or interests in associated intellectual property;
+[B0282] • our ability to manage system failures or disruptions affecting operations, communications, or other systems or processes;
+[B0283] • our ability to identify, assess, monitor, and mitigate physical-security and cybersecurity risks, including denial-of-service attacks, hacking, phishing, social-engineering attacks, malware intrusion, data-corruption attempts, system breaches, identity theft, ransomware attacks, AI-driven cyberattacks, environmental conditions, and intentional acts of destruction;
+[B0284] • the performance, availability, and resilience of third-party service providers on whom we rely in delivering products and services to our clients and otherwise in conducting our business and operations;
+[B0285] • the adequacy and effectiveness of our corporate governance, risk-management framework, compliance programs, and internal controls over financial reporting, including our ability to identify, assess, monitor, and mitigate risks, remediate lapses or deficiencies in financial reporting, and make appropriate estimates;
+[B0286] • our ability to develop, maintain, and market our products or services and to manage risks and unanticipated costs or liabilities associated with those products or services;
+[B0287] • our ability to satisfactorily and profitably perform loan servicing and similar obligations;
+[B0288] • the legal, regulatory, and supervisory environment, including changes in financial services legislation, regulation, policies, or government leadership or personnel;
+[B0289] • U.S. and international regulatory capital and liquidity requirements and standards and their effects on our capital and liquidity levels, ratios, buffers, and targets, and our ability to pay or increase dividends, repurchase shares, or take other capital actions;
+[B0290] • our ability to address scrutiny and expectations from supervisory or other governmental authorities and to timely and credibly remediate related concerns or deficiencies;
+[B0291] • judicial, regulatory, and administrative inquiries, examinations, investigations, proceedings, disputes, or rulings that create uncertainty for or are adverse to us or the financial services industry;
+[B0292] • the outcomes of judicial, regulatory, and administrative inquiries, examinations, investigations, proceedings, disputes, or rulings to which we are or may be subject (either directly or indirectly through our ownership interests in other entities) and our ability to absorb and address any damages or other remedies that are sought or awarded and any collateral consequences;
+[B0293] • our ability to implement strategic and operational plans, including with respect to allocating capital and resources to our highest value opportunities, becoming the most important financial partner to our clients, and executing with urgency, discipline, and accountability;
+[B0294] • our ability to innovate, to anticipate the needs of current or future clients, or to make timely and effective technology investments and enhancements to meet client expectations;
+[B0295] • our ability to compete successfully, to increase or maintain market share in changing competitive environments, or to address pricing or other competitive pressures, including competition from banks and nonbanks and the effects of digital assets, cryptocurrencies, stablecoins, tokenization, and other emerging products, services, and technologies relating to deposits, lending, and payments;
+[B0296] • changes in our corporate and business strategies, the composition of our assets, or the way in which we fund those assets;
+[B0297] • our ability to successfully make and integrate acquisitions and to effect divestitures, which may include regulatory approvals and conditions;
+[B0298] • the efficacy of our methods or models in assessing business strategies or opportunities or in valuing, measuring, estimating, monitoring, or managing positions or risk;
+[B0299] • evolving accounting standards and policies and related changes to interpretations;
+[B0300] • damage to our brand or negative public opinion or adverse publicity affecting us, our leaders, or our service providers, including the impact on our relationships with clients, teammates, and other stakeholders;
+[B0301] • our ability to attract, hire, and retain key teammates and to engage in adequate succession planning;
+[B0302] • our ability to identify, assess, monitor, and mitigate the risk of fraud or misconduct by internal or external parties, including potential losses that may result;
+[B0303] • policies and other actions of governments to manage and mitigate climate and related environmental risks, and the effects of climate change or the transition to a lower-carbon economy on our business, operations, and reputation;
+[B0304] • natural or other disasters, calamities, and conflicts, including terrorist events, cyber-warfare, and pandemics that impact us or our clients, teammates, or service providers; and
+[B0305] • other assumptions, risks, or uncertainties described in the Company’s Annual Report on Form 10-K or subsequent reports.
+[B0306] Any forward-looking statement made by us or on our behalf speaks only as of the date that it was made. We do not undertake to update any forward-looking statement to reflect the impact of events, circumstances, or results that arise after the date that the statement was made, except as required by applicable securities laws. You, however, should consult further disclosures (including disclosures of a forward-looking nature) that we may make in any subsequent Annual Report on Form 10-K, Quarterly Report on Form 10-Q, or Current Report on Form 8-K.
+[B0307] - 9 -
+===== ex-99_2.htm =====
+[B0308] EX-99.2
+[B0309] 3
+[B0310] ex992-qpsx3q26.htm
+[B0311] EX-99.2
+[B0312] Document created using Wdesk Copyright 2026 Workiva Document
+[B0313] Quarterly Performance Summary
+[B0314] Truist Financial Corporation
+[B0315] Third Quarter 2026
+[B0316] Table of Contents
+[B0317] Quarterly Performance Summary
+[B0318] Truist Financial Corporation
+[B0319] Page
+[B0320] Financial Highlights | 1
+[B0321] Consolidated Statements of Income | 2
+[B0322] Consolidated Ending Balance Sheets | 3
+[B0323] Average Balances and Rates | 4
+[B0324] Credit Quality | 6
+[B0325] Segment Financial Performance | 9
+[B0326] Capital Information | 10
+[B0327] Selected Mortgage Banking Information & Additional Information | 11
+[B0328] Non-GAAP Reconciliations | 12
+[B0329] Financial Highlights
+[B0330] Quarter Ended | Year-to-Date
+[B0331] (Dollars in millions, except per share data, shares in thousands) | Sept. 30 | June 30 | Sept. 30 | Sept. 30 | Sept. 30
+[B0332] 2026 | 2026 | 2025 | 2026 | 2025
+[B0333] Summary Income Statement
+[B0334] Interest income | $6,030 | $5,967 | $6,286 | $17,852 | $18,428
+[B0335] Plus: TE adjustment | 44 | 46 | 51 | 135 | 147
+[B0336] Interest income - TE (1) | 6,074 | 6,013 | 6,337 | 17,987 | 18,575
+[B0337] Interest expense | 2,367 | 2,346 | 2,657 | 6,969 | 7,705
+[B0338] Net interest income | 3,663 | 3,621 | 3,629 | 10,883 | 10,723
+[B0339] Net interest income - TE (1) | 3,707 | 3,667 | 3,680 | 11,018 | 10,870
+[B0340] Provision (benefit) for credit losses | (253) | 395 | 436 | 621 | 1,382
+[B0341] Net interest income after provision for credit losses | 3,916 | 3,226 | 3,193 | 10,262 | 9,341
+[B0342] Noninterest income | 84 | 1,644 | 1,558 | 3,281 | 4,350
+[B0343] Noninterest expense | 3,105 | 3,055 | 3,014 | 9,143 | 8,906
+[B0344] Income before income taxes | 895 | 1,815 | 1,737 | 4,400 | 4,785
+[B0345] Provision for income taxes | 96 | 262 | 285 | 567 | 832
+[B0346] Net income | 799 | 1,553 | 1,452 | 3,833 | 3,953
+[B0347] Preferred stock dividends and other | 115 | 34 | 104 | 253 | 268
+[B0348] Net Income available to common shareholders | 684 | 1,519 | 1,348 | 3,580 | 3,685
+[B0349] Adjusted net income available to common shareholders (1) | 1,423 | 1,519 | 1,348 | 4,319 | 3,699
+[B0350] Additional Income Statement Information
+[B0351] Revenue | 3,747 | 5,265 | 5,187 | 14,164 | 15,073
+[B0352] Revenue - TE (1) | 3,791 | 5,311 | 5,238 | 14,299 | 15,220
+[B0353] Adjusted revenue - TE (1) | 5,304 | 5,311 | 5,238 | 15,812 | 15,239
+[B0354] PPNR (1) | 686 | 2,256 | 2,224 | 5,156 | 6,314
+[B0355] Adjusted PPNR (1) | 2,239 | 2,256 | 2,224 | 6,709 | 6,333
+[B0356] Key Metrics
+[B0357] Earnings:
+[B0358] Basic EPS | 0.57 | 1.24 | 1.05 | 2.92 | 2.85
+[B0359] Diluted EPS | 0.56 | 1.23 | 1.04 | 2.88 | 2.82
+[B0360] Adjusted EPS-diluted (1) | 1.16 | 1.23 | 1.04 | 3.47 | 2.83
+[B0361] Cash dividends declared per share | 0.52 | 0.52 | 0.52 | 1.56 | 1.56
+[B0362] BVPS | 46.78 | 48.04 | 46.70
+[B0363] TBVPS (1) | 31.90 | 33.40 | 32.57
+[B0364] End of period shares outstanding | 1,198,488 | 1,221,626 | 1,279,246
+[B0365] Weighted average shares outstanding-basic | 1,210,179 | 1,224,867 | 1,280,571 | 1,227,751 | 1,293,341
+[B0366] Weighted average shares outstanding-diluted | 1,226,342 | 1,239,040 | 1,296,666 | 1,243,918 | 1,308,676
+[B0367] ROA | 0.6% | 1.1% | 1.1% | 0.9% | 1.0%
+[B0368] ROCE | 4.7 | 10.4 | 9.0 | 8.1 | 8.4
+[B0369] ROTCE (1) | 7.2 | 15.4 | 13.6 | 12.2 | 12.8
+[B0370] Adjusted ROTCE (1) | 14.6 | 15.4 | 13.6 | 14.6 | 12.8
+[B0371] NIM - TE (1) | 3.00 | 2.98 | 3.01 | 3.00 | 3.01
+[B0372] Efficiency ratio | 82.9 | 58.0 | 58.1 | 64.6 | 59.1
+[B0373] Credit Quality
+[B0374] Nonperforming loans and leases as a percentage of loans and leases HFI | 0.40% | 0.51% | 0.48%
+[B0375] NCO as a percentage of average loans and leases HFI | 0.77 | 0.50 | 0.48 | 0.63% | 0.53%
+[B0376] ALLL as a percentage of loans and leases HFI | 1.25 | 1.51 | 1.54
+[B0377] Ratio of ALLL to nonperforming loans and leases HFI | 3.1x | 2.9x | 3.2x
+[B0378] Average Balances
+[B0379] Assets | $549,766 | $550,465 | $541,825 | $548,138 | $536,879
+[B0380] Securities at amortized cost | 118,433 | 118,138 | 119,180 | 117,572 | 121,672
+[B0381] Loans and leases | 329,458 | 331,749 | 322,070 | 330,062 | 314,533
+[B0382] Deposits | 410,699 | 404,869 | 396,600 | 404,874 | 396,445
+[B0383] Common shareholders’ equity | 57,899 | 58,616 | 59,141 | 58,791 | 58,535
+[B0384] Total shareholders’ equity | 63,310 | 63,788 | 65,049 | 63,959 | 64,443
+[B0385] Period-End Balances
+[B0386] Assets | $554,196 | $556,023 | $543,851
+[B0387] Securities (2) | 110,189 | 114,002 | 113,544
+[B0388] Securities at amortized cost | 115,727 | 118,574 | 118,263
+[B0389] Loans and leases | 325,488 | 332,273 | 325,663
+[B0390] Deposits | 413,233 | 409,379 | 394,907
+[B0391] Common shareholders’ equity | 56,061 | 58,684 | 59,739
+[B0392] Total shareholders’ equity | 61,472 | 64,095 | 65,646
+[B0393] Capital and Liquidity Ratios | (preliminary)
+[B0394] Common equity tier 1 | 10.7% | 10.9% | 11.0%
+[B0395] Tier 1 | 12.0 | 12.2 | 12.3
+[B0396] Total | 13.6 | 14.0 | 14.2
+[B0397] Leverage | 9.6 | 9.8 | 10.2
+[B0398] Supplementary leverage | 8.0 | 8.2 | 8.5
+[B0399] Liquidity coverage ratio | 110 | 113 | 110
+[B0400] Applicable ratios are annualized.
+[B0401] (1) Represents a non-GAAP measure. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the Non-GAAP Reconciliations section of this Quarterly Performance Summary or within the table above for TE measures. Net interest margin –TE is calculated using net interest income on a TE basis to determine the total yield on interest-earning assets.
+[B0402] (2) Period-end balances reflect AFS securities at fair value and HTM securities at amortized cost.
+[B0403] - 1 -
+[B0404] Consolidated Statements of Income
+[B0405] Quarter Ended | Year-to-Date
+[B0406] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30 | Sept. 30 | Sept. 30
+[B0407] (Dollars in millions, except per share data, shares in thousands) | 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+[B0408] Interest Income
+[B0409] Interest and fees on loans and leases | $4,689 | $4,659 | $4,599 | $4,778 | $4,816 | $13,947 | $13,966
+[B0410] Interest on securities | 897 | 871 | 849 | 896 | 941 | 2,617 | 2,877
+[B0411] Interest on other earning assets | 444 | 437 | 407 | 440 | 529 | 1,288 | 1,585
+[B0412] Total interest income | 6,030 | 5,967 | 5,855 | 6,114 | 6,286 | 17,852 | 18,428
+[B0413] Interest Expense
+[B0414] Interest on deposits | 1,647 | 1,575 | 1,525 | 1,633 | 1,835 | 4,747 | 5,415
+[B0415] Interest on long-term debt | 534 | 485 | 445 | 481 | 523 | 1,464 | 1,363
+[B0416] Interest on other borrowings | 186 | 286 | 286 | 300 | 299 | 758 | 927
+[B0417] Total interest expense | 2,367 | 2,346 | 2,256 | 2,414 | 2,657 | 6,969 | 7,705
+[B0418] Net Interest Income | 3,663 | 3,621 | 3,599 | 3,700 | 3,629 | 10,883 | 10,723
+[B0419] Provision (benefit) for credit losses | (253) | 395 | 479 | 512 | 436 | 621 | 1,382
+[B0420] Net Interest Income After Provision for Credit Losses | 3,916 | 3,226 | 3,120 | 3,188 | 3,193 | 10,262 | 9,341
+[B0421] Noninterest Income
+[B0422] Wealth management income | 407 | 375 | 370 | 365 | 374 | 1,152 | 1,066
+[B0423] Card and treasury management fees | 347 | 353 | 338 | 336 | 340 | 1,038 | 1,024
+[B0424] Investment banking and trading income | 324 | 352 | 372 | 335 | 323 | 1,048 | 801
+[B0425] Other deposit revenue | 125 | 120 | 120 | 121 | 125 | 365 | 350
+[B0426] Mortgage banking income | 113 | 116 | 133 | 119 | 118 | 362 | 333
+[B0427] Lending related fees | 120 | 120 | 118 | 98 | 103 | 358 | 297
+[B0428] Securities gains (losses) | (1,447) | — | — | — | — | (1,447) | (19)
+[B0429] Other income | 95 | 208 | 102 | 172 | 175 | 405 | 498
+[B0430] Total noninterest income | 84 | 1,644 | 1,553 | 1,546 | 1,558 | 3,281 | 4,350
+[B0431] Noninterest Expense
+[B0432] Personnel expense | 1,853 | 1,792 | 1,727 | 1,818 | 1,748 | 5,372 | 5,030
+[B0433] Professional fees and outside processing | 365 | 335 | 313 | 337 | 346 | 1,013 | 1,083
+[B0434] Software expense | 254 | 239 | 230 | 242 | 233 | 723 | 694
+[B0435] Net occupancy expense | 180 | 171 | 179 | 176 | 185 | 530 | 534
+[B0436] Equipment expense | 77 | 79 | 85 | 90 | 90 | 241 | 261
+[B0437] Marketing and customer development | 83 | 91 | 79 | 63 | 79 | 253 | 236
+[B0438] Amortization of intangibles | 62 | 63 | 64 | 70 | 72 | 189 | 220
+[B0439] Regulatory costs | 61 | 61 | 68 | 7 | 32 | 190 | 156
+[B0440] Other expense | 170 | 224 | 238 | 367 | 229 | 632 | 692
+[B0441] Total noninterest expense | 3,105 | 3,055 | 2,983 | 3,170 | 3,014 | 9,143 | 8,906
+[B0442] Earnings
+[B0443] Income before income taxes | 895 | 1,815 | 1,690 | 1,564 | 1,737 | 4,400 | 4,785
+[B0444] Provision for income taxes | 96 | 262 | 209 | 210 | 285 | 567 | 832
+[B0445] Net income | 799 | 1,553 | 1,481 | 1,354 | 1,452 | 3,833 | 3,953
+[B0446] Preferred stock dividends and other | 115 | 34 | 104 | 65 | 104 | 253 | 268
+[B0447] Net income available to common shareholders | $684 | $1,519 | $1,377 | $1,289 | $1,348 | $3,580 | $3,685
+[B0448] Earnings Per Common Share
+[B0449] Basic EPS | $0.57 | $1.24 | $1.10 | $1.02 | $1.05 | $2.92 | $2.85
+[B0450] Diluted EPS | 0.56 | 1.23 | 1.09 | 1.00 | 1.04 | 2.88 | 2.82
+[B0451] Weighted Average Shares Outstanding
+[B0452] Basic | 1,210,179 | 1,224,867 | 1,248,628 | 1,267,341 | 1,280,571 | 1,227,751 | 1,293,341
+[B0453] Diluted | 1,226,342 | 1,239,040 | 1,266,572 | 1,285,078 | 1,296,666 | 1,243,918 | 1,308,676
+[B0454] - 2 -
+[B0455] Consolidated Ending Balance Sheets - Five Quarter Trend
+[B0456] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30
+[B0457] (Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025
+[B0458] Assets
+[B0459] Cash and due from banks | $4,230 | $4,707 | $4,294 | $4,967 | $4,329
+[B0460] Interest-bearing deposits with banks | 41,242 | 34,581 | 31,903 | 31,410 | 32,523
+[B0461] Securities borrowed or purchased under agreements to resell | 3,903 | 4,431 | 4,047 | 3,200 | 2,981
+[B0462] Trading assets at fair value | 5,218 | 5,288 | 5,235 | 5,790 | 5,731
+[B0463] AFS securities at fair value | 61,523 | 67,651 | 65,430 | 65,042 | 65,522
+[B0464] HTM securities at amortized cost | 48,666 | 46,351 | 46,436 | 47,186 | 48,022
+[B0465] Loans and leases:
+[B0466] Commercial:
+[B0467] Commercial and industrial | 167,316 | 168,826 | 169,247 | 167,808 | 163,607
+[B0468] CRE | 25,897 | 25,479 | 24,447 | 23,720 | 22,414
+[B0469] Commercial construction | 7,458 | 7,372 | 7,620 | 7,783 | 8,027
+[B0470] Consumer:
+[B0471] Residential mortgage | 58,203 | 56,632 | 56,297 | 56,807 | 57,623
+[B0472] Home equity | 9,687 | 9,677 | 9,633 | 9,719 | 9,618
+[B0473] Indirect auto | 17,092 | 23,840 | 25,054 | 25,659 | 25,490
+[B0474] Other consumer | 33,486 | 33,164 | 32,097 | 32,181 | 32,070
+[B0475] Credit card | 4,791 | 4,806 | 4,843 | 4,918 | 4,889
+[B0476] Total loans and leases held for investment | 323,930 | 329,796 | 329,238 | 328,595 | 323,738
+[B0477] Loans held for sale | 1,558 | 2,477 | 2,174 | 1,883 | 1,925
+[B0478] Total loans and leases | 325,488 | 332,273 | 331,412 | 330,478 | 325,663
+[B0479] Allowance for loan and lease losses | (4,063) | (4,983) | (5,026) | (5,030) | (4,988)
+[B0480] Premises and equipment | 3,257 | 3,177 | 3,145 | 3,172 | 3,176
+[B0481] Goodwill | 17,125 | 17,125 | 17,125 | 17,125 | 17,125
+[B0482] Core deposit and other intangible assets | 1,067 | 1,130 | 1,192 | 1,256 | 1,328
+[B0483] Loan servicing rights at fair value | 5,066 | 4,293 | 4,112 | 3,972 | 3,776
+[B0484] Other assets | 41,474 | 39,999 | 39,670 | 38,970 | 38,663
+[B0485] Total assets | $554,196 | $556,023 | $548,975 | $547,538 | $543,851
+[B0486] Liabilities
+[B0487] Deposits:
+[B0488] Noninterest-bearing deposits | $103,325 | $104,341 | $105,460 | $105,092 | $106,197
+[B0489] Interest checking | 137,313 | 130,421 | 123,257 | 117,830 | 109,827
+[B0490] Money market and savings | 133,535 | 133,688 | 135,702 | 139,044 | 135,931
+[B0491] Time deposits | 39,060 | 40,929 | 39,662 | 38,432 | 42,952
+[B0492] Total deposits | 413,233 | 409,379 | 404,081 | 400,398 | 394,907
+[B0493] Short-term borrowings | 12,415 | 26,885 | 27,441 | 27,839 | 29,376
+[B0494] Long-term debt | 53,373 | 42,976 | 41,622 | 41,963 | 41,729
+[B0495] Other liabilities | 13,703 | 12,688 | 11,617 | 12,149 | 12,193
+[B0496] Total liabilities | 492,724 | 491,928 | 484,761 | 482,349 | 478,205
+[B0497] Shareholders’ Equity:
+[B0498] Preferred stock | 5,411 | 5,411 | 4,916 | 4,916 | 5,907
+[B0499] Common stock | 5,992 | 6,108 | 6,229 | 6,312 | 6,396
+[B0500] Additional paid-in capital | 30,613 | 31,616 | 32,610 | 33,663 | 34,278
+[B0501] Retained earnings | 27,728 | 27,676 | 26,796 | 26,067 | 25,438
+[B0502] Accumulated other comprehensive loss | (8,272) | (6,716) | (6,337) | (5,769) | (6,373)
+[B0503] Total shareholders’ equity | 61,472 | 64,095 | 64,214 | 65,189 | 65,646
+[B0504] Total liabilities and shareholders’ equity | $554,196 | $556,023 | $548,975 | $547,538 | $543,851
+[B0505] - 3 -
+[B0506] Average Balances and Rates - Quarters
+[B0507] Quarter Ended
+[B0508] September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+[B0509] (Dollars in millions) | Average Balances (1) | Income/ Expense (2) | Yields/ Rates (2) | Average Balances (1) | Income/ Expense (2) | Yields/ Rates (2) | Average Balances (1) | Income/ Expense (2) | Yields/ Rates (2) | Average Balances (1) | Income/ Expense (2) | Yields/ Rates (2) | Average Balances (1) | Income/ Expense (2) | Yields/ Rates (2)
+[B0510] Assets
+[B0511] AFS and HTM securities at amortized cost:
+[B0512] U.S. Treasury | $13,772 | $151 | 4.34% | $13,454 | $145 | 4.32% | $13,138 | $145 | 4.48% | $13,275 | $162 | 4.82% | $13,351 | $174 | 5.18%
+[B0513] GSE | 452 | 5 | 3.99 | 464 | 4 | 3.84 | 474 | 5 | 3.98 | 478 | 4 | 3.80 | 458 | 4 | 3.86
+[B0514] Agency MBS | 102,259 | 723 | 2.83 | 103,367 | 717 | 2.78 | 102,089 | 696 | 2.73 | 103,591 | 727 | 2.81 | 104,998 | 760 | 2.89
+[B0515] States and political subdivisions | 342 | 4 | 4.27 | 347 | 4 | 4.27 | 347 | 3 | 4.30 | 349 | 4 | 4.27 | 358 | 3 | 4.19
+[B0516] Other | 1,608 | 15 | 3.83 | 506 | 3 | 2.12 | 70 | — | 1.65 | 14 | — | 4.42 | 15 | 1 | 4.50
+[B0517] Total securities | 118,433 | 898 | 3.03 | 118,138 | 873 | 2.96 | 116,118 | 849 | 2.93 | 117,707 | 897 | 3.04 | 119,180 | 942 | 3.16
+[B0518] Loans and leases:
+[B0519] Commercial:
+[B0520] Commercial and industrial | 165,989 | 2,177 | 5.21 | 168,817 | 2,211 | 5.25 | 166,636 | 2,179 | 5.30 | 163,990 | 2,267 | 5.49 | 162,207 | 2,312 | 5.66
+[B0521] CRE | 25,493 | 366 | 5.63 | 24,938 | 349 | 5.56 | 24,165 | 339 | 5.64 | 23,205 | 354 | 5.99 | 21,171 | 336 | 6.25
+[B0522] Commercial construction | 7,515 | 115 | 6.29 | 7,455 | 112 | 6.18 | 7,845 | 117 | 6.21 | 8,015 | 129 | 6.52 | 8,258 | 139 | 6.84
+[B0523] Consumer:
+[B0524] Residential mortgage | 57,286 | 610 | 4.25 | 56,342 | 585 | 4.15 | 56,458 | 582 | 4.13 | 57,100 | 589 | 4.13 | 57,676 | 598 | 4.15
+[B0525] Home equity | 9,663 | 170 | 6.99 | 9,656 | 169 | 7.02 | 9,666 | 167 | 6.99 | 9,679 | 176 | 7.24 | 9,588 | 182 | 7.51
+[B0526] Indirect auto | 21,406 | 368 | 6.81 | 24,430 | 429 | 7.06 | 25,342 | 443 | 7.08 | 25,639 | 469 | 7.27 | 24,964 | 459 | 7.29
+[B0527] Other consumer | 33,360 | 700 | 8.32 | 32,661 | 679 | 8.33 | 32,053 | 662 | 8.38 | 32,181 | 677 | 8.35 | 31,714 | 668 | 8.36
+[B0528] Credit card | 4,811 | 134 | 11.07 | 4,863 | 133 | 10.93 | 4,857 | 129 | 10.79 | 4,956 | 136 | 10.89 | 4,915 | 146 | 11.74
+[B0529] Total loans and leases held for investment | 325,523 | 4,640 | 5.66 | 329,162 | 4,667 | 5.68 | 327,022 | 4,618 | 5.71 | 324,765 | 4,797 | 5.87 | 320,493 | 4,840 | 6.00
+[B0530] Loans held for sale | 3,935 | 93 | 9.41 | 2,587 | 35 | 5.54 | 1,950 | 26 | 5.24 | 1,972 | 28 | 5.64 | 1,577 | 24 | 6.18
+[B0531] Total loans and leases | 329,458 | 4,733 | 5.71 | 331,749 | 4,702 | 5.68 | 328,972 | 4,644 | 5.71 | 326,737 | 4,825 | 5.87 | 322,070 | 4,864 | 6.00
+[B0532] Interest earning trading assets | 5,341 | 69 | 5.27 | 5,618 | 75 | 5.32 | 5,807 | 74 | 5.09 | 6,015 | 82 | 5.38 | 5,991 | 86 | 5.70
+[B0533] Other earning assets (3) | 38,198 | 374 | 3.85 | 36,956 | 363 | 3.89 | 35,457 | 333 | 3.77 | 34,138 | 359 | 4.13 | 38,765 | 445 | 4.50
+[B0534] Total earning assets | 491,430 | 6,074 | 4.91 | 492,461 | 6,013 | 4.89 | 486,354 | 5,900 | 4.90 | 484,597 | 6,163 | 5.05 | 486,006 | 6,337 | 5.18
+[B0535] Nonearning assets | 58,336 | 58,004 | 57,767 | 57,636 | 55,819
+[B0536] Total assets | $549,766 | $550,465 | $544,121 | $542,233 | $541,825
+[B0537] Liabilities and Shareholders’ Equity
+[B0538] Interest-bearing deposits:
+[B0539] Interest checking | $131,507 | 747 | 2.25 | $123,556 | 652 | 2.12 | $120,110 | 619 | 2.09 | $112,313 | 618 | 2.18 | $109,244 | 677 | 2.46
+[B0540] Money market and savings | 137,166 | 599 | 1.73 | 136,423 | 608 | 1.79 | 136,106 | 609 | 1.81 | 138,114 | 677 | 1.95 | 136,515 | 755 | 2.19
+[B0541] Time deposits | 39,072 | 301 | 3.06 | 41,270 | 315 | 3.06 | 39,337 | 297 | 3.06 | 40,031 | 338 | 3.35 | 45,090 | 403 | 3.54
+[B0542] Total interest-bearing deposits | 307,745 | 1,647 | 2.12 | 301,249 | 1,575 | 2.10 | 295,553 | 1,525 | 2.09 | 290,458 | 1,633 | 2.23 | 290,849 | 1,835 | 2.50
+[B0543] Short-term borrowings | 18,595 | 186 | 3.96 | 28,893 | 286 | 3.97 | 30,669 | 286 | 3.78 | 29,128 | 300 | 4.08 | 26,796 | 299 | 4.42
+[B0544] Long-term debt | 45,134 | 534 | 4.73 | 40,640 | 485 | 4.77 | 37,141 | 445 | 4.80 | 39,138 | 481 | 4.91 | 41,458 | 523 | 5.04
+[B0545] Total interest-bearing liabilities | 371,474 | 2,367 | 2.53 | 370,782 | 2,346 | 2.54 | 363,363 | 2,256 | 2.51 | 358,724 | 2,414 | 2.67 | 359,103 | 2,657 | 2.94
+[B0546] Noninterest-bearing deposits | 102,954 | 103,620 | 103,371 | 105,552 | 105,751
+[B0547] Other liabilities | 12,028 | 12,275 | 12,593 | 12,619 | 11,922
+[B0548] Shareholders’ equity | 63,310 | 63,788 | 64,794 | 65,338 | 65,049
+[B0549] Total liabilities and shareholders’ equity | $549,766 | $550,465 | $544,121 | $542,233 | $541,825
+[B0550] Average interest-rate spread | 2.38 | 2.35 | 2.39 | 2.38 | 2.24
+[B0551] Net interest income / net interest margin -TE (2) | $3,707 | 3.00% | $3,667 | 2.98% | $3,644 | 3.02% | $3,749 | 3.07% | $3,680 | 3.01%
+[B0552] TE adjustment (2) | 44 | 46 | 45 | 49 | 51
+[B0553] Net interest income | $3,663 | $3,621 | $3,599 | $3,700 | $3,629
+[B0554] Memo: Total deposits | $410,699 | 1,647 | 1.59% | $404,869 | 1,575 | 1.56% | $398,924 | 1,525 | 1.55% | $396,010 | 1,633 | 1.64% | $396,600 | 1,835 | 1.84%
+[B0555] (1) Represents daily average balances. Unrealized gains and losses on AFS securities are included in nonearning assets. Active hedge basis adjustments for fair value hedges are included in nonearning assets and other liabilities.
+[B0556] (2) Amounts related to interest income and yields are on a TE basis, which represents a non-GAAP measure, utilizing the federal income tax rate of 21% for the periods presented. Interest income includes certain fees, deferred costs, and dividends. A reconciliation of net interest income - TE to net interest income is included within the table above. NIM – TE is calculated using net interest income on a TE basis to determine the total yield on interest-earning assets.
+[B0557] (3) Includes cash equivalents, interest-bearing deposits with banks, FHLB stock, and other earning assets.
+[B0558] - 4 -
+[B0559] Average Balances and Rates - Year-To-Date
+[B0560] Year-to-Date
+[B0561] September 30, 2026 | September 30, 2025
+[B0562] (Dollars in millions) | Average Balances (1) | Income/Expense (2) | Yields/ Rates (2) | Average Balances (1) | Income/Expense (2) | Yields/ Rates (2)
+[B0563] Assets
+[B0564] AFS and HTM securities at amortized cost:
+[B0565] U.S. Treasury | $13,457 | $441 | 4.38% | $14,078 | $546 | 5.19%
+[B0566] GSE | 463 | 14 | 3.94 | 461 | 13 | 3.78
+[B0567] Agency MBS | 102,572 | 2,136 | 2.78 | 106,752 | 2,309 | 2.88
+[B0568] States and political subdivisions | 345 | 11 | 4.28 | 366 | 11 | 4.20
+[B0569] Other | 735 | 18 | 3.34 | 15 | 1 | 4.59
+[B0570] Total securities | 117,572 | 2,620 | 2.97 | 121,672 | 2,880 | 3.16
+[B0571] Loans and leases:
+[B0572] Commercial:
+[B0573] Commercial and industrial | 167,145 | 6,567 | 5.25 | 158,663 | 6,758 | 5.69
+[B0574] CRE | 24,870 | 1,054 | 5.61 | 20,235 | 946 | 6.20
+[B0575] Commercial construction | 7,604 | 344 | 6.23 | 8,533 | 428 | 6.84
+[B0576] Consumer:
+[B0577] Residential mortgage | 56,698 | 1,777 | 4.18 | 56,715 | 1,739 | 4.09
+[B0578] Home equity | 9,662 | 506 | 7.00 | 9,581 | 537 | 7.49
+[B0579] Indirect auto | 23,712 | 1,240 | 6.99 | 24,129 | 1,312 | 7.27
+[B0580] Other consumer | 32,696 | 2,041 | 8.35 | 30,474 | 1,904 | 8.36
+[B0581] Credit card | 4,843 | 396 | 10.93 | 4,885 | 423 | 11.57
+[B0582] Total loans and leases held for investment | 327,230 | 13,925 | 5.69 | 313,215 | 14,047 | 5.99
+[B0583] Loans held for sale | 2,832 | 154 | 7.25 | 1,318 | 60 | 6.09
+[B0584] Total loans and leases | 330,062 | 14,079 | 5.70 | 314,533 | 14,107 | 5.99
+[B0585] Interest earning trading assets | 5,587 | 218 | 5.22 | 5,840 | 254 | 5.80
+[B0586] Other earning assets (3) | 36,879 | 1,070 | 3.84 | 39,059 | 1,334 | 4.51
+[B0587] Total earning assets | 490,100 | 17,987 | 4.90 | 481,104 | 18,575 | 5.15
+[B0588] Nonearning assets | 58,038 | 55,775
+[B0589] Total assets | $548,138 | $536,879
+[B0590] Liabilities and Shareholders’ Equity
+[B0591] Interest-bearing deposits:
+[B0592] Interest checking | $125,100 | 2,018 | 2.16 | $111,548 | 2,043 | 2.45
+[B0593] Money market and savings | 136,569 | 1,816 | 1.78 | 136,339 | 2,249 | 2.21
+[B0594] Time deposits | 39,892 | 913 | 3.06 | 42,448 | 1,123 | 3.54
+[B0595] Total interest-bearing deposits | 301,561 | 4,747 | 2.10 | 290,335 | 5,415 | 2.49
+[B0596] Short-term borrowings | 26,008 | 758 | 3.89 | 27,777 | 927 | 4.46
+[B0597] Long-term debt | 41,001 | 1,464 | 4.77 | 36,063 | 1,363 | 5.04
+[B0598] Total interest-bearing liabilities | 368,570 | 6,969 | 2.53 | 354,175 | 7,705 | 2.91
+[B0599] Noninterest-bearing deposits | 103,313 | 106,110
+[B0600] Other liabilities | 12,296 | 12,151
+[B0601] Shareholders’ equity | 63,959 | 64,443
+[B0602] Total liabilities and shareholders’ equity | $548,138 | $536,879
+[B0603] Average interest-rate spread | 2.37 | 2.24
+[B0604] Net interest income / net interest margin -TE (2) | $11,018 | 3.00% | $10,870 | 3.01%
+[B0605] TE adjustment (2) | 135 | 147
+[B0606] Net interest income | $10,883 | $10,723
+[B0607] Memo: Total deposits | $404,874 | 4,747 | 1.57% | $396,445 | 5,415 | 1.83%
+[B0608] (1) Represents daily average balances. Unrealized gains and losses on AFS securities are included in nonearning assets. Active hedge basis adjustments for fair value hedges are included in nonearning assets and other liabilities.
+[B0609] (2) Amounts related to interest income and yields are on a TE basis, which represents a non-GAAP measure, utilizing the federal income tax rate of 21% for the periods presented. Interest income includes certain fees, deferred costs, and dividends. A reconciliation of net interest income - TE to net interest income is included within the table above. NIM – TE is calculated using net interest income on a TE basis to determine the total yield on interest-earning assets.
+[B0610] (3) Includes cash equivalents, interest-bearing deposits with banks, FHLB stock, and other earning assets.
+[B0611] - 5 -
+[B0612] Credit Quality
+[B0613] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30
+[B0614] (Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025
+[B0615] Nonperforming Assets
+[B0616] Nonaccrual loans and leases:
+[B0617] Commercial:
+[B0618] Commercial and industrial | $733 | $657 | $738 | $839 | $800
+[B0619] CRE | 43 | 43 | 21 | 47 | 98
+[B0620] Commercial construction | 18 | 22 | 23 | 41 | 42
+[B0621] Consumer:
+[B0622] Residential mortgage | 225 | 231 | 231 | 213 | 196
+[B0623] Home equity | 94 | 98 | 101 | 99 | 103
+[B0624] Indirect auto | 101 | 569 | 455 | 267 | 247
+[B0625] Other consumer | 79 | 72 | 73 | 71 | 66
+[B0626] Total nonaccrual loans and leases held for investment | 1,293 | 1,692 | 1,642 | 1,577 | 1,552
+[B0627] Loans held for sale | 15 | — | 79 | — | 19
+[B0628] Total nonaccrual loans and leases | 1,308 | 1,692 | 1,721 | 1,577 | 1,571
+[B0629] Foreclosed real estate | 4 | 5 | 6 | 3 | 4
+[B0630] Other foreclosed property | 26 | 51 | 58 | 53 | 54
+[B0631] Total nonperforming assets | $1,338 | $1,748 | $1,785 | $1,633 | $1,629
+[B0632] Loans 90 Days or More Past Due and Still Accruing
+[B0633] Commercial:
+[B0634] Commercial and industrial | $— | $2 | $4 | $3 | $3
+[B0635] CRE | — | 3 | — | — | —
+[B0636] Consumer:
+[B0637] Residential mortgage - government guaranteed | 568 | 560 | 609 | 532 | 438
+[B0638] Residential mortgage - nonguaranteed | 46 | 33 | 39 | 38 | 41
+[B0639] Home equity | 6 | 8 | 7 | 7 | 6
+[B0640] Other consumer | 19 | 25 | 26 | 28 | 27
+[B0641] Credit card | 64 | 67 | 75 | 76 | 69
+[B0642] Total loans 90 days past due and still accruing | $703 | $698 | $760 | $684 | $584
+[B0643] Loans 30-89 Days Past Due and Still Accruing
+[B0644] Commercial:
+[B0645] Commercial and industrial | $229 | $142 | $260 | $127 | $73
+[B0646] CRE | 14 | 95 | 42 | 25 | 6
+[B0647] Commercial construction | 14 | — | 10 | 36 | 5
+[B0648] Consumer:
+[B0649] Residential mortgage - government guaranteed | 298 | 311 | 263 | 329 | 327
+[B0650] Residential mortgage - nonguaranteed | 371 | 354 | 293 | 357 | 344
+[B0651] Home equity | 56 | 52 | 57 | 69 | 54
+[B0652] Indirect auto | 210 | 521 | 508 | 679 | 620
+[B0653] Other consumer | 254 | 232 | 240 | 281 | 241
+[B0654] Credit card | 66 | 67 | 70 | 77 | 73
+[B0655] Total loans 30-89 days past due and still accruing | $1,512 | $1,774 | $1,743 | $1,980 | $1,743
+[B0656] - 6 -
+[B0657] As of/For the Quarter Ended
+[B0658] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30
+[B0659] 2026 | 2026 | 2026 | 2025 | 2025
+[B0660] Asset Quality Ratios
+[B0661] Nonperforming loans and leases as a percentage of loans and leases | 0.40% | 0.51% | 0.50% | 0.48% | 0.48%
+[B0662] Nonperforming loans and leases (1) as a percentage of total loans and leases (1) | 0.40 | 0.51 | 0.52 | 0.48 | 0.48
+[B0663] Nonperforming assets (1) as a percentage of total assets | 0.24 | 0.31 | 0.33 | 0.30 | 0.30
+[B0664] Nonperforming assets (1) as a percentage of loans and leases plus foreclosed property | 0.41 | 0.53 | 0.52 | 0.50 | 0.50
+[B0665] Loans 90 days or more past due and still accruing as a percentage of loans and leases | 0.22 | 0.21 | 0.23 | 0.21 | 0.18
+[B0666] Loans 90 days or more past due and still accruing as a percentage of loans and leases, excluding government guaranteed loans | 0.04 | 0.04 | 0.05 | 0.05 | 0.05
+[B0667] Loans 30-89 days past due and still accruing as a percentage of loans and leases | 0.47 | 0.54 | 0.53 | 0.60 | 0.54
+[B0668] Allowance for loan and lease losses as a percentage of loans and leases | 1.25 | 1.51 | 1.53 | 1.53 | 1.54
+[B0669] Ratio of allowance for loan and lease losses to:
+[B0670] Net charge-offs (annualized) (2) | 1.6X | 3.0X | 2.5X | 2.7X | 3.3X
+[B0671] Nonperforming loans and leases | 3.1X | 2.9X | 3.1X | 3.2X | 3.2X
+[B0672] (1) Nonperforming assets and total loans and leases include loans held for sale. (2) Includes $251 million of net charge-offs upon the transfer of RAC loans to LHFS in the third quarter of 2026. Additionally includes $66 million of net charge-offs prior to their transfer to LHFS, for the three months ended September 30, 2026.
+[B0673] As of/For the Year-to-Date
+[B0674] Period Ended Sept. 30
+[B0675] 2026 | 2025
+[B0676] Asset Quality Ratios (1)
+[B0677] Net charge-offs as a percentage of average loans and leases | 0.63% | 0.53%
+[B0678] Ratio of allowance for loan and lease losses to net charge-offs | 2.0X | 3.0X
+[B0679] Applicable ratios are annualized. (1) Includes $251 million of net charge-offs upon the transfer of RAC loans to LHFS in the third quarter of 2026. Additionally includes $259 million of net charge-offs prior to their transfer to LHFS, for the nine months ended September 30, 2026.
+[B0680] - 7 -
+[B0681] As of/For the Quarter Ended | As of/For the Year-to-Date
+[B0682] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30 | Period Ended Sept. 30
+[B0683] (Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+[B0684] Allowance for Credit Losses
+[B0685] Beginning balance | $5,316 | $5,335 | $5,347 | $5,305 | $5,253 | $5,347 | $5,161
+[B0686] Provision (benefit) for credit losses (1) | (253) | 395 | 479 | 512 | 436 | 621 | 1,382
+[B0687] Charge-offs:
+[B0688] Commercial:
+[B0689] Commercial and industrial | (125) | (137) | (142) | (141) | (98) | (404) | (320)
+[B0690] CRE | — | (1) | (7) | (14) | (25) | (8) | (133)
+[B0691] Commercial construction | (2) | (1) | (17) | — | — | (20) | —
+[B0692] Consumer:
+[B0693] Residential mortgage | (1) | (1) | (1) | (3) | (1) | (3) | (3)
+[B0694] Home equity | (3) | (3) | (3) | (2) | (2) | (9) | (8)
+[B0695] Indirect auto (2) | (358) | (135) | (158) | (160) | (150) | (651) | (431)
+[B0696] Other consumer | (170) | (168) | (184) | (178) | (155) | (522) | (455)
+[B0697] Credit card | (62) | (70) | (71) | (67) | (49) | (203) | (193)
+[B0698] Total charge-offs | (721) | (516) | (583) | (565) | (480) | (1,820) | (1,543)
+[B0699] Recoveries:
+[B0700] Commercial:
+[B0701] Commercial and industrial | 19 | 22 | 16 | 23 | 20 | 57 | 75
+[B0702] CRE | — | 1 | 3 | 6 | 2 | 4 | 12
+[B0703] Commercial construction | — | 1 | 1 | 1 | — | 2 | 1
+[B0704] Consumer:
+[B0705] Residential mortgage | 1 | 1 | 2 | 1 | 2 | 4 | 4
+[B0706] Home equity | 4 | 3 | 3 | 3 | 5 | 10 | 13
+[B0707] Indirect auto | 22 | 29 | 25 | 24 | 25 | 76 | 78
+[B0708] Other consumer | 35 | 35 | 33 | 28 | 31 | 103 | 92
+[B0709] Credit card | 11 | 10 | 9 | 9 | 10 | 30 | 33
+[B0710] Total recoveries | 92 | 102 | 92 | 95 | 95 | 286 | 308
+[B0711] Net charge-offs | (629) | (414) | (491) | (470) | (385) | (1,534) | (1,235)
+[B0712] Other | (1) | — | — | — | 1 | (1) | (3)
+[B0713] Ending balance | $4,433 | $5,316 | $5,335 | $5,347 | $5,305 | $4,433 | $5,305
+[B0714] Allowance for Credit Losses:
+[B0715] Allowance for loan and lease losses | $4,063 | $4,983 | $5,026 | $5,030 | $4,988
+[B0716] Reserve for unfunded lending commitments | 370 | 333 | 309 | 317 | 317
+[B0717] Allowance for credit losses | $4,433 | $5,316 | $5,335 | $5,347 | $5,305
+[B0718] (1) Includes benefit of $581 million for the three months ended September 30, 2026 from the release of ACL following the recognition of held for sale-related charge-offs resulting from the RAC loan sale.
+[B0719] (2) Includes $251 million of net charge-offs upon the transfer of RAC loans to LHFS in the third quarter of 2026. Additionally includes $66 million and $259 million of net charge-offs prior to their transfer to LHFS, for the three and nine months ended September 30, 2026, respectively.
+[B0720] Quarter Ended | As of/For the Year-to-Date
+[B0721] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30 | Period Ended Sept. 30
+[B0722] 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+[B0723] Net Charge-offs as a Percentage of Average Loans and Leases:
+[B0724] Commercial:
+[B0725] Commercial and industrial | 0.25% | 0.27% | 0.31% | 0.29% | 0.19% | 0.28% | 0.21%
+[B0726] CRE | — | — | 0.06 | 0.14 | 0.44 | 0.02 | 0.80
+[B0727] Commercial construction | 0.12 | (0.01) | 0.84 | (0.04) | (0.03) | 0.33 | (0.02)
+[B0728] Consumer:
+[B0729] Residential mortgage | — | — | (0.01) | 0.01 | — | — | —
+[B0730] Home equity | (0.04) | 0.02 | (0.02) | (0.04) | (0.11) | (0.01) | (0.07)
+[B0731] Indirect auto (1) | 6.23 | 1.73 | 2.14 | 2.10 | 1.99 | 3.24 | 1.96
+[B0732] Other consumer | 1.61 | 1.63 | 1.91 | 1.84 | 1.55 | 1.72 | 1.60
+[B0733] Credit card | 4.21 | 4.97 | 5.15 | 4.64 | 3.13 | 4.78 | 4.38
+[B0734] Total net charge-offs (recoveries) as a percentage of average loans and leases (1) | 0.77 | 0.50 | 0.61 | 0.57 | 0.48 | 0.63 | 0.53
+[B0735] Ratios are annualized. (1) Includes $251 million of net charge-offs upon the transfer of RAC loans to LHFS in the third quarter of 2026. Additionally includes $66 million and $259 million of net charge-offs prior to their transfer to LHFS, for the three and nine months ended September 30, 2026, respectively.
+[B0736] - 8 -
+[B0737] Segment Financial Performance - Preliminary
+[B0738] Quarter Ended
+[B0739] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30
+[B0740] (Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025
+[B0741] Consumer and Small Business Banking
+[B0742] Net interest income (expense) | $1,670 | $1,625 | $1,606 | $1,622 | $1,571
+[B0743] Net intersegment interest income (expense) | 1,047 | 979 | 886 | 862 | 850
+[B0744] Segment net interest income (expense) | 2,717 | 2,604 | 2,492 | 2,484 | 2,421
+[B0745] Allocated provision (benefit) for credit losses | (299) | 307 | 374 | 431 | 400
+[B0746] Noninterest income | 468 | 529 | 529 | 520 | 530
+[B0747] Personnel expense | 459 | 443 | 433 | 443 | 449
+[B0748] Amortization of intangibles | 33 | 33 | 34 | 37 | 38
+[B0749] Other direct noninterest expense | 319 | 312 | 293 | 288 | 281
+[B0750] Direct noninterest expense | 811 | 788 | 760 | 768 | 768
+[B0751] Expense allocations | 988 | 933 | 920 | 932 | 942
+[B0752] Total noninterest expense | 1,799 | 1,721 | 1,680 | 1,700 | 1,710
+[B0753] Income (loss) before income taxes | 1,685 | 1,105 | 967 | 873 | 841
+[B0754] Provision (benefit) for income taxes | 409 | 271 | 238 | 212 | 205
+[B0755] Segment net income (loss) | $1,276 | $834 | $729 | $661 | $636
+[B0756] Wholesale Banking
+[B0757] Net interest income (expense) | $1,878 | $1,941 | $1,921 | $2,018 | $2,029
+[B0758] Net intersegment interest income (expense) | (317) | (409) | (411) | (401) | (451)
+[B0759] Segment net interest income (expense) | 1,561 | 1,532 | 1,510 | 1,617 | 1,578
+[B0760] Allocated provision for credit losses | 47 | 90 | 105 | 82 | 36
+[B0761] Noninterest income | 1,215 | 1,159 | 1,069 | 1,134 | 1,142
+[B0762] Personnel expense | 632 | 626 | 612 | 668 | 598
+[B0763] Amortization of intangibles | 29 | 30 | 30 | 33 | 34
+[B0764] Other direct noninterest expense | 185 | 200 | 187 | 188 | 199
+[B0765] Direct noninterest expense | 846 | 856 | 829 | 889 | 831
+[B0766] Expense allocations | 551 | 528 | 521 | 471 | 487
+[B0767] Total noninterest expense | 1,397 | 1,384 | 1,350 | 1,360 | 1,318
+[B0768] Income (loss) before income taxes | 1,332 | 1,217 | 1,124 | 1,309 | 1,366
+[B0769] Provision (benefit) for income taxes | 284 | 256 | 232 | 270 | 283
+[B0770] Segment net income (loss) | $1,048 | $961 | $892 | $1,039 | $1,083
+[B0771] Other, Treasury & Corporate (1)
+[B0772] Net interest income (expense) | $115 | $55 | $72 | $60 | $29
+[B0773] Net intersegment interest income (expense) | (730) | (570) | (475) | (461) | (399)
+[B0774] Segment net interest income (expense) | (615) | (515) | (403) | (401) | (370)
+[B0775] Allocated provision (benefit) for credit losses | (1) | (2) | — | (1) | —
+[B0776] Noninterest income | (1,599) | (44) | (45) | (108) | (114)
+[B0777] Personnel expense | 762 | 723 | 682 | 707 | 701
+[B0778] Amortization of intangibles | — | — | — | — | —
+[B0779] Other direct noninterest expense | 686 | 688 | 712 | 806 | 714
+[B0780] Direct Noninterest Expense | 1,448 | 1,411 | 1,394 | 1,513 | 1,415
+[B0781] Expense Allocations | (1,539) | (1,461) | (1,441) | (1,403) | (1,429)
+[B0782] Total noninterest expense | (91) | (50) | (47) | 110 | (14)
+[B0783] Income (loss) before income taxes | (2,122) | (507) | (401) | (618) | (470)
+[B0784] Provision (benefit) for income taxes | (597) | (265) | (261) | (272) | (203)
+[B0785] Segment net income (loss) | $(1,525) | $(242) | $(140) | $(346) | $(267)
+[B0786] Total Truist Financial Corporation
+[B0787] Net interest income (expense) | $3,663 | $3,621 | $3,599 | $3,700 | $3,629
+[B0788] Net intersegment interest income (expense) | — | — | — | — | —
+[B0789] Segment net interest income (expense) | 3,663 | 3,621 | 3,599 | 3,700 | 3,629
+[B0790] Allocated provision (benefit) for credit losses | (253) | 395 | 479 | 512 | 436
+[B0791] Noninterest income | 84 | 1,644 | 1,553 | 1,546 | 1,558
+[B0792] Personnel expense | 1,853 | 1,792 | 1,727 | 1,818 | 1,748
+[B0793] Amortization of intangibles | 62 | 63 | 64 | 70 | 72
+[B0794] Other direct noninterest expense | 1,190 | 1,200 | 1,192 | 1,282 | 1,194
+[B0795] Direct Noninterest Expense | 3,105 | 3,055 | 2,983 | 3,170 | 3,014
+[B0796] Expense Allocations | — | — | — | — | —
+[B0797] Total noninterest expense | 3,105 | 3,055 | 2,983 | 3,170 | 3,014
+[B0798] Income before income taxes | 895 | 1,815 | 1,690 | 1,564 | 1,737
+[B0799] Provision for income taxes | 96 | 262 | 209 | 210 | 285
+[B0800] Net income | $799 | $1,553 | $1,481 | $1,354 | $1,452
+[B0801] (1) Includes financial data from subsidiaries below the quantitative and qualitative thresholds requiring disclosure.
+[B0802] - 9 -
+[B0803] Capital Information - Five Quarter Trend
+[B0804] As of/For the Quarter Ended
+[B0805] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30
+[B0806] (Dollars in millions, except per share data, shares in thousands) | 2026 | 2026 | 2026 | 2025 | 2025
+[B0807] Selected Capital Information | (preliminary)
+[B0808] Risk-based capital:
+[B0809] Common equity tier 1 | $46,315 | $47,488 | $47,683 | $48,027 | $48,031
+[B0810] Tier 1 | 51,723 | 52,896 | 52,596 | 52,940 | 53,935
+[B0811] Total | 58,502 | 60,707 | 60,470 | 61,255 | 62,377
+[B0812] Risk-weighted assets | 431,752 | 434,934 | 440,333 | 443,257 | 438,114
+[B0813] Average quarterly assets for leverage ratio | 537,657 | 537,658 | 530,908 | 529,156 | 529,861
+[B0814] Average quarterly assets for supplementary leverage ratio | 644,500 | 645,253 | 636,907 | 635,249 | 635,076
+[B0815] Risk-based capital ratios:
+[B0816] Common equity tier 1 | 10.7% | 10.9% | 10.8% | 10.8% | 11.0%
+[B0817] Tier 1 | 12.0 | 12.2 | 11.9 | 11.9 | 12.3
+[B0818] Total | 13.6 | 14.0 | 13.7 | 13.8 | 14.2
+[B0819] Leverage capital ratio | 9.6 | 9.8 | 9.9 | 10.0 | 10.2
+[B0820] Supplementary leverage | 8.0 | 8.2 | 8.3 | 8.3 | 8.5
+[B0821] Common equity per common share | $46.78 | $48.04 | $47.60 | $47.74 | $46.70
+[B0822] - 10 -
+[B0823] Selected Mortgage Banking Information & Additional Information
+[B0824] As of/For the Quarter Ended
+[B0825] Sept. 30 | June 30 | March 31 | Dec. 31 | Sept. 30
+[B0826] (Dollars in millions, except per share data) | 2026 | 2026 | 2026 | 2025 | 2025
+[B0827] Mortgage Banking Income
+[B0828] Residential mortgage income:
+[B0829] Residential mortgage production revenue | $22 | $24 | $27 | $26 | $22
+[B0830] Residential mortgage servicing income:
+[B0831] Residential mortgage servicing income before MSR valuation | 82 | 70 | 82 | 77 | 74
+[B0832] Net MSRs valuation | (7) | 5 | 9 | 1 | 9
+[B0833] Total residential mortgage servicing income | 75 | 75 | 91 | 78 | 83
+[B0834] Total residential mortgage income | 97 | 99 | 118 | 104 | 105
+[B0835] Commercial mortgage income:
+[B0836] Commercial mortgage production revenue | 11 | 7 | 12 | 12 | 10
+[B0837] Commercial mortgage servicing income:
+[B0838] Commercial mortgage servicing income before MSR valuation | 5 | 5 | 3 | 2 | 4
+[B0839] Net MSRs valuation | — | 5 | — | 1 | (1)
+[B0840] Total commercial mortgage servicing income | 5 | 10 | 3 | 3 | 3
+[B0841] Total commercial mortgage income | 16 | 17 | 15 | 15 | 13
+[B0842] Total mortgage banking income | $113 | $116 | $133 | $119 | $118
+[B0843] Other Mortgage Banking Information
+[B0844] Residential mortgage loan originations | $6,214 | $6,824 | $5,137 | $4,551 | $4,743
+[B0845] Residential mortgage servicing portfolio: (1)
+[B0846] Loans serviced for others | 267,522 | 240,764 | 233,870 | 228,383 | 221,274
+[B0847] Bank-owned loans serviced | 58,288 | 57,894 | 57,386 | 57,583 | 58,396
+[B0848] Total servicing portfolio | 325,810 | 298,658 | 291,256 | 285,966 | 279,670
+[B0849] Weighted-average coupon rate on mortgage loans serviced for others | 3.80% | 3.79% | 3.77% | 3.77% | 3.75%
+[B0850] Weighted-average servicing fee on mortgage loans serviced for others | 0.29 | 0.29 | 0.29 | 0.28 | 0.28
+[B0851] Additional Information
+[B0852] Brokered deposits (2) | $26,226 | $26,812 | $28,488 | $29,835 | $28,423
+[B0853] NQDCP income (expense): (3)
+[B0854] Interest income | $— | $— | $(6) | $4 | $1
+[B0855] Other income | 1 | 31 | (7) | (1) | 17
+[B0856] Personnel expense | (1) | (31) | 13 | (3) | (18)
+[B0857] Total NQDCP income (expense) | $— | $— | $— | $— | $—
+[B0858] Common stock prices:
+[B0859] High | $54.22 | $52.11 | $56.20 | $50.86 | $47.46
+[B0860] Low | 46.17 | 45.83 | 43.13 | 40.78 | 41.98
+[B0861] End of period | 46.30 | 49.82 | 45.97 | 49.21 | 45.72
+[B0862] Banking offices | 1,912 | 1,927 | 1,927 | 1,927 | 1,927
+[B0863] ATMs | 2,790 | 2,820 | 2,826 | 2,829 | 2,837
+[B0864] Full-time equivalent teammates (4) | 37,833 | 37,849 | 37,877 | 38,062 | 38,534
+[B0865] (1) Amounts reported are unpaid principal balance.
+[B0866] (2) Amounts represented in interest checking, money market and savings, and time deposits.
+[B0867] (3) Relates to plans where Truist holds assets in proportion to participant elections.
+[B0868] (4) Full-time equivalent teammates represents an average for the quarter.
+[B0869] - 11 -
+[B0870] Non-GAAP Reconciliations
+[B0871] Diluted EPS
+[B0872] Quarter Ended | Year-to-Date
+[B0873] Sept. 30 | June 30 | Sept. 30 | Sept. 30 | Sept. 30
+[B0874] (Dollars in millions, except per share data) | 2026 | 2026 | 2025 | 2026 | 2025
+[B0875] Net Income (loss) available to common shareholders | $684 | $1,519 | $1,348 | $3,580 | $3,685
+[B0876] Gross adjustments:
+[B0877] Securities (gains) losses | 1,447 | — | — | 1,447 | 19
+[B0878] Reserve recapture for RAC loan sale | (581) | — | — | (581) | —
+[B0879] RAC loan sale impact | 106 | — | — | 106 | —
+[B0880] Applicable income taxes related to adjustments: (1)
+[B0881] Securities (gains) losses | (346) | — | — | (346) | (5)
+[B0882] Reserve recapture for RAC loan sale | 139 | — | — | 139 | —
+[B0883] RAC loan sale impact | (26) | — | — | (26) | —
+[B0884] Adjusted net income available to common shareholders (2) | $1,423 | $1,519 | $1,348 | $4,319 | $3,699
+[B0885] Weighted average shares outstanding - diluted | 1,226,342 | 1,239,040 | 1,296,666 | 1,243,918 | 1,308,676
+[B0886] Diluted EPS | 0.56 | 1.23 | 1.04 | 2.88 | 2.82
+[B0887] Adjusted diluted EPS (2) | 1.16 | 1.23 | 1.04 | 3.47 | 2.83
+[B0888] (1) Calculated using the applicable marginal tax rate.
+[B0889] (2) Adjusted net income available to common shareholders and adjusted diluted EPS are non-GAAP in that these measures exclude selected items, net of tax. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods, as well as demonstrate the effects of significant gains and charges. Diluted EPS impact for individual items may not foot to difference between GAAP diluted and adjusted diluted EPS due to rounding.
+[B0890] Revenue
+[B0891] Quarter Ended | Year-to-Date
+[B0892] Sept. 30 | June 30 | Sept. 30 | Sept. 30 | Sept. 30
+[B0893] (Dollars in millions) | 2026 | 2026 | 2025 | 2026 | 2025
+[B0894] Revenue (1) | $3,747 | $5,265 | $5,187 | $14,164 | $15,073
+[B0895] Taxable equivalent adjustment | 44 | 46 | 51 | 135 | 147
+[B0896] Revenue - taxable equivalent (1)(2) | $3,791 | $5,311 | $5,238 | $14,299 | $15,220
+[B0897] Securities (gains) losses | 1,447 | — | — | 1,447 | 19
+[B0898] Loss on RAC loan sale | 66 | — | — | 66 | —
+[B0899] Adjusted revenue - TE (1)(2) | $5,304 | $5,311 | $5,238 | $15,812 | $15,239
+[B0900] (1) Revenue is defined as net interest income plus noninterest income.
+[B0901] (2) Adjusted revenue includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted revenue additionally excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods.
+[B0902] Pre-Provision Net Revenue
+[B0903] Quarter Ended | Year-to-Date
+[B0904] Sept. 30 | June 30 | Sept. 30 | Sept. 30 | Sept. 30
+[B0905] (Dollars in millions) | 2026 | 2026 | 2025 | 2026 | 2025
+[B0906] Net income | $799 | $1,553 | $1,452 | $3,833 | $3,953
+[B0907] Provision (benefit) for credit losses | (253) | 395 | 436 | 621 | 1,382
+[B0908] Provision for income taxes | 96 | 262 | 285 | 567 | 832
+[B0909] Taxable-equivalent adjustment | 44 | 46 | 51 | 135 | 147
+[B0910] PPNR (1) | 686 | 2,256 | 2,224 | 5,156 | 6,314
+[B0911] Securities (gains) losses | 1,447 | — | — | 1,447 | 19
+[B0912] RAC loan sale impact | 106 | — | — | 106 | —
+[B0913] Adjusted PPNR (1) | $2,239 | $2,256 | $2,224 | $6,709 | $6,333
+[B0914] (1) PPNR is a non-GAAP measure that adjusts net income determined in accordance with GAAP to exclude the impact of the provision for credit losses and provision for income taxes and includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted PPNR is a non-GAAP measure that additionally excludes selected items. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+[B0915] - 12 -
+[B0916] Return on Average Tangible Common Shareholders’ Equity
+[B0917] Quarter Ended | Year-to-Date
+[B0918] Sept. 30 | June 30 | Sept. 30 | Sept. 30 | Sept. 30
+[B0919] (Dollars in millions) | 2026 | 2026 | 2025 | 2026 | 2025
+[B0920] Net income available to common shareholders | $684 | $1,519 | $1,348 | $3,580 | $3,685
+[B0921] Amortization of intangibles | 62 | 63 | 72 | 189 | 220
+[B0922] Applicable income taxes related to the amortization of intangibles (1) | (15) | (15) | (18) | (45) | (53)
+[B0923] Tangible net income available to common shareholders (2) | 731 | 1,567 | 1,402 | 3,724 | 3,852
+[B0924] Gross adjustments:
+[B0925] Securities (gains) losses | 1,447 | — | — | 1,447 | 19
+[B0926] Reserve recapture for RAC loan sale | (581) | — | — | (581) | —
+[B0927] RAC loan sale impact | 106 | — | — | 106 | —
+[B0928] Applicable income taxes related to adjustments: (1)
+[B0929] Securities (gains) losses | (346) | — | — | (346) | (5)
+[B0930] Reserve recapture for RAC loan sale | 139 | — | — | 139 | —
+[B0931] RAC loan sale impact | (26) | — | — | (26) | —
+[B0932] Total adjustments, net of tax | 739 | — | — | 739 | 14
+[B0933] Adjusted tangible net income available to common shareholders (2) | $1,470 | $1,567 | $1,402 | $4,463 | $3,866
+[B0934] Average common shareholders’ equity | $57,899 | $58,616 | $59,141 | $58,791 | $58,535
+[B0935] Average intangible assets | (18,258) | (18,321) | (18,528) | (18,321) | (18,595)
+[B0936] Applicable deferred taxes related to intangible assets (1) | 398 | 401 | 415 | 401 | 418
+[B0937] Average tangible common shareholders’ equity (2) | $40,039 | $40,696 | $41,028 | $40,871 | $40,358
+[B0938] ROCE | 4.7% | 10.4% | 9.0% | 8.1% | 8.4%
+[B0939] ROTCE (2) | 7.2 | 15.4 | 13.6 | 12.2 | 12.8
+[B0940] Adjusted ROTCE (2) | 14.6 | 15.4 | 13.6 | 14.6 | 12.8
+[B0941] (1) Calculated using the applicable marginal tax rate.
+[B0942] (2) Tangible net income available to common shareholders, average tangible common shareholders’ equity, and ROTCE are non-GAAP measures that exclude the impact of intangible assets, net of deferred taxes. Adjusted tangible net income available to common shareholders and adjusted ROTCE are non-GAAP measures that additionally exclude other selected items. These measures are useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist’s management uses these measures to assess balance sheet risk and shareholder value. These measures are not necessarily comparable to similar measures that may be presented by other companies.
+[B0943] Tangible Book Value per Common Share
+[B0944] Sept. 30 | June 30 | Sept. 30
+[B0945] (Dollars in millions, except per share data, shares in thousands) | 2026 | 2026 | 2025
+[B0946] Calculations of Tangible Common Equity and Related Measures: (1)
+[B0947] Total shareholders’ equity | $61,472 | $64,095 | $65,646
+[B0948] Preferred stock | (5,411) | (5,411) | (5,907)
+[B0949] Common shareholders’ equity | 56,061 | 58,684 | 59,739
+[B0950] Intangible assets | (18,223) | (18,287) | (18,489)
+[B0951] Applicable deferred taxes related to intangible assets (2) | 397 | 400 | 413
+[B0952] Tangible common equity | $38,235 | $40,797 | $41,663
+[B0953] Outstanding shares at end of period | 1,198,488 | 1,221,626 | 1,279,246
+[B0954] Common equity per common share | $46.78 | $48.04 | $46.70
+[B0955] TBVPS | 31.90 | 33.40 | 32.57
+[B0956] (1) Tangible common equity and related measures are non-GAAP measures that exclude preferred stock and intangible assets, net of deferred taxes. These measures are useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist’s management uses these measures to assess balance sheet risk and shareholder value. These measures are not necessarily comparable to similar measures that may be presented by other companies.
+[B0957] (2) Calculated using the applicable marginal tax rate.
+[B0958] - 13 -
+===== ex-99_3.htm =====
+[B0959] EX-99.3
+[B0960] 4
+[B0961] ex993-earningsdeck3q26.htm
+[B0962] EX-99.3
+[B0963] Document generated by Workiva Inc ex993-earningsdeck3q26
+[B0964] ex993-earningsdeck3q26001.jpg
+[B0965] Third Quarter 2026 Earnings Conference Call Mike Lyons - President and CEO Mike Maguire - CFO October 16, 2026
+[B0966] ex993-earningsdeck3q26002.jpg
+[B0967] 2 From time to time we have made, and in the future will make, forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. Forward-looking statements often use words such as “believe,” “expect,” “anticipate,” “intend,” “pursue,” “seek,” “continue,” “estimate,” “project,” “outlook,” “forecast,” “potential,” “target,” “objective,” “trend,” “plan,” “goal,” “initiative,” “priorities,” or other words of comparable meaning or future-tense or conditional verbs such as “may,” “will,” “should,” “would,” or “could.” Forward-looking statements convey our expectations, intentions, or forecasts about future events, circumstances, or results. In particular, forward-looking statements include statements we make about: (i) Truist’s ROTCE goals in future periods and its confidence in meeting those goals, (ii) Truist’s loan portfolio actions sharpening its strategic focus, improving its balance sheet mix, and creating capacity to invest in core growth potential, (iii) the impact of the RAC loan portfolio sale on net charge-offs and nonperforming loans, (iv) the impact of the RAC loan portfolio sale and AFS securities repositioning on earnings, ROTCE, and tangible book value per share, (v) the expected proceeds and use thereof, impact on CET1 capital and net charge-offs, and closing timeframe of the LightStream loan portfolio sale and potential AFS securities repositioning to offset the capital created by the sale, (vi) estimated net interest income in Q4 2026, (vii) projections or estimates of common stock repurchases and preferred stock dividends, (viii) guidance with respect to financial performance metrics in future periods, including future levels of taxable equivalent revenue, noninterest expense, and net charge-off ratio, and (ix) Truist’s effective tax rate in future periods. This presentation, including any information incorporated by reference in this presentation, contains forward-looking statements. We also may make forward-looking statements in other documents that are filed or furnished with the SEC. In addition, we may make forward-looking statements orally or in writing to investors, analysts, members of the media, and others. All forward- looking statements, by their nature, are subject to assumptions, risks, and uncertainties, which may change over time and many of which are beyond our control. You should not rely on any forward-looking statement as a prediction or guarantee about the future. Actual future objectives, strategies, plans, prospects, performance, conditions, and results may differ materially from those set forth in any forward-looking statement. While no list of assumptions, risks, and uncertainties could be complete, some of the factors that may cause actual results or other future events or circumstances to differ from those in forward-looking statements include: • changes in monetary, fiscal, and trade laws or policies, including tariffs or interest rates; • evolving political, geopolitical, business, social, economic, and market conditions at the local, regional, national, and international levels; • our ability to effectively address economic, business, or market deterioration, slowdowns or disruptions; • disruptions and shifts in investor sentiment or behavior in the securities, capital, or other financial markets, including financial or systemic shocks and volatility or changes in market liquidity, interest or currency rates, or valuations; • changes in business and consumer sentiment, preferences, or behavior, including spending, borrowing, or saving by businesses or households; • negative market perceptions of our investment portfolio or its value; • our ability to manage credit risk, including in connection with the loans that we originate or purchase; • the credit, liquidity, or other financial condition of our clients, counterparties, service providers, or competitors; • our ability to cost-effectively fund our businesses and operations, including by accessing long- and short-term funding and liquidity and by retaining and growing client deposits; • our ability to manage any unexpected outflows of uninsured deposits and, in such a circumstance, to access substitute funding, and avoid selling investment securities or other assets at an unfavorable time or at a loss; • changes in our credit ratings and the related effects on our funding costs, ability to attract or retain funding, and relationships with clients and counterparties; • any instability or breakdown in the financial system, including as a result of the actual or perceived soundness of another financial institution or another participant in the financial system; • our ability to maintain secure and functional financial, accounting, technology, data processing, or other operating systems or infrastructure, including those that safeguard personal and other sensitive information; • our ability to keep pace with changes in technology, including technology-driven products and services relating to AI, that affect us or our clients, counterparties, service providers, or competitors or to maintain rights or interests in associated intellectual property; • our ability to manage system failures or disruptions affecting operations, communications, or other systems or processes; • our ability to identify, assess, monitor, and mitigate physical-security and cybersecurity risks, including denial-of-service attacks, hacking, phishing, social-engineering attacks, malware intrusion, data-corruption attempts, system breaches, identity theft, ransomware attacks, AI-driven cyberattacks, environmental conditions, and intentional acts of destruction; • the performance, availability, and resilience of third-party service providers on whom we rely in delivering products and services to our clients and otherwise in conducting our business and operations; • the adequacy and effectiveness of our corporate governance, risk-management framework, compliance programs, and internal controls over financial reporting, including our ability to identify, assess, monitor, and mitigate risks, remediate lapses or deficiencies in financial reporting, and make appropriate estimates; • our ability to develop, maintain, and market our products or services and to manage risks and unanticipated costs or liabilities associated with those products or services; • our ability to satisfactorily and profitably perform loan servicing and similar obligations; • the legal, regulatory, and supervisory environment, including changes in financial services legislation, regulation, policies, or government leadership or personnel; • U.S. and international regulatory capital and liquidity requirements and standards and their effects on our capital and liquidity levels, ratios, buffers, and targets, and our ability to pay or increase dividends, repurchase shares, or take other capital actions; • our ability to address scrutiny and expectations from supervisory or other governmental authorities and to timely and credibly remediate related concerns or deficiencies; • judicial, regulatory, and administrative inquiries, examinations, investigations, proceedings, disputes, or rulings that create uncertainty for or are adverse to us or the financial services industry; • the outcomes of judicial, regulatory, and administrative inquiries, examinations, investigations, proceedings, disputes, or rulings to which we are or may be subject (either directly or indirectly through our ownership interests in other entities) and our ability to absorb and address any damages or other remedies that are sought or awarded and any collateral consequences; • our ability to implement strategic and operational plans, including with respect to allocating capital and resources to our highest value opportunities, becoming the most important financial partner to our clients, and executing with urgency, discipline, and accountability; • our ability to innovate, to anticipate the needs of current or future clients, or to make timely and effective technology investments and enhancements to meet client expectations; • our ability to compete successfully, to increase or maintain market share in changing competitive environments, or to address pricing or other competitive pressures, including competition from banks and nonbanks and the effects of digital assets, cryptocurrencies, stablecoins, tokenization, and other emerging products, services, and technologies relating to deposits, lending, and payments; • changes in our corporate and business strategies, the composition of our assets, or the way in which we fund those assets; • our ability to successfully make and integrate acquisitions and to effect divestitures, which may include regulatory approvals and conditions; • the efficacy of our methods or models in assessing business strategies or opportunities or in valuing, measuring, estimating, monitoring, or managing positions or risk; • evolving accounting standards and policies and related changes to interpretations; • damage to our brand or negative public opinion or adverse publicity affecting us, our leaders, or our service providers, including the impact on our relationships with clients, teammates, and other stakeholders; • our ability to attract, hire, and retain key teammates and to engage in adequate succession planning; • our ability to identify, assess, monitor, and mitigate the risk of fraud or misconduct by internal or external parties, including potential losses that may result; • policies and other actions of governments to manage and mitigate climate and related environmental risks, and the effects of climate change or the transition to a lower-carbon economy on our business, operations, and reputation; • natural or other disasters, calamities, and conflicts, including terrorist events, cyber-warfare, and pandemics that impact us or our clients, teammates, or service providers; and • other assumptions, risks, or uncertainties described in the Company’s Annual Report on Form 10-K or subsequent reports. Any forward-looking statement made by us or on our behalf speaks only as of the date that it was made. We do not undertake to update any forward-looking statement to reflect the impact of events, circumstances, or results that arise after the date that the statement was made, except as required by applicable securities laws. You, however, should consult further disclosures (including disclosures of a forward-looking nature) that we may make in any subsequent Annual Report on Form 10-K, Quarterly Report on Form 10-Q, or Current Report on Form 8-K. Forward-looking statements
+[B0968] ex993-earningsdeck3q26003.jpg
+[B0969] 3 Non-GAAP financial information This presentation contains financial information and performance measures determined by methods other than in accordance with accounting principles generally accepted in the United States of America ("GAAP"). Truist’s management uses these non-GAAP measures in its analysis of Truist’s performance and the efficiency of its operations. Management believes these non-GAAP measures are useful to investors because they provide a greater understanding of ongoing operations, enhance comparability of results with prior periods, and demonstrate the effects of significant items in the current period. Truist believes a meaningful analysis of its financial performance requires an understanding of the factors underlying that performance. These disclosures should not be viewed as a substitute for financial measures determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Below is a listing of the types of non-GAAP measures used in this presentation: Adjusted net income available to common shareholders and adjusted diluted EPS - Adjusted net income available to common shareholders and adjusted diluted EPS are non-GAAP in that these measures exclude selected items, net of tax. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods, as well as demonstrate the effects of significant gains and charges. Diluted EPS impact for individual items may not foot to difference between GAAP diluted and adjusted diluted EPS due to rounding. Taxable-equivalent measures - Taxable-equivalent revenue, taxable-equivalent interest income, taxable-equivalent net interest income, and taxable-equivalent net interest margin include a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. Adjusted revenue - Adjusted revenue includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted revenue additionally excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods. Adjusted noninterest income and expense - Adjusted noninterest income and expense are non-GAAP measures that exclude selected items. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. Pre-provision net revenue (PPNR) - PPNR is a non-GAAP measure that adjusts net income determined in accordance with GAAP to exclude the impact of the provision for credit losses and provision for income taxes and includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted PPNR is a non-GAAP measure that additionally excludes selected items. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. Tangible common equity and related measures - Tangible common equity, average tangible common equity, and related measures, including ROTCE, adjusted ROTCE, and TBVPS, are non-GAAP measures that exclude the impact of intangible assets, net of deferred taxes, and its related amortization. Adjusted ROTCE is a non-GAAP measure that additionally excludes other selected items. These measures are useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist’s management uses these measures to assess profitability, returns relative to balance sheet risk, and shareholder value. Adjusted return on average assets - Adjusted ROA is a non-GAAP measure in that it excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods, as well as demonstrates the effects of significant gains and charges. Net charge-off ratio, excluding RAC - The net charge-off ratio excluding Regional Acceptance Corporation (RAC) is a non-GAAP measure in that it excludes certain loans and the related charge-offs. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results. Truist does not provide reconciliations for forward-looking non-GAAP financial measures because it is unable to provide a meaningful or accurate calculation or estimation of reconciling items and the information is not available without unreasonable effort. This is due to the difficulty of forecasting the occurrence and the financial impact of various items that have not yet occurred, are out of Truist’s control, or cannot be reasonably predicted. For the same reasons, Truist is unable to address the probable significance of the unavailable information. A copy of this presentation is available on the Truist Investor Relations website, ir.truist.com.
+[B0970] ex993-earningsdeck3q26004.jpg
+[B0971] 4 – Clarifying strategy: Become the most important financial partner to our clients – Focusing resources: Ongoing franchise review to reallocate capital and expenses to align to strategy and enhance balance sheet composition – Driving better execution: Operate with greater urgency, flatten the organization, add to existing talent, and increase accountability to drive faster growth and higher returns Building a high-performing company Solid 3Q26 adjusted results; reallocating capital and resources to drive higher growth, profitability, and returns (1) Strategic actions include RAC loan sale and AFS securities repositioning (2) Represents a non-GAAP financial measure and excludes the impact of strategic actions; for all non-GAAP measures, including those that are not adjusted, see appendix for reconciliations 3Q26 key takeaways 3Q26 by the numbers (Reported / adjusted(2)) $0.56 / $1.16 Diluted EPS 7.2% / 14.6% ROTCE (non-GAAP) 0.77% / 0.38% NCO ratio 10.7% CET1 ratio – Delivered solid results – Continued momentum in client deposit growth – Record quarter in wealth management income – Asset quality metrics remain strong – Maintained expense discipline – Returned $1.8 billion to shareholders through $0.6 billion of common dividends and $1.2 billion of share repurchases – Completed the RAC loan sale and AFS securities repositioning – Strategic actions improved credit, liquidity, and funding profile – On track to achieve ROTCE targets 3Q26 results reflect strategic actions(1)
+[B0972] ex993-earningsdeck3q26005.jpg
+[B0973] 5 Portfolio actions sharpen strategic focus and enhance risk profile (1) LightStream metrics are estimates and preliminary and any action undertaken would be subject to market conditions (2) $990 million capital increase driven by a $442 million after-tax loan loss reserve recapture and $628 million of capital created by a reduction in risk-weighted assets partially offset by $80 million of after-tax RAC loan sale impacts (3) The blended reinvestment rate on the new investment securities purchased is 5.60% for the next 12 months including the impact of swaps and based on the Federal Funds futures curve (4) ~$850 million estimated capital increase driven by a $70 million after-tax loan loss reserve recapture and $820 million of capital created by a reduction in risk-weighted assets partially offset by $40 million of after-tax impacts Completed RAC loan sale and AFS securities repositioning Signed agreement to sell LightStream(1) Update on strategic review of loan portfolios – Sold $5.5 billion RAC auto loan portfolio for $5.2 billion – Sale created $990 million or 23 bps of CET1 capital(2) – Reduces NCOs by ~10 bps annually and NPLs by >10 bps – Repaid $5.2 billion of borrowings – Sold $8.6 billion of book value AFS securities with a weighted average book yield of 2.67% and a duration of 5.8 years – Recorded a pre-tax loss of $1.4 billion – Purchased $7.2 billion of securities with a weighted average yield of 5.60%(3) and a duration of 2.3 years – Transactions modestly accretive to earnings, ROTCE, and tangible book value per share – Signed agreement to sell $7.7 billion of loans representing substantially all assets of LightStream, a national unsecured lending platform, to Carlyle Group Inc. – Non-core, loan only business generating a below target ROTCE – Transaction expected to: – Generate $7.2 billion of net proceeds – Create ~$850 million or 20 bps of CET1 capital(4) – Reduce NCOs by ~7 bps annually – Closing anticipated in 4Q26, subject to satisfaction of customary closing conditions – Plan to utilize proceeds to repay wholesale borrowings – Will evaluate a potential AFS securities repositioning to offset capital created from sale – Broader strategic review ongoing
+[B0974] ex993-earningsdeck3q26006.jpg
+[B0975] 6 Strategic actions impacted 3Q26 diluted EPS by $0.60 May not foot due to rounding (1) Strategic actions include RAC loan sale and AFS securities repositioning (2) Adjusted metrics include non-GAAP financial measures; for all non-GAAP measures, including those that are not adjusted, see appendix for reconciliations (3) Sold $8.6 billion of book value AFS securities and received net proceeds of $7.2 billion (4) $106 million of RAC loan sale impacts include a $66 million reduction in noninterest income and $40 million increase in noninterest expense related to costs associated with the RAC loan sale (5) Represents a $581 million benefit from the release of ACL following recognition of held for sale-related charge-offs Delivered solid results excluding strategic actions 3Q26 reported (a) RAC loan sale (b) AFS securities repositioning (c) Net impact (d) = (b) + (c) 3Q26 adjusted(2) (e) = (a) - (d) Total revenue-TE (non-GAAP) $3,791 $(66) $(1,447) $(1,513) $5,304 Noninterest expense $3,105 $40 $40 $3,065 PPNR (non-GAAP) $686 $(106) $(1,447) $(1,553) $2,239 Provision for credit losses (benefit) $(253) $(581) $(581) $328 Net income available to common shareholders $684 $362 $(1,101) $(739) $1,423 Diluted EPS $0.56 $0.30 $(0.90) $(0.60) $1.16 ROA 0.6% 1.1% ROCE 4.7% 9.8% ROTCE (non-GAAP) 7.2% 14.6% Select financial highlights Strategic actions impacting 3Q26 results(1,2) – Net income available to common shareholders was $684 million or $0.56 per diluted share, which included the following items: – $1.4 billion pre-tax ($1.1 billion after-tax) or $0.90 per share loss on the sale of AFS securities(3) – $581 million pre-tax ($442 million after-tax) or $0.36 per share loan loss reserve recapture(5) – $106 million pre-tax ($80 million after-tax) or $0.06 per share of RAC loan sale impacts(4) – Adjusted net income available to common shareholders was $1.4 billion or $1.16 per share – Revenue was $3.8 billion, or $5.3 billion adjusted for strategic actions – Adjusted revenue declined 0.1% vs. 2Q26 – Noninterest expense was $3.11 billion, or $3.07 billion adjusted for strategic actions – Adjusted noninterest expense increased 0.3% vs. 2Q26 – ROTCE was 7.2%, or 14.6% excluding strategic actions
+[B0976] ex993-earningsdeck3q26007.jpg
+[B0977] 7 Balance sheet summary Strategic actions enhance balance sheet composition Average balances ($ MM) 3Q26 vs. 2Q26 ($ change) vs. 2Q26 (% change) vs. 3Q25 ($ change) vs. 3Q25 (% change) Total loans HFI $325,523 $(3,639) (1.1)% $5,030 1.6% Investment securities(1) $118,433 $295 0.2% $(747) (0.6)% Total deposits $410,699 $5,830 1.4% $14,099 3.6% Total borrowings $63,729 $(5,804) (8.3)% $(4,525) (6.6)% Capital metrics and ratios 9/30/2026 6/30/2026 vs. 2Q26 9/30/2025 vs. 3Q25 Book value per share $46.78 $48.04 (2.6)% $46.70 0.2% Tangible book value per share(2) $31.90 $33.40 (4.5)% $32.57 (2.1)% CET1 ratio (preliminary) 10.7% 10.9% (20) bps 11.0% (30) bps Select highlights (1) End of period investment securities were $115.7 billion at 9/30/2026 (2) Represents a non-GAAP financial measure; see appendix for reconciliations
+[B0978] ex993-earningsdeck3q26008.jpg
+[B0979] 8 Loan trends reflect optimization of lending portfolios May not foot due to rounding (1) Reflects ceased originations in marine/RV loans and de-emphasis of certain lower return portfolios (2) RAC loan sale of $1.7 billion represents the impact of RAC loans moving to held-for-sale in September Average loans and leases HFI $320 $325 $327 $329 $326 $192 $195 $199 $201 $199 $129 $130 $128 $128 $127 6.00% 5.87% 5.71% 5.68% 5.66% Commercial LHFI Consumer and card LHFI Loans HFI yield 3Q25 4Q25 1Q26 2Q26 3Q26 2Q26 Core loan growth RAC loan sale 3Q26 $329 $326 $0.8 5-quarter trend ($ in billions) Average loan roll forward ($ in billions) ($2.7) Strategic run-off(1) ($1.7) (2)
+[B0980] ex993-earningsdeck3q26009.jpg
+[B0981] 9 Total borrowings ($ in billions) $397 $396 $399 $405 $411 $214 $213 $213 $217 $216 $143 $148 $149 $149 $157 $40 $35 $37 $39 $38 CSBB deposits Wholesale deposits Other, Treasury, & Corporate deposits 3Q25 4Q25 1Q26 2Q26 3Q26 $68 $68 $68 $70 $64 $27 $29 $31 $29 $19 $41 $39 $37 $41 $45 Short-term borrowings Long-term debt 3Q25 4Q25 1Q26 2Q26 3Q26 Higher client deposits drove 3.6% growth in average deposits, while total borrowings decreased 6.6% vs. 3Q25 Average deposits and borrowings $397 $396 $399 $405 $411 $291 $290 $296 $301 $308 $106 $106 $103 $104 $103 1.84% 1.64% 1.55% 1.56% 1.59% Interest-bearing deposits Noninterest-bearing deposits Total deposit cost (%) 3Q25 4Q25 1Q26 2Q26 3Q26 5-quarter trend ($ in billions) Deposit mix by segment ($ in billions)
+[B0982] ex993-earningsdeck3q26010.jpg
+[B0983] 10 Swap portfolio overview ($ in billions) Active receive-fixed $3,680 $3,749 $3,644 $3,667 $3,707 3.01% 3.07% 3.02% 2.98% 3.00% Net interest income-TE Net interest margin-TE 3Q25 4Q25 1Q26 2Q26 3Q26 Fwd. starting receive-fixed Pay-fixed < 3yrs. Net interest income and net interest margin (1) Net interest income and net interest margin include a taxable-equivalent adjustment and are non-GAAP measures. See appendix for more information on taxable-equivalent measures and reconciliations to GAAP net interest income. 9/30/2026 Pay-fixed > 3yrs.(1) $86 $24 Total wtd. avg. rate = 3.39% ($15)Total wtd. avg. rate = 3.75% ($11) $137 – At 9/30, notional receive-fixed and pay- fixed swaps totaled $110 billion and $26 billion, respectively, compared with $112 billion and $24 billion at 6/30/2026 – Interest rate sensitivity position remained relatively neutral to changes in interest rates at 9/30/2026 (1) 5-quarter net interest income and net interest margin trend ($ in millions) NII outlook – Expect 4Q26 net interest income of $3.65 to $3.7 billion – 4Q26 outlook reflects: – $125 million reduction from the RAC loan sale – $40 million increase from the AFS securities repositioning
+[B0984] ex993-earningsdeck3q26011.jpg
+[B0985] 11 Categories 3Q26 vs. 2Q26 vs. 3Q25 Wealth management income $407 8.5% 8.8% Card and treasury management fees $347 (1.7)% 2.1% Investment banking and trading income $324 (8.0)% 0.3% Other deposit revenue $125 4.2% —% Mortgage banking income $113 (2.6)% (4.2)% Lending related fees $120 —% 16.5% Securities gains / (losses) $(1,447) NM NM Other income $95 (54)% (46)% Total noninterest income $84 (95)% (95)% Loss on RAC loan sale(1) $66 Securities losses $1,447 Adjusted noninterest income(2) $1,597 (2.9)% 2.5% Wealth management was a key driver of adjusted growth vs. 3Q25 Noninterest income – Noninterest income decreased 95% primarily driven by $1.4 billion of securities losses on the sale of certain AFS securities – Adjusted noninterest income increased 2.5% driven by higher wealth management income due to favorable market performance Noninterest income details ($ in millions) Vs. like quarter – Noninterest income decreased 95% primarily driven by $1.4 billion of securities losses on the sale of certain AFS securities and $66 million of losses from the RAC loan sale included in other income – Adjusted noninterest income declined 2.9% driven by: – lower other income and investment banking and trading income – partially offset by higher wealth management income due to favorable market performance Vs. linked quarter (1) Included in Other income (2) Represents a non-GAAP financial measure that excludes selected items. The reconciliation to GAAP noninterest income is in the table above.
+[B0986] ex993-earningsdeck3q26012.jpg
+[B0987] 12 Categories 3Q26 vs. 2Q26 vs. 3Q25 Personnel expense $1,853 3.4% 6.0% Professional fees and outside processing $365 9.0% 5.5% Software expense $254 6.3% 9.0% Net occupancy expense $180 5.3% (2.7)% Equipment expense $77 (2.5)% (14.4)% All other noninterest expense(1) $376 (14.4)% (8.7)% Total noninterest expense $3,105 1.6% 3.0% RAC loan sale costs $(40) Adjusted noninterest expense(2) $3,065 0.3% 1.7% Noninterest expense growth remains well controlled Noninterest expense (1) All other noninterest expense includes marketing and customer development, amortization of intangibles, regulatory costs, and other expense (2) Represents a non-GAAP financial measure that excludes selected items. The reconciliation to GAAP noninterest expense is in the table above. Noninterest expense details ($ in millions) – Noninterest expense increased 3.0%, primarily driven by: – higher personnel expense, partially offset by lower other expense – Adjusted noninterest expense increased 1.7% Vs. like quarter – Noninterest expense increased 1.6% primarily driven by: – higher personnel expense, which includes $40 million of costs associated with the RAC loan sale, and professional fees and outside processing expenses – partially offset by all other noninterest expense – Adjusted noninterest expense increased 0.3% Vs. linked quarter
+[B0988] ex993-earningsdeck3q26013.jpg
+[B0989] 13 ALLL Asset quality remains strong; RAC loan sale further strengthens credit risk profile 0.48% 0.48% 0.50% 0.51% 0.40% 3Q25 4Q25 1Q26 2Q26 3Q26 $436 $512 $479 $395 $(253) 3Q25 4Q25 1Q26 2Q26 3Q26 $385 $470 $491 $414 0.48% 0.57% 0.61% 0.50% 3Q25 4Q25 1Q26 2Q26 3Q26 Asset quality $4,988 $5,030 $5,026 $4,983 $4,063 ALLL ALLL ratio ALLL / NPL 3Q25 4Q25 1Q26 2Q26 3Q26 3.2x 1.54% 3.2x 1.53% 3.1x 1.53% 2.9x 1.51% 3.1x 1.25% $312(1) $629 0.77% 0.38%(1) NCO ratio ex. RAC NCOs NCO ratio NCOs ex. RAC $328(2) Reported Ex. RAC Provision for credit losses ($ in millions) NCO and NCO ratio ($ in millions) Nonperforming loans / LHFI (1) Excludes total NCOs for the quarter and total average loans related to RAC, as applicable, and represents a non-GAAP financial measure. See appendix for reconciliations. (2) Excludes a $581 million benefit from the release of ACL following recognition of held for sale-related charge-offs ($ in millions)
+[B0990] ex993-earningsdeck3q26014.jpg
+[B0991] 14 3Q26 actuals 4Q26 outlook Revenue-TE(1): $3.8 billion ~$5.35 billion (reflects $125 million reduction from RAC loan sale and $40 million increase from AFS securities repositioning) Noninterest expense: $3.1 billion Up 2.5% Net charge-off ratio: 0.77% ~0.45% Tax rate: 10.7% effective; 14.9% FTE ~13.5% effective; ~15.5% FTE Share repurchases: $1.2 billion ~$1 billion 4Q26 outlook (1) Revenue-TE is a non-GAAP financial measure; see appendix for reconciliation Outlook excludes impact of potential strategic actions
+[B0992] ex993-earningsdeck3q26015.jpg
+[B0993] Appendix
+[B0994] ex993-earningsdeck3q26016.jpg
+[B0995] A-1 3Q26 vs. 2Q26 vs. 3Q25 Income statement ($ MM) Net interest income 2,717 4.3 % 12.2 % Allocated provision for credit losses (299) (197.4) % (174.8) % Noninterest income 468 (11.5) % (11.7) % Noninterest expense 1,799 4.5 % 5.2 % Segment net income $1,276 53.0 % 100.6 % Balance sheet ($ B) Average loans(1) 131 (1.6) % (2.4) % Average deposits 216 (0.1) % 1.2 % Credit metrics NCOs 1.61 % 68 bps 74 bps NPLs / LHFI 0.43 % (34) bps (6) bps Key metrics Digital transactions as a % of total(2) 71% 60 bps 290 bps Truist Assist chat volume (MM) 2.0 1.4 % 54 % Debit / credit card spend ($ B) $32 (0.8) % 4.5 % ATMs 2,790 2,820 2,837 Branches 1,912 1,927 1,927 Segment results Results not adjusted for the RAC loan sale (1) Excludes loans held for sale (2) Digital transactions include transfers, Zelle, bill payments, mobile deposits, ACH, and wire transfers (3) The year-over-year AUA decline is primarily attributable to a 2025 divestiture 3Q26 CSBB segment results 3Q26 Wholesale segment results 3Q26 vs. 2Q26 vs. 3Q25 Income statement ($ MM) Net interest income $1,561 1.9 % (1.1) % Allocated provision for credit losses 47 (47.8) % 30.6 % Noninterest income 1,215 4.8 % 6.4 % Noninterest expense 1,397 0.9 % 6.0 % Segment net income $1,048 9.1 % (3.2) % Balance sheet ($ B) Average loans(1) 194 (0.8) % 4.5 % Average deposits 157 5.2 % 9.8 % Credit metrics NCOs 0.20 % (1) bp 1 bp NPLs / LHFI 0.38 % 4 bps (9) bps Key metrics Investment banking & trading income ($ MM) $324 (8.0) % 0.3 % Wealth management income ($ MM) $407 8.5 % 8.8 % Total wealth client assets ($ B)(3) $348 (0.3) % (4.4) %
+[B0996] ex993-earningsdeck3q26017.jpg
+[B0997] A-2 Preferred dividend 4Q26 1Q27 2Q27 3Q27 Estimated dividends based on projected interest rates and amounts outstanding ($ in millions) $42 $112 $43 $112 Estimates assume forward-looking interest rates as of 9/30/2026. Actual interest rates and amounts outstanding could vary significantly causing dividend payments to differ from the estimates shown above.
+[B0998] ex993-earningsdeck3q26018.jpg
+[B0999] A-3 Quarter Ended Sept. 30 2026 Net Income (loss) available to common shareholders (a) $ 684 Gross adjustments: Securities (gains) losses 1,447 Reserve recapture for RAC loan sale (581) RAC loan sale impact 106 Applicable income taxes related to adjustments:(1) Securities (gains) losses (346) Reserve recapture for RAC loan sale 139 RAC loan sale impact (26) Adjusted net income available to common shareholders(2) (b) 1,423 Weighted average shares outstanding - diluted (c) 1,226,342 Diluted EPS (a)/(c) 0.56 Adjusted diluted EPS(2) (b)/(c) 1.16 Non-GAAP reconciliations Adjusted net income and adjusted diluted EPS $ in millions, except per share data, shares in thousands (1) Calculated using the applicable marginal tax rate. (2) Adjusted net income available to common shareholders and adjusted diluted EPS are non-GAAP in that these measures exclude selected items, net of tax. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods, as well as demonstrate the effects of significant gains and charges. Diluted EPS impact for individual items may not foot to difference between GAAP diluted and adjusted diluted EPS due to rounding.
+[B1000] ex993-earningsdeck3q26019.jpg
+[B1001] A-4 Non-GAAP reconciliations Net interest income and NIM $ in millions (1) Taxable-equivalent interest income, taxable-equivalent net interest income, and taxable-equivalent net interest margin include a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Truist’s management uses these measures in its analysis of Truist’s performance. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. (2) Applicable ratios are annualized. Quarter Ended Sept. 30 June 30 March 31 Dec. 31 Sept. 30 2026 2026 2026 2025 2025 Net interest income $ 3,663 $ 3,621 $ 3,599 $ 3,700 $ 3,629 Taxable-equivalent adjustment 44 46 45 49 51 Net interest income - TE(1) (a) $ 3,707 $ 3,667 $ 3,644 $ 3,749 $ 3,680 Total average earning assets (b) $ 491,430 $ 492,461 $ 486,354 $ 484,597 $ 486,006 NIM - TE(1)(2) (a)/(b) 3.00 % 2.98 % 3.02 % 3.07 % 3.01 %
+[B1002] ex993-earningsdeck3q26020.jpg
+[B1003] A-5 Non-GAAP reconciliations Adjusted revenue $ in millions (1) Revenue is defined as net interest income plus noninterest income. (2) Adjusted revenue includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted revenue additionally excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods. Quarter Ended Sept. 30 2026 Revenue(1) $ 3,747 Taxable equivalent adjustment 44 Revenue - TE(1)(2) $ 3,791 Securities (gains) losses 1,447 Loss on RAC loan sale 66 Adjusted revenue - TE(1)(2) $ 5,304
+[B1004] ex993-earningsdeck3q26021.jpg
+[B1005] A-6 Non-GAAP reconciliations Adjusted pre-provision net revenue $ in millions (1) PPNR is a non-GAAP measure that adjusts net income determined in accordance with GAAP to exclude the impact of the provision for credit losses and provision for income taxes and includes a taxable-equivalent adjustment utilizing the federal income tax rate of 21% for certain tax-exempt instruments. Adjusted PPNR is a non-GAAP measure that additionally excludes selected items. Truist’s management believes these measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods. Quarter Ended Sept. 30 2026 Net income $ 799 Provision (benefit) for credit losses (253) Provision for income taxes 96 Taxable-equivalent adjustment 44 PPNR(1) $ 686 Securities (gains) losses 1,447 RAC loan sale impact 106 Adjusted PPNR(1) $ 2,239
+[B1006] ex993-earningsdeck3q26022.jpg
+[B1007] A-7 Non-GAAP reconciliations Tangible book value per common share and tangible common equity $ in millions, except per share data, shares data in thousands (1) Calculated using the applicable marginal tax rate. (2) Tangible common equity and related measures are non-GAAP measures that exclude preferred stock and intangible assets, net of deferred taxes. These measures are useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist’s management uses these measures to assess balance sheet risk and shareholder value. These measures are not necessarily comparable to similar measures that may be presented by other companies. As of / Quarter Ended Sept. 30 June 30 Sept. 30 2026 2026 2025 Total shareholders' equity $ 61,472 $ 64,095 $ 65,646 Preferred stock (5,411) (5,411) (5,907) Common shareholders’ equity (a) $ 56,061 $ 58,684 $ 59,739 Intangible assets (18,223) (18,287) (18,489) Applicable deferred taxes related to intangible assets(1) $ 397 $ 400 $ 413 Tangible common shareholders’ equity(2) (b) $ 38,235 $ 40,797 $ 41,663 Outstanding shares at end of period (c) 1,198,488 1,221,626 1,279,246 Common shareholders’ equity per common share (a)/(c) $ 46.78 $ 48.04 $ 46.70 TBVPS(2) (b)/(c) 31.90 33.40 32.57
+[B1008] ex993-earningsdeck3q26023.jpg
+[B1009] A-8 Non-GAAP reconciliations Return on average tangible common equity ratios $ in millions, except per share data, shares data in thousands As of / Quarter Ended Sept. 30 2026 Net income available to common shareholders (a) $ 684 Amortization of intangibles 62 Applicable income taxes related to amortization of intangibles(1) (15) Tangible net income available to common shareholders(2) (b) $ 731 Gross adjustments: Securities (gains) losses 1,447 Reserve recapture for RAC loan sale (581) RAC loan sale impact 106 Applicable income taxes related to adjustments:(1) Securities (gains) losses (346) Reserve recapture for RAC loan sale 139 RAC loan sale impact (26) Total adjustments, net of tax (c) $ 739 Adjusted tangible net income available to common shareholders(2) (d) $ 1,470 Average common shareholders’ equity (e) $ 57,899 Average intangible assets (18,258) Applicable deferred taxes related to intangible assets(1) 398 Average tangible common shareholders’ equity(2) (f) $ 40,039 ROCE(3) (a)/(e) 4.7 % Adjusted ROCE(2)(3) (a+c)/(e) 9.8 % ROTCE(2)(3) (b)/(f) 7.2 % Adjusted ROTCE(2)(3) (d)/(f) 14.6 % (1) Calculated using the applicable marginal tax rate. (2) Tangible net income available to common shareholders, average tangible common shareholders’ equity, and ROTCE are non-GAAP measures that exclude the impact of intangible assets, net of deferred taxes. Adjusted tangible net income available to common shareholders and adjusted ROTCE are non-GAAP measures that additionally exclude other selected items. These measures are useful for evaluating the performance of a business consistently, whether acquired or developed internally. Truist’s management uses these measures to assess balance sheet risk and shareholder value. These measures are not necessarily comparable to similar measures that may be presented by other companies. (3) Applicable ratios are annualized.
+[B1010] ex993-earningsdeck3q26024.jpg
+[B1011] A-9 Non-GAAP reconciliations Adjusted return on assets $ in millions As of / Quarter Ended Sept. 30 2026 Net income (a) $ 799 Gross adjustments: Securities (gains) losses 1,447 Reserve recapture for RAC loan sale (581) RAC loan sale impact 106 Applicable income taxes related to adjustments:(1) Securities (gains) losses (346) Reserve recapture for RAC loan sale 139 RAC loan sale impact (26) Adjusted net income(2) (b) 1,538 Average total assets (c) $ 549,766 ROA(3) (a)/(c) 0.6 % Adjusted ROA(2)(3) (b)/(c) 1.1 % (1) Calculated using the applicable marginal tax rate. (2) Adjusted ROA is a non-GAAP measure in that it excludes selected items. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results with prior periods, as well as demonstrates the effects of significant gains and charges. (3) Applicable ratios are annualized.
+[B1012] ex993-earningsdeck3q26025.jpg
+[B1013] A-10 Non-GAAP reconciliations Net charge-offs, excluding RAC $ in millions (1) Applicable ratios are annualized. (2) The net charge-off ratio excluding Regional Acceptance Corporation (RAC) is a non-GAAP measure in that it excludes certain loans and the related charge-offs. Truist’s management uses this measure in its analysis of Truist’s performance. Truist’s management believes this measure provides a greater understanding of ongoing operations and enhances comparability of results. Quarter Ended Sept. 30 2026 Net charge-offs (a) $ 629 Total net charge-offs related to RAC (317) Net charge-offs, excluding RAC (b) $ 312 Average loans and leases (c) $ 325,523 Total average loans related to RAC (3,643) Average loans and leases, excluding RAC (d) $ 321,880 Net charge-off ratio(1) (a)/(c) 0.77 % Net charge-off ratio, excluding RAC(1)(2) (b)/(d) 0.38 %

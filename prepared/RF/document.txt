@@ -1,0 +1,1465 @@
+===== ex-99_1.htm =====
+[B0001] EX-99.1
+[B0002] 2
+[B0003] rf-2026930xexhibit991.htm
+[B0004] EX-99.1
+[B0005] Document created using Wdesk Copyright 2026 Workiva Document
+[B0006] Exhibit 99.1
+[B0007] Regions Reports Earnings of $611 Million and EPS of $0.71 in 3Q 2026
+[B0008] BIRMINGHAM, Ala. - (BUSINESS WIRE) - Oct. 16, 2026 - Regions Financial Corp. (NYSE:RF) today reported third quarter 2026 earnings of $611 million and diluted earnings per share (EPS) of $0.71. On an adjusted basis, earnings (1) were $622 million and diluted EPS (1) was $0.73. On both a reported and adjusted basis (1) , earnings increased 11 percent and diluted EPS increased 16 percent compared to the third quarter of 2025.
+[B0009] Financial Highlights | Soundness
+[B0010] Quarter Ended | • Low-cost deposit base continued to deliver peer-leading interest-bearing deposit costs of 1.70% in 3Q26 • Estimated CET1 of 10.8% supported by strong organic capital generation • Annualized net charge-offs decreased 13 bps QoQ to 29 bps; business services criticized loans and NPLs also decreased QoQ while ACL/NPLs increased to 275%
+[B0011] ($ amounts in millions, except per share data) | 3Q26 | 2Q26
+[B0012] Earnings Summary
+[B0013] Net income | $631 | $570
+[B0014] Net income available to common shareholders | 611 | 549
+[B0015] Adj. net income avail. to common shareholders (1) | 622 | 583
+[B0016] Diluted earnings per common share | 0.71 | 0.64
+[B0017] Adj. diluted earnings per common share (1) | 0.73 | 0.68 | Profitability
+[B0018] Balance Sheet Summary | • Best-in-class hedging program creates a mostly neutral short-term interest rate position and supports a top-quartile 3Q26 NIM of 3.68% • Proven history of consistently generating best-in-class returns in our peer group; 3Q26 reported ROATCE (1) of 21% and adjusted ROATCE (1) of 22% • Expenses remained well controlled; supporting self-funding of growth initiatives
+[B0019] Average loans, net of unearned income | $99,183 | $98,722
+[B0020] Average deposits | 129,140 | 130,691
+[B0021] Credit Quality
+[B0022] Allowance for credit losses ratio | 1.61% | 1.63%
+[B0023] Net charge-offs / average loans* | 0.29 | 0.42
+[B0024] Selected Ratios
+[B0025] Return on average assets* | 1.55% | 1.42% | Growth
+[B0026] Return on average common equity* | 14.16 | 12.73 | • Net income and diluted EPS each grew 11% QoQ; Adj. net income and adj. diluted EPS each grew 7% (1) QoQ • 3Q26 average loans increased 0.5% while ending loans increased 0.6% QoQ; growth driven primarily by high-quality, broad-based C&I loans • 3Q26 represents a record quarter in Capital Markets income (excl. customer derivative valuation adjustments) • 3Q26 represents another record quarter in Treasury Management income
+[B0027] Return on avg. tangible common equity* (1) | 21.27 | 19.01
+[B0028] Adj. return on avg. tangible common equity* (1) | 21.66 | 20.18
+[B0029] Net interest margin (FTE)* | 3.68 | 3.66
+[B0030] Efficiency ratio | 56.2 | 58.3
+[B0031] Adjusted efficiency ratio (1) | 55.8 | 56.9
+[B0032] Common equity Tier 1 ratio (2) | 10.8 | 10.7
+[B0033] Effective Tax Rate | 19.8 | 20.7
+[B0034] *Annualized (1) Non-GAAP; refer to reconciliations in the financial supplement to this earnings release included as Exhibit 99.2 to the company's Current Report on Form 8-K that was furnished to the Securities and Exchange Commission ("SEC") on Oct. 16, 2026. (2) Current quarter is estimated.
+[B0035] CEO Perspective: John Turner, Chairman, President and CEO of Regions Financial Corp.
+[B0036] "At Regions Bank, we're seeing the benefits of the investments we're making in talent, technology and strategic growth. By remaining disciplined in our approach to risk management and staying committed to soundness, profitability, and growth, we are delivering strong results built on solid fundamentals and a competitive strategy. Strong credit quality, continued momentum in fee-based businesses, and economically vibrant markets throughout our footprint all contributed to our third quarter results. As we continue to modernize the franchise and expand our capabilities, Regions Bank is well positioned to meet the evolving needs of our customers and drive more sustainable growth over time."
+[B0037] 1
+[B0038] Total revenue
+[B0039] Quarter Ended
+[B0040] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0041] Net interest income | $1,298 | $1,277 | $1,257 | $21 | 1.6% | $41 | 3.3%
+[B0042] Taxable equivalent adjustment | 16 | 14 | 12 | 2 | 14.3% | 4 | 33.3%
+[B0043] Net interest income, taxable equivalent basis | $1,314 | $1,291 | $1,269 | $23 | 1.8% | $45 | 3.5%
+[B0044] Net interest margin (FTE)* | 3.68% | 3.66% | 3.59%
+[B0045] Non-interest income:
+[B0046] Service charges on deposit accounts | $171 | $167 | $160 | $4 | 2.4% | $11 | 6.9%
+[B0047] Card and ATM fees | 126 | 126 | 122 | — | —% | 4 | 3.3%
+[B0048] Wealth management income | 146 | 150 | 139 | (4) | (2.7)% | 7 | 5.0%
+[B0049] Capital markets income | 107 | 84 | 104 | 23 | 27.4% | 3 | 2.9%
+[B0050] Mortgage income | 32 | 33 | 38 | (1) | (3.0)% | (6) | (15.8)%
+[B0051] Commercial credit fee income | 35 | 28 | 28 | 7 | 25.0% | 7 | 25.0%
+[B0052] BOLI income | 32 | 24 | 25 | 8 | 33.3% | 7 | 28.0%
+[B0053] Market value adjustments on employee benefit assets** | (4) | 24 | 12 | (28) | (116.7)% | (16) | (133.3)%
+[B0054] Securities gains (losses), net | (15) | (41) | (27) | 26 | 63.4% | 12 | 44.4%
+[B0055] Other miscellaneous income | 45 | 35 | 58 | 10 | 28.6% | (13) | (22.4)%
+[B0056] Non-interest income | $675 | $630 | $659 | $45 | 7.1% | $16 | 2.4%
+[B0057] Adjusted non-interest income (non-GAAP) (1) | $690 | $670 | $684 | $20 | 3.0% | $6 | 0.9%
+[B0058] Total revenue | $1,973 | $1,907 | $1,916 | $66 | 3.5% | $57 | 3.0%
+[B0059] Adjusted total revenue (non-GAAP) (1) | $1,988 | $1,947 | $1,941 | $41 | 2.1% | $47 | 2.4%
+[B0060] NM - Not Meaningful
+[B0061] * Annualized
+[B0062] ** These market value adjustments relate to assets held for employee and director benefits that are effectively offset within salaries and employee benefits and other non-interest expense.
+[B0063] Total revenue increased 3 percent on a reported basis and 2 percent on an adjusted basis (1) compared to the second quarter of 2026. Net interest income increased 2 percent driven primarily by fixed-rate asset turnover, average loan growth, higher hedging income, credit interest recoveries, one additional day in the quarter and continued prudent management of deposit costs, partially offset by an increase in non-deposit funding costs. Net interest margin increased 2 basis points to 3.68 percent.
+[B0064] 2
+[B0065] Non-interest income increased 7 percent on a reported basis and 3 percent on an adjusted basis (1) during the third quarter . With respect to adjusted items, the company incurred $15 million in securities losses in the third quarter compared to $40 million in the second quarter, attributable to the execution of additional securities repositioning trades. Record capital markets income increased 27 percent driven by higher mergers and acquisitions advisory revenue, securities underwriting and placement fees, commercial swap income and syndication revenue. Service charges increased 2 percent reflecting record Treasury Management income, one additional business day in the quarter, and seasonally higher consumer-related activity. Commercial credit fee income increased 25 percent driven by higher standby letter of credit income and commercial unused fees. Bank-owned life insurance increased 33 percent due to higher death benefit proceeds recognized during the quarter. Wealth management income decreased 3 percent following a record second quarter, primarily reflecting lower production volumes. Market value adjustments associated with employee benefit assets declined $28 million during the quarter and were largely offset by corresponding changes in non-interest expense.
+[B0066] Non-interest expense
+[B0067] Quarter Ended
+[B0068] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0069] Salaries and employee benefits | $694 | $697 | $671 | $(3) | (0.4)% | $23 | 3.4%
+[B0070] Equipment and software expense | 113 | 107 | 106 | 6 | 5.6% | 7 | 6.6%
+[B0071] Net occupancy expense | 74 | 73 | 72 | 1 | 1.4% | 2 | 2.8%
+[B0072] Outside services | 45 | 47 | 42 | (2) | (4.3)% | 3 | 7.1%
+[B0073] Marketing | 29 | 28 | 28 | 1 | 3.6% | 1 | 3.6%
+[B0074] Professional, legal and regulatory expenses | 35 | 28 | 30 | 7 | 25.0% | 5 | 16.7%
+[B0075] Credit/checkcard expenses | 18 | 16 | 15 | 2 | 12.5% | 3 | 20.0%
+[B0076] FDIC insurance assessments | 16 | 17 | 15 | (1) | (5.9)% | 1 | 6.7%
+[B0077] Visa class B shares expense | 4 | 2 | 8 | 2 | 100.0% | (4) | (50.0)%
+[B0078] Operational losses | 7 | 8 | 18 | (1) | (12.5)% | (11) | (61.1)%
+[B0079] Branch consolidation, property and equipment charges | — | 5 | (5) | (5) | (100.0)% | 5 | 100.0%
+[B0080] Other miscellaneous expenses | 83 | 93 | 103 | (10) | (10.8)% | (20) | (19.4)%
+[B0081] Non-interest expense | $1,118 | $1,121 | $1,103 | $(3) | (0.3)% | $15 | 1.4%
+[B0082] Adjusted non-interest expense (non-GAAP) (1) | $1,118 | $1,116 | $1,111 | $2 | 0.2% | $7 | 0.6%
+[B0083] Salaries and Employee Benefits Expense
+[B0084] Quarter Ended
+[B0085] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0086] Salaries and employee benefits | $694 | $697 | $671 | $(3) | (0.4)% | $23 | 3.4%
+[B0087] Less: Market value adjustments on supplemental 401(k) liabilities * | (2) | 24 | 13 | (26) | (108.3)% | (15) | (115.4)%
+[B0088] Salaries and employee benefits less market value adjustments on employee benefit liabilities | $696 | $673 | $658 | $23 | 3.4% | $38 | 5.8%
+[B0089] NM - Not Meaningful
+[B0090] * The company holds assets in order to effectively offset the market value adjustments on supplemental 401(k) liabilities and the market value adjustments on those assets are recorded in non-interest income.
+[B0091] Non-interest expenses remained relatively stable on both a reported and adjusted basis (1) compared to the second quarter
+[B0092] 3
+[B0093] of 2026. Professional, legal, and regulatory expense increase driven primarily by higher legal settlement costs. Equipment and software expense increased 6 percent primarily reflecting software as a service charges associated with ongoing technology and infrastructure investments. Salaries and benefits were relatively stable as increases in base salaries and revenue-based incentives were largely offset by lower market value adjustments for supplemental employee benefit liabilities. The company's efficiency ratio was 56.2 percent on a reported basis and 55.8 percent on an adjusted basis (1) for the third quarter.
+[B0094] Loans
+[B0095] Average Balances
+[B0096] ($ amounts in millions, net of unearned income) | 3Q26 | 2Q26 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0097] Commercial and industrial | $51,910 | $51,504 | $49,588 | $406 | 0.8% | $2,322 | 4.7%
+[B0098] Commercial real estate—owner-occupied | 5,360 | 5,342 | 5,134 | 18 | 0.3% | 226 | 4.4%
+[B0099] Investor real estate | 9,992 | 9,789 | 9,138 | 203 | 2.1% | 854 | 9.3%
+[B0100] Business Lending | 67,262 | 66,635 | 63,860 | 627 | 0.9% | 3,402 | 5.3%
+[B0101] Residential first mortgage | 19,423 | 19,551 | 19,944 | (128) | (0.7)% | (521) | (2.6)%
+[B0102] Home equity | 5,511 | 5,496 | 5,538 | 15 | 0.3% | (27) | (0.5)%
+[B0103] Consumer credit card | 1,492 | 1,474 | 1,420 | 18 | 1.2% | 72 | 5.1%
+[B0104] Other consumer* | 5,495 | 5,566 | 5,885 | (71) | (1.3)% | (390) | (6.6)%
+[B0105] Consumer Lending | 31,921 | 32,087 | 32,787 | (166) | (0.5)% | (866) | (2.6)%
+[B0106] Total Loans | $99,183 | $98,722 | $96,647 | $461 | 0.5% | $2,536 | 2.6%
+[B0107] Ending Balances
+[B0108] 9/30/2026 | 9/30/2026
+[B0109] ($ amounts in millions, net of unearned income) | 9/30/2026 | 6/30/2026 | 9/30/2025 | vs. 6/30/2026 | vs. 9/30/2025
+[B0110] Commercial and industrial | $52,409 | $51,841 | $49,234 | $568 | 1.1% | $3,175 | 6.4%
+[B0111] Commercial real estate—owner-occupied | 5,368 | 5,394 | 5,120 | (26) | (0.5)% | 248 | 4.8%
+[B0112] Investor real estate | 10,211 | 9,969 | 9,070 | 242 | 2.4% | 1,141 | 12.6%
+[B0113] Business Lending | 67,988 | 67,204 | 63,424 | 784 | 1.2% | 4,564 | 7.2%
+[B0114] Residential first mortgage | 19,376 | 19,498 | 19,881 | (122) | (0.6)% | (505) | (2.5)%
+[B0115] Home equity | 5,537 | 5,504 | 5,549 | 33 | 0.6% | (12) | (0.2)%
+[B0116] Consumer credit card | 1,512 | 1,498 | 1,437 | 14 | 0.9% | 75 | 5.2%
+[B0117] Other consumer* | 5,414 | 5,496 | 5,834 | (82) | (1.5)% | (420) | (7.2)%
+[B0118] Consumer Lending | 31,839 | 31,996 | 32,701 | (157) | (0.5)% | (862) | (2.6)%
+[B0119] Total Loans | $99,827 | $99,200 | $96,125 | $627 | 0.6% | $3,702 | 3.9%
+[B0120] NM - Not meaningful.
+[B0121] * Other consumer loans includes Regions' Home Improvement Financing portfolio.
+[B0122] Average and ending loans increased modestly compared to the prior quarter. Average business loans increased 1 percent during the quarter while average consumer loans decreased slightly. Growth was driven by broad-based C&I lending categories including government and public sector, wholesale and financial services. Investor real estate delivered another solid quarter of growth, driven by strong production and increased bridge-financing activity within the multifamily sector,
+[B0123] 4
+[B0124] as elevated long-term interest rates have slowed permanent financing. Loan growth remained high quality, with investment grade credits representing more than half of new balances.
+[B0125] Deposits
+[B0126] Average Balances
+[B0127] ($ amounts in millions) | 3Q26 | 2Q26 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0128] Total interest-bearing deposits | $89,364 | $90,953 | $90,037 | $(1,589) | (1.7)% | $(673) | (0.7)%
+[B0129] Non-interest-bearing deposits | 39,776 | 39,738 | 39,538 | 38 | 0.1% | 238 | 0.6%
+[B0130] Total Deposits | $129,140 | $130,691 | $129,575 | $(1,551) | (1.2)% | $(435) | (0.3)%
+[B0131] ($ amounts in millions) | 3Q26 | 2Q26 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0132] Consumer Bank Segment | $80,116 | $80,624 | $79,698 | $(508) | (0.6)% | $418 | 0.5%
+[B0133] Corporate Bank Segment | 39,505 | 40,106 | 39,733 | (601) | (1.5)% | (228) | (0.6)%
+[B0134] Wealth Management Segment | 7,484 | 7,594 | 7,262 | (110) | (1.4)% | 222 | 3.1%
+[B0135] Other* | 2,035 | 2,367 | 2,882 | (332) | (14.0)% | (847) | (29.4)%
+[B0136] Total Deposits | $129,140 | $130,691 | $129,575 | $(1,551) | (1.2)% | $(435) | (0.3)%
+[B0137] End of Period Deposits
+[B0138] 9/30/2026 | 9/30/2026
+[B0139] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 9/30/2025 | vs. 6/30/2026 | vs. 9/30/2025
+[B0140] Consumer Bank Segment | $80,975 | $80,972 | $79,689 | $3 | —% | $1,286 | 1.6%
+[B0141] Corporate Bank Segment | 39,270 | 39,952 | 40,415 | (682) | (1.7)% | (1,145) | (2.8)%
+[B0142] Wealth Management Segment | 7,437 | 7,466 | 7,654 | (29) | (0.4)% | (217) | (2.8)%
+[B0143] Other* | 1,828 | 2,320 | 2,576 | (492) | (21.2)% | (748) | (29.0)%
+[B0144] Total Deposits | $129,510 | $130,710 | $130,334 | $(1,200) | (0.9)% | $(824) | (0.6)%
+[B0145] NM - Not meaningful.
+[B0146] *Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits) and additional wholesale funding arrangements.
+[B0147] The company's deposit base has continued to be a source of strength and an industry differentiator in liquidity and margin performance. Average and ending deposits declined modestly during the quarter.
+[B0148] The decline in corporate deposits was driven primarily by a limited number of large commercial clients that strategically reallocated interest-bearing balances to off-balance sheet products through the bank's institutional investment services group. Importantly, underlying deposit trends remained healthy during the quarter, supported by continued growth in new accounts and increases in both average and ending non-interest bearing balances. In addition, the company continued to manage substantial excess client balances for commercial clients totaling approximately $16 billion through highly-liquid off-balance sheet investment solutions.
+[B0149] 5
+[B0150] Asset quality
+[B0151] As of and for the Quarter Ended
+[B0152] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 9/30/2025
+[B0153] Allowance for credit losses (ACL) at period end | $1,609 | $1,613 | $1,713
+[B0154] ACL/Loans, net | 1.61% | 1.63% | 1.78%
+[B0155] Business criticized loans to total business loans | 4.71% | 5.01% | 5.81%
+[B0156] Allowance for credit losses to non-performing loans, excluding loans held for sale | 275% | 241% | 226%
+[B0157] Provision for credit losses | $68 | $68 | $105
+[B0158] Net loans charged-off | $72 | $102 | $135
+[B0159] Net loans charged-off as a % of average loans, annualized | 0.29% | 0.42% | 0.55%
+[B0160] Non-performing loans, excluding loans held for sale/Loans, net | 0.59% | 0.67% | 0.79%
+[B0161] NPAs (ex. 90+ past due)/Loans, foreclosed properties, and non-performing loans held for sale | 0.62% | 0.69% | 0.82%
+[B0162] NPAs (inc. 90+ past due)/Loans, foreclosed properties, and non-performing loans held for sale* | 0.78% | 0.85% | 0.98%
+[B0163] Total Criticized Loans—Business Services ** | $3,203 | $3,370 | $3,682
+[B0164] * Excludes fully guaranteed residential first mortgages that are 90+ days past due and still accruing.
+[B0165] ** Business services represents the combined total of commercial and investor real estate loans.
+[B0166] Asset quality trends improved during the quarter, reflecting the strength and resiliency of the company's customer base and continued disciplined risk management practices. Feedback from commercial customers and ongoing engagement by relationship managers indicates business sentiment remains constructive, while consumer credit fundamentals remain healthy. Consumer spending patterns across Regions' customer base were generally consistent with recent trends, and employment conditions remain supportive. While these trends remain favorable, the company continues to closely monitor economic uncertainty and portfolios with heightened risk or interest rate sensitivity.
+[B0167] Net charge-offs were $72 million or an annualized 29 basis points of average loans, representing a 13 basis point decrease compared to the second quarter of 2026. Business services criticized and total non-performing loans both declined during the quarter. The ratio of non-performing loans as a percentage of total loans declined 8 basis points to 0.59 percent, and the ratio of business services criticized loans as a percentage of total business loans declined 30 basis points to 4.71 percent.
+[B0168] Changes in portfolio composition, including growth in higher-quality loans and runoff in certain higher-risk portfolios, drove a modest reduction in the allowance during the quarter. That impact was partially offset by the recent increases in interest rates and ongoing macroeconomic uncertainty. As a result, the allowance for credit losses remained relatively stable, the allowance ratio decreased 2 basis points to 1.61 percent, and coverage of non-performing loans increased to 275 percent.
+[B0169] 6
+[B0170] Capital and liquidity
+[B0171] As of and for Quarter Ended
+[B0172] 9/30/2026 | 6/30/2026 | 9/30/2025
+[B0173] Common Equity Tier 1 ratio (2) | 10.8% | 10.7% | 10.9%
+[B0174] Tier 1 capital ratio (2) | 11.9% | 11.8% | 12.0%
+[B0175] Total shareholders' equity to total assets | 10.93% | 11.68% | 11.91%
+[B0176] Tangible common shareholders’ equity to tangible assets (non-GAAP) (1) | 6.83% | 7.55% | 7.74%
+[B0177] Common book value per share | $19.38 | $20.48 | $19.98
+[B0178] Tangible common book value per share (non-GAAP) (1) | $12.65 | $13.78 | $13.49
+[B0179] Loans, net of unearned income, to total deposits | 77.1% | 75.9% | 73.8%
+[B0180] Regions maintained a strong capital position in the third quarter with estimated capital ratios remaining well above current regulatory requirements. At quarter-end, the Common Equity Tier 1 (CET1) (2) and Tier 1 capital (2) ratios were estimated at 10.8 percent and 11.9 percent respectively.
+[B0181] During the third quarter, the company repurchased approximately 3 million shares of common stock for a total of $95 million through open-market purchases and declared $255 million in dividends to common shareholders.
+[B0182] The company's liquidity position also remained robust with total available liquidity as of Sept. 30, 2026, of approximately $64 billion, which includes cash held at the Federal Reserve, FHLB borrowing capacity, unencumbered securities, and capacity at the Federal Reserve's facilities such as the Discount Window or Standing Repo Operations. These sources are sufficient to cover uninsured deposits at a ratio of approximately 170 percent as of quarter-end (excluding intercompany and secured deposits).
+[B0183] (1) Non-GAAP; refer to reconciliations on pages 13 17 , 18 , 19 and 20 of the financial supplement to this earnings release included as Exhibit 99.2 to the company's Current Report on Form 8-K that was furnished to the SEC on Oct. 16, 2026.
+[B0184] (2) Current quarter Common Equity Tier 1 and Tier 1 capital ratios are estimated.
+[B0185] Conference Call
+[B0186] The company will hold a live audio webcast to discuss third quarter 2026 results on Oct. 16, 2026 at 10 a.m. ET. To access this live audio webcast, visit the Investor Relations page at ir.regions.com. An archived recording of the webcast will be available at the Investor Relations page at ir.regions.com following the live event.
+[B0187] About Regions Financial Corporation
+[B0188] Regions Financial Corporation (NYSE:RF), with $163 billion in assets, is a member of the S&P 500 Index and is one of the nation’s largest full-service providers of consumer and commercial banking, wealth management, and mortgage products and services. Regions serves customers across the South, Midwest and Texas, and through its subsidiary, Regions Bank, operates more than 1,200 banking offices and more than 1,750 ATMs. Regions Bank is an Equal Housing Lender and Member FDIC. Additional information about Regions and its full line of products and services can be found at www.regions.com.
+[B0189] 7
+[B0190] Forward-Looking Statements
+[B0191] This release and the accompanying earnings call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. In addition, the company, through its senior management, may from time to time make forward-looking public statements concerning the matters described herein. The words “future,” “anticipates,” “assumes,” “intends,” “plans,” “seeks,” “believes,” “predicts,” “potential,” “objectives,” “estimates,” “expects,” “targets,” “projects,” “outlook,” “forecast,” “would,” “will,” “may,” “might,” “could,” “should,” “can,” and similar terms, expressions, and graphics often signify forward-looking statements. Forward-looking statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond our control. Forward-looking statements are not based on historical information, but rather are related to future operations, strategies, financial results or other developments. Forward-looking statements are based on management’s current expectations as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Those statements are based on general assumptions and are subject to various risks, and because they also relate to the future, they are likewise subject to inherent uncertainties and other factors that may cause actual results to differ materially from the views, beliefs and projections expressed in such statements. Therefore, we caution you against relying on any of these forward-looking statements. These risks, uncertainties and other factors include, but are not limited to, those described below:
+[B0192] • Our businesses have been, and may continue to be, adversely affected by conditions in the financial markets and economic conditions generally.
+[B0193] • Fluctuations in market interest rates, including the level and shape of the yield curve, may adversely affect our performance.
+[B0194] • If we experience greater credit losses in our loan portfolios than anticipated, our earnings may be materially adversely affected.
+[B0195] • Any future reductions in our credit ratings may increase our funding costs and place limitations on business activities.
+[B0196] • Changes in the soundness of other financial institutions could adversely affect us.
+[B0197] • We may suffer losses if the value of collateral declines in stressed market conditions.
+[B0198] • Ineffective liquidity management could adversely affect our financial results and condition.
+[B0199] • Loss of deposits or a change in deposit mix could increase our funding costs.
+[B0200] • We rely on the mortgage secondary market to manage various risks.
+[B0201] • We are at risk of a variety of systems failures or errors and cyber-attacks or other similar incidents that could adversely affect customer experience and our business and financial performance.
+[B0202] • We are subject to complex and evolving laws, regulations, rules, standards and contractual obligations regarding privacy and cybersecurity, which could increase the cost of doing business, compliance risks and potential liability.
+[B0203] • We will continually encounter technological change and must effectively anticipate, develop and implement new technology.
+[B0204] • The development and use of AI presents risks and challenges that may adversely impact our business.
+[B0205] • Industry competition, including competition from decentralized finance platforms, cryptocurrencies and blockchain technologies could disrupt our business model and adversely affect our revenues, market share or liquidity.
+[B0206] • Our operations are concentrated primarily in the South, Midwest and Texas, and adverse changes in the economic conditions in this region can adversely affect our financial results and condition.
+[B0207] • Weakness in the residential real estate markets could adversely affect our performance.
+[B0208] • Weakness in the commercial real estate markets could adversely affect our performance.
+[B0209] • Risks associated with home equity products where we are in a second lien position could adversely affect our performance.
+[B0210] • Weakness in commodity businesses could adversely affect our performance.
+[B0211] • An outbreak or escalation of hostilities between countries or within a country or region could have a material adverse effect on the U.S. economy and on our businesses.
+[B0212] • We are subject to a variety of operational risks, including the risk of fraud or theft by internal or external parties, which may adversely affect our business and results of operations.
+[B0213] • We rely on other companies to provide key components of our business infrastructure.
+[B0214] • We depend on the accuracy and completeness of information about clients and counterparties.
+[B0215] • We are exposed to risk of environmental liability when we take title to property.
+[B0216] • We can be negatively affected if we fail to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms.
+[B0217] • Enhanced regulatory and other standards for the oversight of vendors and other service providers can result in higher costs and other potential exposures.
+[B0218] • We are, and may in the future be, subject to claims and litigation calling into question our right to use the intellectual property underlying certain technology in our business.
+[B0219] • Weather-related events, pandemics and other natural or man-made disasters could cause a disruption in our operations or lead to other consequences that could adversely impact our financial results and condition. These impacts could be intensified by climate change. Heightening focus on climate change may also carry transition risks that could negatively impact our results of operations and financial condition.
+[B0220] • We are subject to sociopolitical risks that could adversely affect our business, reputation and the trading price of our common stock.
+[B0221] • Damage to our reputation could significantly harm our businesses.
+[B0222] • We are, and may in the future be, subject to litigation, investigations and governmental proceedings that may result in liabilities adversely affecting our financial condition, business or results of operations or in reputational harm.
+[B0223] • We are subject to extensive governmental regulation, which could have an adverse impact on our operations and our business model.
+[B0224] • We are subject to a variety of risks in connection with any sale of loans we may conduct.
+[B0225] • We may be subject to more stringent capital and liquidity requirements.
+[B0226] • Rulemaking changes and regulatory initiatives implemented by the CFPB may result in higher regulatory and compliance costs that may adversely affect our results of operations.
+[B0227] • We are subject to numerous laws designed to protect consumers, including the Community Reinvestment Act and fair lending laws, and a failure to comply with these laws could lead to a wide variety of penalties and other sanctions.
+[B0228] • We may not be able to complete future acquisitions, may not be successful in realizing the benefits of any future acquisitions that are completed or may choose not to pursue acquisition opportunities we might find beneficial.
+[B0229] • Increases in FDIC insurance assessments may adversely affect our earnings.
+[B0230] • Unfavorable results from ongoing stress analyses may adversely affect our ability to retain customers or compete for new business opportunities.
+[B0231] • We are a holding company and depend on our subsidiaries for dividends, distributions and other payments.
+[B0232] • We may not pay dividends on shares of our capital stock.
+[B0233] • Anti-takeover and banking laws and certain agreements and charter provisions may adversely affect share value.
+[B0234] • Our amended and restated by-laws designate (i) the Court of Chancery of the State of Delaware as the sole and exclusive forum for certain types of actions and proceedings that may be initiated by our shareholders and (ii) the federal district courts of the United States as the sole and exclusive forum for any
+[B0235] 8
+[B0236] action asserting a cause of action arising under the Securities Act, which could limit our shareholders’ ability to obtain a favorable judicial forum for disputes with our company or our company’s directors, officers or other employees.
+[B0237] • We face substantial legal and operational risks in our safeguarding and other processing of personal information.
+[B0238] • Differences in regulation can affect our ability to compete effectively.
+[B0239] • Our businesses may be adversely affected if we are unable to hire and retain qualified employees.
+[B0240] • Our operations rely on our ability, and the ability of key external parties, to maintain appropriately staffed workforces, and on the competence, trustworthiness, health and safety of employees.
+[B0241] • Our reported financial results depend on management’s selection of accounting methods and certain assumptions and estimates.
+[B0242] • If the models that we use in our business perform poorly or provide inadequate information, our business or results of operations may be adversely affected.
+[B0243] • Changes in our accounting policies or in accounting standards could materially affect how we report our financial results and condition.
+[B0244] The foregoing list of factors is not exhaustive. For discussion of these and other factors that may cause actual results to differ from expectations, look under the captions “Cautionary Note Regarding Forward-Looking Statements and Risk Factor Summary” and “Risk Factors” in Regions’ Annual Report on Form 10-K for the year ended Dec. 31, 2025 and in Regions’ subsequent filings with the SEC.
+[B0245] You should not place undue reliance on any forward-looking statements, which speak only as of the date made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible to predict all of them. We assume no obligation and do not intend to update or revise any forward-looking statements that are made from time to time, either as a result of future developments, new information or otherwise, except as may be required by law.
+[B0246] Regions’ Investor Relations contact Chris Best (205) 264-7040; Regions’ Media contact is Jeremy King at (205) 264-4551.
+[B0247] Use of Non-GAAP Financial Measures
+[B0248] Management uses pre-tax pre-provision income (non-GAAP), adjusted pre-tax pre-provision income (non-GAAP), the adjusted efficiency ratio (non-GAAP), the adjusted fee income ratio (non-GAAP), return on average tangible common shareholders' equity (non-GAAP), adjusted return on average tangible common shareholders' equity (non-GAAP), as well as adjusted net income available to common shareholders (non-GAAP) and adjusted diluted EPS (non-GAAP) to monitor performance and believes these measures provide meaningful information to investors. Non-interest expense (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest expense (non-GAAP), which is the numerator for the adjusted efficiency ratio. Non-interest income (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest income (non-GAAP), which is the numerator for the adjusted fee income ratio. Adjusted non-interest income (non-GAAP) and adjusted non-interest expense (non-GAAP) are used to determine adjusted pre-tax pre-provision income (non-GAAP). Net interest income (GAAP) on a taxable-equivalent basis and non-interest income are added together to arrive at total revenue on a taxable-equivalent basis. Adjustments are made to arrive at adjusted total revenue on a taxable-equivalent basis (non-GAAP), which is the denominator for the adjusted fee income and adjusted efficiency ratios. Net income available to common shareholders (GAAP) is presented excluding certain adjustments, net of tax, to arrive at adjusted net income available to common shareholders (non-GAAP), which is the numerator for adjusted diluted EPS (non-GAAP). Return on average tangible common shareholders' equity (non-GAAP) is calculated by dividing net income available to common shareholders (GAAP) by the average tangible common shareholders’ equity (non-GAAP). Net income available to common shareholders (GAAP) is presented excluding certain adjustments, net of tax, to arrive at adjusted net income available to common shareholders (non-GAAP), which is the numerator for adjusted return on average tangible common shareholders’ equity. Adjusted return on average tangible common shareholders' equity is calculated by dividing the adjusted net income available to common shareholders (non-GAAP) by the average tangible common shareholders’ equity (non-GAAP).
+[B0249] Regions believes that the exclusion of these adjustments provides a meaningful basis for period-to-period comparisons, which management believes will assist investors in analyzing the operating results of the company and predicting future performance. These non-GAAP financial measures are also used by management to assess the performance of Regions’ business. It is possible that the activities related to the adjustments may recur; however, management does not consider the activities related to the adjustments to be indications of ongoing operations. Regions believes that presentation of these non-GAAP financial measures will permit investors to assess the performance of the company on the same basis as that applied by management. Tangible common book value per share is calculated by dividing tangible common shareholders' equity (non-GAAP) by tangible assets (non-GAAP). The numerator for tangible book value per share (non-GAAP), tangible common shareholders' equity (non-GAAP), is calculated by excluding intangible assets and the deferred tax liability related to intangible assets from common shareholders' equity (GAAP). The denominator for tangible book value per share (non-GAAP), tangible assets (non-GAAP), is calculated by excluding intangible assets and the deferred tax liability related to intangible assets from total assets (non-GAAP).
+[B0250] Tangible common shareholders’ equity ratios have become a focus of some investors and management believes they may assist investors in analyzing the capital position of the company absent the effects of intangible assets and preferred stock. Analysts and banking regulators have assessed Regions’ capital adequacy using the tangible common shareholders’ equity measure. Because tangible common shareholders’ equity is not formally defined by GAAP or prescribed in any amount by federal banking regulations it is currently considered to be a non-GAAP financial measure and other entities may calculate it differently than Regions’ disclosed calculations. Since analysts and banking regulators may assess Regions’ capital adequacy using tangible common shareholders’ equity to tangible assets, management believes that it is useful to provide investors the ability to assess Regions’ capital adequacy on this same basis.
+[B0251] Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied and are not audited. Although these non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation, or as a substitute for analyses of results as reported under GAAP. In particular, a measure of earnings that excludes selected items does not represent the amount that effectively accrues directly to stockholders. Additionally, our non-GAAP financial measures may not be comparable to similar non-GAAP financial measures used by other companies and there is no certainty that we will not incur expenses in the future that are similar to those excluded in the calculations of non-GAAP financial measures presented herein.
+[B0252] Management and the Board of Directors utilize non-GAAP measures as follows:
+[B0253] • Preparation of Regions' operating budgets
+[B0254] • Monthly financial performance reporting
+[B0255] • Monthly close-out reporting of consolidated results (management only)
+[B0256] • Presentation to investors of company performance
+[B0257] • Metrics for incentive compensation
+[B0258] See the company's Financial Supplement, included as Exhibit 99.2 to the company's Current Report on Form 8-K furnished to the SEC on Oct. 16, 2026, for reconciliations of and additional information regarding the company's non-GAAP financial measures.
+[B0259] 9
+===== ex-99_2.htm =====
+[B0260] EX-99.2
+[B0261] 3
+[B0262] rf-2026930xexhibitx992.htm
+[B0263] EX-99.2
+[B0264] Document created using Wdesk Copyright 2026 Workiva Document
+[B0265] Exhibit 99.2
+[B0266] Regions Financial Corporation and Subsidiaries
+[B0267] Financial Supplement (unaudited)
+[B0268] Third Quarter 2026
+[B0269] Regions Financial Corporation and Subsidiaries
+[B0270] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0271] Table of Contents
+[B0272] Page
+[B0273] Financial Highlights | 1
+[B0274] Selected Ratios and Other Information* | 2
+[B0275] Consolidated Balance Sheets | 3
+[B0276] Loans | 4
+[B0277] Deposits | 6
+[B0278] Consolidated Statements of Income | 8
+[B0279] Consolidated Average Daily Balances and Yield / Rate Analysis | 10
+[B0280] Pre-Tax Pre-Provision Income ("PPI")* and Adjusted PPI* | 13
+[B0281] Non-Interest Income, Service Charges on Deposit Accounts by Segment, Wealth Management Income, Capital Markets Income, and Mortgage Income | 14
+[B0282] Non-Interest Expense and Salaries and Benefits Expense | 16
+[B0283] Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures*
+[B0284] Adjusted Efficiency Ratios, Adjusted Fee Income Ratios, Adjusted Non-Interest Income / Expense, Adjusted Operating Leverage Ratios, Adjusted Total Revenue, Adjusted Net Income Available to Common Shareholders, Adjusted Diluted EPS, Return Ratios, and Tangible Common Ratios | 17
+[B0285] Asset Quality
+[B0286] Allowance for Credit Losses, Net Charge-Offs and Related Ratios | 21
+[B0287] Non-Performing Loans (excludes loans held for sale), Early and Late Stage Delinquencies | 23
+[B0288] Forward-Looking Statements | 24
+[B0289] *Use of non-GAAP financial measures
+[B0290] Regions believes that the presentation of non-GAAP financial measures provides a meaningful basis for period-to-period comparisons, which management believes will assist investors in assessing the performance of the Company on the same basis as that applied by management. Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied and are not audited. Although non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation, or as a substitute for analyses of results as reported under GAAP. In particular, a measure of earnings that excludes certain adjustments does not represent the amount that effectively accrues directly to shareholders. Additionally, our non-GAAP financial measures may not be comparable to similar non-GAAP financial measures used by other companies and there is no certainty that we will not incur expenses in the future that are similar to those excluded in the calculations on non-GAAP financial measures presented herein.
+[B0291] Regions Financial Corporation and Subsidiaries
+[B0292] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0293] Financial Highlights
+[B0294] Quarter Ended
+[B0295] ($ amounts in millions, except per share data) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0296] Earnings Summary
+[B0297] Interest income - taxable equivalent | $1,800 | $1,762 | $1,715 | $1,781 | $1,808
+[B0298] Interest expense - taxable equivalent | 486 | 471 | 454 | 487 | 539
+[B0299] Net interest income - taxable equivalent | 1,314 | 1,291 | 1,261 | 1,294 | 1,269
+[B0300] Less: Taxable-equivalent adjustment | 16 | 14 | 13 | 13 | 12
+[B0301] Net interest income | 1,298 | 1,277 | 1,248 | 1,281 | 1,257
+[B0302] Provision for credit losses | 68 | 68 | 91 | 115 | 105
+[B0303] Net interest income after provision for credit losses | 1,230 | 1,209 | 1,157 | 1,166 | 1,152
+[B0304] Non-interest income | 675 | 630 | 625 | 640 | 659
+[B0305] Non-interest expense | 1,118 | 1,121 | 1,068 | 1,098 | 1,103
+[B0306] Income before income taxes | 787 | 718 | 714 | 708 | 708
+[B0307] Income tax expense | 156 | 148 | 155 | 174 | 139
+[B0308] Net income | $631 | $570 | $559 | $534 | $569
+[B0309] Net income available to common shareholders | $611 | $549 | $539 | $514 | $548
+[B0310] Adjusted net income available to common shareholders (non-GAAP) (1) | $622 | $583 | $539 | $504 | $561
+[B0311] Weighted-average shares outstanding—during quarter:
+[B0312] Basic | 852 | 854 | 863 | 875 | 890
+[B0313] Diluted | 856 | 857 | 868 | 880 | 894
+[B0314] Basic earnings per common share | $0.72 | $0.64 | $0.63 | $0.59 | $0.62
+[B0315] Diluted earnings per common share | $0.71 | $0.64 | $0.62 | $0.58 | $0.61
+[B0316] Adjusted diluted earnings per common share (non-GAAP) (1) | $0.73 | $0.68 | $0.62 | $0.57 | $0.63
+[B0317] Balance Sheet Summary
+[B0318] At quarter-end
+[B0319] Loans, net of unearned income | $99,827 | $99,200 | $97,926 | $95,637 | $96,125
+[B0320] Allowance for credit losses | (1,609) | (1,613) | (1,647) | (1,686) | (1,713)
+[B0321] Assets | 163,213 | 161,299 | 160,741 | 158,814 | 159,940
+[B0322] Deposits | 129,510 | 130,710 | 131,880 | 131,128 | 130,334
+[B0323] Long-term borrowings | 5,982 | 4,628 | 3,137 | 4,134 | 4,785
+[B0324] Shareholders' equity | 17,847 | 18,840 | 18,779 | 19,043 | 19,049
+[B0325] Average balances
+[B0326] Loans, net of unearned income | $99,183 | $98,722 | $96,423 | $95,651 | $96,647
+[B0327] Assets | 161,414 | 161,237 | 159,287 | 158,107 | 159,089
+[B0328] Deposits | 129,140 | 130,691 | 130,234 | 129,850 | 129,575
+[B0329] Long-term borrowings | 4,633 | 3,617 | 3,750 | 4,524 | 5,527
+[B0330] Shareholders' equity | 18,489 | 18,676 | 19,077 | 18,986 | 18,688
+[B0331] _____
+[B0332] (1) See reconciliation of these non-GAAP measures to the most directly comparable GAAP measures on page 19 .
+[B0333] 1
+[B0334] Regions Financial Corporation and Subsidiaries
+[B0335] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0336] Selected Ratios and Other Information
+[B0337] As of and for Quarter Ended
+[B0338] 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0339] Return on average assets* (1) | 1.55% | 1.42% | 1.42% | 1.34% | 1.42%
+[B0340] Return on average common shareholders' equity* | 14.16% | 12.73% | 12.35% | 11.58% | 12.56%
+[B0341] Return on average tangible common shareholders’ equity (non-GAAP)* (2) | 21.27% | 19.01% | 18.26% | 17.17% | 18.81%
+[B0342] Adjusted return on average tangible common shareholders' equity (non-GAAP) * (2) | 21.66% | 20.18% | 18.26% | 16.84% | 19.24%
+[B0343] Efficiency ratio | 56.2% | 58.3% | 56.6% | 56.8% | 57.2%
+[B0344] Adjusted efficiency ratio (non-GAAP) (2) | 55.8% | 56.9% | 56.6% | 57.5% | 56.9%
+[B0345] Dividend payout ratio (3) | 41.8% | 41.2% | 42.3% | 44.8% | 43.0%
+[B0346] Common book value per share | $19.38 | $20.48 | $20.39 | $20.36 | $19.98
+[B0347] Tangible common book value per share (non-GAAP) (2) | $12.65 | $13.78 | $13.69 | $13.75 | $13.49
+[B0348] Total shareholders' equity to total assets | 10.93% | 11.68% | 11.68% | 11.99% | 11.91%
+[B0349] Tangible common shareholders’ equity to tangible assets (non-GAAP) (2) | 6.83% | 7.55% | 7.54% | 7.80% | 7.74%
+[B0350] Common Equity Tier 1 (4) | $13,968 | $13,692 | $13,419 | $13,490 | $13,620
+[B0351] Total risk-weighted assets (4) | $129,237 | $127,748 | $125,682 | $123,882 | $125,386
+[B0352] Common Equity Tier 1 ratio (4) | 10.8% | 10.7% | 10.7% | 10.9% | 10.9%
+[B0353] Tier 1 capital ratio (4) | 11.9% | 11.8% | 11.8% | 12.0% | 12.0%
+[B0354] Total risk-based capital ratio (4) | 13.7% | 13.7% | 13.6% | 13.9% | 13.8%
+[B0355] Leverage ratio (4) | 9.8% | 9.7% | 9.6% | 9.7% | 9.7%
+[B0356] Effective tax rate | 19.8% | 20.7% | 21.6% | 24.5% | 19.7%
+[B0357] Allowance for credit losses as a percentage of loans, net of unearned income | 1.61% | 1.63% | 1.68% | 1.76% | 1.78%
+[B0358] Allowance for credit losses to non-performing loans, excluding loans held for sale | 275% | 241% | 238% | 242% | 226%
+[B0359] Net interest margin (FTE)* | 3.68% | 3.66% | 3.67% | 3.70% | 3.59%
+[B0360] Loans, net of unearned income, to total deposits | 77.1% | 75.9% | 74.3% | 72.9% | 73.8%
+[B0361] Net charge-offs as a percentage of average loans* | 0.29% | 0.42% | 0.54% | 0.59% | 0.55%
+[B0362] Business criticized loans to total business loans | 4.71% | 5.01% | 5.15% | 5.31% | 5.81%
+[B0363] Non-performing loans, excluding loans held for sale, as a percentage of loans | 0.59% | 0.67% | 0.71% | 0.73% | 0.79%
+[B0364] Non-performing assets (excluding loans 90 days past due) as a percentage of loans, foreclosed properties, and non-performing loans held for sale | 0.62% | 0.69% | 0.73% | 0.75% | 0.82%
+[B0365] Non-performing assets (including loans 90 days past due) as a percentage of loans, foreclosed properties, and non-performing loans held for sale (5) | 0.78% | 0.85% | 0.90% | 0.94% | 0.98%
+[B0366] Associate headcount—full-time equivalent | 19,968 | 20,003 | 19,910 | 19,969 | 19,675
+[B0367] ATMs | 1,775 | 1,777 | 1,779 | 1,786 | 1,874
+[B0368] Branch Statistics
+[B0369] Full service | 1,221 | 1,221 | 1,221 | 1,222 | 1,223
+[B0370] Drive-through/transaction service only | 25 | 25 | 25 | 25 | 25
+[B0371] Total branch outlets | 1,246 | 1,246 | 1,246 | 1,247 | 1,248
+[B0372] *Annualized
+[B0373] (1) Calculated by dividing net income by average assets.
+[B0374] (2) See reconciliation of these non-GAAP measures to the most directly comparable GAAP measures on pages 13 , 17 , 19 , and 20 .
+[B0375] (3) Dividend payout ratio reflects dividends declared within the applicable period.
+[B0376] (4) Current quarter Common equity Tier 1, Total risk-weighted assets, Tier 1 capital, Total risk-based capital and Leverage ratios are estimated.
+[B0377] (5) Excludes guaranteed residential first mortgages that are 90+ days past due and still accruing. Refer to the footnotes on page 23 for amounts related to these loans.
+[B0378] 2
+[B0379] Regions Financial Corporation and Subsidiaries
+[B0380] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0381] Consolidated Balance Sheets
+[B0382] As of
+[B0383] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0384] Assets:
+[B0385] Cash and due from banks | $2,867 | $3,177 | $3,445 | $3,112 | $3,073
+[B0386] Interest-bearing deposits in other banks | 7,462 | 6,749 | 7,698 | 7,795 | 9,026
+[B0387] Debt securities held to maturity | 5,062 | 5,271 | 5,434 | 5,606 | 5,769
+[B0388] Debt securities available for sale | 26,389 | 27,388 | 27,419 | 27,560 | 26,886
+[B0389] Loans held for sale | 491 | 591 | 464 | 511 | 573
+[B0390] Loans, net of unearned income | 99,827 | 99,200 | 97,926 | 95,637 | 96,125
+[B0391] Allowance for loan losses | (1,489) | (1,489) | (1,527) | (1,556) | (1,581)
+[B0392] Net loans | 98,338 | 97,711 | 96,399 | 94,081 | 94,544
+[B0393] Other earning assets | 1,829 | 1,574 | 1,635 | 1,703 | 1,513
+[B0394] Premises and equipment, net | 1,708 | 1,704 | 1,666 | 1,659 | 1,742
+[B0395] Interest receivable | 506 | 495 | 569 | 571 | 574
+[B0396] Goodwill | 5,748 | 5,733 | 5,733 | 5,733 | 5,733
+[B0397] Residential mortgage servicing rights at fair value (MSRs) | 1,195 | 958 | 954 | 970 | 976
+[B0398] Other identifiable intangible assets, net | 120 | 126 | 133 | 140 | 146
+[B0399] Other assets | 11,498 | 9,822 | 9,192 | 9,373 | 9,385
+[B0400] Total assets | $163,213 | $161,299 | $160,741 | $158,814 | $159,940
+[B0401] Liabilities and Equity:
+[B0402] Deposits:
+[B0403] Non-interest-bearing | $40,783 | $40,538 | $40,062 | $39,530 | $39,768
+[B0404] Interest-bearing | 88,727 | 90,172 | 91,818 | 91,598 | 90,566
+[B0405] Total deposits | 129,510 | 130,710 | 131,880 | 131,128 | 130,334
+[B0406] Borrowed funds:
+[B0407] Federal funds purchased and securities sold under agreements to repurchase | 500 | 200 | 1,200 | — | —
+[B0408] Other short-term borrowings | 4,000 | 2,800 | 2,000 | 750 | 1,300
+[B0409] Short-term borrowings | 4,500 | 3,000 | 3,200 | 750 | 1,300
+[B0410] Long-term borrowings | 5,982 | 4,628 | 3,137 | 4,134 | 4,785
+[B0411] Other liabilities | 5,255 | 4,050 | 3,680 | 3,699 | 4,426
+[B0412] Total liabilities | 145,247 | 142,388 | 141,897 | 139,711 | 140,845
+[B0413] Equity:
+[B0414] Preferred stock, non-cumulative perpetual | 1,369 | 1,369 | 1,369 | 1,369 | 1,369
+[B0415] Common stock | 9 | 9 | 9 | 9 | 9
+[B0416] Additional paid-in capital | 9,841 | 9,915 | 9,973 | 10,366 | 10,780
+[B0417] Retained earnings | 11,196 | 10,840 | 10,517 | 10,205 | 9,922
+[B0418] Treasury stock, at cost | (1,371) | (1,371) | (1,371) | (1,371) | (1,371)
+[B0419] Accumulated other comprehensive income (loss), net | (3,197) | (1,922) | (1,718) | (1,535) | (1,660)
+[B0420] Total shareholders’ equity | 17,847 | 18,840 | 18,779 | 19,043 | 19,049
+[B0421] Noncontrolling interest | 119 | 71 | 65 | 60 | 46
+[B0422] Total equity | 17,966 | 18,911 | 18,844 | 19,103 | 19,095
+[B0423] Total liabilities and equity | $163,213 | $161,299 | $160,741 | $158,814 | $159,940
+[B0424] 3
+[B0425] Regions Financial Corporation and Subsidiaries
+[B0426] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0427] End of Period Loans
+[B0428] As of
+[B0429] 9/30/2026 | 9/30/2026
+[B0430] ($ amounts in millions, net of unearned income) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | vs. 6/30/2026 | vs. 9/30/2025
+[B0431] Commercial and industrial | $52,409 | $51,841 | $50,824 | $48,790 | $49,234 | $568 | 1.1% | $3,175 | 6.4%
+[B0432] Commercial real estate mortgage—owner-occupied | 5,072 | 5,127 | 5,004 | 4,845 | 4,835 | (55) | (1.1)% | 237 | 4.9%
+[B0433] Commercial real estate construction—owner-occupied | 296 | 267 | 261 | 263 | 285 | 29 | 10.9% | 11 | 3.9%
+[B0434] Total commercial | 57,777 | 57,235 | 56,089 | 53,898 | 54,354 | 542 | 0.9% | 3,423 | 6.3%
+[B0435] Commercial investor real estate mortgage | 8,159 | 7,896 | 7,706 | 7,172 | 7,122 | 263 | 3.3% | 1,037 | 14.6%
+[B0436] Commercial investor real estate construction | 2,052 | 2,073 | 1,938 | 1,934 | 1,948 | (21) | (1.0)% | 104 | 5.3%
+[B0437] Total investor real estate | 10,211 | 9,969 | 9,644 | 9,106 | 9,070 | 242 | 2.4% | 1,141 | 12.6%
+[B0438] Total business | 67,988 | 67,204 | 65,733 | 63,004 | 63,424 | 784 | 1.2% | 4,564 | 7.2%
+[B0439] Residential first mortgage | 19,376 | 19,498 | 19,621 | 19,765 | 19,881 | (122) | (0.6)% | (505) | (2.5)%
+[B0440] Home equity—lines of credit (1) | 3,277 | 3,241 | 3,210 | 3,232 | 3,209 | 36 | 1.1% | 68 | 2.1%
+[B0441] Home equity—closed-end (2) | 2,260 | 2,263 | 2,287 | 2,324 | 2,340 | (3) | (0.1)% | (80) | (3.4)%
+[B0442] Consumer credit card | 1,512 | 1,498 | 1,472 | 1,519 | 1,437 | 14 | 0.9% | 75 | 5.2%
+[B0443] Other consumer (3) | 5,414 | 5,496 | 5,603 | 5,793 | 5,834 | (82) | (1.5)% | (420) | (7.2)%
+[B0444] Total consumer | 31,839 | 31,996 | 32,193 | 32,633 | 32,701 | (157) | (0.5)% | (862) | (2.6)%
+[B0445] Total Loans | $99,827 | $99,200 | $97,926 | $95,637 | $96,125 | $627 | 0.6% | $3,702 | 3.9%
+[B0446] ______
+[B0447] (1) The balance of Regions' home equity lines of credit consists of $1,407 million of first lien and $1,870 million of second lien at 9/30/2026.
+[B0448] (2) The balance of Regions' closed-end home equity loans consists of $1,651 million of first lien and $609 million of second lien at 9/30/2026.
+[B0449] (3) Other consumer loans also include Regions' Home Improvement Financing portfolio balances of $4.6 billion at 9/30/2026, $4.7 billion at 6/30/2026, $4.8 billion at 3/31/2026, $4.9 billion at 12/31/2025 and $5.0 billion at 9/30/2025.
+[B0450] As of
+[B0451] End of Period Loans by Percentage (1) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0452] Commercial and industrial | 52.5% | 52.3% | 51.9% | 51.0% | 51.2%
+[B0453] Commercial real estate mortgage—owner-occupied | 5.1% | 5.2% | 5.1% | 5.1% | 5.0%
+[B0454] Commercial real estate construction—owner-occupied | 0.3% | 0.3% | 0.3% | 0.3% | 0.3%
+[B0455] Total commercial | 57.9% | 57.7% | 57.3% | 56.4% | 56.5%
+[B0456] Commercial investor real estate mortgage | 8.2% | 8.0% | 7.8% | 7.5% | 7.4%
+[B0457] Commercial investor real estate construction | 2.1% | 2.1% | 2.0% | 2.0% | 2.0%
+[B0458] Total investor real estate | 10.2% | 10.0% | 9.8% | 9.5% | 9.4%
+[B0459] Total business | 68.1% | 67.7% | 67.1% | 65.9% | 66.0%
+[B0460] Residential first mortgage | 19.4% | 19.7% | 20.1% | 20.7% | 20.7%
+[B0461] Home equity—lines of credit | 3.3% | 3.3% | 3.3% | 3.4% | 3.3%
+[B0462] Home equity—closed-end | 2.3% | 2.3% | 2.3% | 2.4% | 2.4%
+[B0463] Consumer credit card | 1.5% | 1.5% | 1.5% | 1.6% | 1.5%
+[B0464] Other consumer | 5.4% | 5.5% | 5.7% | 6.1% | 6.1%
+[B0465] Total consumer | 31.9% | 32.3% | 32.9% | 34.1% | 34.0%
+[B0466] Total Loans | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
+[B0467] (1) Amounts have been calculated using whole dollar values, and therefore such amounts may not add to total amounts.
+[B0468] 4
+[B0469] Regions Financial Corporation and Subsidiaries
+[B0470] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0471] Average Balances of Loans
+[B0472] Average Balances
+[B0473] ($ amounts in millions, net of unearned income) | 3Q26 | 2Q26 | 1Q26 | 4Q25 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0474] Commercial and industrial | $51,910 | $51,504 | $49,572 | $48,769 | $49,588 | $406 | 0.8% | $2,322 | 4.7%
+[B0475] Commercial real estate mortgage—owner-occupied | 5,074 | 5,089 | 4,887 | 4,866 | 4,860 | (15) | (0.3)% | 214 | 4.4%
+[B0476] Commercial real estate construction—owner-occupied | 286 | 253 | 259 | 260 | 274 | 33 | 13.0% | 12 | 4.4%
+[B0477] Total commercial | 57,270 | 56,846 | 54,718 | 53,895 | 54,722 | 424 | 0.7% | 2,548 | 4.7%
+[B0478] Commercial investor real estate mortgage | 7,940 | 7,798 | 7,381 | 7,210 | 7,087 | 142 | 1.8% | 853 | 12.0%
+[B0479] Commercial investor real estate construction | 2,052 | 1,991 | 1,946 | 1,906 | 2,051 | 61 | 3.1% | 1 | —%
+[B0480] Total investor real estate | 9,992 | 9,789 | 9,327 | 9,116 | 9,138 | 203 | 2.1% | 854 | 9.3%
+[B0481] Total business | 67,262 | 66,635 | 64,045 | 63,011 | 63,860 | 627 | 0.9% | 3,402 | 5.3%
+[B0482] Residential first mortgage | 19,423 | 19,551 | 19,674 | 19,822 | 19,944 | (128) | (0.7)% | (521) | (2.6)%
+[B0483] Home equity—lines of credit | 3,256 | 3,226 | 3,216 | 3,219 | 3,197 | 30 | 0.9% | 59 | 1.8%
+[B0484] Home equity—closed-end | 2,255 | 2,270 | 2,298 | 2,327 | 2,341 | (15) | (0.7)% | (86) | (3.7)%
+[B0485] Consumer credit card | 1,492 | 1,474 | 1,473 | 1,458 | 1,420 | 18 | 1.2% | 72 | 5.1%
+[B0486] Other consumer (1) | 5,495 | 5,566 | 5,717 | 5,814 | 5,885 | (71) | (1.3)% | (390) | (6.6)%
+[B0487] Total consumer | 31,921 | 32,087 | 32,378 | 32,640 | 32,787 | (166) | (0.5)% | (866) | (2.6)%
+[B0488] Total Loans | $99,183 | $98,722 | $96,423 | $95,651 | $96,647 | $461 | 0.5% | $2,536 | 2.6%
+[B0489] Average Balances
+[B0490] Nine Months Ended September 30
+[B0491] ($ amounts in millions, net of unearned income) | 2026 | 2025 | 2026 vs. 2025
+[B0492] Commercial and industrial | $51,004 | $49,278 | $1,726 | 3.5%
+[B0493] Commercial real estate mortgage—owner-occupied | 5,018 | 4,874 | 144 | 3.0%
+[B0494] Commercial real estate construction—owner-occupied | 266 | 287 | (21) | (7.3)%
+[B0495] Total commercial | 56,288 | 54,439 | 1,849 | 3.4%
+[B0496] Commercial investor real estate mortgage | 7,708 | 6,794 | 914 | 13.5%
+[B0497] Commercial investor real estate construction | 1,997 | 2,173 | (176) | (8.1)%
+[B0498] Total investor real estate | 9,705 | 8,967 | 738 | 8.2%
+[B0499] Total business | 65,993 | 63,406 | 2,587 | 4.1%
+[B0500] Residential first mortgage | 19,548 | 19,991 | (443) | (2.2)%
+[B0501] Home equity—lines of credit | 3,233 | 3,167 | 66 | 2.1%
+[B0502] Home equity—closed-end | 2,274 | 2,357 | (83) | (3.5)%
+[B0503] Consumer credit card | 1,480 | 1,404 | 76 | 5.4%
+[B0504] Other consumer (1) | 5,591 | 5,959 | (368) | (6.2)%
+[B0505] Total consumer | 32,126 | 32,878 | (752) | (2.3)%
+[B0506] Total Loans | $98,119 | $96,284 | $1,835 | 1.9%
+[B0507] _____
+[B0508] (1) Other consumer loans also include Regions' Home Improvement Financing portfolio balances of $4.6 billion at 9/30/2026, $4.7 billion at 6/30/2026, $4.8 billion at 3/31/2026, $4.9 billion at 12/31/2025 and $5.0 billion at 9/30/2025 (on a quarter-to-date basis); and balances of $4.7 billion at 9/30/2026 and $5.1 billion at 9/30/2025 (on a year-to-date basis).
+[B0509] 5
+[B0510] Regions Financial Corporation and Subsidiaries
+[B0511] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0512] End of Period Deposits
+[B0513] As of
+[B0514] 9/30/2026 | 9/30/2026
+[B0515] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | vs. 6/30/2026 | vs. 9/30/2025
+[B0516] Non-interest-bearing deposits | $40,783 | $40,538 | $40,062 | $39,530 | $39,768 | $245 | 0.6% | $1,015 | 2.6%
+[B0517] Interest-bearing checking | 23,801 | 25,001 | 25,017 | 25,677 | 24,669 | (1,200) | (4.8)% | (868) | (3.5)%
+[B0518] Savings | 12,075 | 12,277 | 12,405 | 11,914 | 11,944 | (202) | (1.6)% | 131 | 1.1%
+[B0519] Money market—domestic | 40,170 | 39,974 | 41,288 | 40,119 | 39,051 | 196 | 0.5% | 1,119 | 2.9%
+[B0520] Time deposits | 12,681 | 12,920 | 13,108 | 13,888 | 14,902 | (239) | (1.8)% | (2,221) | (14.9)%
+[B0521] Total Deposits | $129,510 | $130,710 | $131,880 | $131,128 | $130,334 | $(1,200) | (0.9)% | $(824) | (0.6)%
+[B0522] As of
+[B0523] 9/30/2026 | 9/30/2026
+[B0524] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | vs. 6/30/2026 | vs. 9/30/2025
+[B0525] Consumer Bank Segment | $80,975 | $80,972 | $81,271 | $80,193 | $79,689 | $3 | —% | $1,286 | 1.6%
+[B0526] Corporate Bank Segment | 39,270 | 39,952 | 40,574 | 40,449 | 40,415 | (682) | (1.7)% | (1,145) | (2.8)%
+[B0527] Wealth Management Segment | 7,437 | 7,466 | 7,750 | 8,344 | 7,654 | (29) | (0.4)% | (217) | (2.8)%
+[B0528] Other (1) | 1,828 | 2,320 | 2,285 | 2,142 | 2,576 | (492) | (21.2)% | (748) | (29.0)%
+[B0529] Total Deposits | $129,510 | $130,710 | $131,880 | $131,128 | $130,334 | $(1,200) | (0.9)% | $(824) | (0.6)%
+[B0530] As of
+[B0531] 9/30/2026 | 9/30/2026
+[B0532] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | vs. 6/30/2026 | vs. 9/30/2025
+[B0533] Wealth Management - Private Wealth | $6,612 | $6,547 | $6,741 | $7,149 | $6,698 | $65 | 1.0% | $(86) | (1.3)%
+[B0534] Wealth Management - Institutional Services | 825 | 919 | 1,009 | 1,195 | 956 | (94) | (10.2)% | (131) | (13.7)%
+[B0535] Total Wealth Management Segment Deposits | $7,437 | $7,466 | $7,750 | $8,344 | $7,654 | $(29) | (0.4)% | $(217) | (2.8)%
+[B0536] As of
+[B0537] End of Period Deposits by Percentage | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0538] Non-interest-bearing deposits | 31.5% | 31.0% | 30.4% | 30.1% | 30.5%
+[B0539] Interest-bearing checking | 18.4% | 19.1% | 19.0% | 19.6% | 18.9%
+[B0540] Savings | 9.3% | 9.4% | 9.4% | 9.1% | 9.2%
+[B0541] Money market—domestic | 31.0% | 30.6% | 31.3% | 30.6% | 30.0%
+[B0542] Time deposits | 9.8% | 9.9% | 9.9% | 10.6% | 11.4%
+[B0543] Total Deposits | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
+[B0544] (1) Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits) and additional wholesale funding arrangements. Other deposits includes brokered deposits totaling $1.0 billion at 9/30/2026, $1.6 billion at 6/30/2026, $1.5 billion at 3/31/2026, $1.3 billion at 12/31/2025 and $1.8 billion at 9/30/2025.
+[B0545] 6
+[B0546] Regions Financial Corporation and Subsidiaries
+[B0547] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0548] Average Balances of Deposits
+[B0549] Average Balances
+[B0550] ($ amounts in millions) | 3Q26 | 2Q26 | 1Q26 | 4Q25 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0551] Non-interest-bearing deposits | $39,776 | $39,738 | $39,160 | $39,459 | $39,538 | $38 | 0.1% | $238 | 0.6%
+[B0552] Interest-bearing checking | 24,513 | 25,121 | 25,245 | 24,528 | 24,274 | (608) | (2.4)% | 239 | 1.0%
+[B0553] Savings | 12,147 | 12,355 | 12,075 | 11,876 | 12,046 | (208) | (1.7)% | 101 | 0.8%
+[B0554] Money market—domestic | 39,922 | 40,382 | 40,366 | 39,591 | 38,593 | (460) | (1.1)% | 1,329 | 3.4%
+[B0555] Time deposits | 12,782 | 13,095 | 13,388 | 14,396 | 15,124 | (313) | (2.4)% | (2,342) | (15.5)%
+[B0556] Total Deposits | $129,140 | $130,691 | $130,234 | $129,850 | $129,575 | $(1,551) | (1.2)% | (435) | (0.3)%
+[B0557] Average Balances
+[B0558] ($ amounts in millions) | 3Q26 | 2Q26 | 1Q26 | 4Q25 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0559] Consumer Bank Segment | $80,116 | $80,624 | $79,599 | $79,437 | $79,698 | $(508) | (0.6)% | $418 | 0.5%
+[B0560] Corporate Bank Segment | 39,505 | 40,106 | 40,707 | 40,243 | 39,733 | (601) | (1.5)% | (228) | (0.6)%
+[B0561] Wealth Management Segment | 7,484 | 7,594 | 7,777 | 7,810 | 7,262 | (110) | (1.4)% | 222 | 3.1%
+[B0562] Other (1) | 2,035 | 2,367 | 2,151 | 2,360 | 2,882 | (332) | (14.0)% | (847) | (29.4)%
+[B0563] Total Deposits | $129,140 | $130,691 | $130,234 | $129,850 | $129,575 | $(1,551) | (1.2)% | $(435) | (0.3)%
+[B0564] Average Balances
+[B0565] ($ amounts in millions) | 3Q26 | 2Q26 | 1Q26 | 4Q25 | 3Q25 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0566] Wealth Management - Private Wealth | $6,634 | $6,672 | $6,747 | $6,719 | $6,604 | $(38) | (0.6)% | $30 | 0.5%
+[B0567] Wealth Management - Institutional Services | 850 | 922 | 1,030 | 1,091 | 658 | (72) | (7.8)% | 192 | 29.2%
+[B0568] Total Wealth Management Segment Deposits | $7,484 | $7,594 | $7,777 | $7,810 | $7,262 | $(110) | (1.4)% | $222 | 3.1%
+[B0569] Average Balances
+[B0570] Nine Months Ended September 30
+[B0571] ($ amounts in millions) | 2026 | 2025 | 2026 vs. 2025
+[B0572] Interest-free deposits | $39,560 | $39,384 | $176 | 0.4%
+[B0573] Interest-bearing checking | 24,958 | 24,722 | 236 | 1.0%
+[B0574] Savings | 12,192 | 12,174 | 18 | 0.1%
+[B0575] Money market—domestic | 40,222 | 37,213 | 3,009 | 8.1%
+[B0576] Time deposits | 13,086 | 15,416 | (2,330) | (15.1)%
+[B0577] Total Deposits | $130,018 | $128,909 | $1,109 | 0.9%
+[B0578] Average Balances
+[B0579] Nine Months Ended September 30
+[B0580] ($ amounts in millions) | 2026 | 2025 | 2026 vs. 2025
+[B0581] Consumer Bank Segment | $80,115 | $79,444 | $671 | 0.8%
+[B0582] Corporate Bank Segment | 40,102 | 39,098 | 1,004 | 2.6%
+[B0583] Wealth Management Segment | 7,617 | 7,394 | 223 | 3.0%
+[B0584] Other (1) | 2,184 | 2,973 | (789) | (26.5)%
+[B0585] Total Deposits | $130,018 | $128,909 | $1,109 | 0.9%
+[B0586] Average Balances
+[B0587] Nine Months Ended September 30
+[B0588] ($ amounts in millions) | 2026 | 2025 | 2026 vs. 2025
+[B0589] Wealth Management - Private Wealth | $6,684 | $6,734 | $(50) | (0.7)%
+[B0590] Wealth Management - Institutional Services | 933 | 660 | 273 | 41.4%
+[B0591] Total Wealth Management Segment Deposits | $7,617 | $7,394 | $223 | 3.0%
+[B0592] (1) Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, selected deposits and brokered time deposits) and additional wholesale funding arrangements.
+[B0593] 7
+[B0594] Regions Financial Corporation and Subsidiaries
+[B0595] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0596] Consolidated Statements of Income (unaudited)
+[B0597] Quarter Ended
+[B0598] ($ amounts in millions, except per share data) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0599] Interest income on:
+[B0600] Loans, including fees | $1,378 | $1,351 | $1,313 | $1,358 | $1,386
+[B0601] Debt securities | 312 | 305 | 298 | 300 | 293
+[B0602] Loans held for sale | 8 | 8 | 8 | 9 | 9
+[B0603] Other earning assets | 86 | 84 | 83 | 101 | 108
+[B0604] Total interest income | 1,784 | 1,748 | 1,702 | 1,768 | 1,796
+[B0605] Interest expense on:
+[B0606] Deposits | 382 | 385 | 385 | 421 | 456
+[B0607] Short-term borrowings | 40 | 34 | 17 | 4 | 8
+[B0608] Long-term borrowings | 64 | 52 | 52 | 62 | 75
+[B0609] Total interest expense | 486 | 471 | 454 | 487 | 539
+[B0610] Net interest income | 1,298 | 1,277 | 1,248 | 1,281 | 1,257
+[B0611] Provision for credit losses | 68 | 68 | 91 | 115 | 105
+[B0612] Net interest income after provision for credit losses | 1,230 | 1,209 | 1,157 | 1,166 | 1,152
+[B0613] Non-interest income:
+[B0614] Service charges on deposit accounts | 171 | 167 | 163 | 163 | 160
+[B0615] Card and ATM fees | 126 | 126 | 117 | 123 | 122
+[B0616] Wealth management income | 146 | 150 | 141 | 143 | 139
+[B0617] Capital markets income | 107 | 84 | 84 | 80 | 104
+[B0618] Mortgage income | 32 | 33 | 32 | 32 | 38
+[B0619] Securities gains (losses), net | (15) | (41) | (3) | — | (27)
+[B0620] Other | 108 | 111 | 91 | 99 | 123
+[B0621] Total non-interest income | 675 | 630 | 625 | 640 | 659
+[B0622] Non-interest expense:
+[B0623] Salaries and employee benefits | 694 | 697 | 659 | 662 | 671
+[B0624] Equipment and software expense | 113 | 107 | 108 | 112 | 106
+[B0625] Net occupancy expense | 74 | 73 | 72 | 74 | 72
+[B0626] Other | 237 | 244 | 229 | 250 | 254
+[B0627] Total non-interest expense | 1,118 | 1,121 | 1,068 | 1,098 | 1,103
+[B0628] Income before income taxes | 787 | 718 | 714 | 708 | 708
+[B0629] Income tax expense | 156 | 148 | 155 | 174 | 139
+[B0630] Net income | $631 | $570 | $559 | $534 | $569
+[B0631] Net income available to common shareholders | $611 | $549 | $539 | $514 | $548
+[B0632] Weighted-average shares outstanding—during quarter:
+[B0633] Basic | 852 | 854 | 863 | 875 | 890
+[B0634] Diluted | 856 | 857 | 868 | 880 | 894
+[B0635] Actual shares outstanding—end of quarter | 850 | 853 | 854 | 868 | 885
+[B0636] Earnings per common share: (1)
+[B0637] Basic | $0.72 | $0.64 | $0.63 | $0.59 | $0.62
+[B0638] Diluted | $0.71 | $0.64 | $0.62 | $0.58 | $0.61
+[B0639] Taxable-equivalent net interest income | $1,314 | $1,291 | $1,261 | $1,294 | $1,269
+[B0640] ________
+[B0641] (1) Quarterly amounts may not add to year-to-date amounts due to rounding.
+[B0642] 8
+[B0643] Regions Financial Corporation and Subsidiaries
+[B0644] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0645] Consolidated Statements of Income (continued) (unaudited)
+[B0646] Nine Months Ended September 30
+[B0647] ($ amounts in millions, except per share data) | 2026 | 2025
+[B0648] Interest income on:
+[B0649] Loans, including fees | $4,042 | $4,105
+[B0650] Debt securities | 915 | 845
+[B0651] Loans held for sale | 24 | 26
+[B0652] Other earning assets | 253 | 329
+[B0653] Total interest income | 5,234 | 5,305
+[B0654] Interest expense on:
+[B0655] Deposits | 1,152 | 1,345
+[B0656] Short-term borrowings | 91 | 13
+[B0657] Long-term borrowings | 168 | 237
+[B0658] Total interest expense | 1,411 | 1,595
+[B0659] Net interest income | 3,823 | 3,710
+[B0660] Provision for credit losses | 227 | 355
+[B0661] Net interest income after provision for credit losses | 3,596 | 3,355
+[B0662] Non-interest income:
+[B0663] Service charges on deposit accounts | 501 | 472
+[B0664] Card and ATM fees | 369 | 364
+[B0665] Wealth management income | 437 | 401
+[B0666] Capital markets income | 275 | 267
+[B0667] Mortgage income | 97 | 126
+[B0668] Securities gains (losses), net | (59) | (53)
+[B0669] Other | 310 | 318
+[B0670] Total non-interest income | 1,930 | 1,895
+[B0671] Non-interest expense:
+[B0672] Salaries and employee benefits | 2,050 | 1,954
+[B0673] Equipment and software expense | 328 | 309
+[B0674] Net occupancy expense | 219 | 214
+[B0675] Other | 710 | 738
+[B0676] Total non-interest expense | 3,307 | 3,215
+[B0677] Income before income taxes | 2,219 | 2,035
+[B0678] Income tax expense | 459 | 413
+[B0679] Net income | $1,760 | $1,622
+[B0680] Net income available to common shareholders | $1,699 | $1,547
+[B0681] Weighted-average shares outstanding—during year:
+[B0682] Basic | 856 | 898
+[B0683] Diluted | 860 | 902
+[B0684] Actual shares outstanding—end of period | 850 | 885
+[B0685] Earnings per common share:
+[B0686] Basic | $1.98 | $1.72
+[B0687] Diluted | $1.97 | $1.72
+[B0688] Taxable-equivalent net interest income | $3,866 | $3,746
+[B0689] 9
+[B0690] Regions Financial Corporation and Subsidiaries
+[B0691] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0692] Consolidated Average Daily Balances and Yield/Rate Analysis
+[B0693] Quarter Ended
+[B0694] 9/30/2026 | 6/30/2026
+[B0695] ($ amounts in millions; yields on taxable-equivalent basis) | Average Balance | Income/ Expense | Yield/ Rate (1) | Average Balance | Income/ Expense | Yield/ Rate (1)
+[B0696] Assets
+[B0697] Earning assets:
+[B0698] Debt securities (2)(3) | $33,269 | $312 | 3.75% | $33,286 | $305 | 3.66%
+[B0699] Loans held for sale | 501 | 8 | 6.55 | 512 | 8 | 6.16
+[B0700] Loans, net of unearned income:
+[B0701] Commercial and industrial (4) | 51,910 | 714 | 5.40 | 51,504 | 697 | 5.36
+[B0702] Commercial real estate mortgage—owner-occupied (5) | 5,074 | 68 | 5.27 | 5,089 | 66 | 5.14
+[B0703] Commercial real estate construction—owner-occupied | 286 | 4 | 5.65 | 253 | 3 | 5.73
+[B0704] Commercial investor real estate mortgage | 7,940 | 112 | 5.55 | 7,798 | 111 | 5.63
+[B0705] Commercial investor real estate construction | 2,052 | 36 | 6.90 | 1,991 | 32 | 6.40
+[B0706] Residential first mortgage | 19,423 | 204 | 4.18 | 19,551 | 201 | 4.11
+[B0707] Home equity | 5,511 | 90 | 6.50 | 5,496 | 89 | 6.48
+[B0708] Consumer credit card | 1,492 | 51 | 13.58 | 1,474 | 50 | 13.69
+[B0709] Other consumer | 5,495 | 115 | 8.25 | 5,566 | 116 | 8.31
+[B0710] Total loans, net of unearned income | 99,183 | 1,394 | 5.54 | 98,722 | 1,365 | 5.50
+[B0711] Interest-bearing deposits in other banks | 7,204 | 69 | 3.79 | 7,291 | 69 | 3.78
+[B0712] Other earning assets | 1,580 | 17 | 4.33 | 1,526 | 15 | 4.06
+[B0713] Total earning assets | 141,737 | 1,800 | 5.02 | 141,337 | 1,762 | 4.96
+[B0714] Unrealized gains/(losses) on debt securities available for sale, net (2) | (1,125) | (769)
+[B0715] Allowance for loan losses | (1,503) | (1,533)
+[B0716] Cash and due from banks | 3,001 | 3,247
+[B0717] Other non-earning assets | 19,304 | 18,955
+[B0718] $161,414 | $161,237
+[B0719] Liabilities and Shareholders’ Equity
+[B0720] Interest-bearing liabilities:
+[B0721] Savings | $12,147 | 4 | 0.13 | $12,355 | 4 | 0.12
+[B0722] Interest-bearing checking | 24,513 | 72 | 1.18 | 25,121 | 74 | 1.17
+[B0723] Money market | 39,922 | 208 | 2.07 | 40,382 | 209 | 2.07
+[B0724] Time deposits | 12,782 | 98 | 3.02 | 13,095 | 98 | 3.02
+[B0725] Total interest-bearing deposits (6) | 89,364 | 382 | 1.70 | 90,953 | 385 | 1.69
+[B0726] Federal funds purchased and securities sold under agreements to repurchase | 1,677 | 16 | 3.69 | 1,096 | 9 | 3.64
+[B0727] Other short-term borrowings | 2,428 | 24 | 3.88 | 2,592 | 25 | 3.81
+[B0728] Long-term borrowings | 4,633 | 64 | 5.46 | 3,617 | 52 | 5.69
+[B0729] Total interest-bearing liabilities | 98,102 | 486 | 1.97 | 98,258 | 471 | 1.92
+[B0730] Non-interest-bearing deposits (6) | 39,776 | — | — | 39,738 | — | —
+[B0731] Total funding sources | 137,878 | 486 | 1.40 | 137,996 | 471 | 1.37
+[B0732] Net interest spread (2) | 3.05 | 3.04
+[B0733] Other liabilities | 4,975 | 4,500
+[B0734] Shareholders’ equity | 18,489 | 18,676
+[B0735] Noncontrolling interest | 72 | 65
+[B0736] $161,414 | $161,237
+[B0737] Net interest income/margin FTE basis (2) | $1,314 | 3.68% | $1,291 | 3.66%
+[B0738] _______
+[B0739] (1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+[B0740] (2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly.
+[B0741] (3) Interest income includes hedging income of $1 million and $1 million for the quarter ended September 30, 2026 and June 30, 2026, respectively.
+[B0742] (4) Interest income includes hedging expense of $29 million and $30 million for the quarter ended September 30, 2026 and June 30, 2026, respectively.
+[B0743] (5) Interest income includes hedging expense of $3 million and $4 million for the quarter ended September 30, 2026 and June 30, 2026, respectively.
+[B0744] (6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits. The rates for total deposit costs equal 1.17% and 1.18% for the quarter ended September 30, 2026 and June 30, 2026, respectively.
+[B0745] 10
+[B0746] Regions Financial Corporation and Subsidiaries
+[B0747] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0748] Consolidated Average Daily Balances and Yield/Rate Analysis (continued)
+[B0749] Quarter Ended
+[B0750] 3/31/2026 | 12/31/2025 | 9/30/2025
+[B0751] ($ amounts in millions; yields on taxable-equivalent basis) | Average Balance | Income/ Expense | Yield/ Rate (1) | Average Balance | Income/ Expense | Yield/ Rate (1) | Average Balance | Income/ Expense | Yield/ Rate (1)
+[B0752] Assets
+[B0753] Earning assets:
+[B0754] Debt securities (2)(3) | 33,530 | 298 | 3.56% | 33,464 | 300 | 3.58% | 33,223 | 293 | 3.53%
+[B0755] Loans held for sale | 579 | 8 | 5.48 | 642 | 9 | 5.73 | 662 | 9 | 5.52
+[B0756] Loans, net of unearned income:
+[B0757] Commercial and industrial (4) | 49,572 | 665 | 5.37 | 48,769 | 688 | 5.53 | 49,588 | 714 | 5.65
+[B0758] Commercial real estate mortgage—owner-occupied (5) | 4,887 | 63 | 5.14 | 4,866 | 65 | 5.16 | 4,860 | 62 | 5.04
+[B0759] Commercial real estate construction—owner-occupied | 259 | 4 | 5.60 | 260 | 3 | 5.72 | 274 | 4 | 5.96
+[B0760] Commercial investor real estate mortgage | 7,381 | 106 | 5.72 | 7,210 | 116 | 6.29 | 7,087 | 114 | 6.30
+[B0761] Commercial investor real estate construction | 1,946 | 32 | 6.51 | 1,906 | 33 | 6.85 | 2,051 | 37 | 7.12
+[B0762] Residential first mortgage | 19,674 | 200 | 4.07 | 19,822 | 202 | 4.07 | 19,944 | 202 | 4.06
+[B0763] Home equity | 5,514 | 89 | 6.50 | 5,546 | 91 | 6.57 | 5,538 | 91 | 6.54
+[B0764] Consumer credit card | 1,473 | 51 | 14.00 | 1,458 | 51 | 14.06 | 1,420 | 52 | 14.46
+[B0765] Other consumer | 5,717 | 116 | 8.26 | 5,814 | 122 | 8.26 | 5,885 | 122 | 8.14
+[B0766] Total loans, net of unearned income | 96,423 | 1,326 | 5.51 | 95,651 | 1,371 | 5.65 | 96,647 | 1,398 | 5.70
+[B0767] Interest-bearing deposits in other banks | 7,415 | 69 | 3.79 | 7,596 | 79 | 4.07 | 8,316 | 94 | 4.51
+[B0768] Other earning assets | 1,481 | 14 | 3.72 | 1,456 | 22 | 6.21 | 1,519 | 14 | 3.63
+[B0769] Total earning assets | 139,428 | 1,715 | 4.93 | 138,809 | 1,781 | 5.07 | 140,367 | 1,808 | 5.09
+[B0770] Unrealized gains/(losses) on debt securities available for sale, net (2) | (580) | (641) | (1,001)
+[B0771] Allowance for loan losses | (1,552) | (1,545) | (1,616)
+[B0772] Cash and due from banks | 3,275 | 3,055 | 2,892
+[B0773] Other non-earning assets | 18,716 | 18,429 | 18,447
+[B0774] $159,287 | $158,107 | $159,089
+[B0775] Liabilities and Shareholders’ Equity
+[B0776] Interest-bearing liabilities:
+[B0777] Savings | $12,075 | 4 | 0.13 | $11,876 | 3 | 0.10 | $12,046 | 4 | 0.13
+[B0778] Interest-bearing checking | 25,245 | 71 | 1.15 | 24,528 | 78 | 1.26 | 24,274 | 86 | 1.41
+[B0779] Money market | 40,366 | 207 | 2.08 | 39,591 | 220 | 2.20 | 38,593 | 234 | 2.40
+[B0780] Time deposits | 13,388 | 103 | 3.12 | 14,396 | 120 | 3.33 | 15,124 | 132 | 3.45
+[B0781] Total interest-bearing deposits (6) | 91,074 | 385 | 1.72 | 90,391 | 421 | 1.85 | 90,037 | 456 | 2.01
+[B0782] Federal funds purchased and securities sold under agreements to repurchase | 655 | 7 | 3.66 | 52 | 2 | 3.91 | 48 | — | 4.36
+[B0783] Other short-term borrowings | 1,077 | 10 | 3.80 | 211 | 2 | 4.25 | 696 | 8 | 4.49
+[B0784] Long-term borrowings | 3,750 | 52 | 5.56 | 4,524 | 62 | 5.40 | 5,527 | 75 | 5.39
+[B0785] Total interest-bearing liabilities | 96,556 | 454 | 1.91 | 95,178 | 487 | 2.03 | 96,308 | 539 | 2.22
+[B0786] Non-interest-bearing deposits (6) | 39,160 | — | — | 39,459 | — | — | 39,538 | — | —
+[B0787] Total funding sources | 135,716 | 454 | 1.35 | 134,637 | 487 | 1.43 | 135,846 | 539 | 1.57
+[B0788] Net interest spread (2) | 3.02 | 3.04 | 2.87
+[B0789] Other liabilities | 4,435 | 4,438 | 4,515
+[B0790] Shareholders’ equity | 19,077 | 18,986 | 18,688
+[B0791] Noncontrolling interest | 59 | 46 | 40
+[B0792] $159,287 | $158,107 | $159,089
+[B0793] Net interest income/margin FTE basis (2) | $1,261 | 3.67% | $1,294 | 3.70% | $1,269 | 3.59%
+[B0794] _______
+[B0795] (1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+[B0796] (2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly.
+[B0797] (3) Interest income includes hedge income of $1 million, $5 million, $7 million and for the quarter ended March 31, 2026, December 31, 2025, and September 30, 2025, respectively.
+[B0798] (4) Interest income includes hedging expense of $32 million, $44 million, and $58 million for the quarter ended March 31, 2026, December 31, 2025, and September 30, 2025, respectively.
+[B0799] (5) Interest income includes hedging expense of $4 million, $6 million, and $7 million for the quarter ended March 31, 2026,December 31, 2025, and September 30, 2025, respectively.
+[B0800] (6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest-bearing deposits. The rates for total deposit costs equal 1.20%, 1.29%, and 1.39% for the quarter ended March 31, 2026, December 31, 2025, and September 30, 2025, respectively.
+[B0801] 11
+[B0802] Regions Financial Corporation and Subsidiaries
+[B0803] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0804] Consolidated Average Daily Balances and Yield/Rate Analysis (continued)
+[B0805] Nine Months Ended September 30
+[B0806] 2026 | 2025
+[B0807] ($ amounts in millions; yields on taxable-equivalent basis) | Average Balance | Income/ Expense | Yield/ Rate (1) | Average Balance | Income/ Expense | Yield/ Rate (1)
+[B0808] Assets
+[B0809] Earning assets:
+[B0810] Federal funds sold and securities purchased under agreements to resell | $— | $— | —% | $1 | $— | 4.42%
+[B0811] Debt securities (2)(3) | 33,361 | 915 | 3.66 | 32,798 | 845 | 3.44
+[B0812] Loans held for sale | 531 | 24 | 6.04 | 535 | 26 | 6.50
+[B0813] Loans, net of unearned income:
+[B0814] Commercial and industrial (4) | 51,004 | 2,076 | 5.38 | 49,278 | 2,109 | 5.65
+[B0815] Commercial real estate mortgage—owner-occupied (5) | 5,018 | 197 | 5.18 | 4,874 | 184 | 4.98
+[B0816] Commercial real estate construction—owner-occupied | 266 | 11 | 5.66 | 287 | 13 | 5.83
+[B0817] Commercial investor real estate mortgage | 7,708 | 329 | 5.63 | 6,794 | 327 | 6.34
+[B0818] Commercial investor real estate construction | 1,997 | 100 | 6.61 | 2,173 | 117 | 7.10
+[B0819] Residential first mortgage | 19,548 | 605 | 4.12 | 19,991 | 600 | 4.00
+[B0820] Home equity | 5,507 | 268 | 6.50 | 5,524 | 272 | 6.56
+[B0821] Consumer credit card | 1,480 | 152 | 13.75 | 1,404 | 152 | 14.42
+[B0822] Other consumer | 5,591 | 347 | 8.27 | 5,959 | 367 | 8.25
+[B0823] Total loans, net of unearned income | 98,119 | 4,085 | 5.52 | 96,284 | 4,141 | 5.70
+[B0824] Interest-bearing deposits in other banks | 7,303 | 207 | 3.79 | 8,529 | 285 | 4.48
+[B0825] Other earning assets | 1,528 | 46 | 4.04 | 1,490 | 44 | 3.92
+[B0826] Total earning assets | 140,842 | 5,277 | 4.97 | 139,637 | 5,341 | 5.08
+[B0827] Unrealized gains/(losses) on debt securities available for sale, net (2) | (826) | (1,352)
+[B0828] Allowance for loan losses | (1,529) | (1,628)
+[B0829] Cash and due from banks | 3,173 | 2,914
+[B0830] Other non-earning assets | 18,994 | 18,417
+[B0831] $160,654 | $157,988
+[B0832] Liabilities and Shareholders’ Equity
+[B0833] Interest-bearing liabilities:
+[B0834] Savings | $12,192 | 12 | 0.13 | $12,174 | 12 | 0.13
+[B0835] Interest-bearing checking | 24,958 | 217 | 1.17 | 24,722 | 263 | 1.42
+[B0836] Money market | 40,222 | 624 | 2.07 | 37,213 | 658 | 2.37
+[B0837] Time deposits | 13,086 | 299 | 3.05 | 15,416 | 412 | 3.57
+[B0838] Total interest-bearing deposits (6) | 90,458 | 1,152 | 1.70 | 89,525 | 1,345 | 2.01
+[B0839] Federal funds purchased and securities sold under agreements to repurchase | 1,146 | 32 | 3.67 | 56 | 1 | 4.39
+[B0840] Other short-term borrowings | 2,038 | 59 | 3.84 | 346 | 12 | 4.52
+[B0841] Long-term borrowings | 4,003 | 168 | 5.56 | 5,728 | 237 | 5.47
+[B0842] Total interest-bearing liabilities | 97,645 | 1,411 | 1.93 | 95,655 | 1,595 | 2.23
+[B0843] Non-interest-bearing deposits (6) | 39,560 | — | — | 39,384 | — | —
+[B0844] Total funding sources | 137,205 | 1,411 | 1.37 | 135,039 | 1,595 | 1.58
+[B0845] Net interest spread (2) | 3.04 | 2.85
+[B0846] Other liabilities | 4,639 | 4,523
+[B0847] Shareholders’ equity | 18,744 | 18,390
+[B0848] Noncontrolling interest | 66 | 36
+[B0849] $160,654 | $157,988
+[B0850] Net interest income/margin FTE basis (2) | $3,866 | 3.67% | $3,746 | 3.59%
+[B0851] _______
+[B0852] (1) Amounts have been calculated using whole dollar values and the prevailing interest accrual methodology.
+[B0853] (2) Debt securities are included on an amortized cost basis with yield and net interest margin calculated accordingly.
+[B0854] (3) Interest income includes hedging income of $3 million and $15 million for the nine months ended September 30, 2026 and 2025, respectively.
+[B0855] (4) Interest income includes hedging expense of $91 million and $171 million for the nine months ended September 30, 2026 and 2025, respectively.
+[B0856] (5) Interest income includes hedging expense of $11 million and $21 million for the nine months ended September 30, 2026 and 2025, respectively.
+[B0857] (6) Total deposit costs may be calculated by dividing total interest expense on deposits by the sum of interest-bearing deposits and non-interest bearing deposits. The rates for total
+[B0858] deposit costs equal 1.18% and 1.39% for the nine months ended September 30, 2026 and 2025, respectively.
+[B0859] 12
+[B0860] Regions Financial Corporation and Subsidiaries
+[B0861] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0862] Pre-Tax Pre-Provision Income ("PPI") (non-GAAP) and Adjusted PPI (non-GAAP)
+[B0863] The Pre-Tax Pre-Provision Income tables below present computations of pre-tax pre-provision income excluding certain adjustments (non-GAAP). Regions believes that the presentation of PPI and the exclusion of certain items from PPI provides a meaningful basis for period-to-period comparisons, which management believes will assist investors in analyzing the operating results of the Company and predicting future performance. These non-GAAP financial measures are also used by management to assess the performance of Regions’ business. It is possible that the activities related to the adjustments may recur; however, management does not consider the activities related to the adjustments to be indications of ongoing operations.
+[B0864] Quarter Ended
+[B0865] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0866] Net income available to common shareholders (GAAP) | $611 | $549 | $539 | $514 | $548 | $62 | 11.3% | $63 | 11.5%
+[B0867] Preferred dividends (GAAP) | 20 | 21 | 20 | 20 | 21 | (1) | (4.8)% | (1) | (4.8)%
+[B0868] Income tax expense (GAAP) | 156 | 148 | 155 | 174 | 139 | 8 | 5.4% | 17 | 12.2%
+[B0869] Income before income taxes (GAAP) | 787 | 718 | 714 | 708 | 708 | 69 | 9.6% | 79 | 11.2%
+[B0870] Provision for credit losses (GAAP) | 68 | 68 | 91 | 115 | 105 | — | —% | (37) | (35.2)%
+[B0871] Pre-tax pre-provision income (non-GAAP) | 855 | 786 | 805 | 823 | 813 | 69 | 8.8% | 42 | 5.2%
+[B0872] Other adjustments:
+[B0873] Securities (gains) losses, net | 15 | 40 | — | — | 25 | (25) | (62.5)% | (10) | (40.0)%
+[B0874] FDIC insurance special assessment | — | — | — | (14) | (3) | — | NM | 3 | 100.0%
+[B0875] Branch consolidation, property and equipment charges | — | 5 | — | — | (5) | (5) | (100.0)% | 5 | 100.0%
+[B0876] Total other adjustments | 15 | 45 | — | (14) | 17 | (30) | (66.7)% | (2) | (11.8)%
+[B0877] Adjusted pre-tax pre-provision income (non-GAAP) | $870 | $831 | $805 | $809 | $830 | $39 | 4.7% | $40 | 4.8%
+[B0878] _____
+[B0879] NM - Not meaningful
+[B0880] 13
+[B0881] Regions Financial Corporation and Subsidiaries
+[B0882] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0883] Non-Interest Income
+[B0884] Quarter Ended
+[B0885] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0886] Service charges on deposit accounts | $171 | $167 | $163 | $163 | $160 | $4 | 2.4% | $11 | 6.9%
+[B0887] Card and ATM fees | 126 | 126 | 117 | 123 | 122 | — | —% | 4 | 3.3%
+[B0888] Wealth management income | 146 | 150 | 141 | 143 | 139 | (4) | (2.7)% | 7 | 5.0%
+[B0889] Capital markets income (1) | 107 | 84 | 84 | 80 | 104 | 23 | 27.4% | 3 | 2.9%
+[B0890] Mortgage income | 32 | 33 | 32 | 32 | 38 | (1) | (3.0)% | (6) | (15.8)%
+[B0891] Commercial credit fee income | 35 | 28 | 30 | 30 | 28 | 7 | 25.0% | 7 | 25.0%
+[B0892] BOLI income | 32 | 24 | 30 | 23 | 25 | 8 | 33.3% | 7 | 28.0%
+[B0893] Market value adjustments on employee benefit assets (2) | (4) | 24 | (5) | (5) | 12 | (28) | (116.7)% | (16) | (133.3)%
+[B0894] Securities gains (losses), net | (15) | (41) | (3) | — | (27) | 26 | 63.4% | 12 | 44.4%
+[B0895] Other miscellaneous income | 45 | 35 | 36 | 51 | 58 | 10 | 28.6% | (13) | (22.4)%
+[B0896] Total non-interest income | $675 | $630 | $625 | $640 | $659 | $45 | 7.1% | $16 | 2.4%
+[B0897] Service Charges on Deposit Accounts by Segment
+[B0898] Quarter Ended
+[B0899] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0900] Consumer Bank Segment (3) | $106 | $100 | $96 | $101 | $99 | $6 | 6.0% | $7 | 7.1%
+[B0901] Corporate Bank Segment (4) | 64 | 66 | 66 | 61 | 61 | (2) | (3.0)% | 3 | 4.9%
+[B0902] Wealth Management Segment | 1 | 1 | 1 | 1 | — | — | —% | 1 | NM
+[B0903] Total service charges on deposit accounts | $171 | $167 | $163 | $163 | $160 | $4 | 2.4% | $11 | 6.9%
+[B0904] Wealth Management Income
+[B0905] Quarter Ended
+[B0906] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0907] Investment management and trust fee income | $96 | $97 | $92 | $95 | $91 | $(1) | (1.0)% | $5 | 5.5%
+[B0908] Investment services fee income | 50 | 53 | 49 | 48 | 48 | (3) | (5.7)% | 2 | 4.2%
+[B0909] Total wealth management income (5) | $146 | $150 | $141 | $143 | $139 | $(4) | (2.7)% | $7 | 5.0%
+[B0910] Capital Markets Income
+[B0911] Quarter Ended
+[B0912] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0913] Capital markets income | $107 | $84 | $84 | $80 | $104 | $23 | 27.4% | $3 | 2.9%
+[B0914] Less: Valuation adjustments on customer derivatives (6) | 1 | (2) | 1 | — | — | 3 | 150.0% | 1 | NM
+[B0915] Capital markets income excluding valuation adjustments | $106 | $86 | $83 | $80 | $104 | $20 | 23.3% | $2 | 1.9%
+[B0916] Mortgage Income
+[B0917] Quarter Ended
+[B0918] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B0919] Production and sales | $15 | $17 | $18 | $17 | $17 | $(2) | (11.8)% | $(2) | (11.8)%
+[B0920] Loan servicing | 46 | 45 | 46 | 47 | 47 | 1 | 2.2% | (1) | (2.1)%
+[B0921] MSR and related hedge impact:
+[B0922] MSRs fair value increase (decrease) due to change in valuation inputs or assumptions | 69 | 5 | 1 | 13 | 1 | 64 | NM | 68 | NM
+[B0923] MSRs hedge gain (loss) | (72) | (9) | (3) | (16) | 1 | (63) | NM | (73) | NM
+[B0924] MSRs change due to payment decay | (26) | (25) | (30) | (29) | (28) | (1) | (4.0)% | 2 | 7.1%
+[B0925] MSR and related hedge impact | (29) | (29) | (32) | (32) | (26) | — | —% | (3) | (11.5)%
+[B0926] Total mortgage income | $32 | $33 | $32 | $32 | $38 | $(1) | (3.0)% | $(6) | (15.8)%
+[B0927] Mortgage production - portfolio | $445 | $586 | $451 | $463 | $465 | $(141) | (24.1)% | $(20) | (4.3)%
+[B0928] Mortgage production - agency/secondary market | 517 | 586 | 516 | 494 | 504 | (69) | (11.8)% | 13 | 2.6%
+[B0929] Total mortgage production | $962 | $1,172 | $967 | $957 | $969 | $(210) | (17.9)% | $(7) | (0.7)%
+[B0930] Mortgage production - purchased | 79.5% | 72.9% | 61.2% | 71.7% | 81.4%
+[B0931] Mortgage production - refinanced | 20.5% | 27.1% | 38.8% | 28.3% | 18.6%
+[B0932] _________
+[B0933] NM - Not Meaningful
+[B0934] (1) Capital markets income primarily relates to capital raising activities that includes debt securities underwriting and placement, loan syndication and placement, as well as foreign exchange, derivative and merger and acquisition advisory services.
+[B0935] (2) These market value adjustments relate to assets held for employee and director benefits that are offset within salaries and employee benefits expense and other non-interest expense.
+[B0936] (3) Consumer overdraft fees represent approximately half of these amounts each quarter.
+[B0937] (4) The majority of these amounts relate to Treasury Management (TM) activities and typically represent approximately two-thirds of total TM revenue each quarter.
+[B0938] (5) Total wealth management income does not include certain smaller dollar amounts that are attributable to the wealth management segment.
+[B0939] (6) For the purposes of determining the fair value of customer derivatives, the Company considers the risk of nonperformance by counterparties, as well as the Company's own risk of nonperformance. The valuation adjustments above are reflective of the values associated with these considerations.
+[B0940] 14
+[B0941] Regions Financial Corporation and Subsidiaries
+[B0942] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B0943] Non-Interest Income
+[B0944] ($ amounts in millions) | Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B0945] 9/30/2026 | 9/30/2025 | Amount | Percent
+[B0946] Service charges on deposit accounts | $501 | $472 | $29 | 6.1%
+[B0947] Card and ATM fees | 369 | 364 | 5 | 1.4%
+[B0948] Wealth management income | 437 | 401 | 36 | 9.0%
+[B0949] Capital markets income (1) | 275 | 267 | 8 | 3.0%
+[B0950] Mortgage income | 97 | 126 | (29) | (23.0)%
+[B0951] Commercial credit fee income | 93 | 84 | 9 | 10.7%
+[B0952] Bank-owned life insurance | 86 | 72 | 14 | 19.4%
+[B0953] Market value adjustments on employee benefit assets (2) | 15 | 25 | (10) | (40.0)%
+[B0954] Securities gains (losses), net | (59) | (53) | (6) | (11.3)%
+[B0955] Other miscellaneous income | 116 | 137 | (21) | (15.3)%
+[B0956] Total non-interest income | $1,930 | $1,895 | $35 | 1.8%
+[B0957] Service Charges on Deposit Accounts by Segment
+[B0958] Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B0959] ($ amounts in millions) | 9/30/2026 | 9/30/2025 | Amount | Percent
+[B0960] Consumer Bank Segment (3) | $302 | $285 | $17 | 6.0%
+[B0961] Corporate Bank Segment (4) | 196 | 185 | 11 | 5.9%
+[B0962] Wealth Management Segment | 3 | 2 | 1 | 50.0%
+[B0963] Total service charges on deposit accounts | $501 | $472 | $29 | 6.1%
+[B0964] Wealth Management Income
+[B0965] Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B0966] ($ amounts in millions) | 9/30/2026 | 9/30/2025 | Amount | Percent
+[B0967] Investment management and trust fee income | $285 | $267 | $18 | 6.7%
+[B0968] Investment services fee income | 152 | 134 | 18 | 13.4%
+[B0969] Total wealth management income (5) | $437 | $401 | $36 | 9.0%
+[B0970] Capital Markets Income
+[B0971] Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B0972] ($ amounts in millions) | 9/30/2026 | 9/30/2025 | Amount | Percent
+[B0973] Capital markets income | $275 | $267 | $8 | 3.0%
+[B0974] Less: Valuation adjustments on customer derivatives (6) | — | (3) | 3 | 100.0%
+[B0975] Capital markets income excluding valuation adjustments | $275 | $270 | $5 | 1.9%
+[B0976] Mortgage Income
+[B0977] Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B0978] ($ amounts in millions) | 9/30/2026 | 9/30/2025 | Amount | Percent
+[B0979] Production and sales | $50 | $47 | $3 | 6.4%
+[B0980] Loan servicing | 137 | 141 | (4) | (2.8)%
+[B0981] MSR and related hedge impact:
+[B0982] MSRs fair value increase (decrease) due to change in valuation inputs or assumptions | 75 | 7 | 68 | NM
+[B0983] MSRs hedge gain | (84) | 15 | (99) | NM
+[B0984] MSRs change due to payment decay | (81) | (84) | 3 | 3.6%
+[B0985] MSR and related hedge impact | (90) | (62) | (28) | (45.2)%
+[B0986] Total mortgage income | $97 | $126 | $(29) | (23.0)%
+[B0987] Mortgage production - portfolio | $1,482 | $1,422 | $60 | 4.2%
+[B0988] Mortgage production - agency/secondary market | 1,619 | 1,391 | 228 | 16.4%
+[B0989] Total mortgage production | $3,101 | $2,813 | $288 | 10.2%
+[B0990] Mortgage production - purchased | 71.3% | 82.2%
+[B0991] Mortgage production - refinanced | 28.7% | 17.8%
+[B0992] _________
+[B0993] NM - Not Meaningful
+[B0994] (1) Capital markets income primarily relates to capital raising activities that includes debt securities underwriting and placement, loan syndication and placement, as well as foreign exchange, derivative and merger and acquisition advisory services.
+[B0995] (2) These market value adjustments relate to assets held for employee and director benefits that are offset within salaries and employee benefits expense and other non-interest expense.
+[B0996] (3) Consumer overdraft fees typically represent approximately half of these amounts each reporting period.
+[B0997] (4) The majority of these amounts relate to Treasury Management (TM), and typically represent approximately two-thirds of Regions' total TM revenue each reporting period.
+[B0998] (5) Total wealth management income does not include certain smaller dollar amounts that are attributable to the wealth management segment.
+[B0999] (6) For the purposes of determining the fair value of customer derivatives, the Company considers the risk of nonperformance by counterparties, as well as the Company's own risk of nonperformance. The valuation adjustments above are reflective of the values associated with these considerations.
+[B1000] 15
+[B1001] Regions Financial Corporation and Subsidiaries
+[B1002] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1003] Non-Interest Expense
+[B1004] Quarter Ended
+[B1005] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B1006] Salaries and employee benefits | $694 | $697 | $659 | $662 | $671 | $(3) | (0.4)% | $23 | 3.4%
+[B1007] Equipment and software expense | 113 | 107 | 108 | 112 | 106 | 6 | 5.6% | 7 | 6.6%
+[B1008] Net occupancy expense | 74 | 73 | 72 | 74 | 72 | 1 | 1.4% | 2 | 2.8%
+[B1009] Outside services | 45 | 47 | 42 | 45 | 42 | (2) | (4.3)% | 3 | 7.1%
+[B1010] Marketing | 29 | 28 | 29 | 29 | 28 | 1 | 3.6% | 1 | 3.6%
+[B1011] Professional, legal and regulatory expenses | 35 | 28 | 28 | 30 | 30 | 7 | 25.0% | 5 | 16.7%
+[B1012] Credit/checkcard expenses | 18 | 16 | 14 | 18 | 15 | 2 | 12.5% | 3 | 20.0%
+[B1013] FDIC insurance assessments | 16 | 17 | 19 | 3 | 15 | (1) | (5.9)% | 1 | 6.7%
+[B1014] Visa class B shares expense | 4 | 2 | 1 | 8 | 8 | 2 | 100.0% | (4) | (50.0)%
+[B1015] Operational losses | 7 | 8 | 10 | 9 | 18 | (1) | (12.5)% | (11) | (61.1)%
+[B1016] Branch consolidation, property and equipment charges | — | 5 | — | — | (5) | (5) | (100.0)% | 5 | 100.0%
+[B1017] Other miscellaneous expenses | 83 | 93 | 86 | 108 | 103 | (10) | (10.8)% | (20) | (19.4)%
+[B1018] Total non-interest expense | $1,118 | $1,121 | $1,068 | $1,098 | $1,103 | $(3) | (0.3)% | $15 | 1.4%
+[B1019] Salaries and Benefits Expense
+[B1020] Quarter Ended
+[B1021] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B1022] Salaries and employee benefits | $694 | $697 | $659 | $662 | $671 | $(3) | (0.4)% | $23 | 3.4%
+[B1023] Less: Market value adjustments on supplemental 401(k) liabilities (1) | (2) | 24 | (4) | 6 | 13 | (26) | (108.3)% | (15) | (115.4)%
+[B1024] Salaries and employee benefits less market value adjustments on employee benefits liabilities | $696 | $673 | $663 | $656 | $658 | $23 | 3.4% | $38 | 5.8%
+[B1025] Non-Interest Expense
+[B1026] Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B1027] ($ amounts in millions) | 9/30/2026 | 9/30/2025 | Amount | Percent
+[B1028] Salaries and employee benefits | $2,050 | $1,954 | $96 | 4.9%
+[B1029] Equipment and software expense | 328 | 309 | 19 | 6.1%
+[B1030] Net occupancy expense | 219 | 214 | 5 | 2.3%
+[B1031] Outside services | 134 | 121 | 13 | 10.7%
+[B1032] Marketing | 86 | 84 | 2 | 2.4%
+[B1033] Professional, legal and regulatory expenses | 91 | 81 | 10 | 12.3%
+[B1034] Credit/checkcard expenses | 48 | 46 | 2 | 4.3%
+[B1035] FDIC insurance assessments | 52 | 55 | (3) | (5.5)%
+[B1036] Visa class B shares expense | 7 | 19 | (12) | (63.2)%
+[B1037] Operational losses | 25 | 44 | (19) | (43.2)%
+[B1038] Branch consolidation, property and equipment charges | 5 | (5) | 10 | 200.0%
+[B1039] Other miscellaneous expenses | 262 | 293 | (31) | (10.6)%
+[B1040] Total non-interest expense | $3,307 | $3,215 | $92 | 2.9%
+[B1041] Salaries and Benefits Expense
+[B1042] Nine Months Ended | Year-to-Date Change 9/30/2026 vs. 9/30/2025
+[B1043] ($ amounts in millions) | 9/30/2026 | 9/30/2025 | Amount | Percent
+[B1044] Salaries and employee benefits | $2,050 | $1,954 | $96 | 4.9%
+[B1045] Less: Market value adjustments on 401(k) liabilities (1) | 18 | 28 | (10) | (35.7)%
+[B1046] Salaries and employee benefits less market value adjustments on employee benefits liabilities | $2,032 | $1,926 | $106 | 5.5%
+[B1047] _________
+[B1048] NM - Not Meaningful
+[B1049] (1) The Company holds assets in order to offset the market value adjustments on 401(k) liabilities and the market value adjustments on those assets are recorded in non-interest income.
+[B1050] 16
+[B1051] Regions Financial Corporation and Subsidiaries
+[B1052] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1053] Reconciliation of GAAP Financial Measures to Non-GAAP Financial Measures
+[B1054] Adjusted Efficiency Ratios, Adjusted Fee Income Ratios, Adjusted Non-Interest Income/Expense, Adjusted Operating Leverage Ratios, and Adjusted Total Revenue
+[B1055] The table below presents computations of the efficiency ratio, which is a measure of productivity, generally calculated as non-interest expense divided by total revenue; and the fee income ratio, generally calculated as non-interest income divided by total revenue. Management uses these ratios to monitor performance and believes these measures provide meaningful information to investors. Non-interest expense (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest expense (non-GAAP), which is the numerator for the adjusted efficiency ratio. Non-interest income (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest income (non-GAAP), which is the numerator for the adjusted fee income ratio. Net interest income and non-interest income are added together to arrive at total revenue. Net interest income and adjusted non-interest income are added together to arrive at adjusted total revenue (non-GAAP). Net interest income on a taxable-equivalent basis and non-interest income are added together to arrive at total revenue on a taxable-equivalent basis (GAAP). Net interest income on a taxable-equivalent basis and adjusted non-interest income are added together to arrive at adjusted total revenue on a taxable-equivalent basis (non-GAAP), which is the denominator for the adjusted fee income and adjusted efficiency ratios. Also presented is a computation of the adjusted operating leverage ratio (non-GAAP), which is the period-to-period percentage change in adjusted total revenue on a taxable-equivalent basis (non-GAAP) less the percentage change in adjusted non-interest expense (non-GAAP).
+[B1056] Quarter Ended
+[B1057] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B1058] Non-interest expense (GAAP) | A | $1,118 | $1,121 | $1,068 | $1,098 | $1,103 | $(3) | (0.3)% | $15 | 1.4%
+[B1059] Adjustments:
+[B1060] FDIC insurance special assessment | — | — | — | 14 | 3 | — | NM | (3) | (100.0)%
+[B1061] Branch consolidation, property and equipment charges | — | (5) | — | — | 5 | 5 | 100.0% | (5) | (100.0)%
+[B1062] Adjusted non-interest expense (non-GAAP) | B | $1,118 | $1,116 | $1,068 | $1,112 | $1,111 | $2 | 0.2% | $7 | 0.6%
+[B1063] Net interest income (GAAP) | C | $1,298 | $1,277 | $1,248 | $1,281 | $1,257 | $21 | 1.6% | $41 | 3.3%
+[B1064] Taxable-equivalent adjustment | 16 | 14 | 13 | 13 | 12 | 2 | 14.3% | 4 | 33.3%
+[B1065] Net interest income, taxable-equivalent basis (GAAP) | D | $1,314 | $1,291 | $1,261 | $1,294 | $1,269 | $23 | 1.8% | $45 | 3.5%
+[B1066] Non-interest income (GAAP) | E | $675 | $630 | $625 | $640 | $659 | $45 | 7.1% | $16 | 2.4%
+[B1067] Adjustments:
+[B1068] Securities (gains) losses, net | 15 | 40 | — | — | 25 | (25) | (62.5)% | (10) | (40.0)%
+[B1069] Adjusted non-interest income (non-GAAP) | F | $690 | $670 | $625 | $640 | $684 | $20 | 3.0% | $6 | 0.9%
+[B1070] Total revenue (GAAP) | C+E=G | $1,973 | $1,907 | $1,873 | $1,921 | $1,916 | $66 | 3.5% | $57 | 3.0%
+[B1071] Adjusted total revenue (non-GAAP) | C+F=H | $1,988 | $1,947 | $1,873 | $1,921 | $1,941 | $41 | 2.1% | $47 | 2.4%
+[B1072] Total revenue, taxable-equivalent basis (GAAP) | D+E=I | $1,989 | $1,921 | $1,886 | $1,934 | $1,928 | $68 | 3.5% | $61 | 3.2%
+[B1073] Adjusted total revenue, taxable-equivalent basis (non-GAAP) | D+F=J | $2,004 | $1,961 | $1,886 | $1,934 | $1,953 | $43 | 2.2% | $51 | 2.6%
+[B1074] Operating leverage ratio (GAAP) (1) | I-A | 3.7% | 1.7%
+[B1075] Adjusted operating leverage ratio (non-GAAP) (1) | J-B | 1.9% | 1.9%
+[B1076] Efficiency ratio (GAAP) (1) | A/I | 56.2% | 58.3% | 56.6% | 56.8% | 57.2%
+[B1077] Adjusted efficiency ratio (non-GAAP) (1) | B/J | 55.8% | 56.9% | 56.6% | 57.5% | 56.9%
+[B1078] Fee income ratio (GAAP) (1) | E/I | 33.9% | 32.8% | 33.1% | 33.1% | 34.2%
+[B1079] Adjusted fee income ratio (non-GAAP) (1) | F/J | 34.4% | 34.2% | 33.1% | 33.1% | 35.0%
+[B1080] ________
+[B1081] NM - Not Meaningful
+[B1082] (1) Amounts have been calculated using whole dollar values.
+[B1083] 17
+[B1084] Regions Financial Corporation and Subsidiaries
+[B1085] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1086] Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures
+[B1087] Adjusted Efficiency Ratios, Adjusted Fee Income Ratios, Adjusted Non-Interest Income/Expense, Adjusted Operating Leverage Ratios, and Adjusted Total Revenue (continued)
+[B1088] Nine Months Ended September 30
+[B1089] ($ amounts in millions) | 2026 | 2025 | 2026 vs. 2025
+[B1090] Non-interest expense (GAAP) | A | $3,307 | $3,215 | $92 | 2.9%
+[B1091] Adjustments:
+[B1092] FDIC insurance special assessment | — | 3 | (3) | (100.0)%
+[B1093] Branch consolidation, property and equipment charges | (5) | 5 | (10) | (200.0)%
+[B1094] Salaries and employee benefits—severance charges | — | (2) | 2 | 100.0%
+[B1095] Professional, legal and regulatory expenses | — | (2) | 2 | 100.0%
+[B1096] Adjusted non-interest expense (non-GAAP) | B | $3,302 | $3,219 | $83 | 2.6%
+[B1097] Net interest income (GAAP) | C | $3,823 | $3,710 | $113 | 3.0%
+[B1098] Taxable-equivalent adjustment | 43 | 36 | 7 | 19.4%
+[B1099] Net interest income, taxable-equivalent basis | D | $3,866 | $3,746 | $120 | 3.2%
+[B1100] Non-interest income (GAAP) | E | $1,930 | $1,895 | $35 | 1.8%
+[B1101] Adjustments:
+[B1102] Securities (gains) losses, net | 55 | 50 | 5 | 10.0%
+[B1103] Adjusted non-interest income (non-GAAP) | F | $1,985 | $1,945 | $40 | 2.1%
+[B1104] Total revenue (GAAP) | C+E= G | $5,753 | $5,605 | $148 | 2.6%
+[B1105] Adjusted total revenue (non-GAAP) | C+F=H | $5,808 | $5,655 | $153 | 2.7%
+[B1106] Total revenue, taxable-equivalent basis (GAAP) | D+E=I | $5,796 | $5,641 | $155 | 2.7%
+[B1107] Adjusted total revenue, taxable-equivalent basis (non-GAAP) | D+F=J | $5,851 | $5,691 | $160 | 2.8%
+[B1108] Operating leverage ratio (GAAP) (1) | I-A | (0.1)%
+[B1109] Adjusted operating leverage ratio (non-GAAP) (1) | J-B | 0.2%
+[B1110] Efficiency ratio (GAAP) (1) | A/I | 57.1% | 57.0%
+[B1111] Adjusted efficiency ratio (non-GAAP) (1) | B/J | 56.4% | 56.5%
+[B1112] Fee income ratio (GAAP) (1) | E/I | 33.3% | 33.6%
+[B1113] Adjusted fee income ratio (non-GAAP) (1) | F/J | 33.9% | 34.2%
+[B1114] ______
+[B1115] (1) Amounts have been calculated using whole dollar values.
+[B1116] 18
+[B1117] Regions Financial Corporation and Subsidiaries
+[B1118] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1119] Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures
+[B1120] Adjusted Net Income Available to Common Shareholders, Adjusted Diluted EPS, and Return Ratios
+[B1121] The table below provides a reconciliation of net income available to common shareholders (GAAP) to adjusted net income available to common shareholders (non-GAAP), a computation of adjusted diluted EPS (non-GAAP), and calculations of “average tangible common shareholders’ equity” (non-GAAP) and related ratios. Net income available to common shareholders (GAAP) is presented excluding certain adjustments, net of tax, to arrive at adjusted net income available to common shareholders (non-GAAP), which is the numerator for adjusted diluted EPS (non-GAAP). Management uses these ratios to monitor performance and believes these measures provide meaningful information to investors. Average tangible common shareholders’ equity ratios have become a focus of some investors and management believes they may assist investors in analyzing the capital position of the Company absent the effects of intangible assets and preferred stock. Analysts and banking regulators have assessed Regions’ capital adequacy using the average tangible common shareholders’ equity measure. Because average tangible common shareholders’ equity is not formally defined by GAAP or prescribed in any amount by federal banking regulations it is currently considered to be a non-GAAP financial measure and other entities may calculate it differently than Regions’ disclosed calculations. In calculating return on average tangible common shareholders' equity ratios, Regions makes adjustments to shareholders' equity including average intangible assets and related deferred taxes, and average preferred stock. Regions also presents an adjusted tangible common shareholder ratio using adjusted net income (non-GAAP) as the numerator. Management uses these metrics to monitor performance and believes these measures provide meaningful information to investors.
+[B1122] Quarter Ended
+[B1123] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025 | 3Q26 vs. 2Q26 | 3Q26 vs. 3Q25
+[B1124] Net income available to common shareholders (GAAP) | A | $611 | $549 | $539 | $514 | $548 | $62 | 11.3% | $63 | 11.5%
+[B1125] Adjustments:
+[B1126] Securities (gains) losses, net | 15 | 40 | — | — | 25 | (25) | (62.5)% | (10) | (40.0)%
+[B1127] FDIC insurance special assessment | — | — | — | (14) | (3) | — | NM | 3 | 100.0%
+[B1128] Branch consolidation, property and equipment charges | — | 5 | — | — | (5) | (5) | (100.0)% | 5 | 100.0%
+[B1129] Total adjustments | 15 | 45 | — | (14) | 17 | $(30) | (66.7)% | $(2) | (11.8)%
+[B1130] Tax impact of adjusted items (1) | (4) | (11) | — | 4 | (4) | 7 | 63.6% | — | —%
+[B1131] Adjusted net income available to common shareholders (non-GAAP) | B | $622 | $583 | $539 | $504 | $561 | $39 | 6.7% | $61 | 10.9%
+[B1132] Weighted-average diluted shares | C | 856 | 857 | 868 | 880 | 894
+[B1133] Diluted EPS (GAAP) (2) | A/C | $0.71 | $0.64 | $0.62 | $0.58 | $0.61 | $0.07 | 10.9% | $0.10 | 16.4%
+[B1134] Adjusted diluted EPS (non-GAAP) (2) | B/C | $0.73 | $0.68 | $0.62 | $0.57 | $0.63 | $0.05 | 7.4% | $0.10 | 15.9%
+[B1135] Average shareholders' equity (GAAP) | 18,489 | 18,676 | 19,077 | 18,986 | 18,688 | (187) | (1.0)% | (199) | (1.1)%
+[B1136] Less: Average preferred stock (GAAP) | 1,369 | 1,369 | 1,369 | 1,369 | 1,369 | — | —% | — | —%
+[B1137] Average common shareholders' equity (GAAP) | D | 17,120 | 17,307 | 17,708 | 17,617 | 17,319 | (187) | (1.1)% | (199) | (1.1)%
+[B1138] Less:
+[B1139] Average intangible assets (GAAP) | 5,871 | 5,863 | 5,869 | 5,876 | 5,883 | 8 | 0.1% | (12) | (0.2)%
+[B1140] Average deferred tax liability related to intangibles (GAAP) | (144) | (141) | (138) | (135) | (131) | (3) | (2.1)% | (13) | (9.9)%
+[B1141] Average tangible common shareholders' equity (non-GAAP) | E | $11,393 | $11,585 | $11,977 | $11,876 | $11,567 | (192) | (1.7)% | (174) | (1.5)%
+[B1142] Return on average common shareholders' equity (GAAP) (2) * | A/D | 14.16% | 12.73% | 12.35% | 11.58% | 12.56%
+[B1143] Return on average tangible common shareholders' equity (non-GAAP) (2) * | A/E | 21.27% | 19.01% | 18.26% | 17.17% | 18.81%
+[B1144] Adjusted return on average tangible common shareholders' equity (non-GAAP) (2) * | B/E | 21.66% | 20.18% | 18.26% | 16.84% | 19.24%
+[B1145] _______
+[B1146] *Annualized
+[B1147] NM - Not Meaningful
+[B1148] (1) Unless separately noted, the tax impact for adjustments has been calculated using a nominal tax rate of 25 percent.
+[B1149] (2) Amounts calculated based upon whole dollar values.
+[B1150] 19
+[B1151] Regions Financial Corporation and Subsidiaries
+[B1152] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1153] Reconciliation of GAAP Financial Measures to non-GAAP Financial Measures
+[B1154] Tangible Common Ratios
+[B1155] The following table provides a reconciliation of shareholders’ equity (GAAP) to tangible common shareholders’ equity (non-GAAP) and the calculations of the end of period “tangible common shareholders’ equity to tangible assets” and "tangible common book value per share" ratios (non-GAAP). Since analysts and banking regulators may assess Regions’ capital adequacy using tangible common shareholders' equity, management believes that it is useful to provide investors the ability to assess Regions’ capital adequacy on this same basis.
+[B1156] As of and for Quarter Ended
+[B1157] ($ amounts in millions, except per share data) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B1158] TANGIBLE COMMON RATIOS
+[B1159] Shareholders’ equity (GAAP) | A | $17,847 | $18,840 | $18,779 | $19,043 | $19,049
+[B1160] Less: Preferred stock (GAAP) | 1,369 | 1,369 | 1,369 | 1,369 | 1,369
+[B1161] Common shareholders' equity (GAAP) | B | 16,478 | 17,471 | 17,410 | 17,674 | 17,680
+[B1162] Less:
+[B1163] Intangible assets (GAAP) | 5,868 | 5,859 | 5,866 | 5,873 | 5,879
+[B1164] Deferred tax liability related to intangibles (GAAP) | (146) | (143) | (141) | (138) | (133)
+[B1165] Tangible common shareholders’ equity (non-GAAP) | C | $10,756 | $11,755 | $11,685 | $11,939 | $11,934
+[B1166] Total assets (GAAP) | D | $163,213 | $161,299 | $160,741 | $158,814 | $159,940
+[B1167] Less:
+[B1168] Intangible assets (GAAP) | 5,868 | 5,859 | 5,866 | 5,873 | 5,879
+[B1169] Deferred tax liability related to intangibles (GAAP) | (146) | (143) | (141) | (138) | (133)
+[B1170] Tangible assets (non-GAAP) | E | $157,491 | $155,583 | $155,016 | $153,079 | $154,194
+[B1171] Shares outstanding—end of quarter | F | 850 | 853 | 854 | 868 | 885
+[B1172] Total equity to total assets (GAAP) (1) | A/D | 10.93% | 11.68% | 11.68% | 11.99% | 11.91%
+[B1173] Tangible common shareholders’ equity to tangible assets (non-GAAP) (1) | C/E | 6.83% | 7.55% | 7.54% | 7.80% | 7.74%
+[B1174] Common book value per share (GAAP) (1) | B/F | $19.38 | $20.48 | $20.39 | $20.36 | $19.98
+[B1175] Tangible common book value per share (non-GAAP) (1) | C/F | $12.65 | $13.78 | $13.69 | $13.75 | $13.49
+[B1176] ____
+[B1177] (1) Amounts have been calculated using whole dollar values.
+[B1178] 20
+[B1179] Regions Financial Corporation and Subsidiaries
+[B1180] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1181] Asset Quality
+[B1182] As of and for Quarter Ended
+[B1183] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B1184] Beginning allowance for loan losses (ALL) | $1,489 | $1,527 | $1,556 | $1,581 | $1,612
+[B1185] Loans charged-off:
+[B1186] Commercial and industrial | 34 | 66 | 88 | 92 | 57
+[B1187] Commercial real estate mortgage—owner-occupied | 2 | 1 | — | 1 | 1
+[B1188] Total commercial | 36 | 67 | 88 | 93 | 58
+[B1189] Commercial investor real estate mortgage | — | — | — | 4 | 34
+[B1190] Total investor real estate | — | — | — | 4 | 34
+[B1191] Residential first mortgage | 1 | 1 | — | — | 1
+[B1192] Home equity—lines of credit | — | 1 | 1 | — | —
+[B1193] Home equity—closed-end | 1 | — | — | 1 | —
+[B1194] Consumer credit card | 18 | 18 | 18 | 17 | 16
+[B1195] Other consumer | 42 | 36 | 44 | 52 | 51
+[B1196] Total consumer | 62 | 56 | 63 | 70 | 68
+[B1197] Total | 98 | 123 | 151 | 167 | 160
+[B1198] Recoveries of loans previously charged-off:
+[B1199] Commercial and industrial | 13 | 8 | 9 | 11 | 10
+[B1200] Commercial real estate mortgage—owner-occupied | — | 1 | — | — | 1
+[B1201] Total commercial | 13 | 9 | 9 | 11 | 11
+[B1202] Commercial investor real estate mortgage | — | — | — | 1 | 2
+[B1203] Total investor real estate | — | — | — | 1 | 2
+[B1204] Residential first mortgage | — | 1 | — | 1 | —
+[B1205] Home equity—lines of credit | — | 1 | 1 | 1 | 1
+[B1206] Home equity—closed-end | 1 | — | — | 1 | —
+[B1207] Consumer credit card | 4 | 2 | 3 | 2 | 2
+[B1208] Other consumer | 8 | 8 | 8 | 8 | 9
+[B1209] Total consumer | 13 | 12 | 12 | 13 | 12
+[B1210] Total | 26 | 21 | 21 | 25 | 25
+[B1211] Net charge-offs (recoveries):
+[B1212] Commercial and industrial | 21 | 58 | 79 | 81 | 47
+[B1213] Commercial real estate mortgage—owner-occupied | 2 | — | — | 1 | —
+[B1214] Total commercial | 23 | 58 | 79 | 82 | 47
+[B1215] Commercial investor real estate mortgage | — | — | — | 3 | 32
+[B1216] Total investor real estate | — | — | — | 3 | 32
+[B1217] Residential first mortgage | 1 | — | — | (1) | 1
+[B1218] Home equity—lines of credit | — | — | — | (1) | (1)
+[B1219] Consumer credit card | 14 | 16 | 15 | 15 | 14
+[B1220] Other consumer | 34 | 28 | 36 | 44 | 42
+[B1221] Total consumer | 49 | 44 | 51 | 57 | 56
+[B1222] Total | 72 | 102 | 130 | 142 | 135
+[B1223] Provision for loan losses | 72 | 64 | 101 | 117 | 104
+[B1224] Ending allowance for loan losses (ALL) | 1,489 | 1,489 | 1,527 | 1,556 | 1,581
+[B1225] Beginning reserve for unfunded credit commitments | 124 | 120 | 130 | 132 | 131
+[B1226] Provision for (benefit from) unfunded credit losses | (4) | 4 | (10) | (2) | 1
+[B1227] Ending reserve for unfunded commitments | 120 | 124 | 120 | 130 | 132
+[B1228] Allowance for credit losses (ACL) at period end | $1,609 | $1,613 | $1,647 | $1,686 | $1,713
+[B1229] 21
+[B1230] Regions Financial Corporation and Subsidiaries
+[B1231] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1232] Asset Quality (continued)
+[B1233] As of and for Quarter Ended
+[B1234] ($ amounts in millions) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B1235] Net loan charge-offs as a % of average loans, annualized (1) :
+[B1236] Commercial and industrial | 0.16% | 0.45% | 0.65% | 0.66% | 0.37%
+[B1237] Commercial real estate mortgage—owner-occupied | 0.16% | 0.01% | (0.03)% | 0.02% | 0.04%
+[B1238] Commercial real estate construction—owner-occupied | 0.03% | 0.22% | (0.05)% | (0.07)% | (0.01)%
+[B1239] Total commercial | 0.16% | 0.41% | 0.58% | 0.60% | 0.34%
+[B1240] Commercial investor real estate mortgage | 0.01% | —% | 0.02% | 0.15% | 1.82%
+[B1241] Total investor real estate | 0.01% | —% | 0.02% | 0.12% | 1.41%
+[B1242] Residential first mortgage | 0.01% | —% | —% | —% | 0.01%
+[B1243] Home equity—lines of credit | (0.04)% | (0.04)% | (0.01)% | (0.10)% | (0.12)%
+[B1244] Home equity—closed-end | —% | (0.03)% | (0.02)% | —% | (0.01)%
+[B1245] Consumer credit card | 3.85% | 4.28% | 4.17% | 4.08% | 3.94%
+[B1246] Other consumer | 2.45% | 2.09% | 2.51% | 2.97% | 2.83%
+[B1247] Total consumer | 0.60% | 0.56% | 0.63% | 0.70% | 0.67%
+[B1248] Total | 0.29% | 0.42% | 0.54% | 0.59% | 0.55%
+[B1249] Non-performing loans, excluding loans held for sale | $585 | $668 | $692 | $698 | $758
+[B1250] Non-performing loans held for sale | 12 | 1 | 1 | — | 12
+[B1251] Non-performing loans, including loans held for sale | 597 | 669 | 693 | 698 | 770
+[B1252] Foreclosed properties | 20 | 19 | 20 | 17 | 18
+[B1253] Non-performing assets (NPAs) | $617 | $688 | $713 | $715 | $788
+[B1254] Loans past due > 90 days (2) | $159 | $158 | $170 | $180 | $154
+[B1255] Criticized loans—business (3) | $3,203 | $3,370 | $3,384 | $3,342 | $3,682
+[B1256] Credit Ratios (1) :
+[B1257] ACL/Loans, net | 1.61% | 1.63% | 1.68% | 1.76% | 1.78%
+[B1258] ALL/Loans, net | 1.49% | 1.50% | 1.56% | 1.63% | 1.64%
+[B1259] Business criticized loans to total business loans | 4.71% | 5.01% | 5.15% | 5.31% | 5.81%
+[B1260] Allowance for credit losses to non-performing loans, excluding loans held for sale | 275% | 241% | 238% | 242% | 226%
+[B1261] Allowance for loan losses to non-performing loans, excluding loans held for sale | 254% | 223% | 221% | 223% | 208%
+[B1262] Non-performing loans, excluding loans held for sale/Loans, net | 0.59% | 0.67% | 0.71% | 0.73% | 0.79%
+[B1263] NPAs (ex. 90+ past due)/Loans, foreclosed properties, and non-performing loans held for sale | 0.62% | 0.69% | 0.73% | 0.75% | 0.82%
+[B1264] NPAs (inc. 90+ past due)/Loans, foreclosed properties, and non-performing loans held for sale (2) | 0.78% | 0.85% | 0.90% | 0.94% | 0.98%
+[B1265] (1) Amounts have been calculated using whole dollar values.
+[B1266] (2) Excludes guaranteed residential first mortgages that are 90+ days past due and still accruing. Refer to the footnotes on page 23 for amounts related to these loans.
+[B1267] (3) Business represents the combined total of commercial and investor real estate loans.
+[B1268] Allowance for Credit Losses
+[B1269] Nine Months Ended September 30
+[B1270] ($ amounts in millions) | 2026 | 2025
+[B1271] Balance at January 1 | $1,686 | $1,729
+[B1272] Net charge-offs | 304 | 371
+[B1273] Provision for loan losses | 237 | 339
+[B1274] Provision for unfunded credit losses | (10) | 16
+[B1275] Balance at September 30 | $1,609 | $1,713
+[B1276] Net loan charge-offs as a % of average loans, annualized (GAAP) (1) | 0.41% | 0.52%
+[B1277] (1) Amounts have been calculated using whole dollar values.
+[B1278] 22
+[B1279] Regions Financial Corporation and Subsidiaries
+[B1280] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1281] Non-Performing Loans (excludes loans held for sale)
+[B1282] As of
+[B1283] ($ amounts in millions, %'s calculated using whole dollar values) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B1284] Commercial and industrial | $329 | 0.63% | $412 | 0.79% | $471 | 0.93% | $474 | 0.97% | $524 | 1.06%
+[B1285] Commercial real estate mortgage—owner-occupied | 48 | 0.94% | 61 | 1.19% | 53 | 1.06% | 45 | 0.92% | 41 | 0.85%
+[B1286] Commercial real estate construction—owner-occupied | 5 | 1.78% | 2 | 0.64% | 2 | 0.85% | 2 | 0.85% | 1 | 0.43%
+[B1287] Total commercial | 382 | 0.66% | 475 | 0.83% | 526 | 0.94% | 521 | 0.97% | 566 | 1.04%
+[B1288] Commercial investor real estate mortgage | 138 | 1.70% | 127 | 1.60% | 103 | 1.33% | 121 | 1.69% | 137 | 1.92%
+[B1289] Total investor real estate | 138 | 1.35% | 127 | 1.27% | 103 | 1.06% | 121 | 1.33% | 137 | 1.51%
+[B1290] Residential first mortgage | 33 | 0.17% | 33 | 0.17% | 30 | 0.16% | 25 | 0.12% | 24 | 0.12%
+[B1291] Home equity—lines of credit | 24 | 0.75% | 25 | 0.76% | 25 | 0.77% | 24 | 0.74% | 24 | 0.73%
+[B1292] Home equity—closed-end | 8 | 0.34% | 8 | 0.36% | 8 | 0.34% | 7 | 0.32% | 7 | 0.31%
+[B1293] Total consumer | 65 | 0.21% | 66 | 0.21% | 63 | 0.20% | 56 | 0.17% | 55 | 0.17%
+[B1294] Total non-performing loans | $585 | 0.59% | $668 | 0.67% | $692 | 0.71% | $698 | 0.73% | $758 | 0.79%
+[B1295] Early and Late Stage Delinquencies
+[B1296] Accruing 30-89 Days Past Due Loans | As of
+[B1297] ($ amounts in millions, %'s calculated using whole dollar values) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B1298] Commercial and industrial | $50 | 0.10% | $61 | 0.12% | $50 | 0.10% | $55 | 0.11% | $63 | 0.13%
+[B1299] Commercial real estate mortgage—owner-occupied | 24 | 0.47% | 15 | 0.28% | 4 | 0.08% | 6 | 0.11% | 10 | 0.21%
+[B1300] Total commercial | 74 | 0.13% | 76 | 0.13% | 54 | 0.10% | 61 | 0.11% | 73 | 0.13%
+[B1301] Commercial investor real estate mortgage | 1 | 0.01% | 38 | 0.49% | 1 | 0.01% | — | —% | 28 | 0.40%
+[B1302] Total investor real estate | 1 | 0.01% | 38 | 0.39% | 1 | 0.01% | — | —% | 28 | 0.31%
+[B1303] Residential first mortgage—non-guaranteed (1) | 138 | 0.73% | 123 | 0.65% | 127 | 0.66% | 144 | 0.74% | 132 | 0.68%
+[B1304] Home equity—lines of credit | 24 | 0.73% | 22 | 0.67% | 22 | 0.69% | 25 | 0.79% | 28 | 0.89%
+[B1305] Home equity—closed-end | 12 | 0.54% | 14 | 0.63% | 13 | 0.57% | 15 | 0.62% | 14 | 0.57%
+[B1306] Consumer credit card | 22 | 1.42% | 20 | 1.32% | 21 | 1.39% | 22 | 1.48% | 20 | 1.40%
+[B1307] Other consumer | 65 | 1.20% | 64 | 1.17% | 66 | 1.19% | 75 | 1.31% | 68 | 1.18%
+[B1308] Total consumer (1) | 261 | 0.83% | 243 | 0.77% | 249 | 0.79% | 281 | 0.88% | 262 | 0.81%
+[B1309] Total accruing 30-89 days past due loans (1) | $336 | 0.34% | $357 | 0.36% | $304 | 0.31% | $342 | 0.36% | $363 | 0.38%
+[B1310] Accruing 90+ Days Past Due Loans | As of
+[B1311] ($ amounts in millions, %'s calculated using whole dollar values) | 9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+[B1312] Commercial and industrial | $5 | 0.01% | $4 | 0.01% | $5 | 0.01% | $6 | 0.01% | $4 | 0.01%
+[B1313] Commercial real estate mortgage—owner-occupied | — | 0.02% | 1 | 0.03% | 1 | 0.01% | — | 0.01% | 2 | 0.05%
+[B1314] Total commercial | 5 | 0.01% | 5 | 0.01% | 6 | 0.01% | 6 | 0.01% | 6 | 0.01%
+[B1315] Residential first mortgage—non-guaranteed (2) | 94 | 0.50% | 91 | 0.48% | 100 | 0.52% | 105 | 0.55% | 84 | 0.43%
+[B1316] Home equity—lines of credit | 11 | 0.34% | 13 | 0.40% | 14 | 0.42% | 15 | 0.45% | 14 | 0.43%
+[B1317] Home equity—closed-end | 9 | 0.39% | 8 | 0.36% | 8 | 0.35% | 8 | 0.37% | 7 | 0.30%
+[B1318] Consumer credit card | 20 | 1.35% | 21 | 1.39% | 22 | 1.52% | 22 | 1.41% | 20 | 1.42%
+[B1319] Other consumer | 20 | 0.36% | 20 | 0.35% | 20 | 0.35% | 24 | 0.40% | 23 | 0.39%
+[B1320] Total consumer (2) | 154 | 0.49% | 153 | 0.48% | 164 | 0.52% | 174 | 0.54% | 148 | 0.46%
+[B1321] Total accruing 90+ days past due loans (2) | $159 | 0.16% | $158 | 0.16% | $170 | 0.17% | $180 | 0.19% | $154 | 0.16%
+[B1322] Total delinquencies (1) (2) | $495 | 0.50% | $515 | 0.52% | $474 | 0.49% | $522 | 0.55% | $517 | 0.54%
+[B1323] (1) Excludes loans that are 100% guaranteed by FHA and guaranteed loans sold to Ginnie Mae where Regions has the right but not the obligation to repurchase; however, includes Ginnie Mae repurchased loans with partial guarantees. Total 30-89 days past due guaranteed loans excluded were $65 million at 9/30/2026, $58 million at 6/30/2026, $62 million at 3/31/2026, $66 million at 12/31/2025, and $62 million at 9/30/2025.
+[B1324] (2) Excludes loans that are 100% guaranteed by FHA and all guaranteed loans sold to Ginnie Mae where Regions has the right but not the obligation to repurchase; however, includes Ginnie Mae repurchased loans with partial guarantees. Total 90 days or more past due guaranteed loans excluded were $105 million at 9/30/2026, $100 million at 6/30/2026, $94 million at 3/31/2026, $79 million at 12/31/2025, and $48 million at 9/30/2025.
+[B1325] 23
+[B1326] Regions Financial Corporation and Subsidiaries
+[B1327] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1328] Forward-Looking Statements
+[B1329] This supplement, the related earnings release, and the accompanying earnings call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. In addition, the company, through its senior management, may from time to time make forward-looking public statements concerning the matters described herein. The words “future,” “anticipates,” “assumes,” “intends,” “plans,” “seeks,” “believes,” “predicts,” “potential,” “objectives,” “estimates,” “expects,” “targets,” “projects,” “outlook,” “forecast,” “would,” “will,” “may,” “might,” “could,” “should,” “can,” and similar terms, expressions, and graphics often signify forward-looking statements. Forward-looking statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond our control. Forward-looking statements are not based on historical information, but rather are related to future operations, strategies, financial results or other developments. Forward-looking statements are based on management’s current expectations as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Those statements are based on general assumptions and are subject to various risks, and because they also relate to the future, they are likewise subject to inherent uncertainties and other factors that may cause actual results to differ materially from the views, beliefs and projections expressed in such statements. Therefore, we caution you against relying on any of these forward-looking statements. These risks, uncertainties and other factors include, but are not limited to, those described below:
+[B1330] • Our businesses have been, and may continue to be, adversely affected by conditions in the financial markets and economic conditions generally.
+[B1331] • Fluctuations in market interest rates, including the level and shape of the yield curve, may adversely affect our performance.
+[B1332] • If we experience greater credit losses in our loan portfolios than anticipated, our earnings may be materially adversely affected.
+[B1333] • Any future reductions in our credit ratings may increase our funding costs and place limitations on business activities.
+[B1334] • Changes in the soundness of other financial institutions could adversely affect us.
+[B1335] • We may suffer losses if the value of collateral declines in stressed market conditions.
+[B1336] • Ineffective liquidity management could adversely affect our financial results and condition.
+[B1337] • Loss of deposits or a change in deposit mix could increase our funding costs.
+[B1338] • We rely on the mortgage secondary market to manage various risks.
+[B1339] • We are at risk of a variety of systems failures or errors and cyber-attacks or other similar incidents that could adversely affect customer experience and our business and financial performance.
+[B1340] • We are subject to complex and evolving laws, regulations, rules, standards and contractual obligations regarding privacy and cybersecurity, which could increase the cost of doing business, compliance risks and potential liability.
+[B1341] • We will continually encounter technological change and must effectively anticipate, develop and implement new technology.
+[B1342] • The development and use of AI presents risks and challenges that may adversely impact our business.
+[B1343] • Industry competition, including competition from decentralized finance platforms, cryptocurrencies and blockchain technologies could disrupt our business model and adversely affect our revenues, market share or liquidity.
+[B1344] • Our operations are concentrated primarily in the South, Midwest and Texas, and adverse changes in the economic conditions in this region can adversely affect our financial results and condition.
+[B1345] • Weakness in the residential real estate markets could adversely affect our performance.
+[B1346] • Weakness in the commercial real estate markets could adversely affect our performance.
+[B1347] • Risks associated with home equity products where we are in a second lien position could adversely affect our performance.
+[B1348] • Weakness in commodity businesses could adversely affect our performance.
+[B1349] • An outbreak or escalation of hostilities between countries or within a country or region could have a material adverse effect on the U.S. economy and on our businesses.
+[B1350] • We are subject to a variety of operational risks, including the risk of fraud or theft by internal or external parties, which may adversely affect our business and results of operations.
+[B1351] • We rely on other companies to provide key components of our business infrastructure.
+[B1352] • We depend on the accuracy and completeness of information about clients and counterparties.
+[B1353] • We are exposed to risk of environmental liability when we take title to property.
+[B1354] • We can be negatively affected if we fail to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms.
+[B1355] • Enhanced regulatory and other standards for the oversight of vendors and other service providers can result in higher costs and other potential exposures.
+[B1356] • We are, and may in the future be, subject to claims and litigation calling into question our right to use the intellectual property underlying certain technology in our business.
+[B1357] • Weather-related events, pandemics and other natural or man-made disasters could cause a disruption in our operations or lead to other consequences that could adversely impact our financial results and condition. These impacts could be intensified by climate change. Heightening focus on climate change may also carry transition risks that could negatively impact our results of operations and financial condition.
+[B1358] • We are subject to sociopolitical risks that could adversely affect our business, reputation and the trading price of our common stock.
+[B1359] • Damage to our reputation could significantly harm our businesses.
+[B1360] • We are, and may in the future be, subject to litigation, investigations and governmental proceedings that may result in liabilities adversely affecting our financial condition, business or results of operations or in reputational harm.
+[B1361] • We are subject to extensive governmental regulation, which could have an adverse impact on our operations and our business model.
+[B1362] • We are subject to a variety of risks in connection with any sale of loans we may conduct.
+[B1363] • We may be subject to more stringent capital and liquidity requirements.
+[B1364] • Rulemaking changes and regulatory initiatives implemented by the CFPB may result in higher regulatory and compliance costs that may adversely affect our results of operations.
+[B1365] • We are subject to numerous laws designed to protect consumers, including the Community Reinvestment Act and fair lending laws, and a failure to comply with these laws could lead to a wide variety of penalties and other sanctions.
+[B1366] • We may not be able to complete future acquisitions, may not be successful in realizing the benefits of any future acquisitions that are completed or may choose not to pursue acquisition opportunities we might find beneficial.
+[B1367] • Increases in FDIC insurance assessments may adversely affect our earnings.
+[B1368] • Unfavorable results from ongoing stress analyses may adversely affect our ability to retain customers or compete for new business opportunities.
+[B1369] • We are a holding company and depend on our subsidiaries for dividends, distributions and other payments.
+[B1370] • We may not pay dividends on shares of our capital stock.
+[B1371] • Anti-takeover and banking laws and certain agreements and charter provisions may adversely affect share value.
+[B1372] • Our amended and restated by-laws designate (i) the Court of Chancery of the State of Delaware as the sole and exclusive forum for certain types of actions and proceedings that may be initiated by our shareholders and (ii) the federal district courts of the United States as the sole and exclusive forum for any action asserting a cause of action arising under the Securities Act, which could limit our shareholders’ ability to obtain a favorable judicial forum for disputes with our company or our company’s directors, officers or other employees.
+[B1373] • We face substantial legal and operational risks in our safeguarding and other processing of personal information.
+[B1374] • Differences in regulation can affect our ability to compete effectively.
+[B1375] • Our businesses may be adversely affected if we are unable to hire and retain qualified employees.
+[B1376] 24
+[B1377] Regions Financial Corporation and Subsidiaries
+[B1378] Financial Supplement (unaudited) to Third Quarter 2026 Earnings Release
+[B1379] • Our operations rely on our ability, and the ability of key external parties, to maintain appropriately staffed workforces, and on the competence, trustworthiness, health and safety of employees.
+[B1380] • Our reported financial results depend on management’s selection of accounting methods and certain assumptions and estimates.
+[B1381] • If the models that we use in our business perform poorly or provide inadequate information, our business or results of operations may be adversely affected.
+[B1382] • Changes in our accounting policies or in accounting standards could materially affect how we report our financial results and condition.
+[B1383] The foregoing list of factors is not exhaustive. For discussion of these and other factors that may cause actual results to differ from expectations, look under the captions “Cautionary Note Regarding Forward-Looking Statements and Risk Factor Summary” and “Risk Factors” in Regions’ Annual Report on Form 10-K for the year ended December 31, 2025 and in Regions’ subsequent filings with the SEC.
+[B1384] You should not place undue reliance on any forward-looking statements, which speak only as of the date made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible to predict all of them. We assume no obligation and do not intend to update or revise any forward-looking statements that are made from time to time, either as a result of future developments, new information or otherwise, except as may be required by law.
+[B1385] Regions’ Investor Relations contact is Chris Best at (205) 264-7040; Regions’ Media contact is Jeremy King at (205) 264-4551.
+[B1386] 25
+===== ex-99_3.htm =====
+[B1387] EX-99.3
+[B1388] 4
+[B1389] rf-2026930xexhibit993.htm
+[B1390] EX-99.3
+[B1391] Document generated by Workiva Inc rf-2026930xexhibit993
+[B1392] rf-2026930xexhibit993001.jpg
+[B1393] 3rd Quarter Earnings October 16, 2026 Exhibit 99.3
+[B1394] rf-2026930xexhibit993002.jpg
+[B1395] 2 Highlights • Proven history of consistently generating best-in-class returns in our peer group(2) • Investing in talent, technology, products, and key markets to strengthen long-term competitiveness • Maintaining strong credit quality while actively managing risk • Record Capital Markets revenue (ex CVA/DVA) and Treasury Management performance drove strong fee-based business momentum • Advancing cloud-based deposit platform implementation and broader modernization efforts • Well-positioned for continued growth supported by a strong franchise, healthy customer relationships, and disciplined execution Third Quarter Overview Continue to deliver consistent, sustainable long-term performance (1) Non-GAAP, see appendix for reconciliation. In certain instances no adjustments have been made and the resulting "adjusted" figure is therefore equal to the reported amount and no reconciliation has been provided. (2) Peers include CFG, FCNCA, FHN, FITB, HBAN, HWC, KEY, MTB, PNC, SSB, TFC, USB, ZION. Key Performance Metrics 3Q26 Reported Adjusted(1) Net Income Available to Common Shareholders $611M $622M Diluted Earnings Per Share $0.71 $0.73 Total Revenue $1,973M $1,988M Non-Interest Expense $1,118M $1,118M Pre-Tax Pre-Provision Income(1) $855M $870M Efficiency Ratio 56.2% 55.8% Net-Charge Offs / Avg Loans 0.29% 0.29% Return on Average Tangible Common Equity(1) 21.27% 21.66%
+[B1396] rf-2026930xexhibit993003.jpg
+[B1397] 3 QoQ Highlights & Outlook • Avg and ending loans increased modestly • Avg business loans increased 1%, while avg consumer loans declined modestly • Broad-based C&I lending activity continued to drive growth, led by government & public sector and wholesale & financial services • Growth remained concentrated in investment-grade clients, with encouraging production across emerging commercial and middle-market businesses • Investments in bankers, capabilities, and key markets continue to drive new client acquisition and deepen existing relationships • Client sentiment remains constructive, with pipelines and commitments up 19% and 6% YoY • Continue to expect FY26 avg loan balances to be up low single digits compared to FY25 $96.1 $99.2 $99.8 $63.4 $67.2 $68.0 $32.7 $32.0 $31.8 3Q25 2Q26 3Q26 $96.6 $98.7 $99.2 $63.8 $66.6 $67.3 $32.8 $32.1 $31.9 3Q25 2Q26 3Q26 Average Loans & Leases ($ in billions) Business LoansConsumer Loans Ending Loans & Leases ($ in billions) Loans Relationship-driven growth supported by healthy client demand
+[B1398] rf-2026930xexhibit993004.jpg
+[B1399] 4 QoQ Highlights & Outlook • Avg and ending deposits decreased modestly, primarily reflecting activity from a few large commercial relationships and expected seasonal public funds outflows • Underlying commercial trends remain healthy, supported by growth in new accounts and commercial non-interest- bearing balances ◦ Continue to manage ~$16B of excess commercial client balances through highly-liquid off-balance sheet investment solutions • Retail deposits performed as expected, with new account growth partially offset by expected seasonal spending patterns • Deposit costs remained well controlled through disciplined pricing and active balance sheet management • NIB mix remained stable in the low 30% range • Continue to expect FY26 avg balances to be up low single digits compared to FY25 $130.3 $130.7 $129.5 $79.7 $81.0 $81.0 $40.4 $40.0 $39.3 $7.6 $7.4 $7.4 $2.6 $2.3 $1.8 3Q25 2Q26 3Q26 $129.6 $130.7 $129.1 $79.7 $80.6 $80.1 $39.7 $40.1 $39.5 $7.3 $7.6 $7.5 $2.9 $2.4 $2.0 1.39% 1.18% 1.17% 3Q25 2Q26 3Q26 (1) Other deposits represent non-customer balances primarily consisting of wholesale funding (for example, Eurodollar trade deposits, selected deposits and brokered time deposits). (2) IB deposit costs were 1.70%, 1.69%, and 2.01% in 3Q26, 2Q26, and 3Q25, respectively. Average Deposits by Segment ($ in billions) Deposits Disciplined deposit management supported by a strong franchise Wealth Mgt Other(1) Consumer Bank Corporate Bank Ending Deposits by Segment ($ in billions) Total Deposit Costs(2)
+[B1400] rf-2026930xexhibit993005.jpg
+[B1401] 5 • 4Q26 NII expected to increase 1 – 2%(5) vs 3Q26, supported by higher rates, structural repricing, deposit cost discipline, balance sheet growth, and the seasonal HR asset dividend • 4Q26 NIM expected to be ~3.70% $1,277 $1,298 NII & Margin Performance Well protected NII & margin; growth from balance sheet repricing and expansion $1,269 $1,291 $1,314 3.59% 3.66% 3.68% 3Q25 2Q26 3Q26 NII NIM FTE NII and NIM ($ in millions) NII Attribution ($ in millions) 2Q26 Fixed Asset Turnover(1) Days Higher Hedge Rates Other(2) Loan Balances Securities Reposition(3) Funding Mix 3Q26 NII +$10M +$6M +$4M +$3M +$2M +$2M -$6M +$21M NIM +3bps -2bps +1bp +2bps -1bp +1bp -2bps +2bps 4Q 2026 Expecations NII increased 2% QoQ; NIM increased 2bps to 3.68% • Positioned well to benefit from elevated/increasing long-term interest rates through fixed-rate asset turnover ◦ Higher long-term rates enhanced the NII benefit from fixed- rate asset turnover relative to 2Q(4) ◦ Sold ~$845M of Agency CMBS/CMOs at $15M pre-tax loss; reinvested proceeds in Agency MBS at higher market yields • Higher hedge receive rate; legacy maturities replaced by forward starting swaps • Mostly stable deposit cost QoQ driven by disciplined deposit cost management ◦ 3Q interest-bearing deposit cost +1bps QoQ ◦ Expect terminal rising rate beta of mid/high 30%s, supporting a neutral short-term rate risk position 3Q NII and NIM Drivers (1) Fixed rate asset turnover includes the benefits of loan and securities production at higher market rates than maturities and securities premium amortization net discount accretion. (2) Other includes positive credit interest recoveries, the 2Q debt issuance cost, and other miscellaneous items. (3) Incremental NII driven by securities repositions done at the beginning of 2Q and middle of 3Q. (4) New fixed-rate asset yields were approximately 100bps above maturing asset yields in 3Q, compared with 85bps in 2Q. (5) Current expectations assume next Fed rate hike occurs in December and stable long-term rates.
+[B1402] rf-2026930xexhibit993006.jpg
+[B1403] 6 QoQ Highlights & Outlook • NIR increased 7% on a reported basis and 3% on an adjusted(1) basis • Record Capital Markets revenue (Ex CVA/DVA) increased 23%, driven by stronger M&A advisory activity, securities underwriting & placement fees, commercial swap income, and syndications revenue; 4Q revenue expected within the $90 – $105M range • Service charges increased 2%, inclusive of record quarterly Treasury Management results, 1 additional day, and seasonally higher consumer related activity • Commercial credit fees, bank-owned life insurance income, and other NIR also contributed to growth • Market value adjustments for employee benefit assets decreased $28M but were largely offset in NIE • Wealth Management income decreased 3%, driven by lower production volumes compared to a record 2Q • Continue to expect FY26 adjusted non-interest income to grow 3 – 5% vs FY25,(4) with results currently tracking toward the lower end of the range $684 $670 $690 3Q25 2Q26 3Q26 ($ in millions) Change vs 3Q26 2Q26 3Q25 Service Charges – Consumer(2) $106 6.0% 7.1% Service Charges – Corporate(3) $64 (3.0)% 4.9% Wealth Management Income 146 (2.7)% 5.0% Card and ATM Fees 126 —% 3.3% Capital Markets (Ex CVA/DVA) 106 23.3% 1.9% Mortgage Income 32 (3.0)% (15.8)% Other 45 28.6% (22.4)% Non-Interest Income (1) Non-GAAP; see appendix for reconciliation. (2) Consumer overdrafts typically represent approximately half of these amounts each quarter. (3) The majority of these amounts relate to Treasury Management (TM) activities and typically represent approximately two-thirds of total TM revenue each quarter. (4) See appendix for further information on the forward-looking guidance provided by the Company with respect to this non-GAAP measure. $659 $630 $675 3Q25 2Q26 3Q26 Non-Interest Income ($ in millions) Adj. Non-Interest Income(1) ($ in millions)
+[B1404] rf-2026930xexhibit993007.jpg
+[B1405] 7 QoQ Highlights & Outlook • NIE was relatively stable on both a reported and adjusted(1) basis • S&B remained well controlled, as increases in base salaries and revenue-based incentives were offset by lower market value adjustments for supplemental employee benefit liabilities • Continued investments in technology and infrastructure drove a 6% increase in equipment and software expense • Continue to expect FY26 adjusted NIE (inclusive of investments) to be up 1.5 – 3.5% vs FY25; Anticipate generating FY adj. positive operating leverage(3) $1,103 $1,121 $1,118 57.2% 58.3% 56.2% Non-interest expense Efficiency ratio 3Q25 2Q26 3Q26 $1,111 $1,116 $1,118 56.9% 56.9% 55.8% Adjusted non-interest expense Adjusted efficiency ratio 3Q25 2Q26 3Q26 Non-Interest Expense (1) (1) Non-Interest Expense ($ in millions) Adj. Non-Interest Expense(1) ($ in millions) $3,387 $3,419 $3,434 $3,443 $3,541 $3,698 $3,886 $4,262 $4,227 $4,331 $135 $22 Adjusted non-interest expense Incremental operational losses Include expenses associated with acquisitions 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2.8% CAGR Adj. Non-Interest Expense(1) ($ in millions) (1) (2) (1) Non-GAAP; see appendix for reconciliation. (2) 2Q20 acquisition of Ascentium Capital and 4Q21 acquisitions of EnerBank, Sabal Capital Partners, and Clearsight Advisors. (3) See appendix for further information on the forward-looking guidance provided by the Company with respect to this non-GAAP measure.
+[B1406] rf-2026930xexhibit993008.jpg
+[B1407] 8 QoQ Highlights & Outlook • 3Q annualized NCOs decreased 13bps to 29bps • NPL ratio declined 8bps to 59bps, while the business services criticized ratio declined 30bps to 4.71% of business loans • Provision of $68M; ACL ratio declined 2bps to 1.61%; NPL coverage remained strong at 275% • Continue to expect FY26 NCOs to be between 40 - 50bps, trending toward the low end of the range Asset Quality Trends reflecting strength and resiliency of customer base $1,713 $1,613 $1,609 1.78% 1.63% 1.61% 226% 241% 275% ACL ACL/Loans ACL/NPLs 3Q25 2Q26 3Q26 $135 $102 $720.55% 0.42% 0.29% NCOs NCOs Ratio 3Q25 2Q26 3Q26 $758 $668 $585 0.79% 0.67% 0.59% NPLs - excluding LHFS NPL/Loans 3Q25 2Q26 3Q26 (1) $ in Millions. Net Charge-Offs(1) Allowance for Credit Losses (ACL)(1) Non-Performing Loans (NPLs)(1)
+[B1408] rf-2026930xexhibit993009.jpg
+[B1409] 9 QoQ Highlights & Outlook • Declared 3Q common dividends of $255M and executed $95M in share repurchases • Dividend payout target of 40-50% of earnings • Common book value per share of $19.38 and tangible common book value per share of $12.65 • Total Liquidity Sources well above required levels as informed by internal liquidity stress testing • Including capacity at the discount window, liquidity to uninsured deposits ratio is ~170%(4) 10.9% 10.7% 10.8% 3Q25 2Q26 3Q26 Capital and Liquidity Disciplined capital management supports growth and shareholder returns 12.0% 11.8% 11.9% 3Q25 2Q26 3Q26 Tier 1 Capital Ratio(1) Common Equity Tier 1 Ratio(1) Position ($B) as of 3Q25 2Q26 3Q26 Cash at the Federal Reserve(2) $ 9.0 $ 6.5 $ 7.4 Unencumbered Investment Securities(3) 26.2 26.3 25.1 Federal Home Loan Bank Availability 10.2 9.8 6.9 Discount Window Availability 23.1 25.9 24.8 Total $ 68.5 $ 68.5 $ 64.2 (1) Current quarter ratios are estimated. (2) Fed master account closing balance only. Does not include other small in transit / processing items included in Call Report or SEC reports. (3) Unencumbered Investment Securities comprise securities that are eligible as collateral for secured transactions through market channels or are eligible to be pledged to the Federal Home Loan Bank, the Federal Reserve Discount Window, or the Standing Repo Facility. (4) This ratio excludes intercompany and secured deposits. Total Liquidity Sources
+[B1410] rf-2026930xexhibit993010.jpg
+[B1411] 10 Capital Flexibility Consistent, sustainable capital generation and expected regulatory changes support capital levels • Regions continues to demonstrate strong organic capital generation • Basel III Endgame expected to incorporate AOCI into capital calculation and implement broad revisions to risk weights ◦ Rising interest rates in the quarter led to increases in unrealized losses in the securities portfolio and reduced CET1 inclusive of AOCI ◦ Risk weight changes will reduce risk weighted assets • Estimated Basel III Endgame CET1 is ~10%(1)(2), well above our 9.25% - 9.75% operating range(3) - Provides capacity to support growth and capital return ◦ AOCI will normalize over time providing additional capital flexibility; continue to take action to limit capital volatility from AOCI (1) Current quarter ratio is estimated. Charts may not add due to rounding. (2) Non-GAAP; see appendix for reconciliation. (3) See appendix for further information on the forward-looking guidance provided by the Company with respect to this non-GAAP measure. (4) After Tax AOCI on securities as of 09/30/2026 and flat RWAs. (5) Includes current approximate estimates of proposed revisions to Mortgage, Commercial, and Retail risk weights and credit conversion factors for unfunded commitments (subject to change). Capital Generation - Current Framework 10.7% 0.5% (0.2)% (0.2)% (0.1)% 10.8% 2Q26 CET1 Earnings Dividend RWA Growth Share Repurchase 3Q26 CET1 Basel III Endgame Estimate 10.8% (1.8)% 0.9% 10% 3Q26 CET1 - Current Framework AOCI RWA Changes 3Q26 CET1 - Basel III Endgame (1)(2) (1)Capital Management Expected Securities AOCI Burn Down and Impact to CET1(4) 1,298 1,242 1,019 796 591 570 491 413 $1,889 $1,812 $1,510 $1,209 —% 0.06% 0.29% 0.52% AFS HTM CET1 Impact 9/30/2026 YE 2026 YE 2027 YE 2028 ~ 30 basis points of quarterly capital generation after dividend (5) ~ ~
+[B1412] rf-2026930xexhibit993011.jpg
+[B1413] 11 Expectations for 4Q26 & FY26 • 4Q26 NII expected to increase 1 – 2% vs 3Q26(3) • 4Q26 NIM expected to be ~3.70%(3) • Expect Capital Markets revenue within the $90 – $105M range in 4Q26, with market conditions and client activity influencing results • Expect to generate FY adj. positive operating leverage in 2026(2) 2026 Expectations (1) Non-GAAP, see appendix for reconciliation of historical amounts. (2) See appendix for further information on the forward-looking guidance provided by the Company with respect to this non-GAAP measure. (3) Current expectations assume next Fed rate hike occurs in December and stable long-term rates. FY 2026 Expectations Net Interest Income (vs. 2025 of $4,991) up 2.5 – 4%(3) Adjusted Non-Interest Income (vs. adjusted 2025 total of $2,585)(1) up 3 – 5%(2) (Expect to be toward lower end) Adjusted Non-Interest Expense (vs. adjusted 2025 total of $4,331)(1) up 1.5 – 3.5%(2) (Inclusive of investments) Average Loans (vs. 2025 of $96,124) up low single digits Average Deposits (vs. 2025 of $129,146) up low single digits Net Charge-Offs / Average Loans 40 – 50 bps (Expect to be toward lower end) Effective Tax Rate 20.5 – 21.5%
+[B1414] rf-2026930xexhibit993012.jpg
+[B1415] Appendix
+[B1416] rf-2026930xexhibit993013.jpg
+[B1417] 13 (1) Total number of unique customers who have successfully authenticated and logged into the mobile app at least once within the last 90 days of the quarter. (2) Digital transactions represent online and mobile only; Non-digital transactions represent branches, contact centers and ATMs. (3) Transactions represent Consumer customer deposits, transfers, mobile deposits, fee refunds, withdrawals, payments, official checks, bill payments, and Western Union. Excludes ACH and Debit Card purchases/refunds. (4) Additional security controls in digital channels placed in 4Q23. Active efforts to drive quality digital acquisitions are in-progress resulting in performance improvement vs 2024. (5)JD Power 2020-2022, and 2024-2026 (tied in 2026) U.S. Banking Online Satisfaction Studies; among banks with $60B to $199B in deposits and 200+ branches, which measures customer satisfaction with financial institutions’ website experience for banking account management. Visit jdpower.com/awards for more details. 2.61 2.73 2.75 3Q24 3Q25 3Q26 4.78 5.76 7.19 3Q24 3Q25 3Q26 190 204 231 3Q24 3Q25 3Q26 24% 23% 24% 32% 33% 34% 44% 44% 42% Mobile ATM Branch 3Q24 3Q25 3Q26 75% 78% 81% 25% 22% 19% 3Q24 3Q25 3Q26 Growth in Digital Mobile Banking Log-Ins (Millions) Customer Transactions(2)(3) Deposit Transactions by Channel Mobile Banking Active Users (Millions)(1) Digital Non-Digital +50%+22% 20% 31% 30% 79% 68% 69% 1% 1% 1% Digital Branch Contact Center 3Q24 3Q25 3Q26 Consumer Checking Account Acquisitions by Channel(4) Customer Satisfaction Zelle Transactions (Millions) TransactionsDigital Usage +5% Mobile App Online Banking(5) #1 in Customer Satisfaction for Regional Bank Websites for six of the last seven years and #2 in Customer Satisfaction with Mobile Banking Apps among Regional Banks Average 4.9 out of 5 rating from iOS app store users New Native Mobile App launched. Customer feedback is strong, and usage of key functionality like Zelle and chat at all time highs, with customer chat volume up over 2X prior app levels.
+[B1418] rf-2026930xexhibit993014.jpg
+[B1419] 14 • Maintained competitive deposit rates driving balance growth of 1% YoY while preserving our industry leading deposit costs of 82bps YTD • Small Business performance continues to grow; Net checking increased 1.2% YTD; lending production up 46% YTD; new merchant partnership 7% increase in referrals YTD • Increased Mass Affluent market share as mass affluent households grew 9% YoY. • Home equity production up 20% YoY with improved utilization; 3Q production achieved the highest level since 2022 • New credit card accounts up 10% YoY, highest since 2019; increased penetration among existing customers • Full roll out of AI branch coaching tool launched with over 16,000 practice simulations • Returned over 250K hours of banker capacity through process simplification and automation, so bankers can focus more on serving customers • Grew average loan balances 6% YoY in 3Q26, with commitments up 6% YoY, reflecting momentum in our local, expertise‑driven relationship model, and ongoing investments in revenue-producing talent. • Grew Non-Interest Revenue 7% YoY reflecting record quarters for TM and Capital Markets (including strong contributions from Frazier Lanier) ◦ TM revenue up 8% YoY driven by a 170bps increase in penetration and 8% growth in TM relationships ◦ Frazier Lanier revenue exceeding expectations since July acquisition • Expanded Specialized Industries Group with the Launch of a Materiels and Infrastructure Group • Expanded Corporate Banking capabilities with the launch of Regions Whole Loan Advisory, designed to help financial institutions buy, sell and manage whole-loan portfolios • Delivered 34% growth in new commercial logos YTD, reflecting strategic focus on emerging commercial and middle market segments Investments in Our Businesses Investments in talent, technology and strategic acquisitions continue to pay off Corporate Consumer • Non-Interest Revenue, up 5% YoY, from continued strength in Investment Management & Trust Fees, up 5% YoY, and Investment Services Fee Income, up 3% YoY • 3Q26 average Loan balances up 6% YoY • 3Q26 average Deposits balances up 3% YoY • Regions Investment Management recognized as a Best Place to Work for the 6th consecutive year • Private Wealth Management awarded Best Innovation in Financial Planning by Datos Insights • Voice of the Client results for Investment Services remain exceptionally strong: ◦ Overall Satisfaction: 4.67/5.00 ◦ 86% of clients rated their advisor 5-stars • Revenue growth is being delivered through high performer retention and investing in new incremental talent Wealth
+[B1420] rf-2026930xexhibit993015.jpg
+[B1421] 15 2026 2027 2028 2029 2030 2031 2032 $23.2B $23.3B $22.0B $18.9B $17.2B $11.7B $5.6B $4.4B $4.8B $4.9B $4.9B $5.1B $5.3B $4.1B $18.8B $18.5B $17.1B $14.0B $12.1B $6.4B $1.5B (Q ua rt er ly A vg ) Asset Hedge Notional 3.11% 3.25% 3.44% 3.62% 3.61% 3.64% 3.82% 3.62% 3.69% 3.69% 3.69% 3.71% 3.72% 3.94% (A nn ua l A vg ) 3Q26 4Q26 1Q27 2Q27 Receive-Fixed, Cash Flow Swaps - Loans $23.2B $23.6B $23.5B $23.6B Pay-Fixed, Fair Value Swaps - AFS Securities $4.3B $4.8B $4.8B $4.8B Net Asset Swap Position(1) $18.9B $18.8B $18.7B $18.8B Cash Flow Swap Receive Rate(3) 3.14% 3.20% 3.24% 3.24% AFS Fair Value Swap Pay Rate(3) 3.60% 3.69% 3.69% 3.69% $2.0B $2.0B $1.7B $1.0B $0.3B $0.3B $0.0BCash Flow Collars - Loans(2) $2.0B $2.0B $2.0B $2.0B Hedging Strategy Update Mostly "neutral" rate risk position protects margin & decreases capital volatility over time Receive-Fixed, Cash Flow Swaps - Loans Cash Flow Collars - Loans(2) Pay-Fixed, Fair Value Swaps - AFS Securities Net Asset Swap Position(1) (1) Net Asset Swap Position equals Receive-Fixed Cash Flow Swaps - Loans minus Pay-Fixed Fair Value Swaps - AFS Securities. (2) Legacy collars have weighted avg. floor of 1.86%, weighted avg. cap of 6.22%. Collars executed in 2026 have weighted avg. floor of 3.30%, weighted avg. cap of 4.75%. Collars use short interest rate caps to pay for long interest rate floors; weighted avg. floor of 2.34%, weighted avg. cap of 5.73%. (3) Floating rate leg of swaps vs overnight SOFR. 3Q26 Asset Hedging Activity Cash Flow Hedging Fair Value Hedging Focused on reducing NIM volatility Focused on reducing AOCI volatility Securities fair value hedges (with offsetting NIM sensitivity transaction) • Added $1.6B in avg start 2030, 5.6Y avg receive-fixed swaps (4.6%) with avg maturity in 2035 to offset interest rate risk associated with fair value AOCI hedges • Added $1.6B in avg start 2030, 5.6Y avg pay-fixed swaps (4.7%) with avg maturity in 2035 to reduce sensitivity of AFS securities AOCI Short-term rate protection in future periods • Added $500M 3Y receive-fixed swaps (4.3%) Medium and long-term rate sensitivity hedges (fixed asset turnover) • Terminated $1.0B in fixed asset turnover swaps hedging 3Q26 as o f 9 /3 0/ 20 26
+[B1422] rf-2026930xexhibit993016.jpg
+[B1423] 16(1) Includes AFS securities, the $1.74B unrealized AFS loss, and HTM securities as of 9/30/2026. • Portfolio constructed to protect against changes in market rates ◦ Duration of ~3.8 years (AFS ~3.5 years) as of 9/30/2026; provides offset to long-duration deposit book ◦ 27% of securities in the portfolio are bullet-like (CMBS, corporate bonds, agency bullets, and USTs) ◦ MBS mix concentrated in less sensitive prepayment collateral types: lower loan balances, seasoning, and state- specific geographic concentrations • 98% US Government or Agency guaranteed ◦ ~$393M high quality, investment grade corporate bond portfolio is short-dated (<3.0 year duration) and well diversified across sectors and issuers ◦ The Agency CMBS portfolio is guaranteed by government agencies and is collateralized by mortgage loans on multifamily properties Agency/UST 8% Agency MBS 70% Agency CMBS 21% Corporate Bonds 1% Securities Portfolio Provides downside rate protection/liquidity Securities Portfolio Composition(1) $31.5B AFS, 84% HTM, 16% $31.5B • Reinvestment of paydowns/maturities accretive to portfolio yield by ~1.64% (excluding repositioning activity) • Sold ~$845M Agency CMBS and CMOs at a $15M pre-tax loss, reinvesting into Agency MBS and picking ~100 basis points of yield ◦ Represents normal duration management, adding downside rate protection 3Q26 Activity
+[B1424] rf-2026930xexhibit993017.jpg
+[B1425] 17 0.59% —% 0.50% 1.00% 1.50% 2.00% 2.50% 0.29% —% 0.50% 1.00% 1.50% 2.00% Historical Credit Profile Non-Performing Loans Total Net Charge-Offs 1Q20 3Q26 4Q221Q20 4Q22 3Q26 Average Pre-Pandemic 0.46% Average Pandemic 0.35% Average Pre-Pandemic 1.07% Average Pandemic 0.64% 1Q13 1Q13 Average Post-Pandemic 0.46% Average Post-Pandemic 0.75%
+[B1426] rf-2026930xexhibit993018.jpg
+[B1427] 18 0.60% —% 0.50% 1.00% 1.50% 2.00% 2.50% 3.00% 3.50% 0.14%—% 0.50% 1.00% Consumer Net Charge-Offs(2) Commercial Net Charge-Offs(1) 1Q20 3Q26 4Q22 1Q20 4Q22 3Q26 (1) Includes C&I, CRE - OO and IRE. (2) The spike in Consumer net charge-offs in late 2013 was associated with the move of ~$700M primarily accruing troubled debt restructured residential first mortgage loans to held for sale resulting in ~$150M of charge-offs. The spikes in 3Q22 and 4Q23 were associated with the fair value marks taken on the sales of ~$1.2B and ~$300M consumer unsecured loan portfolios resulting in $63M and $35M of incremental charge-offs, respectively. Average Pre-Pandemic 0.27% Average Pandemic 0.25% Average Pre-Pandemic 0.78% Average Pandemic 0.53% 1Q13 1Q13 Historical Credit Profile Average Post-Pandemic 0.35% Average Post-Pandemic 0.67%
+[B1428] rf-2026930xexhibit993019.jpg
+[B1429] 19 Commercial Real Estate (Outstanding balances as of September 30, 2026) Highly Diversified Portfolio (IRE including Unsecured CRE) (1) Excludes $5.4B of Owner-occupied CRE whose source of repayment are individual businesses, and whose credit performance resembles Commercial during periods of stress. (2) Based off 06/30/2026 Risk Based Capital estimate. Supervisory limits in the December 2006 joint regulatory issuance "Guidance on Concentrations in Commercial Real Estate Lending, Sound Risk Management Practices". Residential Land 0.6% Other 4.3% Hotel 4.4% Healthcare 6.9% Retail 7.7% Business Office 4.4% Res. Homebuilders 7.3% Self Storage 1.2% Condo 0.1% Data Center 4.7% Diversified 9.4% Industrial 13.6% Medical Office Building 5.1% Commercial Land 0.1% Apartments 30.2% $17.6B $ in billions % of Total Loans Unsecured CRE (incl. REITs) $ 7.4 7.4 % IRE $ 10.2 10.2 % Total(1) $ 17.6 17.6 % Yearly Loan Maturities 1% 9% 31% 29% 16% 8% 6% Multi-Family Office Other Real Estate Total Real Estate Matured 2026 2027 2028 2029 2030 >5years $— $1,000 $2,000 $3,000 $4,000 $5,000 $6,000 Data Center 15% Diversified 9% Apartments 7% Hotel 11% Industrial 24%Other 6% Healthcare 6% Self Storage 4% Retail 18% REITs within Total: $5.3B Key Portfolio Metrics • Unsecured loans for RE purposes generally have low leverage, with strong access to liquidity ◦ 60% of REIT outstanding balances are investment grade, which provides loss insulation to the overall portfolio ◦ Balance of remaining unsecured is primarily to institutional RE Funds backed by predominantly IG sponsors • Total IRE (incl unsec. CRE) to Risk Based Capital(2): 112% and Construction, Land, and Acq. & Dev. to Risk Based Capital: 17% are well below supervisory limits (300%/100%)
+[B1430] rf-2026930xexhibit993020.jpg
+[B1431] 20 CRE- Office Portfolio (Outstanding balances as of September 30, 2026) (1) $ in Millions. Amounts include IRE and CRE Unsecured loans but exclude Held For Sale loans. Metrics represent 9/30/2026 results except for charge-offs, which reflects results for the 9 months ended September 30, 2026, annualized, based on average balances. NPL & ACL percentages are based on Portfolio totals. (2) Stressed LTV based on GreenStreet's Commercial Property Price Index as of October 6, 2026; applied the "Recent Peak" discount to properties where the latest appraisal is >1 year (33% discount); applied the "Past 12 Months" discount to properties where an appraisal occurred within the last year (0% discount). (3) Includes matured balances. (4) Comprised of REITs and business banking borrowers. • Business Offices secured = 99% / unsecured = 1% • IRE WA LTV 68% (based on appraisal at origination or most recent received); Stressed IRE WA LTV 85% using GreenStreet(2) • 66% of secured outstanding IRE balances are located in the South of which 86% is Class A • Investment Grade tenants make up 75% of Single Tenant IRE balances • $508M or approximately 66% of total Office balances will mature in the next 12 months(3) Key Portfolio Metrics(1) Balances $773 % of Total Loans 0.8% NPL $134 NPL / Loans 17.3% Charge-offs $1 Charge-offs / Loans 0.1% ACL $55 ACL / Loans 7.1% Ongoing Portfolio Surveillance 44% 56% Multi-Tenant Single Tenant 82% 18% Class A Class B Investor Real Estate Office Portfolio Overview 80% 20% Suburban Urban ACL Rates Single Tenant Multi Tenant Miscellaneous(4) 6.9% 8.5% 3.2%
+[B1432] rf-2026930xexhibit993021.jpg
+[B1433] 21 Transportation - Trucking (Outstanding balances as of September 30, 2026) (1) $ in Millions. Metrics represent 9/30/2026 results except for charge-offs, which reflects results for the 9 months ended September 30, 2026, annualized, based on average balances. NPL & ACL percentages are based on Portfolio totals. Metrics are inclusive of the Ascentium portfolio. Key Portfolio Metrics(1) Balances $1,020 % of Total Loans 1.0% NPL $43 NPL / Loans 4.2% Charge-offs $33 Charge-offs / Loans 4.0% ACL $83 ACL / Loans 8.2% • The Trucking market continues to be driven by carrier exits, driver shortages, and regulatory pressures, resulting in higher spot rates and improving carrier profitability • Trucking capacity remains constrained following an extended period of carrier exits and regulatory pressures, supporting elevated freight rates and increased pricing power for carriers • While the freight cycle has improved and spot-market fundamentals remain strong, the industry is still vulnerable to economic uncertainty and potential freight-demand slowdowns • New originations in the sector continue to be curtailed and those that are being considered are typically secured or targeted towards larger companies • Trucking balances have declined 20% year-over-year, and asset quality has continued to improve Ongoing Portfolio Surveillance
+[B1434] rf-2026930xexhibit993022.jpg
+[B1435] 22 Consumer Lending Portfolio • Avg. origination FICO 757 • Current LTV 52% • 99% owner occupied • 3Q26 QTD NCO 0.01% • Avg. origination FICO 763 • Current LTV 39% • 55% of portfolio is 1st lien • Avg. loan size $36,484 • $88M to convert to amortizing or balloon during 2026 • 3Q26 QTD NCO (0.02%) • Avg. origination FICO 782 • Avg. new loan $12,086 • 3Q26 Yield 7.83% • 3Q26 QTD NCO 1.54% • • Avg. origination FICO 776 • Avg. new line $10,301 • 3Q26 Yield 13.58% • 3Q26 QTD NCO 3.85% 5% 5% 5% 5% 11% 6% 7% 14% 9% 81% 68% 78% 2% 2% 2% Cons R/E secured Cons non-R/E secured Total consumer Not Available Above 720 620-680 Below 620 681-720 Consumer FICO Scores(1) (1) Refreshed FICO scores as of 09/30/2026. Consumer R/E secured balances comprise 78% of the Consumer portfolio while Consumer non-R/E balances comprise 22% of the Consumer portfolio. (2) Regions' Home Improvement Financing was formerly known as EnerBank. Residential Mortgage Consumer Credit Card Home Equity Home Improvement Financing(2)
+[B1436] rf-2026930xexhibit993023.jpg
+[B1437] 23 $3,244 $1,549 $5,497 $1,791 $654 (1) Non-Depository Financial Institutions (NDFI) $ in Millions is an estimate and based on Call Report Schedule RC-C definition. (2) Defined as Regions' Indirect Leverage Lending, Non-Recourse ABL/Factoring, and Asset-Backed Finance to Funds or Business Development Companies managed by Large Asset Managers. NDFI & Private Credit - Stable Composition and Solid Credit Quality Diversified, investment-grade portfolios aligned with Regions' core markets and industries Loans to Private Credit(2) (12%) • Structural protections in place, such as advance rate and borrowing base analysis, covenants, and frequent reporting requirements • ~80% Investment Grade 9/30/2026(1) $12.7B 12.8% of Total Loans ~72% Investment Grade Private Equity Subscription Lines (14%) Consumer Credit & Mortgage Intermediaries (5%) Other (43%) • Unsecured Equity REITs • Insurance Companies • Equipment Leasing • Supply Chain Finance Specialty Finance Companies (26%) Business Credit Intermediaries (38%) Asset Secured, Recourse Business Credit
+[B1438] rf-2026930xexhibit993024.jpg
+[B1439] 24 QoQ Highlights • 3Q allowance was essentially flat compared to the prior quarter, decreasing $4M and resulting in a $68M provision expense. The slight decrease in the ACL and an increase in loan balances resulted in a reduction in the ACL % from 1.63% to 1.61% • The change in ACL resulted from: ◦ Portfolio net decrease driven primarily by improved credit quality and the net effect of growth in high- quality loans and runoff in higher-risk portfolios ◦ Economic/Qualitative net increase driven primarily by macroeconomic uncertainty with consideration of interest rate and oil shock scenarios ◦ The net change in ACL from Specific Reserve borrowers was relatively flat, with decreases due to payoffs offset by new non-performing loans $1,613 $(16) $9 $3 $1,609 Allowance for Credit Losses 09/30/2026 ($ in millions) 06/30/2026 Economic/ Qualitative Changes Specific Reserve Changes Portfolio Changes
+[B1440] rf-2026930xexhibit993025.jpg
+[B1441] 25 Pre-R&S period 3Q2026 4Q2026 1Q2027 2Q2027 3Q2027 4Q2027 1Q2028 2Q2028 3Q2028 Real GDP, annualized % change 2.5 % 2.2 % 2.1 % 2.6 % 2.4 % 2.3 % 2.4 % 2.3 % 2.3 % Unemployment rate 4.1 % 4.2 % 4.2 % 4.1 % 4.1 % 4.1 % 4.1 % 4.0 % 4.0 % HPI, year-over-year % change 1.5 % 1.4 % 1.6 % 1.1 % 1.0 % 1.1 % 1.3 % 1.6 % 1.8 % CPI, year-over-year % change 3.4 % 3.7 % 3.4 % 2.3 % 2.4 % 1.9 % 2.0 % 2.1 % 2.2 % Base R&S Economic Outlook (As of September 2026) • A single, base economic forecast represents Regions’ internal outlook for the economy as of 3Q26 over the reasonable & supportable forecast period • Management considered alternative internal and external forecasts to establish appropriate qualitative adjustments • Final qualitative adjustments included consideration of the allowance's sensitivity to economic uncertainties that reflected a 15-20% increase in the unemployment rate
+[B1442] rf-2026930xexhibit993026.jpg
+[B1443] 26 As of 9/30/2026 (in millions) Loan Balance ACL ACL/Loans C&I $52,409 $669 1.28 % CRE-OO mortgage 5,072 107 2.11 % CRE-OO construction 296 6 2.01 % Total commercial $57,777 $782 1.35 % IRE mortgage 8,159 148 1.82 % IRE construction 2,052 29 1.43 % Total IRE $10,211 $177 1.74 % Residential first mortgage 19,376 119 0.61 % Home equity lines 3,277 92 2.81 % Home equity loans 2,260 25 1.11 % Consumer credit card 1,512 129 8.56 % Other consumer 5,414 285 5.25 % Total consumer $31,839 $650 2.04 % Total $99,827 $1,609 1.61 % Allowance Allocation
+[B1444] rf-2026930xexhibit993027.jpg
+[B1445] 27 Management uses pre-tax pre-provision income (non-GAAP), adjusted pre-tax pre-provision income (non-GAAP), the adjusted efficiency ratio (non-GAAP), the adjusted fee income ratio (non-GAAP), return on average tangible common shareholders' equity (non-GAAP), adjusted return on average tangible common shareholders' equity (non-GAAP), common equity Tier 1 ratio (inclusive of AOCI and estimated adjustments to risk-weighted assets) (non-GAAP),as well as adjusted net income available to common shareholders (non-GAAP) and adjusted diluted EPS (non-GAAP) to monitor performance and believes these measures provide meaningful information to investors. Non-interest expense (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest expense (non-GAAP), which is the numerator for the adjusted efficiency ratio. Non-interest income (GAAP) is presented excluding certain adjustments to arrive at adjusted non-interest income (non-GAAP), which is the numerator for the adjusted fee income ratio. Adjusted non-interest income (non-GAAP) and adjusted non-interest expense (non-GAAP) are used to determine adjusted pre-tax pre-provision income (non-GAAP). Net interest income (GAAP) on a taxable-equivalent basis and non-interest income are added together to arrive at total revenue on a taxable-equivalent basis. Adjustments are made to arrive at adjusted total revenue on a taxable-equivalent basis (non-GAAP), which is the denominator for the adjusted fee income and adjusted efficiency ratios. Net income available to common shareholders (GAAP) is presented excluding certain adjustments, net of tax, to arrive at adjusted net income available to common shareholders (non-GAAP), which is the numerator for adjusted diluted EPS (non-GAAP). Return on average tangible common shareholders' equity (non-GAAP) is calculated by dividing net income available to common shareholders (GAAP) by the average tangible common shareholders’ equity (non-GAAP). Net income available to common shareholders (GAAP) is presented excluding certain adjustments, net of tax, to arrive at adjusted net income available to common shareholders (non-GAAP), which is the numerator for adjusted return on average tangible common shareholders’ equity. Adjusted return on average tangible common shareholders' equity is calculated by dividing the adjusted net income available to common shareholders (non-GAAP) by the average tangible common shareholders’ equity (non-GAAP). Common equity Tier 1 ratio (inclusive of AOCI and estimated adjustments to risk weighted assets) (non- GAAP) is calculated by dividing the adjusted common equity tier 1 (non-GAAP), which is arrived at by including the AOCI loss on securities and AOCI loss on defined benefit pension plans and other post employment benefits from common equity Tier 1, by the company’s risk-weighted assets (inclusive of estimated adjustments)(non-GAAP) which is calculated by taking total risk-weighted assets (GAAP) less estimated adjustments to risk-weighted assets (non-GAAP). Regions believes that the exclusion of these adjustments provides a meaningful basis for period-to-period comparisons, which management believes will assist investors in analyzing the operating results of the company and predicting future performance. These non- GAAP financial measures are also used by management to assess the performance of Regions’ business. It is possible that the activities related to the adjustments may recur; however, management does not consider the activities related to the adjustments to be indications of ongoing operations. Regions believes that presentation of these non-GAAP financial measures will permit investors to assess the performance of the company on the same basis as that applied by management. Tangible common book value per share is calculated by dividing tangible common shareholders' equity (non-GAAP) by tangible assets (non-GAAP). The numerator for tangible book value per share (non-GAAP), tangible common shareholders' equity (non-GAAP), is calculated by excluding intangible assets and the deferred tax liability related to intangible assets from common shareholders' equity (GAAP). The denominator for tangible book value per share (non-GAAP), tangible assets (non-GAAP), is calculated by excluding intangible assets and the deferred tax liability related to intangible assets from total assets (non-GAAP). Tangible common shareholders’ equity ratios have become a focus of some investors and management believes they may assist investors in analyzing the capital position of the company absent the effects of intangible assets and preferred stock. Analysts and banking regulators have assessed Regions’ capital adequacy using the tangible common shareholders’ equity measure. Because tangible common shareholders’ equity is not formally defined by GAAP or prescribed in any amount by federal banking regulations it is currently considered to be a non-GAAP financial measure and other entities may calculate it differently than Regions’ disclosed calculations. Since analysts and banking regulators may assess Regions’ capital adequacy using tangible common shareholders’ equity to tangible assets, management believes that it is useful to provide investors the ability to assess Regions’ capital adequacy on this same basis. Non-GAAP financial measures have inherent limitations, are not required to be uniformly applied and are not audited. Although these non-GAAP financial measures are frequently used by stakeholders in the evaluation of a company, they have limitations as analytical tools, and should not be considered in isolation, or as a substitute for analyses of results as reported under GAAP. In particular, a measure of earnings that excludes selected items does not represent the amount that effectively accrues directly to stockholders. Additionally, our non-GAAP financial measures may not be comparable to similar non-GAAP financial measures used by other companies and there is no certainty that we will not incur expenses in the future that are similar to those excluded in the calculations of non- GAAP financial measures presented herein. Management and the Board of Directors utilize non-GAAP measures as follows: • Preparation of Regions' operating budgets • Monthly financial performance reporting • Monthly close-out reporting of consolidated results (management only) • Presentation to investors of company performance • Metrics for incentive compensation Note on Forward-Looking Guidance The Company has also provided forward-looking guidance with respect to certain of the non-GAAP measures, which excludes from the corresponding GAAP financial measures the effect of certain adjustments. The Company has not provided a reconciliation of such non-GAAP guidance to guidance presented on a GAAP basis because it cannot predict and quantify without unreasonable effort all of the adjustments that may occur during the period due to the difficulty of presenting the timing and amounts of various items within a reasonable range. Non-GAAP Information
+[B1446] rf-2026930xexhibit993028.jpg
+[B1447] 28 As of and for Quarter Ended ($ amounts in millions, except per share data) 9/30/2026 6/30/2026 3/31/2026 12/31/2025 9/30/2025 TANGIBLE COMMON RATIOS Shareholders’ equity (GAAP) A $ 17,847 $ 18,840 $ 18,779 $ 19,043 $ 19,049 Less: Preferred stock (GAAP) 1,369 1,369 1,369 1,369 1,369 Common shareholders' equity (GAAP) B 16,478 17,471 17,410 17,674 17,680 Less: Intangible assets (GAAP) 5,868 5,859 5,866 5,873 5,879 Deferred tax liability related to intangibles (GAAP) (146) (143) (141) (138) (133) Tangible common shareholders’ equity (non-GAAP) C $ 10,756 $ 11,755 $ 11,685 $ 11,939 $ 11,934 Total assets (GAAP) D $ 163,213 $ 161,299 $ 160,741 $ 158,814 $ 159,940 Less: Intangible assets (GAAP) 5,868 5,859 5,866 5,873 5,879 Deferred tax liability related to intangibles (GAAP) (146) (143) (141) (138) (133) Tangible assets (non-GAAP) E $ 157,491 $ 155,583 $ 155,016 $ 153,079 $ 154,194 Shares outstanding—end of quarter F 850 853 854 868 885 Total equity to total assets (GAAP) A/D 10.93 % 11.68 % 11.68 % 11.99 % 11.91 % Tangible common shareholders’ equity to tangible assets (non-GAAP) C/E 6.83 % 7.55 % 7.54 % 7.80 % 7.74 % Common book value per share (GAAP) B/F $ 19.38 $ 20.48 $ 20.39 $ 20.36 $ 19.98 Tangible common book value per share (non-GAAP) C/F $ 12.65 $ 13.78 $ 13.69 $ 13.75 $ 13.49 Non-GAAP Reconciliation Tangible Common Ratios
+[B1448] rf-2026930xexhibit993029.jpg
+[B1449] 29 Non-GAAP Reconciliation Net Income Available to Common Shareholders, Adjusted Diluted EPS, and Return Ratios NM - Not Meaningful Quarter Ended ($ amounts in millions) 9/30/2026 6/30/2026 3/31/2026 12/31/2025 9/30/2025 3Q26 vs. 2Q26 3Q26 vs. 3Q25 Net income available to common shareholders (GAAP) A $ 611 $ 549 $ 539 $ 514 $ 548 $ 62 11.3 % $ 63 11.5 % Adjustments: Securities (gains) losses, net 15 40 — — 25 (25) (62.5) % (10) (40.0) % FDIC insurance special assessment — — — (14) (3) — NM 3 100.0 % Branch consolidation, property and equipment charges — 5 — — (5) (5) (100.0) % 5 100.0 % Total adjustments 15 45 — (14) 17 $ (30) (66.7) % $ (2) (11.8) % Tax impact of adjusted items (4) (11) — 4 (4) 7 63.6 % — — % Adjusted net income available to common shareholders (non-GAAP) B $ 622 $ 583 $ 539 $ 504 $ 561 $ 39 6.7 % $ 61 10.9 % Weighted-average diluted shares C 856 857 868 880 894 Diluted EPS (GAAP) A/C $ 0.71 $ 0.64 $ 0.62 $ 0.58 $ 0.61 $ 0.07 10.9 % $ 0.10 16.4 % Adjusted diluted EPS (non-GAAP) B/C 0.73 0.68 0.62 0.57 0.63 $ 0.05 7.4 % $ 0.10 15.9 % Average shareholders' equity (GAAP) 18,489 18,676 19,077 18,986 18,688 (187) (1.0) % (199) (1.1) % Less: Average preferred stock (GAAP) 1,369 1,369 1,369 1,369 1,369 — — % — — % Average common shareholders' equity (GAAP) D 17,120 17,307 17,708 17,617 17,319 (187) (1.1) % (199) (1.1) % Less: Average intangible assets (GAAP) 5,871 5,863 5,869 5,876 5,883 8 0.1 % (12) (0.2) % Average deferred tax liability related to intangibles (GAAP) (144) (141) (138) (135) (131) (3) (2.1) % (13) (9.9) % Average tangible common shareholders' equity (non-GAAP) E $ 11,393 $ 11,585 $ 11,977 $ 11,876 $ 11,567 (192) (1.7) % (174) (1.5) % Return on average common shareholders' equity (GAAP) A/D 14.16 % 12.73 % 12.35 % 11.58 % 12.56 % Return on average tangible common shareholders' equity (non-GAAP) A/E 21.27 % 19.01 % 18.26 % 17.17 % 18.81 % Adjusted return on average tangible common shareholders' equity (non-GAAP) B/E 21.66 % 20.18 % 18.26 % 16.84 % 19.24 %
+[B1450] rf-2026930xexhibit993030.jpg
+[B1451] 30 Non-GAAP Reconciliation Pre-Tax Pre-Provision Income (PPI) Quarter Ended ($ amounts in millions) 9/30/2026 6/30/2026 3/31/2026 12/31/2025 9/30/2025 3Q26 vs. 2Q26 3Q26 vs. 3Q25 Net income available to common shareholders (GAAP) $ 611 $ 549 $ 539 $ 514 $ 548 $ 62 11.3 % $ 63 11.5 % Preferred dividends and other (GAAP) 20 21 20 20 21 (1) (4.8) % (1) (4.8) % Income tax expense (GAAP) 156 148 155 174 139 8 5.4 % 17 12.2 % Income before income taxes (GAAP) 787 718 714 708 708 69 9.6 % 79 11.2 % Provision for credit losses (GAAP) 68 68 91 115 105 — — % (37) (35.2) % Pre-tax pre-provision income (non-GAAP) 855 786 805 823 813 69 8.8 % 42 5.2 % Other adjustments: Securities (gains) losses, net 15 40 — — 25 (25) (62.5) % (10) (40.0) % FDIC insurance special assessment — — — (14) (3) — NM 3 100.0 % Branch consolidation, property and equipment charges — 5 — — (5) (5) (100.0) % 5 100.0 % Total other adjustments 15 45 — (14) 17 (30) (66.7) % (2) (11.8) % Adjusted pre-tax pre-provision income (non-GAAP) $ 870 $ 831 $ 805 $ 809 $ 830 $ 39 4.7 % $ 40 4.8 % NM - Not Meaningful
+[B1452] rf-2026930xexhibit993031.jpg
+[B1453] 31 Non-GAAP Reconciliation NII, Non-Interest Income/Expense, and Efficiency Ratio NM - Not Meaningful Quarter Ended ($ amounts in millions) 9/30/2026 6/30/2026 3/31/2026 12/31/2025 9/30/2025 3Q26 vs. 2Q26 3Q26 vs. 3Q25 Non-interest expense (GAAP) A $ 1,118 $ 1,121 $ 1,068 $ 1,098 $ 1,103 $ (3) (0.3) % $ 15 1.4 % Adjustments: FDIC insurance special assessment — — — 14 3 — NM (3) (100.0) % Branch consolidation, property and equipment charges — (5) — — 5 5 100.0 % (5) (100.0) % Adjusted non-interest expense (non-GAAP) B $ 1,118 $ 1,116 $ 1,068 $ 1,112 $ 1,111 $ 2 0.2 % $ 7 0.6 % Net interest income (GAAP) C $ 1,298 $ 1,277 $ 1,248 $ 1,281 $ 1,257 $ 21 1.6 % $ 41 3.3 % Taxable-equivalent adjustment 16 14 13 13 12 2 14.3 % 4 33.3 % Net interest income, taxable-equivalent basis D $ 1,314 $ 1,291 $ 1,261 $ 1,294 $ 1,269 $ 23 1.8 % $ 45 3.5 % Non-interest income (GAAP) E 675 630 625 640 659 45 7.1 % 16 2.4 % Adjustments: Securities (gains) losses, net 15 40 — — 25 (25) (62.5) % (10) (40.0) % Adjusted non-interest income (non-GAAP) F $ 690 $ 670 $ 625 $ 640 $ 684 20 3.0 % $ 6 0.9 % Total revenue C+E=G $ 1,973 $ 1,907 $ 1,873 $ 1,921 $ 1,916 $ 66 3.5 % $ 57 3.0 % Adjusted total revenue (non-GAAP) C+F=H $ 1,988 $ 1,947 $ 1,873 $ 1,921 $ 1,941 $ 41 2.1 % $ 47 2.4 % Total revenue, taxable-equivalent basis D+E=I $ 1,989 $ 1,921 $ 1,886 $ 1,934 $ 1,928 $ 68 3.5 % $ 61 3.2 % Adjusted total revenue, taxable-equivalent basis (non-GAAP) D+F=J $ 2,004 $ 1,961 $ 1,886 $ 1,934 $ 1,953 $ 43 2.2 % $ 51 2.6 % Operating leverage ratio (GAAP) I-A 1.7 % Adjusted operating leverage ratio (non-GAAP) J-B 1.9 % Efficiency ratio (GAAP) A/I 56.2 % 58.3 % 56.6 % 56.8 % 57.2 % Adjusted efficiency ratio (non-GAAP) B/J 55.8 % 56.9 % 56.6 % 57.5 % 56.9 % Fee income ratio (GAAP) E/I 33.9 % 32.8 % 33.1 % 33.1 % 34.2 % Adjusted fee income ratio (non-GAAP) F/J 34.4 % 34.2 % 33.1 % 33.1 % 35.0 %
+[B1454] rf-2026930xexhibit993032.jpg
+[B1455] 32 Non-GAAP Reconciliation Non-Interest Expense Twelve Months Ended December 31 ($ amounts in millions) 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 Non-interest expense (GAAP) $ 4,313 $ 4,242 $ 4,416 $ 4,068 $ 3,747 $ 3,643 $ 3,489 $ 3,570 $ 3,491 $ 3,483 Adjustments: FDIC insurance special assessment 17 (16) (119) — — — — — — — Contribution to Regions Financial Corporation foundation — — — (3) (10) — (60) (40) — Professional, legal and regulatory expenses (2) (3) (1) (179) (15) (7) — — — (3) Branch consolidation, property and equipment charges 5 (3) (7) (3) (5) (31) (25) (11) (22) (58) Expenses associated with residential mortgage loan sale — — — — — — — (4) — — Early extinguishment of debt — — 4 — (20) (22) (16) — — (14) Salary and employee benefits—severance charges (2) (30) (31) — (6) (31) (5) (61) (10) (21) Acquisition expense — — — — — (1) — — — — Other miscellaneous expenses — 37 — — — — — — — — Adjusted non-interest expense (non-GAAP) $ 4,331 $ 4,227 $ 4,262 $ 3,886 $ 3,698 $ 3,541 $ 3,443 $ 3,434 $ 3,419 $ 3,387
+[B1456] rf-2026930xexhibit993033.jpg
+[B1457] 33 Quarter Ended ($ amounts in millions) 9/30/2026 CET1 RATIOS Common Equity Tier 1(1) A $ 13,968 Adjustments: AOCI gain (loss) on securities(2) (1,889) AOCI gain (loss) on defined benefit pension plans and other post employment benefits (380) Common Equity Tier 1 (inclusive of AOCI)(non-GAAP) B $ 11,699 Total risk-weighted assets(1) C $ 129,237 Less: estimated adjustments to risk-weighted assets(3) $ 11,000 Estimated risk-weighted assets (inclusive of estimated adjustments)(non-GAAP)(3) D $ 118,237 Common Equity Tier 1 ratio(1)(4) A/C 10.8 % Common Equity Tier 1 ratio (inclusive of AOCI and estimated adjustments to risk weighted assets))(non-GAAP)(1)(3)(4)(5) B/D 10 % Non-GAAP Reconciliation CET1- inclusive of AOCI and estimated adjustments to risk-weighted assets (1) Common equity Tier 1 as well as Total risk-weighted assets are estimated. (2) Represents AOCI on AFS and HTM securities (3) The proposed Basel III Endgame rules provide for multiple updates to recalibrate risk-weighted assets, which will reduce overall RWAs. (4) Amounts calculated based upon whole dollar values (5) Consistent with the proposed Basel III Endgame rules, AOCI for CF hedges remains excluded. ~ ~
+[B1458] rf-2026930xexhibit993034.jpg
+[B1459] 34 Forward-Looking Statements This presentation, the related earnings release, and the accompanying earnings call may include forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. In addition, the company, through its senior management, may from time to time make forward-looking public statements concerning the matters described herein. The words “future,” “anticipates,” “assumes,” “intends,” “plans,” “seeks,” “believes,” “predicts,” “potential,” “objectives,” “estimates,” “expects,” “targets,” “projects,” “outlook,” “forecast,” “would,” “will,” “may,” “might,” “could,” “should,” “can,” and similar terms, expressions, and graphics often signify forward-looking statements. Forward-looking statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond our control. Forward-looking statements are not based on historical information, but rather are related to future operations, strategies, financial results or other developments. Forward-looking statements are based on management’s current expectations as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Those statements are based on general assumptions and are subject to various risks, and because they also relate to the future they are likewise subject to inherent uncertainties and other factors that may cause actual results to differ materially from the views, beliefs and projections expressed in such statements. Therefore, we caution you against relying on any of these forward-looking statements. These risks, uncertainties and other factors include, but are not limited to, those described below: • Our businesses have been, and may continue to be, adversely affected by conditions in the financial markets and economic conditions generally. • Fluctuations in market interest rates, including the level and shape of the yield curve, may adversely affect our performance. • If we experience greater credit losses in our loan portfolios than anticipated, our earnings may be materially adversely affected. • Any future reductions in our credit ratings may increase our funding costs and place limitations on business activities. • Changes in the soundness of other financial institutions could adversely affect us. • We may suffer losses if the value of collateral declines in stressed market conditions. • Ineffective liquidity management could adversely affect our financial results and condition. • Loss of deposits or a change in deposit mix could increase our funding costs. • We rely on the mortgage secondary market to manage various risks. • We are at risk of a variety of systems failures or errors and cyber-attacks or other similar incidents that could adversely affect customer experience and our business and financial performance. • We are subject to complex and evolving laws, regulations, rules, standards and contractual obligations regarding privacy and cybersecurity, which could increase the cost of doing business, compliance risks and potential liability. • We will continually encounter technological change and must effectively anticipate, develop and implement new technology. • The development and use of AI presents risks and challenges that may adversely impact our business. • Industry competition, including competition from decentralized finance platforms, cryptocurrencies and blockchain technologies could disrupt our business model and adversely affect our revenues, market share or liquidity. • Our operations are concentrated primarily in the South, Midwest and Texas, and adverse changes in the economic conditions in this region can adversely affect our financial results and condition. • Weakness in the residential real estate markets could adversely affect our performance. • Weakness in the commercial real estate markets could adversely affect our performance. • Risks associated with home equity products where we are in a second lien position could adversely affect our performance. • Weakness in commodity businesses could adversely affect our performance. • An outbreak or escalation of hostilities between countries or within a country or region could have a material adverse effect on the U.S. economy and on our businesses. • We are subject to a variety of operational risks, including the risk of fraud or theft by internal or external parties, which may adversely affect our business and results of operations. • We rely on other companies to provide key components of our business infrastructure. • We depend on the accuracy and completeness of information about clients and counterparties. • We are exposed to risk of environmental liability when we take title to property. • We can be negatively affected if we fail to identify and address operational risks associated with the introduction of or changes to products, services and delivery platforms. • Enhanced regulatory and other standards for the oversight of vendors and other service providers can result in higher costs and other potential exposures. • We are, and may in the future be, subject to claims and litigation calling into question our right to use the intellectual property underlying certain technology in our business. Forward-Looking Statements
+[B1460] rf-2026930xexhibit993035.jpg
+[B1461] 35 • Weather-related events, pandemics and other natural or man-made disasters could cause a disruption in our operations or lead to other consequences that could adversely impact our financial results and condition. These impacts could be intensified by climate change. Heightening focus on climate change may also carry transition risks that could negatively impact our results of operations and financial condition. • We are subject to sociopolitical risks that could adversely affect our business, reputation and the trading price of our common stock. • Damage to our reputation could significantly harm our businesses. • We are, and may in the future be, subject to litigation, investigations and governmental proceedings that may result in liabilities adversely affecting our financial condition, business or results of operations or in reputational harm. • We are subject to extensive governmental regulation, which could have an adverse impact on our operations and our business model. • We are subject to a variety of risks in connection with any sale of loans we may conduct. • We may be subject to more stringent capital and liquidity requirements. • Rulemaking changes and regulatory initiatives implemented by the CFPB may result in higher regulatory and compliance costs that may adversely affect our results of operations. • We are subject to numerous laws designed to protect consumers, including the Community Reinvestment Act and fair lending laws, and a failure to comply with these laws could lead to a wide variety of penalties and other sanctions. • We may not be able to complete future acquisitions, may not be successful in realizing the benefits of any future acquisitions that are completed or may choose not to pursue acquisition opportunities we might find beneficial. • Increases in FDIC insurance assessments may adversely affect our earnings. • Unfavorable results from ongoing stress analyses may adversely affect our ability to retain customers or compete for new business opportunities. • We are a holding company and depend on our subsidiaries for dividends, distributions and other payments. • We may not pay dividends on shares of our capital stock. • Anti-takeover and banking laws and certain agreements and charter provisions may adversely affect share value. • Our amended and restated by-laws designate (i) the Court of Chancery of the State of Delaware as the sole and exclusive forum for certain types of actions and proceedings that may be initiated by our shareholders and (ii) the federal district courts of the United States as the sole and exclusive forum for any action asserting a cause of action arising under the Securities Act, which could limit our shareholders’ ability to obtain a favorable judicial forum for disputes with our company or our company’s directors, officers or other employees. • We face substantial legal and operational risks in our safeguarding and other processing of personal information. • Differences in regulation can affect our ability to compete effectively. • Our businesses may be adversely affected if we are unable to hire and retain qualified employees. • Our operations rely on our ability, and the ability of key external parties, to maintain appropriately staffed workforces, and on the competence, trustworthiness, health and safety of employees. • Our reported financial results depend on management’s selection of accounting methods and certain assumptions and estimates. • If the models that we use in our business perform poorly or provide inadequate information, our business or results of operations may be adversely affected. • Changes in our accounting policies or in accounting standards could materially affect how we report our financial results and condition. The foregoing list of factors is not exhaustive. For discussion of these and other factors that may cause actual results to differ from expectations, look under the captions “Cautionary Note Regarding Forward-Looking Statements and Risk Factor Summary” and “Risk Factors” in Regions’ Annual Report on Form 10-K for the year ended December 31, 2025 and in Regions’ subsequent filings with the SEC. You should not place undue reliance on any forward-looking statements, which speak only as of the date made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible to predict all of them. We assume no obligation and do not intend to update or revise any forward-looking statements that are made from time to time, either as a result of future developments, new information or otherwise, except as may be required by law. Regions’ Investor Relations contact is Chris Best at (205) 264-7040; Regions’ Media contact is Jeremy King at (205) 264-4551. Forward-Looking Statements (continued)
+[B1462] rf-2026930xexhibit993036.jpg

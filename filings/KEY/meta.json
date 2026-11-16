@@ -1,0 +1,29 @@
+{
+  "ticker": "KEY",
+  "name": "KeyCorp",
+  "cik": 91576,
+  "accession": "0000091576-26-000020",
+  "filed": "2026-10-20",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000009157626000020/a3q26earningsrelease.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000009157626000020/a3q26earningspresentatio.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    },
+    {
+      "type": "EX-99.3",
+      "url": "https://www.sec.gov/Archives/edgar/data/91576/000009157626000020/a3q26erex993.htm",
+      "description": "EX-99.3",
+      "file": "ex-99_3.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:48+00:00"
+}

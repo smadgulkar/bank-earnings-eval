@@ -1,0 +1,23 @@
+{
+  "ticker": "PNC",
+  "name": "PNC Financial Services Group",
+  "cik": 713676,
+  "accession": "0001628280-26-065936",
+  "filed": "2026-10-15",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026065936/q32026financialhighlightsa.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026065936/q32026financialsupplement.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:44+00:00"
+}

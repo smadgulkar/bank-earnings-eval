@@ -1,0 +1,29 @@
+{
+  "ticker": "TFC",
+  "name": "Truist Financial",
+  "cik": 92230,
+  "accession": "0000092230-26-000108",
+  "filed": "2026-10-16",
+  "form": "8-K",
+  "exhibits": [
+    {
+      "type": "EX-99.1",
+      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000108/ex991-3q26.htm",
+      "description": "EX-99.1",
+      "file": "ex-99_1.htm"
+    },
+    {
+      "type": "EX-99.2",
+      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000108/ex992-qpsx3q26.htm",
+      "description": "EX-99.2",
+      "file": "ex-99_2.htm"
+    },
+    {
+      "type": "EX-99.3",
+      "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000108/ex993-earningsdeck3q26.htm",
+      "description": "EX-99.3",
+      "file": "ex-99_3.htm"
+    }
+  ],
+  "fetched_utc": "2026-11-16T20:10:45+00:00"
+}

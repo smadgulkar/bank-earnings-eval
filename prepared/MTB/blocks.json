@@ -1,0 +1,3992 @@
+[
+{
+"id": "B0001",
+"exhibit": "ex-99_1.htm",
+"text": "EX-99.1"
+},
+{
+"id": "B0002",
+"exhibit": "ex-99_1.htm",
+"text": "2"
+},
+{
+"id": "B0003",
+"exhibit": "ex-99_1.htm",
+"text": "ex991release3q26.htm"
+},
+{
+"id": "B0004",
+"exhibit": "ex-99_1.htm",
+"text": "EX-99.1"
+},
+{
+"id": "B0005",
+"exhibit": "ex-99_1.htm",
+"text": "Document created using Wdesk Copyright 2026 Workiva Document"
+},
+{
+"id": "B0006",
+"exhibit": "ex-99_1.htm",
+"text": "Exhibit 99.1"
+},
+{
+"id": "B0007",
+"exhibit": "ex-99_1.htm",
+"text": "News Release"
+},
+{
+"id": "B0008",
+"exhibit": "ex-99_1.htm",
+"text": "One M&T Plaza, Buffalo, NY 14203 | October 16, 2026"
+},
+{
+"id": "B0009",
+"exhibit": "ex-99_1.htm",
+"text": "M&T Bank Corporation (NYSE:MTB) announces third quarter 2026 results"
+},
+{
+"id": "B0010",
+"exhibit": "ex-99_1.htm",
+"text": "M&T Bank Corporation (\"M&T\" or \"the Company\") reports quarterly net income of $775 million or $5.04 of diluted earnings per common share."
+},
+{
+"id": "B0011",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions, except per share data) | 3Q26 | 2Q26 | 3Q25"
+},
+{
+"id": "B0012",
+"exhibit": "ex-99_1.htm",
+"text": "Earnings Highlights"
+},
+{
+"id": "B0013",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income | $1,793 | $1,792 | $1,761"
+},
+{
+"id": "B0014",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent adjustment | 12 | 12 | 12"
+},
+{
+"id": "B0015",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income - taxable-equivalent | 1,805 | 1,804 | 1,773"
+},
+{
+"id": "B0016",
+"exhibit": "ex-99_1.htm",
+"text": "Provision for credit losses | 135 | 120 | 125"
+},
+{
+"id": "B0017",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest income | 743 | 740 | 752"
+},
+{
+"id": "B0018",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest expense | 1,393 | 1,349 | 1,363"
+},
+{
+"id": "B0019",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | 775 | 818 | 792"
+},
+{
+"id": "B0020",
+"exhibit": "ex-99_1.htm",
+"text": "Net income available to common shareholders - diluted | 732 | 781 | 754"
+},
+{
+"id": "B0021",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted earnings per common share | 5.04 | 5.32 | 4.82"
+},
+{
+"id": "B0022",
+"exhibit": "ex-99_1.htm",
+"text": "Return on average assets - annualized | 1.40% | 1.51% | 1.49%"
+},
+{
+"id": "B0023",
+"exhibit": "ex-99_1.htm",
+"text": "Return on average common shareholders' equity - annualized | 11.44 | 12.30 | 11.45"
+},
+{
+"id": "B0024",
+"exhibit": "ex-99_1.htm",
+"text": "Average Balance Sheet"
+},
+{
+"id": "B0025",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets | $218,860 | $216,532 | $211,053"
+},
+{
+"id": "B0026",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits at banks | 14,209 | 15,061 | 17,739"
+},
+{
+"id": "B0027",
+"exhibit": "ex-99_1.htm",
+"text": "Investment securities | 38,552 | 38,728 | 36,559"
+},
+{
+"id": "B0028",
+"exhibit": "ex-99_1.htm",
+"text": "Loans | 143,296 | 140,650 | 135,890"
+},
+{
+"id": "B0029",
+"exhibit": "ex-99_1.htm",
+"text": "Deposits | 166,777 | 163,524 | 162,576"
+},
+{
+"id": "B0030",
+"exhibit": "ex-99_1.htm",
+"text": "Borrowings | 19,225 | 20,794 | 15,633"
+},
+{
+"id": "B0031",
+"exhibit": "ex-99_1.htm",
+"text": "Selected Ratios"
+},
+{
+"id": "B0032",
+"exhibit": "ex-99_1.htm",
+"text": "(Amounts expressed as a percent, except per share data)"
+},
+{
+"id": "B0033",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest margin | 3.65% | 3.70% | 3.69%"
+},
+{
+"id": "B0034",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio (1) | 54.4 | 52.8 | 53.6"
+},
+{
+"id": "B0035",
+"exhibit": "ex-99_1.htm",
+"text": "Net charge-offs to average total loans - annualized | .35 | .23 | .42"
+},
+{
+"id": "B0036",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses to total loans | 1.51 | 1.53 | 1.59"
+},
+{
+"id": "B0037",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans to total loans | .90 | .85 | 1.11"
+},
+{
+"id": "B0038",
+"exhibit": "ex-99_1.htm",
+"text": "Common equity Tier 1 (\"CET1\") capital ratio (2) | 10.16 | 10.19 | 10.99"
+},
+{
+"id": "B0039",
+"exhibit": "ex-99_1.htm",
+"text": "Common shareholders' equity per share | $174.95 | $176.03 | $170.43"
+},
+{
+"id": "B0040",
+"exhibit": "ex-99_1.htm",
+"text": "(1) A reconciliation of non-GAAP measures is included in the tables that accompany this release."
+},
+{
+"id": "B0041",
+"exhibit": "ex-99_1.htm",
+"text": "(2) CET1 capital ratio at September 30, 2026 is estimated."
+},
+{
+"id": "B0042",
+"exhibit": "ex-99_1.htm",
+"text": "Financial Highlights"
+},
+{
+"id": "B0043",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Taxable-equivalent net interest income increased nominally in the recent quarter as compared with the second quarter of 2026 reflecting an additional day, partially offset by lower interest income on nonaccrual loans."
+},
+{
+"id": "B0044",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Average loans grew $2.6 billion in the recent quarter reflecting higher average commercial real estate loan balances of $1.6 billion, consumer loan balances of $634 million and residential real estate loan balances of $367 million."
+},
+{
+"id": "B0045",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Higher noninterest income in the recent quarter reflects an increase in residential mortgage banking revenues, partially offset by a decrease in capital markets and advisory revenues and a lower distribution from M&T's investment in Bayview Lending Group LLC (\"BLG\")."
+},
+{
+"id": "B0046",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Noninterest expense reflects increases in outside data processing and software costs and professional and other services expense as well as higher personnel costs from an additional working day in the recent quarter."
+},
+{
+"id": "B0047",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 The allowance for loan losses as a percent of total loans declined 2 basis points to 1.51% at September 30, 2026."
+},
+{
+"id": "B0048",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 In the recent quarter, M&T repurchased 1.3 million shares of its common stock at a total cost of $323 million. M&T's CET1 capital ratio is estimated to be 10.16% at September 30, 2026."
+},
+{
+"id": "B0049",
+"exhibit": "ex-99_1.htm",
+"text": "Chief Financial Officer Commentary"
+},
+{
+"id": "B0050",
+"exhibit": "ex-99_1.htm",
+"text": "\"M&T's third quarter results were highlighted by strong loan and deposit growth, stable credit and a solid capital position. Fee income in the recent quarter continues to reflect the breadth of M&T's franchise and our ability to meet customers' evolving needs through a wide range of financial capabilities. The continued strength across customer-driven revenue streams demonstrates the value of our diversified business model and the depth of our customer relationships. These relationships are at the heart of our purpose, to make a difference in people's lives. I want to thank our employees for their ongoing commitment to the communities and customers we serve.\""
+},
+{
+"id": "B0051",
+"exhibit": "ex-99_1.htm",
+"text": "- Daryl N. Bible, M&T's Chief Financial Officer"
+},
+{
+"id": "B0052",
+"exhibit": "ex-99_1.htm",
+"text": "Contact:"
+},
+{
+"id": "B0053",
+"exhibit": "ex-99_1.htm",
+"text": "Investor Relations: | Rajiv Ranjan | 716.842.5138"
+},
+{
+"id": "B0054",
+"exhibit": "ex-99_1.htm",
+"text": "Steve Wendelboe | 716.842.5138"
+},
+{
+"id": "B0055",
+"exhibit": "ex-99_1.htm",
+"text": "Media Relations: | Frank Lentini | 929.651.0447"
+},
+{
+"id": "B0056",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0057",
+"exhibit": "ex-99_1.htm",
+"text": "Financial Reporting Matters"
+},
+{
+"id": "B0058",
+"exhibit": "ex-99_1.htm",
+"text": "As reported on M&T's Form 8-K dated September 28, 2026, effective for the third quarter of 2026 M&T made certain changes and reclassifications to Other income categories presented in its Consolidated Statement of Income. Also effective for the third quarter of 2026, M&T began separately presenting loans held for sale from loans held for investment in its Consolidated Balance Sheet and its Average Balance Sheet and Annualized Taxable-equivalent Rates disclosures. Accordingly, annualized taxable-equivalent rates for each impacted loan category and certain loan-based credit quality ratios exclude loans held for sale. Additionally, as reported in M&T's Form 10-Q for the quarter ended June 30, 2026, in conjunction with the implementation of a new general ledger platform during the second quarter of 2026, the Company modified its methodology for calculating annualized taxable-equivalent rates for certain earning assets and interest-bearing liabilities, including certain average deposit balances. All periods presented herein reflect those changes."
+},
+{
+"id": "B0059",
+"exhibit": "ex-99_1.htm",
+"text": "Non-GAAP Measures (1)"
+},
+{
+"id": "B0060",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions, except per share data) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0061",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating income | $780 | $823 | -5% | $798 | -2%"
+},
+{
+"id": "B0062",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted net operating earnings per common share | 5.08 | 5.35 | -5 | 4.87 | 4"
+},
+{
+"id": "B0063",
+"exhibit": "ex-99_1.htm",
+"text": "Annualized return on average tangible assets | 1.47% | 1.59% | 1.56%"
+},
+{
+"id": "B0064",
+"exhibit": "ex-99_1.htm",
+"text": "Annualized return on average tangible common equity | 17.29 | 18.57 | 17.13"
+},
+{
+"id": "B0065",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio | 54.4 | 52.8 | 53.6"
+},
+{
+"id": "B0066",
+"exhibit": "ex-99_1.htm",
+"text": "Tangible equity per common share | $115.88 | $117.41 | -1 | $115.31 | \u2014"
+},
+{
+"id": "B0067",
+"exhibit": "ex-99_1.htm",
+"text": "(1) A reconciliation of non-GAAP measures is included in the tables that accompany this release."
+},
+{
+"id": "B0068",
+"exhibit": "ex-99_1.htm",
+"text": "M&T consistently provides supplemental reporting of its results on a \u201cnet operating\u201d or \u201ctangible\u201d basis, from which M&T excludes the after-tax effect of amortization of core deposit and other intangible assets (and the related goodwill and core deposit and other intangible asset balances, net of applicable deferred tax amounts) and expenses associated with merging acquired operations into M&T (when incurred), since such items are considered by management to be \u201cnonoperating\u201d in nature."
+},
+{
+"id": "B0069",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent Net Interest Income (1)"
+},
+{
+"id": "B0070",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0071",
+"exhibit": "ex-99_1.htm",
+"text": "Average earning assets | $196,739 | $195,216 | 1% | $190,920 | 3%"
+},
+{
+"id": "B0072",
+"exhibit": "ex-99_1.htm",
+"text": "Average interest-bearing liabilities | 142,294 | 140,354 | 1 | 134,153 | 6"
+},
+{
+"id": "B0073",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income - taxable-equivalent | 1,805 | 1,804 | \u2014 | 1,773 | 2"
+},
+{
+"id": "B0074",
+"exhibit": "ex-99_1.htm",
+"text": "Yield on average earning assets | 5.41% | 5.40% | 5.60%"
+},
+{
+"id": "B0075",
+"exhibit": "ex-99_1.htm",
+"text": "Cost of interest-bearing liabilities | 2.44 | 2.36 | 2.72"
+},
+{
+"id": "B0076",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest spread | 2.97 | 3.04 | 2.88"
+},
+{
+"id": "B0077",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest margin | 3.65 | 3.70 | 3.69"
+},
+{
+"id": "B0078",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Condensed Consolidated Average Balance Sheet and Annualized Taxable-equivalent Rates are included in the accompanying table on page 15."
+},
+{
+"id": "B0079",
+"exhibit": "ex-99_1.htm",
+"text": "2"
+},
+{
+"id": "B0080",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0081",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent net interest income in the recent quarter rose nominally from the second quarter of 2026 reflecting an additional day, lower interest income on nonaccrual loans and loan growth funded by interest-bearing deposits as the Company reduced its average short-term borrowings. Taxable-equivalent net interest income increased $32 million, or 2%, as compared with the year-earlier third quarter reflecting lower rates paid on average interest-bearing deposits and growth in average loans and investment securities, partially offset by lower yields received on loans."
+},
+{
+"id": "B0082",
+"exhibit": "ex-99_1.htm",
+"text": "Average Earning Assets"
+},
+{
+"id": "B0083",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0084",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits at banks | $14,209 | $15,061 | -6% | $17,739 | -20%"
+},
+{
+"id": "B0085",
+"exhibit": "ex-99_1.htm",
+"text": "Investment securities | 38,552 | 38,728 | \u2014 | 36,559 | 5"
+},
+{
+"id": "B0086",
+"exhibit": "ex-99_1.htm",
+"text": "Loans held for sale | 682 | 777 | -12 | 637 | 7"
+},
+{
+"id": "B0087",
+"exhibit": "ex-99_1.htm",
+"text": "Loans: (1)"
+},
+{
+"id": "B0088",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial and industrial | 65,887 | 65,883 | \u2014 | 61,687 | 7"
+},
+{
+"id": "B0089",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - commercial | 24,862 | 23,221 | 7 | 23,982 | 4"
+},
+{
+"id": "B0090",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - residential | 25,194 | 24,827 | 1 | 24,122 | 4"
+},
+{
+"id": "B0091",
+"exhibit": "ex-99_1.htm",
+"text": "Consumer | 27,353 | 26,719 | 2 | 26,099 | 5"
+},
+{
+"id": "B0092",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans | 143,296 | 140,650 | 2 | 135,890 | 5"
+},
+{
+"id": "B0093",
+"exhibit": "ex-99_1.htm",
+"text": "Other | \u2014 | \u2014 | \u2014 | 95 | -100"
+},
+{
+"id": "B0094",
+"exhibit": "ex-99_1.htm",
+"text": "Total earning assets | $196,739 | $195,216 | 1 | $190,920 | 3"
+},
+{
+"id": "B0095",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Supplemental information on loan balances is included in the accompanying table on page 16."
+},
+{
+"id": "B0096",
+"exhibit": "ex-99_1.htm",
+"text": "Average earning assets rose $1.5 billion from the second quarter of 2026 reflecting growth in average commercial real estate loan balances of $1.6 billion, average consumer loan balances of $634 million and average residential real estate loan balances of $367 million."
+},
+{
+"id": "B0097",
+"exhibit": "ex-99_1.htm",
+"text": "Average earning assets increased $5.8 billion from the third quarter of 2025, reflecting loan growth across all loan portfolios. Average commercial and industrial loan balances increased $4.2 billion, spanning most industry types. Average consumer, residential real estate and commercial real estate loan balances grew $1.3 billion, $1.1 billion and $880 million, respectively. The average balance of investment securities increased $2.0 billion from the year-earlier quarter, reflecting purchases of fixed rate mortgage-backed securities."
+},
+{
+"id": "B0098",
+"exhibit": "ex-99_1.htm",
+"text": "Average Interest-bearing Liabilities"
+},
+{
+"id": "B0099",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0100",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits:"
+},
+{
+"id": "B0101",
+"exhibit": "ex-99_1.htm",
+"text": "Savings and interest-checking deposits | $108,013 | $105,752 | 2% | $104,630 | 3%"
+},
+{
+"id": "B0102",
+"exhibit": "ex-99_1.htm",
+"text": "Time deposits | 15,056 | 13,808 | 9 | 13,890 | 8"
+},
+{
+"id": "B0103",
+"exhibit": "ex-99_1.htm",
+"text": "Total interest-bearing deposits | 123,069 | 119,560 | 3 | 118,520 | 4"
+},
+{
+"id": "B0104",
+"exhibit": "ex-99_1.htm",
+"text": "Short-term borrowings | 5,248 | 8,016 | -35 | 2,844 | 85"
+},
+{
+"id": "B0105",
+"exhibit": "ex-99_1.htm",
+"text": "Long-term borrowings | 13,977 | 12,778 | 9 | 12,789 | 9"
+},
+{
+"id": "B0106",
+"exhibit": "ex-99_1.htm",
+"text": "Total interest-bearing liabilities | $142,294 | $140,354 | 1 | $134,153 | 6"
+},
+{
+"id": "B0107",
+"exhibit": "ex-99_1.htm",
+"text": "3"
+},
+{
+"id": "B0108",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0109",
+"exhibit": "ex-99_1.htm",
+"text": "Average interest-bearing liabilities in the recent quarter rose $1.9 billion from the second quarter of 2026 reflecting growth in average interest-bearing deposits of $3.5 billion and higher average long-term borrowings resulting from asset securitizations and issuances of senior and subordinated notes. Those increases were partially offset by a $2.9 billion decline in average short-term borrowings from the FHLB of New York."
+},
+{
+"id": "B0110",
+"exhibit": "ex-99_1.htm",
+"text": "Average interest-bearing liabilities increased $8.1 billion from the third quarter of 2025 reflecting growth in average interest-bearing deposits of $4.5 billion, higher average short-term borrowings from the FHLB of New York of $1.9 billion and an increase in average long-term borrowings of $1.2 billion resulting from asset securitizations and issuances of subordinated notes, partially offset by net maturities of senior notes."
+},
+{
+"id": "B0111",
+"exhibit": "ex-99_1.htm",
+"text": "Provision for Credit Losses/Asset Quality"
+},
+{
+"id": "B0112",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0113",
+"exhibit": "ex-99_1.htm",
+"text": "At end of quarter"
+},
+{
+"id": "B0114",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans | $1,298 | $1,208 | 7% | $1,512 | -14%"
+},
+{
+"id": "B0115",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate and other foreclosed assets | 28 | 23 | 22 | 37 | -26"
+},
+{
+"id": "B0116",
+"exhibit": "ex-99_1.htm",
+"text": "Total nonperforming assets | 1,326 | 1,231 | 8 | 1,549 | -14"
+},
+{
+"id": "B0117",
+"exhibit": "ex-99_1.htm",
+"text": "Accruing loans past due 90 days or more (1) | 570 | 603 | -5 | 432 | 32"
+},
+{
+"id": "B0118",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans as % of loans outstanding | .90% | .85% | 1.11%"
+},
+{
+"id": "B0119",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses | $2,179 | $2,176 | \u2014 | $2,161 | 1"
+},
+{
+"id": "B0120",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses as % of loans outstanding | 1.51% | 1.53% | 1.59%"
+},
+{
+"id": "B0121",
+"exhibit": "ex-99_1.htm",
+"text": "Reserve for unfunded credit commitments | $93 | $95 | -2 | $95 | -2"
+},
+{
+"id": "B0122",
+"exhibit": "ex-99_1.htm",
+"text": "For the period"
+},
+{
+"id": "B0123",
+"exhibit": "ex-99_1.htm",
+"text": "Provision for loan losses | $130 | $120 | 8 | $110 | 18"
+},
+{
+"id": "B0124",
+"exhibit": "ex-99_1.htm",
+"text": "Provision for unfunded credit commitments | 5 | \u2014 | \u2014 | 15 | -67"
+},
+{
+"id": "B0125",
+"exhibit": "ex-99_1.htm",
+"text": "Total provision for credit losses | 135 | 120 | 13 | 125 | 8"
+},
+{
+"id": "B0126",
+"exhibit": "ex-99_1.htm",
+"text": "Net charge-offs | 127 | 80 | 59 | 146 | -12"
+},
+{
+"id": "B0127",
+"exhibit": "ex-99_1.htm",
+"text": "Net charge-offs as % of average loans (annualized) | .35% | .23% | .42%"
+},
+{
+"id": "B0128",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Predominantly government-guaranteed residential real estate."
+},
+{
+"id": "B0129",
+"exhibit": "ex-99_1.htm",
+"text": "The provision for credit losses was $135 million in the third quarter of 2026 as compared with $120 million in the second quarter of 2026 and $125 million in the third quarter of 2025. The allowance for loan losses as a percent of loans outstanding was 1.51% at September 30, 2026 and 1.53% at June 30, 2026, each improved from 1.59% at September 30, 2025, reflecting lower levels of criticized loans."
+},
+{
+"id": "B0130",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans were $1.3 billion at September 30, 2026 and $1.2 billion at June 30, 2026, compared with $1.5 billion at September 30, 2025. The lower level of nonaccrual loans at September 30, 2026 and June 30, 2026 as compared with September 30, 2025 reflects a decrease in commercial and industrial and commercial real estate nonaccrual loans."
+},
+{
+"id": "B0131",
+"exhibit": "ex-99_1.htm",
+"text": "4"
+},
+{
+"id": "B0132",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0133",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest Income"
+},
+{
+"id": "B0134",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0135",
+"exhibit": "ex-99_1.htm",
+"text": "Trust and investment services income | $230 | $235 | -2% | $217 | 6%"
+},
+{
+"id": "B0136",
+"exhibit": "ex-99_1.htm",
+"text": "Mortgage banking revenues (1) | 152 | 127 | 19 | 147 | 3"
+},
+{
+"id": "B0137",
+"exhibit": "ex-99_1.htm",
+"text": "Service charges on deposit accounts | 109 | 107 | 1 | 105 | 3"
+},
+{
+"id": "B0138",
+"exhibit": "ex-99_1.htm",
+"text": "Card revenues | 90 | 89 | 2 | 90 | \u2014"
+},
+{
+"id": "B0139",
+"exhibit": "ex-99_1.htm",
+"text": "Letter of credit and credit-related fees | 46 | 44 | 4 | 45 | 3"
+},
+{
+"id": "B0140",
+"exhibit": "ex-99_1.htm",
+"text": "Capital markets and advisory revenues | 32 | 41 | -24 | 35 | -8"
+},
+{
+"id": "B0141",
+"exhibit": "ex-99_1.htm",
+"text": "Gain (loss) on bank investment securities | (1) | 2 | \u2014 | 1 | \u2014"
+},
+{
+"id": "B0142",
+"exhibit": "ex-99_1.htm",
+"text": "Other revenues from operations (2) | 85 | 95 | -12 | 112 | -25"
+},
+{
+"id": "B0143",
+"exhibit": "ex-99_1.htm",
+"text": "Total | $743 | $740 | \u2014 | $752 | -1"
+},
+{
+"id": "B0144",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Supplemental information on mortgage banking activities is included in the accompanying table on page 17."
+},
+{
+"id": "B0145",
+"exhibit": "ex-99_1.htm",
+"text": "(2) Supplemental information on other revenues from operations is included in the accompanying table on page 18."
+},
+{
+"id": "B0146",
+"exhibit": "ex-99_1.htm",
+"text": "Effective January 1, 2026, the Company elected to prospectively measure its residential mortgage loan servicing right assets at fair value with changes in fair value reflected in mortgage banking revenues. As a result, amortization associated with residential mortgage loan servicing right assets previously recognized in other costs of operations before 2026 is no longer recorded. Instead, beginning in 2026 fair value changes in residential mortgage loan servicing right assets, inclusive of the realization of expected net servicing revenues over time, are included in mortgage banking revenues. On December 31, 2025, the Company began economically hedging the risk of fair value changes in these assets through the use of various interest rate derivative contracts, for which changes in fair value are also reflected in mortgage banking revenues."
+},
+{
+"id": "B0147",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest income in the third quarter of 2026 increased $3 million from 2026's second quarter."
+},
+{
+"id": "B0148",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Trust and investment services income declined $5 million reflecting seasonal tax services fees earned by the wealth management business in the second quarter of 2026."
+},
+{
+"id": "B0149",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Mortgage banking revenues increased $25 million reflecting a rise in residential mortgage loan sub-servicing income. In June 2026, the Company began sub-servicing $62.9 billion of additional residential mortgage loans."
+},
+{
+"id": "B0150",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Capital markets and advisory revenues decreased $9 million reflecting a decline in loan syndication fees and lower revenues from interest rate swap transactions with commercial customers."
+},
+{
+"id": "B0151",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Other revenues from operations decreased $10 million reflecting a lower distribution from M&T's investment in BLG in the recent quarter."
+},
+{
+"id": "B0152",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest income declined $9 million, or 1%, as compared with the third quarter of 2025."
+},
+{
+"id": "B0153",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Trust and investment services income rose $13 million reflecting higher corporate trust revenues from the Company's institutional services business and an increase in personal trust and investment services revenues from its wealth management businesses."
+},
+{
+"id": "B0154",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Mortgage banking revenues increased $5 million reflecting a rise in residential mortgage loan sub-servicing income, partially offset by the impact of the Company's fair value accounting election described above and lower gains on commercial mortgage loans originated for sale."
+},
+{
+"id": "B0155",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Other revenues from operations decreased $27 million reflecting a $28 million distribution of an earnout payment from the Company's 2023 sale of its Collective Investment Trust (\"CIT\") business and a $12 million gain on the sale of equipment leases each in the third quarter of 2025, partially offset by an $11 million higher distribution from M&T's investment in BLG in the recent quarter."
+},
+{
+"id": "B0156",
+"exhibit": "ex-99_1.htm",
+"text": "5"
+},
+{
+"id": "B0157",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0158",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest Expense"
+},
+{
+"id": "B0159",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 3Q26 | 2Q26 | Change 3Q26 vs. 2Q26 | 3Q25 | Change 3Q26 vs. 3Q25"
+},
+{
+"id": "B0160",
+"exhibit": "ex-99_1.htm",
+"text": "Salaries and employee benefits | $832 | $826 | 1% | $833 | \u2014%"
+},
+{
+"id": "B0161",
+"exhibit": "ex-99_1.htm",
+"text": "Outside data processing and software | 173 | 154 | 12 | 138 | 25"
+},
+{
+"id": "B0162",
+"exhibit": "ex-99_1.htm",
+"text": "Equipment and net occupancy | 131 | 129 | \u2014 | 129 | 1"
+},
+{
+"id": "B0163",
+"exhibit": "ex-99_1.htm",
+"text": "Professional and other services | 97 | 89 | 10 | 81 | 22"
+},
+{
+"id": "B0164",
+"exhibit": "ex-99_1.htm",
+"text": "FDIC assessments | 19 | 18 | 15 | 13 | 55"
+},
+{
+"id": "B0165",
+"exhibit": "ex-99_1.htm",
+"text": "Advertising and marketing | 29 | 27 | 7 | 23 | 26"
+},
+{
+"id": "B0166",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets | 7 | 7 | \u2014 | 10 | -27"
+},
+{
+"id": "B0167",
+"exhibit": "ex-99_1.htm",
+"text": "Other costs of operations | 105 | 99 | 6 | 136 | -23"
+},
+{
+"id": "B0168",
+"exhibit": "ex-99_1.htm",
+"text": "Total | $1,393 | $1,349 | 3 | $1,363 | 2"
+},
+{
+"id": "B0169",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest expense rose $44 million, or 3%, from the second quarter of 2026."
+},
+{
+"id": "B0170",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Salaries and employee benefits expense increased $6 million reflecting an additional working day in the recent quarter, partially offset by lower payroll-related taxes."
+},
+{
+"id": "B0171",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Outside data processing and software costs increased $19 million reflecting higher software maintenance and enhancements to the Company's technology infrastructure."
+},
+{
+"id": "B0172",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Professional and other services rose $8 million reflecting support for enhancements to the Company's technology infrastructure and other enterprise initiatives."
+},
+{
+"id": "B0173",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Other costs of operations increased $6 million reflecting the Company's obligation under agreements to share in losses stemming from certain litigation of Visa, Inc."
+},
+{
+"id": "B0174",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest expense increased $30 million, or 2% , from the third quarter of 2025."
+},
+{
+"id": "B0175",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Outside data processing and software costs rose $35 million reflecting costs associated with enhancements to the Company's technology infrastructure."
+},
+{
+"id": "B0176",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Professional and other services increased $16 million reflecting support for enhancements to the Company's technology infrastructure and other enterprise initiatives and higher legal service costs."
+},
+{
+"id": "B0177",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 FDIC assessments were $6 million higher in the recent quarter reflecting the reduction of estimated special assessment expense in the third quarter of 2025 resulting from a decrease in the FDIC's loss estimates associated with certain failed banks."
+},
+{
+"id": "B0178",
+"exhibit": "ex-99_1.htm",
+"text": "\u2022 Other costs of operations decreased $31 million reflecting the amortization associated with residential mortgage loan servicing right assets in the third quarter of 2025 and lower expense associated with the Company's supplemental executive retirement savings plan in the recent quarter."
+},
+{
+"id": "B0179",
+"exhibit": "ex-99_1.htm",
+"text": "Income Taxes"
+},
+{
+"id": "B0180",
+"exhibit": "ex-99_1.htm",
+"text": "The Company's effective income tax rate was 23.1% in each of the third and second quarters of 2026 compared with 22.8% in the third quarter of 2025."
+},
+{
+"id": "B0181",
+"exhibit": "ex-99_1.htm",
+"text": "6"
+},
+{
+"id": "B0182",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0183",
+"exhibit": "ex-99_1.htm",
+"text": "Capital and Liquidity"
+},
+{
+"id": "B0184",
+"exhibit": "ex-99_1.htm",
+"text": "3Q26 | 2Q26 | 3Q25"
+},
+{
+"id": "B0185",
+"exhibit": "ex-99_1.htm",
+"text": "CET1 capital | 10.16% | (1) | 10.19% | 10.99%"
+},
+{
+"id": "B0186",
+"exhibit": "ex-99_1.htm",
+"text": "Tier 1 capital | 11.93 | (1) | 11.64 | 12.49"
+},
+{
+"id": "B0187",
+"exhibit": "ex-99_1.htm",
+"text": "Total capital | 13.93 | (1) | 13.73 | 14.35"
+},
+{
+"id": "B0188",
+"exhibit": "ex-99_1.htm",
+"text": "Tangible capital \u2013 common | 7.85 | 8.07 | 8.79"
+},
+{
+"id": "B0189",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Capital ratios at September 30, 2026 are estimated."
+},
+{
+"id": "B0190",
+"exhibit": "ex-99_1.htm",
+"text": "M&T's capital ratios remained well above the minimum set forth by regulatory requirements. Cash dividends declared on M&T's common and preferred stock totaled $217 million and $42 million, respectively, for the quarter ended September 30, 2026. M&T's current stress capital buffer is 2.7%."
+},
+{
+"id": "B0191",
+"exhibit": "ex-99_1.htm",
+"text": "Reflecting rising interest rates, accumulated other comprehensive income declined $588 million in the recent quarter. In July 2026, the Company transferred $8.3 billion of residential mortgage-backed securities from the available-for-sale portfolio to the held-to-maturity portfolio with net unrealized gains of $8 million. Unrealized losses on those transferred securities at September 30, 2026 were $222 million ($165 million net of tax)."
+},
+{
+"id": "B0192",
+"exhibit": "ex-99_1.htm",
+"text": "M&T repurchased shares of its common stock at a cost of $323 million during the recent quarter, compared with $465 million and $409 million in the second quarter of 2026 and the third quarter of 2025, respectively."
+},
+{
+"id": "B0193",
+"exhibit": "ex-99_1.htm",
+"text": "The CET1 capital ratio for M&T was estimated at 10.16% as of September 30, 2026. M&T's total risk-weighted assets at September 30, 2026 are estimated to be $170.6 billion. Reflecting loan growth and share repurchase activity in the recent quarter and the impact of unrealized losses on investment securities available for sale included in accumulated other comprehensive income at September 30, 2026, M&T's tangible common equity to tangible asset ratio at September 30, 2026 declined 22 basis points from June 30, 2026 and 94 basis points from September 30, 2025."
+},
+{
+"id": "B0194",
+"exhibit": "ex-99_1.htm",
+"text": "While not subject to the liquidity coverage ratio (\"LCR\") requirements, M&T estimates that its LCR on September 30, 2026 was 107%, exceeding the regulatory minimum standards that would be applicable if it were a Category III institution subject to the Category III reduced LCR requirements."
+},
+{
+"id": "B0195",
+"exhibit": "ex-99_1.htm",
+"text": "Conference Call"
+},
+{
+"id": "B0196",
+"exhibit": "ex-99_1.htm",
+"text": "Investors will have an opportunity to listen to M&T's conference call to discuss third quarter financial results today at 8:00 a.m. Eastern Time. Those wishing to participate in the call may dial (800) 347-7315. International participants, using any applicable international calling codes, may dial (785) 424-1755. Callers should reference M&T Bank Corporation or the conference ID #MTBQ326. The conference call will be webcast live through M&T's website at https://ir.mtb.com/news-events/events-presentations. A replay of the call will be available through Friday October 23, 2026, by calling (800) 839-3736 or (402) 220-2978 for international participants. No conference ID or passcode is required. The event will also be archived and available by 3:00 p.m. today on M&T's website at https://ir.mtb.com/news-events/events-presentations."
+},
+{
+"id": "B0197",
+"exhibit": "ex-99_1.htm",
+"text": "About M&T"
+},
+{
+"id": "B0198",
+"exhibit": "ex-99_1.htm",
+"text": "M&T is a financial holding company headquartered in Buffalo, New York. M&T's principal banking subsidiary, M&T Bank, provides banking products and services with a branch and ATM network spanning the eastern U.S. from Maine to Virginia and Washington, D.C. Trust-related services are provided in select markets in the U.S. and abroad by M&T's Wilmington Trust-affiliated companies and by M&T Bank. For more information on M&T Bank, visit www.mtb.com."
+},
+{
+"id": "B0199",
+"exhibit": "ex-99_1.htm",
+"text": "7"
+},
+{
+"id": "B0200",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0201",
+"exhibit": "ex-99_1.htm",
+"text": "Forward-Looking Statements"
+},
+{
+"id": "B0202",
+"exhibit": "ex-99_1.htm",
+"text": "This news release and related conference call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and the rules and regulations of the SEC. Any statement that does not describe historical or current facts is a forward-looking statement, including statements based on current expectations, estimates and projections about M&T's business, and management's beliefs and assumptions."
+},
+{
+"id": "B0203",
+"exhibit": "ex-99_1.htm",
+"text": "Statements regarding the potential effects of events or factors specific to M&T and/or the financial industry as a whole, as well as national and global events generally, on M&T's business, financial condition, liquidity and results of operations may constitute forward-looking statements. Such statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond M&T's control."
+},
+{
+"id": "B0204",
+"exhibit": "ex-99_1.htm",
+"text": "Forward-looking statements are typically identified by words such as \"believe,\" \"expect,\" \"anticipate,\" \"intend,\" \"target,\" \"estimate,\" \"continue,\" or \"potential,\" by future conditional verbs such as \"will,\" \"would,\" \"should,\" \"could,\" or \"may,\" or by variations of such words or by similar expressions. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions which are difficult to predict and may cause actual outcomes to differ materially from what is expressed or forecasted."
+},
+{
+"id": "B0205",
+"exhibit": "ex-99_1.htm",
+"text": "While there can be no assurance that any list of risks and uncertainties is complete, important factors that could cause actual outcomes and results to differ materially from those contemplated by forward-looking statements include the following, without limitation: economic conditions and growth rates, including inflation and market volatility; events, developments and current conditions in the financial services industry, including trust, brokerage and investment management businesses; changes in interest rates, spreads on earning assets and interest-bearing liabilities, and interest rate sensitivity; prepayment speeds, loan originations, loan concentrations by type and industry, credit losses and market values on loans, collateral securing loans, and other assets; sources of liquidity; levels of client deposits; ability to contain costs and expenses; changes in M&T's credit ratings; domestic or international political developments and other geopolitical events, including trade and tariff policies and international conflicts and hostilities; changes and trends in the securities markets; common shares outstanding and common stock price volatility; fair value of and number of stock-based compensation awards to be issued in future periods; the impact of changes in market values on trust-, brokerage-, and investment management-related revenues; federal, state or local legislation and/or regulations affecting the financial services industry, or M&T and its subsidiaries individually or collectively, including tax policy; regulatory supervision and oversight, including monetary policy and capital requirements; governmental and public policy changes; political conditions, either nationally or in the states in which M&T and its subsidiaries do business; the initiation and outcome of potential, pending and future litigation, investigations and governmental proceedings, including tax-related examinations and other matters; operational risk events, including loss resulting from fraud by employees or persons outside M&T and breaches in data and cybersecurity; changes in accounting policies or procedures as may be required by the Financial Accounting Standards Board, regulatory agencies or legislation; increasing price, product and service competition by competitors, including new entrants; technological developments and changes; the ability to continue to introduce competitive new products and services on a timely, cost-effective basis; the mix of products and services; protection and validity of intellectual property rights; reliance on large customers; technological, implementation and cost/financial risks in large, multi-year contracts; continued availability of financing; financial resources in the amounts, at the times and on the terms required to support M&T and its subsidiaries' future businesses; and material differences in the actual financial results of merger, acquisition, divestment and investment activities compared with M&T's initial expectations, including the full realization of anticipated cost savings and revenue enhancements."
+},
+{
+"id": "B0206",
+"exhibit": "ex-99_1.htm",
+"text": "These are representative of the factors that could affect the outcome of the forward-looking statements. In addition, as noted, such statements could be affected by general industry and market conditions and growth rates, general economic and political conditions, either nationally or in the states in which M&T and its subsidiaries do business, and other factors."
+},
+{
+"id": "B0207",
+"exhibit": "ex-99_1.htm",
+"text": "M&T provides further detail regarding these risks and uncertainties in its Form 10-K for the year ended December 31, 2025, including in the Risk Factors section of such report, as well as in other SEC filings. Forward-looking statements speak only as of the date they are made, and M&T assumes no duty and does not undertake to update forward-looking statements."
+},
+{
+"id": "B0208",
+"exhibit": "ex-99_1.htm",
+"text": "8"
+},
+{
+"id": "B0209",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0210",
+"exhibit": "ex-99_1.htm",
+"text": "Financial Highlights"
+},
+{
+"id": "B0211",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Nine Months Ended"
+},
+{
+"id": "B0212",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | September 30,"
+},
+{
+"id": "B0213",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions, except per share, shares in thousands) | 2026 | 2025 | Change | 2026 | 2025 | Change"
+},
+{
+"id": "B0214",
+"exhibit": "ex-99_1.htm",
+"text": "Performance"
+},
+{
+"id": "B0215",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | $775 | $792 | -2% | $2,257 | $2,092 | 8%"
+},
+{
+"id": "B0216",
+"exhibit": "ex-99_1.htm",
+"text": "Net income available to common shareholders | 732 | 754 | -3 | 2,133 | 1,981 | 8"
+},
+{
+"id": "B0217",
+"exhibit": "ex-99_1.htm",
+"text": "Per common share:"
+},
+{
+"id": "B0218",
+"exhibit": "ex-99_1.htm",
+"text": "Basic earnings | 5.08 | 4.85 | 5 | 14.57 | 12.41 | 17"
+},
+{
+"id": "B0219",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted earnings | 5.04 | 4.82 | 5 | 14.48 | 12.34 | 17"
+},
+{
+"id": "B0220",
+"exhibit": "ex-99_1.htm",
+"text": "Cash dividends | 1.50 | 1.50 | \u2014 | 4.50 | 4.20 | 7"
+},
+{
+"id": "B0221",
+"exhibit": "ex-99_1.htm",
+"text": "Common shares outstanding:"
+},
+{
+"id": "B0222",
+"exhibit": "ex-99_1.htm",
+"text": "Average - diluted | 145,174 | 156,553 | -7 | 147,329 | 160,503 | -8"
+},
+{
+"id": "B0223",
+"exhibit": "ex-99_1.htm",
+"text": "Period end | 143,708 | 154,518 | -7 | 143,708 | 154,518 | -7"
+},
+{
+"id": "B0224",
+"exhibit": "ex-99_1.htm",
+"text": "Return on (annualized):"
+},
+{
+"id": "B0225",
+"exhibit": "ex-99_1.htm",
+"text": "Average total assets | 1.40% | 1.49% | 1.39% | 1.33%"
+},
+{
+"id": "B0226",
+"exhibit": "ex-99_1.htm",
+"text": "Average common shareholders' equity | 11.44 | 11.45 | 11.13 | 10.07"
+},
+{
+"id": "B0227",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent net interest income | $1,805 | $1,773 | 2 | $5,372 | $5,202 | 3"
+},
+{
+"id": "B0228",
+"exhibit": "ex-99_1.htm",
+"text": "Yield on average earning assets | 5.41% | 5.60% | 5.39% | 5.54%"
+},
+{
+"id": "B0229",
+"exhibit": "ex-99_1.htm",
+"text": "Cost of interest-bearing liabilities | 2.44 | 2.72 | 2.38 | 2.71"
+},
+{
+"id": "B0230",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest spread | 2.97 | 2.88 | 3.01 | 2.83"
+},
+{
+"id": "B0231",
+"exhibit": "ex-99_1.htm",
+"text": "Contribution of interest-free funds | .68 | .81 | .67 | .82"
+},
+{
+"id": "B0232",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest margin | 3.65 | 3.69 | 3.68 | 3.65"
+},
+{
+"id": "B0233",
+"exhibit": "ex-99_1.htm",
+"text": "Net charge-offs to average total net loans (annualized) | .35 | .42 | .30 | .36"
+},
+{
+"id": "B0234",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating results (1)"
+},
+{
+"id": "B0235",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating income | $780 | $798 | -2 | $2,274 | $2,116 | 7"
+},
+{
+"id": "B0236",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted net operating earnings per common share | 5.08 | 4.87 | 4 | 14.60 | 12.49 | 17"
+},
+{
+"id": "B0237",
+"exhibit": "ex-99_1.htm",
+"text": "Return on (annualized):"
+},
+{
+"id": "B0238",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible assets | 1.47% | 1.56% | 1.46% | 1.41%"
+},
+{
+"id": "B0239",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible common equity | 17.29 | 17.13 | 16.78 | 15.07"
+},
+{
+"id": "B0240",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio | 54.4 | 53.6 | 55.1 | 56.3"
+},
+{
+"id": "B0241",
+"exhibit": "ex-99_1.htm",
+"text": "At September 30,"
+},
+{
+"id": "B0242",
+"exhibit": "ex-99_1.htm",
+"text": "Loan quality | 2026 | 2025 | Change"
+},
+{
+"id": "B0243",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans | $1,298 | $1,512 | -14%"
+},
+{
+"id": "B0244",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate and other foreclosed assets | 28 | 37 | -26"
+},
+{
+"id": "B0245",
+"exhibit": "ex-99_1.htm",
+"text": "Total nonperforming assets | $1,326 | $1,549 | -14"
+},
+{
+"id": "B0246",
+"exhibit": "ex-99_1.htm",
+"text": "Accruing loans past due 90 days or more | $570 | $432 | 32"
+},
+{
+"id": "B0247",
+"exhibit": "ex-99_1.htm",
+"text": "Government guaranteed loans included in totals above:"
+},
+{
+"id": "B0248",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans | 81 | 71 | 13"
+},
+{
+"id": "B0249",
+"exhibit": "ex-99_1.htm",
+"text": "Accruing loans past due 90 days or more | 556 | 403 | 38"
+},
+{
+"id": "B0250",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans to total loans | .90% | 1.11%"
+},
+{
+"id": "B0251",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses to total loans | 1.51 | 1.59"
+},
+{
+"id": "B0252",
+"exhibit": "ex-99_1.htm",
+"text": "Additional information"
+},
+{
+"id": "B0253",
+"exhibit": "ex-99_1.htm",
+"text": "Period end common stock price | $217.60 | $197.62 | 10"
+},
+{
+"id": "B0254",
+"exhibit": "ex-99_1.htm",
+"text": "Full-service domestic banking offices (2) | 906 | 942 | -4"
+},
+{
+"id": "B0255",
+"exhibit": "ex-99_1.htm",
+"text": "Full-time equivalent employees | 21,562 | 22,383 | -4"
+},
+{
+"id": "B0256",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Excludes amortization and balances related to goodwill and core deposit and other intangible assets and merger-related expenses which, except in the calculation of the efficiency ratio, are net"
+},
+{
+"id": "B0257",
+"exhibit": "ex-99_1.htm",
+"text": "of applicable income tax effects. Reconciliations of net income with net operating income appear on page 19 ."
+},
+{
+"id": "B0258",
+"exhibit": "ex-99_1.htm",
+"text": "(2) In the first quarter of 2026, thirteen domestic banking offices formerly classified as full service were designated as limited service per regulatory filings."
+},
+{
+"id": "B0259",
+"exhibit": "ex-99_1.htm",
+"text": "9"
+},
+{
+"id": "B0260",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0261",
+"exhibit": "ex-99_1.htm",
+"text": "Financial Highlights, Five Quarter Trend"
+},
+{
+"id": "B0262",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended"
+},
+{
+"id": "B0263",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0264",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions, except per share, shares in thousands) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0265",
+"exhibit": "ex-99_1.htm",
+"text": "Performance"
+},
+{
+"id": "B0266",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | $775 | $818 | $664 | $759 | $792"
+},
+{
+"id": "B0267",
+"exhibit": "ex-99_1.htm",
+"text": "Net income available to common shareholders | 732 | 781 | 620 | 718 | 754"
+},
+{
+"id": "B0268",
+"exhibit": "ex-99_1.htm",
+"text": "Per common share:"
+},
+{
+"id": "B0269",
+"exhibit": "ex-99_1.htm",
+"text": "Basic earnings | 5.08 | 5.35 | 4.16 | 4.71 | 4.85"
+},
+{
+"id": "B0270",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted earnings | 5.04 | 5.32 | 4.13 | 4.67 | 4.82"
+},
+{
+"id": "B0271",
+"exhibit": "ex-99_1.htm",
+"text": "Cash dividends | 1.50 | 1.50 | 1.50 | 1.50 | 1.50"
+},
+{
+"id": "B0272",
+"exhibit": "ex-99_1.htm",
+"text": "Common shares outstanding:"
+},
+{
+"id": "B0273",
+"exhibit": "ex-99_1.htm",
+"text": "Average - diluted | 145,174 | 146,758 | 150,109 | 153,712 | 156,553"
+},
+{
+"id": "B0274",
+"exhibit": "ex-99_1.htm",
+"text": "Period end | 143,708 | 144,933 | 146,917 | 151,840 | 154,518"
+},
+{
+"id": "B0275",
+"exhibit": "ex-99_1.htm",
+"text": "Return on (annualized):"
+},
+{
+"id": "B0276",
+"exhibit": "ex-99_1.htm",
+"text": "Average total assets | 1.40% | 1.51% | 1.26% | 1.41% | 1.49%"
+},
+{
+"id": "B0277",
+"exhibit": "ex-99_1.htm",
+"text": "Average common shareholders' equity | 11.44 | 12.30 | 9.67 | 10.87 | 11.45"
+},
+{
+"id": "B0278",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent net interest income | $1,805 | $1,804 | $1,763 | $1,790 | $1,773"
+},
+{
+"id": "B0279",
+"exhibit": "ex-99_1.htm",
+"text": "Yield on average earning assets | 5.41% | 5.40% | 5.35% | 5.47% | 5.60%"
+},
+{
+"id": "B0280",
+"exhibit": "ex-99_1.htm",
+"text": "Cost of interest-bearing liabilities | 2.44 | 2.36 | 2.32 | 2.52 | 2.72"
+},
+{
+"id": "B0281",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest spread | 2.97 | 3.04 | 3.03 | 2.95 | 2.88"
+},
+{
+"id": "B0282",
+"exhibit": "ex-99_1.htm",
+"text": "Contribution of interest-free funds | .68 | .66 | .67 | .75 | .81"
+},
+{
+"id": "B0283",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest margin | 3.65 | 3.70 | 3.70 | 3.70 | 3.69"
+},
+{
+"id": "B0284",
+"exhibit": "ex-99_1.htm",
+"text": "Net charge-offs to average total net loans (annualized) | .35 | .23 | .31 | .54 | .42"
+},
+{
+"id": "B0285",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating results (1)"
+},
+{
+"id": "B0286",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating income | $780 | $823 | $671 | $767 | $798"
+},
+{
+"id": "B0287",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted net operating earnings per common share | 5.08 | 5.35 | 4.18 | 4.72 | 4.87"
+},
+{
+"id": "B0288",
+"exhibit": "ex-99_1.htm",
+"text": "Return on (annualized):"
+},
+{
+"id": "B0289",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible assets | 1.47% | 1.59% | 1.33% | 1.49% | 1.56%"
+},
+{
+"id": "B0290",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible common equity | 17.29 | 18.57 | 14.51 | 16.24 | 17.13"
+},
+{
+"id": "B0291",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio | 54.4 | 52.8 | 58.3 | 55.1 | 53.6"
+},
+{
+"id": "B0292",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0293",
+"exhibit": "ex-99_1.htm",
+"text": "Loan quality | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0294",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans | $1,298 | $1,208 | $1,240 | $1,252 | $1,512"
+},
+{
+"id": "B0295",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate and other foreclosed assets | 28 | 23 | 27 | 35 | 37"
+},
+{
+"id": "B0296",
+"exhibit": "ex-99_1.htm",
+"text": "Total nonperforming assets | $1,326 | $1,231 | $1,267 | $1,287 | $1,549"
+},
+{
+"id": "B0297",
+"exhibit": "ex-99_1.htm",
+"text": "Accruing loans past due 90 days or more | $570 | $603 | $646 | $561 | $432"
+},
+{
+"id": "B0298",
+"exhibit": "ex-99_1.htm",
+"text": "Government guaranteed loans included in totals above:"
+},
+{
+"id": "B0299",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans | 81 | 78 | 85 | 83 | 71"
+},
+{
+"id": "B0300",
+"exhibit": "ex-99_1.htm",
+"text": "Accruing loans past due 90 days or more | 556 | 586 | 634 | 543 | 403"
+},
+{
+"id": "B0301",
+"exhibit": "ex-99_1.htm",
+"text": "Nonaccrual loans to total loans | .90% | .85% | .89% | .91% | 1.11%"
+},
+{
+"id": "B0302",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses to total loans | 1.51 | 1.53 | 1.54 | 1.54 | 1.59"
+},
+{
+"id": "B0303",
+"exhibit": "ex-99_1.htm",
+"text": "Additional information"
+},
+{
+"id": "B0304",
+"exhibit": "ex-99_1.htm",
+"text": "Period end common stock price | $217.60 | $238.01 | $206.72 | $201.48 | $197.62"
+},
+{
+"id": "B0305",
+"exhibit": "ex-99_1.htm",
+"text": "Full-service domestic banking offices (2) | 906 | 911 | 930 | 942 | 942"
+},
+{
+"id": "B0306",
+"exhibit": "ex-99_1.htm",
+"text": "Full-time equivalent employees | 21,562 | 21,662 | 21,866 | 22,080 | 22,383"
+},
+{
+"id": "B0307",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Excludes amortization and balances related to goodwill and core deposit and other intangible assets and merger-related expenses which, except in the calculation of the efficiency ratio, are net"
+},
+{
+"id": "B0308",
+"exhibit": "ex-99_1.htm",
+"text": "of applicable income tax effects. Reconciliations of net income with net operating income appear on page 20 ."
+},
+{
+"id": "B0309",
+"exhibit": "ex-99_1.htm",
+"text": "(2) In the first quarter of 2026, thirteen domestic banking offices formerly classified as full service were designated as limited service per regulatory filings."
+},
+{
+"id": "B0310",
+"exhibit": "ex-99_1.htm",
+"text": "10"
+},
+{
+"id": "B0311",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0312",
+"exhibit": "ex-99_1.htm",
+"text": "Condensed Consolidated Statement of Income"
+},
+{
+"id": "B0313",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Nine Months Ended"
+},
+{
+"id": "B0314",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | September 30,"
+},
+{
+"id": "B0315",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2025 | Change | 2026 | 2025 | Change"
+},
+{
+"id": "B0316",
+"exhibit": "ex-99_1.htm",
+"text": "Interest income | $2,667 | $2,680 | \u2014% | $7,823 | $7,849 | \u2014%"
+},
+{
+"id": "B0317",
+"exhibit": "ex-99_1.htm",
+"text": "Interest expense | 874 | 919 | -5 | 2,486 | 2,680 | -7"
+},
+{
+"id": "B0318",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income | 1,793 | 1,761 | 2 | 5,337 | 5,169 | 3"
+},
+{
+"id": "B0319",
+"exhibit": "ex-99_1.htm",
+"text": "Provision for credit losses | 135 | 125 | 8 | 395 | 380 | 4"
+},
+{
+"id": "B0320",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income after provision for credit losses | 1,658 | 1,636 | 1 | 4,942 | 4,789 | 3"
+},
+{
+"id": "B0321",
+"exhibit": "ex-99_1.htm",
+"text": "Other income:"
+},
+{
+"id": "B0322",
+"exhibit": "ex-99_1.htm",
+"text": "Trust and investment services income | 230 | 217 | 6 | 684 | 643 | 7"
+},
+{
+"id": "B0323",
+"exhibit": "ex-99_1.htm",
+"text": "Mortgage banking revenues | 152 | 147 | 3 | 406 | 395 | 3"
+},
+{
+"id": "B0324",
+"exhibit": "ex-99_1.htm",
+"text": "Service charges on deposit accounts | 109 | 105 | 3 | 322 | 307 | 5"
+},
+{
+"id": "B0325",
+"exhibit": "ex-99_1.htm",
+"text": "Card revenues | 90 | 90 | \u2014 | 257 | 257 | \u2014"
+},
+{
+"id": "B0326",
+"exhibit": "ex-99_1.htm",
+"text": "Letter of credit and credit-related fees | 46 | 45 | 3 | 132 | 132 | \u2014"
+},
+{
+"id": "B0327",
+"exhibit": "ex-99_1.htm",
+"text": "Capital markets and advisory revenues | 32 | 35 | -8 | 109 | 89 | 23"
+},
+{
+"id": "B0328",
+"exhibit": "ex-99_1.htm",
+"text": "Gain (loss) on bank investment securities | (1) | 1 | \u2014 | 5 | 1 | \u2014"
+},
+{
+"id": "B0329",
+"exhibit": "ex-99_1.htm",
+"text": "Other revenues from operations | 85 | 112 | -25 | 257 | 222 | 16"
+},
+{
+"id": "B0330",
+"exhibit": "ex-99_1.htm",
+"text": "Total other income | 743 | 752 | -1 | 2,172 | 2,046 | 6"
+},
+{
+"id": "B0331",
+"exhibit": "ex-99_1.htm",
+"text": "Other expense:"
+},
+{
+"id": "B0332",
+"exhibit": "ex-99_1.htm",
+"text": "Salaries and employee benefits | 832 | 833 | \u2014 | 2,572 | 2,533 | 2"
+},
+{
+"id": "B0333",
+"exhibit": "ex-99_1.htm",
+"text": "Outside data processing and software | 173 | 138 | 25 | 471 | 412 | 14"
+},
+{
+"id": "B0334",
+"exhibit": "ex-99_1.htm",
+"text": "Equipment and net occupancy | 131 | 129 | 1 | 393 | 391 | \u2014"
+},
+{
+"id": "B0335",
+"exhibit": "ex-99_1.htm",
+"text": "Professional and other services | 97 | 81 | 22 | 279 | 251 | 12"
+},
+{
+"id": "B0336",
+"exhibit": "ex-99_1.htm",
+"text": "FDIC assessments | 19 | 13 | 55 | 60 | 58 | 4"
+},
+{
+"id": "B0337",
+"exhibit": "ex-99_1.htm",
+"text": "Advertising and marketing | 29 | 23 | 26 | 77 | 70 | 9"
+},
+{
+"id": "B0338",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets | 7 | 10 | -27 | 23 | 32 | -27"
+},
+{
+"id": "B0339",
+"exhibit": "ex-99_1.htm",
+"text": "Other costs of operations | 105 | 136 | -23 | 305 | 367 | -17"
+},
+{
+"id": "B0340",
+"exhibit": "ex-99_1.htm",
+"text": "Total other expense | 1,393 | 1,363 | 2 | 4,180 | 4,114 | 2"
+},
+{
+"id": "B0341",
+"exhibit": "ex-99_1.htm",
+"text": "Income before taxes | 1,008 | 1,025 | -2 | 2,934 | 2,721 | 8"
+},
+{
+"id": "B0342",
+"exhibit": "ex-99_1.htm",
+"text": "Income taxes | 233 | 233 | \u2014 | 677 | 629 | 8"
+},
+{
+"id": "B0343",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | $775 | $792 | -2% | $2,257 | $2,092 | 8%"
+},
+{
+"id": "B0344",
+"exhibit": "ex-99_1.htm",
+"text": "11"
+},
+{
+"id": "B0345",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0346",
+"exhibit": "ex-99_1.htm",
+"text": "Condensed Consolidated Statement of Income, Five Quarter Trend"
+},
+{
+"id": "B0347",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended"
+},
+{
+"id": "B0348",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0349",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0350",
+"exhibit": "ex-99_1.htm",
+"text": "Interest income | $2,667 | $2,620 | $2,536 | $2,637 | $2,680"
+},
+{
+"id": "B0351",
+"exhibit": "ex-99_1.htm",
+"text": "Interest expense | 874 | 828 | 784 | 858 | 919"
+},
+{
+"id": "B0352",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income | 1,793 | 1,792 | 1,752 | 1,779 | 1,761"
+},
+{
+"id": "B0353",
+"exhibit": "ex-99_1.htm",
+"text": "Provision for credit losses | 135 | 120 | 140 | 125 | 125"
+},
+{
+"id": "B0354",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest income after provision for credit losses | 1,658 | 1,672 | 1,612 | 1,654 | 1,636"
+},
+{
+"id": "B0355",
+"exhibit": "ex-99_1.htm",
+"text": "Other income:"
+},
+{
+"id": "B0356",
+"exhibit": "ex-99_1.htm",
+"text": "Trust and investment services income | 230 | 235 | 219 | 220 | 217"
+},
+{
+"id": "B0357",
+"exhibit": "ex-99_1.htm",
+"text": "Mortgage banking revenues | 152 | 127 | 127 | 155 | 147"
+},
+{
+"id": "B0358",
+"exhibit": "ex-99_1.htm",
+"text": "Service charges on deposit accounts | 109 | 107 | 106 | 105 | 105"
+},
+{
+"id": "B0359",
+"exhibit": "ex-99_1.htm",
+"text": "Card revenues | 90 | 89 | 78 | 87 | 90"
+},
+{
+"id": "B0360",
+"exhibit": "ex-99_1.htm",
+"text": "Letter of credit and credit-related fees | 46 | 44 | 42 | 47 | 45"
+},
+{
+"id": "B0361",
+"exhibit": "ex-99_1.htm",
+"text": "Capital markets and advisory revenues | 32 | 41 | 36 | 31 | 35"
+},
+{
+"id": "B0362",
+"exhibit": "ex-99_1.htm",
+"text": "Gain (loss) on bank investment securities | (1) | 2 | 4 | 1 | 1"
+},
+{
+"id": "B0363",
+"exhibit": "ex-99_1.htm",
+"text": "Other revenues from operations | 85 | 95 | 77 | 50 | 112"
+},
+{
+"id": "B0364",
+"exhibit": "ex-99_1.htm",
+"text": "Total other income | 743 | 740 | 689 | 696 | 752"
+},
+{
+"id": "B0365",
+"exhibit": "ex-99_1.htm",
+"text": "Other expense:"
+},
+{
+"id": "B0366",
+"exhibit": "ex-99_1.htm",
+"text": "Salaries and employee benefits | 832 | 826 | 914 | 809 | 833"
+},
+{
+"id": "B0367",
+"exhibit": "ex-99_1.htm",
+"text": "Outside data processing and software | 173 | 154 | 144 | 146 | 138"
+},
+{
+"id": "B0368",
+"exhibit": "ex-99_1.htm",
+"text": "Equipment and net occupancy | 131 | 129 | 133 | 134 | 129"
+},
+{
+"id": "B0369",
+"exhibit": "ex-99_1.htm",
+"text": "Professional and other services | 97 | 89 | 93 | 105 | 81"
+},
+{
+"id": "B0370",
+"exhibit": "ex-99_1.htm",
+"text": "FDIC assessments | 19 | 18 | 23 | (8) | 13"
+},
+{
+"id": "B0371",
+"exhibit": "ex-99_1.htm",
+"text": "Advertising and marketing | 29 | 27 | 21 | 32 | 23"
+},
+{
+"id": "B0372",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets | 7 | 7 | 9 | 10 | 10"
+},
+{
+"id": "B0373",
+"exhibit": "ex-99_1.htm",
+"text": "Other costs of operations | 105 | 99 | 101 | 151 | 136"
+},
+{
+"id": "B0374",
+"exhibit": "ex-99_1.htm",
+"text": "Total other expense | 1,393 | 1,349 | 1,438 | 1,379 | 1,363"
+},
+{
+"id": "B0375",
+"exhibit": "ex-99_1.htm",
+"text": "Income before taxes | 1,008 | 1,063 | 863 | 971 | 1,025"
+},
+{
+"id": "B0376",
+"exhibit": "ex-99_1.htm",
+"text": "Income taxes | 233 | 245 | 199 | 212 | 233"
+},
+{
+"id": "B0377",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | $775 | $818 | $664 | $759 | $792"
+},
+{
+"id": "B0378",
+"exhibit": "ex-99_1.htm",
+"text": "12"
+},
+{
+"id": "B0379",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0380",
+"exhibit": "ex-99_1.htm",
+"text": "Condensed Consolidated Balance Sheet"
+},
+{
+"id": "B0381",
+"exhibit": "ex-99_1.htm",
+"text": "September 30,"
+},
+{
+"id": "B0382",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2025 | Change"
+},
+{
+"id": "B0383",
+"exhibit": "ex-99_1.htm",
+"text": "ASSETS"
+},
+{
+"id": "B0384",
+"exhibit": "ex-99_1.htm",
+"text": "Cash and due from banks | $1,796 | $1,950 | -8%"
+},
+{
+"id": "B0385",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits at banks | 14,342 | 16,751 | -14"
+},
+{
+"id": "B0386",
+"exhibit": "ex-99_1.htm",
+"text": "Investment securities | 37,894 | 36,864 | 3"
+},
+{
+"id": "B0387",
+"exhibit": "ex-99_1.htm",
+"text": "Loans held for sale | 696 | 629 | 11"
+},
+{
+"id": "B0388",
+"exhibit": "ex-99_1.htm",
+"text": "Loans:"
+},
+{
+"id": "B0389",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial and industrial | 66,373 | 61,863 | 7"
+},
+{
+"id": "B0390",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - commercial | 25,561 | 23,768 | 8"
+},
+{
+"id": "B0391",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - residential | 25,301 | 24,335 | 4"
+},
+{
+"id": "B0392",
+"exhibit": "ex-99_1.htm",
+"text": "Consumer | 27,521 | 26,379 | 4"
+},
+{
+"id": "B0393",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans | 144,756 | 136,345 | 6"
+},
+{
+"id": "B0394",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses | (2,179) | (2,161) | 1"
+},
+{
+"id": "B0395",
+"exhibit": "ex-99_1.htm",
+"text": "Net loans | 142,577 | 134,184 | 6"
+},
+{
+"id": "B0396",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | 8,465 | 8,465 | \u2014"
+},
+{
+"id": "B0397",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | 41 | 74 | -45"
+},
+{
+"id": "B0398",
+"exhibit": "ex-99_1.htm",
+"text": "Other assets | 14,699 | 12,360 | 19"
+},
+{
+"id": "B0399",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets | $220,510 | $211,277 | 4%"
+},
+{
+"id": "B0400",
+"exhibit": "ex-99_1.htm",
+"text": "LIABILITIES AND SHAREHOLDERS' EQUITY"
+},
+{
+"id": "B0401",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest-bearing deposits | $44,819 | $44,994 | \u2014%"
+},
+{
+"id": "B0402",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits | 122,691 | 118,432 | 4"
+},
+{
+"id": "B0403",
+"exhibit": "ex-99_1.htm",
+"text": "Total deposits | 167,510 | 163,426 | 2"
+},
+{
+"id": "B0404",
+"exhibit": "ex-99_1.htm",
+"text": "Short-term borrowings | 6,373 | 2,059 | 209"
+},
+{
+"id": "B0405",
+"exhibit": "ex-99_1.htm",
+"text": "Long-term borrowings | 13,648 | 12,928 | 6"
+},
+{
+"id": "B0406",
+"exhibit": "ex-99_1.htm",
+"text": "Accrued interest and other liabilities | 4,820 | 4,136 | 17"
+},
+{
+"id": "B0407",
+"exhibit": "ex-99_1.htm",
+"text": "Total liabilities | 192,351 | 182,549 | 5"
+},
+{
+"id": "B0408",
+"exhibit": "ex-99_1.htm",
+"text": "Shareholders' equity:"
+},
+{
+"id": "B0409",
+"exhibit": "ex-99_1.htm",
+"text": "Preferred | 3,017 | 2,394 | 26"
+},
+{
+"id": "B0410",
+"exhibit": "ex-99_1.htm",
+"text": "Common | 25,142 | 26,334 | -5"
+},
+{
+"id": "B0411",
+"exhibit": "ex-99_1.htm",
+"text": "Total shareholders' equity | 28,159 | 28,728 | -2"
+},
+{
+"id": "B0412",
+"exhibit": "ex-99_1.htm",
+"text": "Total liabilities and shareholders' equity | $220,510 | $211,277 | 4%"
+},
+{
+"id": "B0413",
+"exhibit": "ex-99_1.htm",
+"text": "13"
+},
+{
+"id": "B0414",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0415",
+"exhibit": "ex-99_1.htm",
+"text": "Condensed Consolidated Balance Sheet, Five Quarter Trend"
+},
+{
+"id": "B0416",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0417",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0418",
+"exhibit": "ex-99_1.htm",
+"text": "ASSETS"
+},
+{
+"id": "B0419",
+"exhibit": "ex-99_1.htm",
+"text": "Cash and due from banks | $1,796 | $1,939 | $1,903 | $1,701 | $1,950"
+},
+{
+"id": "B0420",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits at banks | 14,342 | 15,499 | 14,445 | 17,068 | 16,751"
+},
+{
+"id": "B0421",
+"exhibit": "ex-99_1.htm",
+"text": "Investment securities | 37,894 | 38,374 | 38,621 | 36,649 | 36,864"
+},
+{
+"id": "B0422",
+"exhibit": "ex-99_1.htm",
+"text": "Loans held for sale | 696 | 663 | 861 | 1,067 | 629"
+},
+{
+"id": "B0423",
+"exhibit": "ex-99_1.htm",
+"text": "Loans:"
+},
+{
+"id": "B0424",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial and industrial | 66,373 | 65,995 | 65,216 | 63,406 | 61,863"
+},
+{
+"id": "B0425",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - commercial | 25,561 | 24,233 | 22,986 | 23,335 | 23,768"
+},
+{
+"id": "B0426",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - residential | 25,301 | 25,128 | 24,530 | 24,433 | 24,335"
+},
+{
+"id": "B0427",
+"exhibit": "ex-99_1.htm",
+"text": "Consumer | 27,521 | 27,174 | 26,321 | 26,461 | 26,379"
+},
+{
+"id": "B0428",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans | 144,756 | 142,530 | 139,053 | 137,635 | 136,345"
+},
+{
+"id": "B0429",
+"exhibit": "ex-99_1.htm",
+"text": "Allowance for loan losses | (2,179) | (2,176) | (2,136) | (2,116) | (2,161)"
+},
+{
+"id": "B0430",
+"exhibit": "ex-99_1.htm",
+"text": "Net loans | 142,577 | 140,354 | 136,917 | 135,519 | 134,184"
+},
+{
+"id": "B0431",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | 8,465 | 8,465 | 8,465 | 8,465 | 8,465"
+},
+{
+"id": "B0432",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | 41 | 48 | 55 | 64 | 74"
+},
+{
+"id": "B0433",
+"exhibit": "ex-99_1.htm",
+"text": "Other assets | 14,699 | 13,919 | 13,469 | 12,977 | 12,360"
+},
+{
+"id": "B0434",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets | $220,510 | $219,261 | $214,736 | $213,510 | $211,277"
+},
+{
+"id": "B0435",
+"exhibit": "ex-99_1.htm",
+"text": "LIABILITIES AND SHAREHOLDERS' EQUITY"
+},
+{
+"id": "B0436",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest-bearing deposits | $44,819 | $48,295 | $45,892 | $46,509 | $44,994"
+},
+{
+"id": "B0437",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits | 122,691 | 120,590 | 117,849 | 120,400 | 118,432"
+},
+{
+"id": "B0438",
+"exhibit": "ex-99_1.htm",
+"text": "Total deposits | 167,510 | 168,885 | 163,741 | 166,909 | 163,426"
+},
+{
+"id": "B0439",
+"exhibit": "ex-99_1.htm",
+"text": "Short-term borrowings | 6,373 | 4,614 | 7,851 | 2,149 | 2,059"
+},
+{
+"id": "B0440",
+"exhibit": "ex-99_1.htm",
+"text": "Long-term borrowings | 13,648 | 13,568 | 11,175 | 10,911 | 12,928"
+},
+{
+"id": "B0441",
+"exhibit": "ex-99_1.htm",
+"text": "Accrued interest and other liabilities | 4,820 | 4,248 | 3,997 | 4,364 | 4,136"
+},
+{
+"id": "B0442",
+"exhibit": "ex-99_1.htm",
+"text": "Total liabilities | 192,351 | 191,315 | 186,764 | 184,333 | 182,549"
+},
+{
+"id": "B0443",
+"exhibit": "ex-99_1.htm",
+"text": "Shareholders' equity:"
+},
+{
+"id": "B0444",
+"exhibit": "ex-99_1.htm",
+"text": "Preferred | 3,017 | 2,434 | 2,434 | 2,834 | 2,394"
+},
+{
+"id": "B0445",
+"exhibit": "ex-99_1.htm",
+"text": "Common | 25,142 | 25,512 | 25,538 | 26,343 | 26,334"
+},
+{
+"id": "B0446",
+"exhibit": "ex-99_1.htm",
+"text": "Total shareholders' equity | 28,159 | 27,946 | 27,972 | 29,177 | 28,728"
+},
+{
+"id": "B0447",
+"exhibit": "ex-99_1.htm",
+"text": "Total liabilities and shareholders' equity | $220,510 | $219,261 | $214,736 | $213,510 | $211,277"
+},
+{
+"id": "B0448",
+"exhibit": "ex-99_1.htm",
+"text": "14"
+},
+{
+"id": "B0449",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0450",
+"exhibit": "ex-99_1.htm",
+"text": "Condensed Consolidated Average Balance Sheet and Annualized Taxable-equivalent Rates"
+},
+{
+"id": "B0451",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Change in Balance | Nine Months Ended"
+},
+{
+"id": "B0452",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | September 30, | September 30, 2026 from | September 30, | Change"
+},
+{
+"id": "B0453",
+"exhibit": "ex-99_1.htm",
+"text": "2026 | 2026 | 2025 | June 30, | September 30, | 2026 | 2025 | in"
+},
+{
+"id": "B0454",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | Balance | Rate | Balance | Rate | Balance | Rate | 2026 | 2025 | Balance | Rate | Balance | Rate | Balance"
+},
+{
+"id": "B0455",
+"exhibit": "ex-99_1.htm",
+"text": "ASSETS"
+},
+{
+"id": "B0456",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits at banks | $14,209 | 3.79% | $15,061 | 3.72% | $17,739 | 4.43% | -6% | -20% | $15,159 | 3.74% | $19,037 | 4.46% | -20%"
+},
+{
+"id": "B0457",
+"exhibit": "ex-99_1.htm",
+"text": "Investment securities (1) | 38,552 | 4.33 | 38,728 | 4.29 | 36,559 | 4.15 | \u2014 | 5 | 38,378 | 4.28 | 35,466 | 3.98 | 8"
+},
+{
+"id": "B0458",
+"exhibit": "ex-99_1.htm",
+"text": "Loans held for sale | 682 | 5.48 | 777 | 5.50 | 637 | 5.85 | -12 | 7 | 819 | 5.45 | 750 | 6.92 | 9"
+},
+{
+"id": "B0459",
+"exhibit": "ex-99_1.htm",
+"text": "Loans:"
+},
+{
+"id": "B0460",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial and industrial | 65,887 | 6.00 | 65,883 | 6.00 | 61,687 | 6.45 | \u2014 | 7 | 65,139 | 6.00 | 61,234 | 6.41 | 6"
+},
+{
+"id": "B0461",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - commercial | 24,862 | 6.03 | 23,221 | 6.29 | 23,982 | 6.45 | 7 | 4 | 23,709 | 6.15 | 24,796 | 6.34 | -4"
+},
+{
+"id": "B0462",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate - residential | 25,194 | 4.69 | 24,827 | 4.63 | 24,122 | 4.57 | 1 | 4 | 24,832 | 4.62 | 23,543 | 4.50 | 5"
+},
+{
+"id": "B0463",
+"exhibit": "ex-99_1.htm",
+"text": "Consumer | 27,353 | 6.47 | 26,719 | 6.46 | 26,099 | 6.60 | 2 | 5 | 26,797 | 6.47 | 25,275 | 6.58 | 6"
+},
+{
+"id": "B0464",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans | 143,296 | 5.86 | 140,650 | 5.89 | 135,890 | 6.15 | 2 | 5 | 140,477 | 5.87 | 134,848 | 6.09 | 4"
+},
+{
+"id": "B0465",
+"exhibit": "ex-99_1.htm",
+"text": "Other | \u2014 | \u2014 | \u2014 | \u2014 | 95 | 3.45 | \u2014 | -100 | 31 | \u2014 | 96 | 3.46 | -67"
+},
+{
+"id": "B0466",
+"exhibit": "ex-99_1.htm",
+"text": "Total earning assets | 196,739 | 5.41 | 195,216 | 5.40 | 190,920 | 5.60 | 1 | 3 | 194,864 | 5.39 | 190,197 | 5.54 | 2"
+},
+{
+"id": "B0467",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | 8,465 | 8,465 | 8,465 | \u2014 | \u2014 | 8,465 | 8,465 | \u2014"
+},
+{
+"id": "B0468",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | 45 | 51 | 79 | -12 | -43 | 52 | 86 | -40"
+},
+{
+"id": "B0469",
+"exhibit": "ex-99_1.htm",
+"text": "Other assets | 13,611 | 12,800 | 11,589 | 6 | 17 | 13,043 | 11,141 | 17"
+},
+{
+"id": "B0470",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets | $218,860 | $216,532 | $211,053 | 1% | 4% | $216,424 | $209,889 | 3%"
+},
+{
+"id": "B0471",
+"exhibit": "ex-99_1.htm",
+"text": "LIABILITIES AND SHAREHOLDERS' EQUITY"
+},
+{
+"id": "B0472",
+"exhibit": "ex-99_1.htm",
+"text": "Interest-bearing deposits:"
+},
+{
+"id": "B0473",
+"exhibit": "ex-99_1.htm",
+"text": "Savings and interest-checking deposits | $108,013 | 1.89% | $105,752 | 1.81% | $104,630 | 2.23% | 2% | 3% | $106,783 | 1.85% | $103,378 | 2.22% | 3%"
+},
+{
+"id": "B0474",
+"exhibit": "ex-99_1.htm",
+"text": "Time deposits | 15,056 | 3.19 | 13,808 | 3.02 | 13,890 | 3.40 | 9 | 8 | 13,982 | 3.08 | 14,056 | 3.48 | -1"
+},
+{
+"id": "B0475",
+"exhibit": "ex-99_1.htm",
+"text": "Total interest-bearing deposits | 123,069 | 2.05 | 119,560 | 1.95 | 118,520 | 2.36 | 3 | 4 | 120,765 | 1.99 | 117,434 | 2.37 | 3"
+},
+{
+"id": "B0476",
+"exhibit": "ex-99_1.htm",
+"text": "Short-term borrowings | 5,248 | 3.89 | 8,016 | 3.86 | 2,844 | 4.50 | -35 | 85 | 6,318 | 3.87 | 3,013 | 4.50 | 110"
+},
+{
+"id": "B0477",
+"exhibit": "ex-99_1.htm",
+"text": "Long-term borrowings | 13,977 | 5.32 | 12,778 | 5.33 | 12,789 | 5.64 | 9 | 9 | 12,617 | 5.35 | 11,675 | 5.64 | 8"
+},
+{
+"id": "B0478",
+"exhibit": "ex-99_1.htm",
+"text": "Total interest-bearing liabilities | 142,294 | 2.44 | 140,354 | 2.36 | 134,153 | 2.72 | 1 | 6 | 139,700 | 2.38 | 132,122 | 2.71 | 6"
+},
+{
+"id": "B0479",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest-bearing deposits | 43,708 | 43,964 | 44,056 | -1 | -1 | 44,070 | 44,877 | -2"
+},
+{
+"id": "B0480",
+"exhibit": "ex-99_1.htm",
+"text": "Other liabilities | 4,527 | 4,275 | 4,261 | 6 | 6 | 4,349 | 4,142 | 5"
+},
+{
+"id": "B0481",
+"exhibit": "ex-99_1.htm",
+"text": "Total liabilities | 190,529 | 188,593 | 182,470 | 1 | 4 | 188,119 | 181,141 | 4"
+},
+{
+"id": "B0482",
+"exhibit": "ex-99_1.htm",
+"text": "Shareholders' equity | 28,331 | 27,939 | 28,583 | 1 | -1 | 28,305 | 28,748 | -2"
+},
+{
+"id": "B0483",
+"exhibit": "ex-99_1.htm",
+"text": "Total liabilities and shareholders' equity | $218,860 | $216,532 | $211,053 | 1% | 4% | $216,424 | $209,889 | 3%"
+},
+{
+"id": "B0484",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest spread | 2.97 | 3.04 | 2.88 | 3.01 | 2.83"
+},
+{
+"id": "B0485",
+"exhibit": "ex-99_1.htm",
+"text": "Contribution of interest-free funds | .68 | .66 | .81 | .67 | .82"
+},
+{
+"id": "B0486",
+"exhibit": "ex-99_1.htm",
+"text": "Net interest margin | 3.65% | 3.70% | 3.69% | 3.68% | 3.65%"
+},
+{
+"id": "B0487",
+"exhibit": "ex-99_1.htm",
+"text": "(1) Yields on investment securities for the nine-month period ended September 30, 2025 reflect $18 million of lower taxable-equivalent interest income resulting from an alignment of amortization periods for certain municipal bonds obtained from the acquisition of People's United Financial, Inc."
+},
+{
+"id": "B0488",
+"exhibit": "ex-99_1.htm",
+"text": "15"
+},
+{
+"id": "B0489",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0490",
+"exhibit": "ex-99_1.htm",
+"text": "Supplemental Information - Loan Balances"
+},
+{
+"id": "B0491",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0492",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0493",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial and industrial"
+},
+{
+"id": "B0494",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial and industrial excluding owner-occupied real estate by industry:"
+},
+{
+"id": "B0495",
+"exhibit": "ex-99_1.htm",
+"text": "Financial and insurance | $13,731 | $13,804 | $13,488 | $12,749 | $12,077"
+},
+{
+"id": "B0496",
+"exhibit": "ex-99_1.htm",
+"text": "Services | 8,719 | 8,534 | 8,207 | 7,887 | 7,685"
+},
+{
+"id": "B0497",
+"exhibit": "ex-99_1.htm",
+"text": "Motor vehicle and recreational finance dealers | 6,706 | 6,966 | 7,061 | 7,185 | 6,636"
+},
+{
+"id": "B0498",
+"exhibit": "ex-99_1.htm",
+"text": "Manufacturing | 6,311 | 6,389 | 6,402 | 6,094 | 6,238"
+},
+{
+"id": "B0499",
+"exhibit": "ex-99_1.htm",
+"text": "Wholesale | 4,473 | 4,330 | 4,343 | 4,373 | 4,244"
+},
+{
+"id": "B0500",
+"exhibit": "ex-99_1.htm",
+"text": "Transportation, communications, utilities | 4,456 | 4,199 | 3,928 | 3,883 | 3,754"
+},
+{
+"id": "B0501",
+"exhibit": "ex-99_1.htm",
+"text": "Retail | 3,347 | 3,319 | 3,302 | 3,087 | 3,112"
+},
+{
+"id": "B0502",
+"exhibit": "ex-99_1.htm",
+"text": "Construction | 2,412 | 2,445 | 2,305 | 2,260 | 2,205"
+},
+{
+"id": "B0503",
+"exhibit": "ex-99_1.htm",
+"text": "Health services | 1,811 | 1,707 | 1,835 | 1,816 | 1,779"
+},
+{
+"id": "B0504",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate investors | 1,589 | 1,521 | 1,662 | 1,574 | 1,505"
+},
+{
+"id": "B0505",
+"exhibit": "ex-99_1.htm",
+"text": "Other | 1,370 | 1,397 | 1,362 | 1,300 | 1,567"
+},
+{
+"id": "B0506",
+"exhibit": "ex-99_1.htm",
+"text": "Total commercial and industrial excluding owner-occupied real estate | 54,925 | 54,611 | 53,895 | 52,208 | 50,802"
+},
+{
+"id": "B0507",
+"exhibit": "ex-99_1.htm",
+"text": "Owner-occupied real estate by industry:"
+},
+{
+"id": "B0508",
+"exhibit": "ex-99_1.htm",
+"text": "Services | 2,351 | 2,362 | 2,377 | 2,368 | 2,308"
+},
+{
+"id": "B0509",
+"exhibit": "ex-99_1.htm",
+"text": "Motor vehicle and recreational finance dealers | 2,263 | 2,180 | 2,217 | 2,234 | 2,162"
+},
+{
+"id": "B0510",
+"exhibit": "ex-99_1.htm",
+"text": "Retail | 1,929 | 1,926 | 1,916 | 1,893 | 1,825"
+},
+{
+"id": "B0511",
+"exhibit": "ex-99_1.htm",
+"text": "Health services | 1,413 | 1,464 | 1,335 | 1,268 | 1,320"
+},
+{
+"id": "B0512",
+"exhibit": "ex-99_1.htm",
+"text": "Wholesale | 1,079 | 1,035 | 1,029 | 978 | 975"
+},
+{
+"id": "B0513",
+"exhibit": "ex-99_1.htm",
+"text": "Manufacturing | 735 | 712 | 727 | 791 | 783"
+},
+{
+"id": "B0514",
+"exhibit": "ex-99_1.htm",
+"text": "Real estate investors | 585 | 607 | 617 | 616 | 634"
+},
+{
+"id": "B0515",
+"exhibit": "ex-99_1.htm",
+"text": "Other | 1,093 | 1,098 | 1,103 | 1,050 | 1,054"
+},
+{
+"id": "B0516",
+"exhibit": "ex-99_1.htm",
+"text": "Total owner-occupied real estate | 11,448 | 11,384 | 11,321 | 11,198 | 11,061"
+},
+{
+"id": "B0517",
+"exhibit": "ex-99_1.htm",
+"text": "Total commercial and industrial | 66,373 | 65,995 | 65,216 | 63,406 | 61,863"
+},
+{
+"id": "B0518",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial real estate"
+},
+{
+"id": "B0519",
+"exhibit": "ex-99_1.htm",
+"text": "Permanent finance by property type:"
+},
+{
+"id": "B0520",
+"exhibit": "ex-99_1.htm",
+"text": "Apartments/Multifamily | 7,320 | 6,865 | 6,269 | 6,353 | 6,270"
+},
+{
+"id": "B0521",
+"exhibit": "ex-99_1.htm",
+"text": "Retail/Service | 4,313 | 4,259 | 4,237 | 4,164 | 4,320"
+},
+{
+"id": "B0522",
+"exhibit": "ex-99_1.htm",
+"text": "Industrial/Warehouse | 3,510 | 3,276 | 2,462 | 2,297 | 2,175"
+},
+{
+"id": "B0523",
+"exhibit": "ex-99_1.htm",
+"text": "Office | 3,066 | 3,147 | 3,282 | 3,423 | 3,487"
+},
+{
+"id": "B0524",
+"exhibit": "ex-99_1.htm",
+"text": "Health services | 1,841 | 1,583 | 1,507 | 1,548 | 1,554"
+},
+{
+"id": "B0525",
+"exhibit": "ex-99_1.htm",
+"text": "Hotel | 1,728 | 1,665 | 1,727 | 1,743 | 1,776"
+},
+{
+"id": "B0526",
+"exhibit": "ex-99_1.htm",
+"text": "Other | 443 | 180 | 187 | 180 | 202"
+},
+{
+"id": "B0527",
+"exhibit": "ex-99_1.htm",
+"text": "Total permanent | 22,221 | 20,975 | 19,671 | 19,708 | 19,784"
+},
+{
+"id": "B0528",
+"exhibit": "ex-99_1.htm",
+"text": "Construction/Development | 3,340 | 3,258 | 3,315 | 3,627 | 3,984"
+},
+{
+"id": "B0529",
+"exhibit": "ex-99_1.htm",
+"text": "Total commercial real estate | 25,561 | 24,233 | 22,986 | 23,335 | 23,768"
+},
+{
+"id": "B0530",
+"exhibit": "ex-99_1.htm",
+"text": "Residential real estate"
+},
+{
+"id": "B0531",
+"exhibit": "ex-99_1.htm",
+"text": "Residential real estate | 25,301 | 25,128 | 24,530 | 24,433 | 24,335"
+},
+{
+"id": "B0532",
+"exhibit": "ex-99_1.htm",
+"text": "Consumer"
+},
+{
+"id": "B0533",
+"exhibit": "ex-99_1.htm",
+"text": "Home equity lines and loans | 4,991 | 4,891 | 4,796 | 4,807 | 4,730"
+},
+{
+"id": "B0534",
+"exhibit": "ex-99_1.htm",
+"text": "Recreational finance | 15,170 | 14,856 | 14,144 | 14,092 | 14,152"
+},
+{
+"id": "B0535",
+"exhibit": "ex-99_1.htm",
+"text": "Automobile | 4,871 | 4,969 | 5,016 | 5,167 | 5,223"
+},
+{
+"id": "B0536",
+"exhibit": "ex-99_1.htm",
+"text": "Other | 2,489 | 2,458 | 2,365 | 2,395 | 2,274"
+},
+{
+"id": "B0537",
+"exhibit": "ex-99_1.htm",
+"text": "Total consumer | 27,521 | 27,174 | 26,321 | 26,461 | 26,379"
+},
+{
+"id": "B0538",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans | $144,756 | $142,530 | $139,053 | $137,635 | $136,345"
+},
+{
+"id": "B0539",
+"exhibit": "ex-99_1.htm",
+"text": "16"
+},
+{
+"id": "B0540",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0541",
+"exhibit": "ex-99_1.htm",
+"text": "Supplemental Information - Mortgage Banking Activities"
+},
+{
+"id": "B0542",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Change | Nine Months Ended | Change"
+},
+{
+"id": "B0543",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | September 30, | September 30,"
+},
+{
+"id": "B0544",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | Amount% | 2026 | 2025 | Amount%"
+},
+{
+"id": "B0545",
+"exhibit": "ex-99_1.htm",
+"text": "Residential mortgage banking revenues"
+},
+{
+"id": "B0546",
+"exhibit": "ex-99_1.htm",
+"text": "Gains on loans originated for sale | $9 | $7 | $2 | 30% | $24 | $23 | $1 | 4%"
+},
+{
+"id": "B0547",
+"exhibit": "ex-99_1.htm",
+"text": "Loan servicing:"
+},
+{
+"id": "B0548",
+"exhibit": "ex-99_1.htm",
+"text": "Loan servicing fees | 33 | 33 | \u2014 | -1 | 98 | 105 | (7) | -7"
+},
+{
+"id": "B0549",
+"exhibit": "ex-99_1.htm",
+"text": "Changes in fair value of mortgage loan servicing right assets, net of hedging activities | (16) | (11) | (5) | -37 | (40) | \u2014 | (40) | \u2014"
+},
+{
+"id": "B0550",
+"exhibit": "ex-99_1.htm",
+"text": "Loan sub-servicing and other fees | 93 | 67 | 26 | 38 | 222 | 159 | 63 | 39"
+},
+{
+"id": "B0551",
+"exhibit": "ex-99_1.htm",
+"text": "Total loan servicing | 110 | 89 | 21 | 23 | 280 | 264 | 16 | 6"
+},
+{
+"id": "B0552",
+"exhibit": "ex-99_1.htm",
+"text": "Total residential mortgage banking revenues | $119 | $96 | $23 | 24% | $304 | $287 | $17 | 6%"
+},
+{
+"id": "B0553",
+"exhibit": "ex-99_1.htm",
+"text": "New commitments to originate loans for sale | $377 | $411 | $(34) | -8% | $1,188 | $1,019 | $169 | 17%"
+},
+{
+"id": "B0554",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0555",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0556",
+"exhibit": "ex-99_1.htm",
+"text": "Balances at period end"
+},
+{
+"id": "B0557",
+"exhibit": "ex-99_1.htm",
+"text": "Loans held for sale | $249 | $256 | $327 | $441 | $327"
+},
+{
+"id": "B0558",
+"exhibit": "ex-99_1.htm",
+"text": "Commitments to originate loans for sale | 191 | 258 | 222 | 224 | 329"
+},
+{
+"id": "B0559",
+"exhibit": "ex-99_1.htm",
+"text": "Commitments to sell loans | 407 | 467 | 544 | 645 | 576"
+},
+{
+"id": "B0560",
+"exhibit": "ex-99_1.htm",
+"text": "Capitalized mortgage loan servicing assets | 572 | 540 | 542 | 287 | 305"
+},
+{
+"id": "B0561",
+"exhibit": "ex-99_1.htm",
+"text": "Loans serviced for others | 34,909 | 35,253 | 35,586 | 35,873 | 36,421"
+},
+{
+"id": "B0562",
+"exhibit": "ex-99_1.htm",
+"text": "Loans sub-serviced for others | 179,605 | 183,599 | 123,968 | 156,938 | 161,785"
+},
+{
+"id": "B0563",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans serviced for others | $214,514 | $218,852 | $159,554 | $192,811 | $198,206"
+},
+{
+"id": "B0564",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Change | Nine Months Ended | Change"
+},
+{
+"id": "B0565",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | September 30, | September 30,"
+},
+{
+"id": "B0566",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | Amount% | 2026 | 2025 | Amount%"
+},
+{
+"id": "B0567",
+"exhibit": "ex-99_1.htm",
+"text": "Commercial mortgage banking revenues"
+},
+{
+"id": "B0568",
+"exhibit": "ex-99_1.htm",
+"text": "Gains on loans originated for sale | $13 | $13 | $\u2014 | \u2014% | $44 | $50 | $(6) | -12%"
+},
+{
+"id": "B0569",
+"exhibit": "ex-99_1.htm",
+"text": "Loan servicing fees and other | 20 | 18 | 2 | 9 | 58 | 58 | \u2014 | \u2014"
+},
+{
+"id": "B0570",
+"exhibit": "ex-99_1.htm",
+"text": "Total commercial mortgage banking revenues | $33 | $31 | $2 | 5% | $102 | $108 | $(6) | -6%"
+},
+{
+"id": "B0571",
+"exhibit": "ex-99_1.htm",
+"text": "Loans originated for sale to other investors | $737 | $746 | $(9) | -1% | $2,618 | $3,138 | $(520) | -17%"
+},
+{
+"id": "B0572",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0573",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0574",
+"exhibit": "ex-99_1.htm",
+"text": "Balances at period end"
+},
+{
+"id": "B0575",
+"exhibit": "ex-99_1.htm",
+"text": "Loans held for sale | $263 | $259 | $359 | $484 | $278"
+},
+{
+"id": "B0576",
+"exhibit": "ex-99_1.htm",
+"text": "Commitments to originate loans for sale | 559 | 485 | 529 | 773 | 1,074"
+},
+{
+"id": "B0577",
+"exhibit": "ex-99_1.htm",
+"text": "Commitments to sell loans | 826 | 740 | 903 | 1,253 | 1,292"
+},
+{
+"id": "B0578",
+"exhibit": "ex-99_1.htm",
+"text": "Capitalized mortgage loan servicing assets | 132 | 136 | 138 | 132 | 123"
+},
+{
+"id": "B0579",
+"exhibit": "ex-99_1.htm",
+"text": "Loans serviced for others | 31,204 | 31,368 | 30,934 | 30,309 | 28,957"
+},
+{
+"id": "B0580",
+"exhibit": "ex-99_1.htm",
+"text": "Loans sub-serviced for others | 4,013 | 4,072 | 4,194 | 4,231 | 4,297"
+},
+{
+"id": "B0581",
+"exhibit": "ex-99_1.htm",
+"text": "Total loans serviced for others | $35,217 | $35,440 | $35,128 | $34,540 | $33,254"
+},
+{
+"id": "B0582",
+"exhibit": "ex-99_1.htm",
+"text": "17"
+},
+{
+"id": "B0583",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0584",
+"exhibit": "ex-99_1.htm",
+"text": "Supplemental Information - Other Revenues from Operations"
+},
+{
+"id": "B0585",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Nine Months Ended"
+},
+{
+"id": "B0586",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | Change | September 30, | September 30, | Change"
+},
+{
+"id": "B0587",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | Amount% | 2026 | 2025 | Amount%"
+},
+{
+"id": "B0588",
+"exhibit": "ex-99_1.htm",
+"text": "Bank owned life insurance revenue | $17 | $20 | $(3) | -12% | $55 | $56 | $(1) | -2%"
+},
+{
+"id": "B0589",
+"exhibit": "ex-99_1.htm",
+"text": "Equipment operating lease income | 12 | 11 | 1 | 4 | 34 | 37 | (3) | -9"
+},
+{
+"id": "B0590",
+"exhibit": "ex-99_1.htm",
+"text": "BLG income | 31 | 47 | (16) | -34 | 111 | 20 | 91 | 455"
+},
+{
+"id": "B0591",
+"exhibit": "ex-99_1.htm",
+"text": "Earnout payment related to 2023 sale of CIT business | \u2014 | \u2014 | \u2014 | \u2014 | \u2014 | 28 | (28) | -100"
+},
+{
+"id": "B0592",
+"exhibit": "ex-99_1.htm",
+"text": "Gains on sales of out-of-footprint loan portfolio | \u2014 | \u2014 | \u2014 | \u2014 | \u2014 | 15 | (15) | -100"
+},
+{
+"id": "B0593",
+"exhibit": "ex-99_1.htm",
+"text": "Gain on sale of institutional services subsidiary | \u2014 | \u2014 | \u2014 | \u2014 | \u2014 | 10 | (10) | -100"
+},
+{
+"id": "B0594",
+"exhibit": "ex-99_1.htm",
+"text": "Other | 25 | 17 | 8 | 47 | 57 | 56 | 1 | 2"
+},
+{
+"id": "B0595",
+"exhibit": "ex-99_1.htm",
+"text": "Total other revenues from operations | $85 | $95 | $(10) | -12% | $257 | $222 | $35 | 16%"
+},
+{
+"id": "B0596",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended"
+},
+{
+"id": "B0597",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0598",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions) | 2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0599",
+"exhibit": "ex-99_1.htm",
+"text": "Bank owned life insurance revenue | $17 | $20 | $18 | $19 | $21"
+},
+{
+"id": "B0600",
+"exhibit": "ex-99_1.htm",
+"text": "Equipment operating lease income | 12 | 11 | 11 | 11 | 12"
+},
+{
+"id": "B0601",
+"exhibit": "ex-99_1.htm",
+"text": "BLG income | 31 | 47 | 33 | \u2014 | 20"
+},
+{
+"id": "B0602",
+"exhibit": "ex-99_1.htm",
+"text": "Earnout payment related to 2023 sale of CIT business | \u2014 | \u2014 | \u2014 | \u2014 | 28"
+},
+{
+"id": "B0603",
+"exhibit": "ex-99_1.htm",
+"text": "Other | 25 | 17 | 15 | 20 | 31"
+},
+{
+"id": "B0604",
+"exhibit": "ex-99_1.htm",
+"text": "Total other revenues from operations | $85 | $95 | $77 | $50 | $112"
+},
+{
+"id": "B0605",
+"exhibit": "ex-99_1.htm",
+"text": "Supplemental Information - Interest Rate Swap Agreements Designated as Hedges at September 30, 2026"
+},
+{
+"id": "B0606",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in billions) | September 30, 2026 | December 31, 2026 | March 31, 2027 | June 30, 2027 | September 30, 2027 | December 31, 2027 | March 31, 2028"
+},
+{
+"id": "B0607",
+"exhibit": "ex-99_1.htm",
+"text": "Fair value hedges:"
+},
+{
+"id": "B0608",
+"exhibit": "ex-99_1.htm",
+"text": "Active | $6.1 | $6.1 | $6.1 | $6.1 | $5.1 | $6.4 | $5.9"
+},
+{
+"id": "B0609",
+"exhibit": "ex-99_1.htm",
+"text": "Forward-starting | 1.3 | 1.3 | 1.3 | 1.3 | 1.3 | \u2014 | \u2014"
+},
+{
+"id": "B0610",
+"exhibit": "ex-99_1.htm",
+"text": "Cash flow hedges:"
+},
+{
+"id": "B0611",
+"exhibit": "ex-99_1.htm",
+"text": "Active | 16.7 | 17.5 | 17.0 | 17.7 | 15.2 | 13.9 | 12.7"
+},
+{
+"id": "B0612",
+"exhibit": "ex-99_1.htm",
+"text": "Forward-starting | 8.8 | 8.0 | 5.8 | 1.8 | 1.8 | 1.5 | \u2014"
+},
+{
+"id": "B0613",
+"exhibit": "ex-99_1.htm",
+"text": "Fair value hedges - weighted-average fixed rate:"
+},
+{
+"id": "B0614",
+"exhibit": "ex-99_1.htm",
+"text": "Active | 3.56% | 3.56% | 3.56% | 3.56% | 3.66% | 3.85% | 3.85%"
+},
+{
+"id": "B0615",
+"exhibit": "ex-99_1.htm",
+"text": "Forward-starting | 4.62 | 4.62 | 4.62 | 4.62 | 4.62 | \u2014 | \u2014"
+},
+{
+"id": "B0616",
+"exhibit": "ex-99_1.htm",
+"text": "Cash flow hedges - weighted-average fixed rate:"
+},
+{
+"id": "B0617",
+"exhibit": "ex-99_1.htm",
+"text": "Active | 3.70 | 3.69 | 3.67 | 3.78 | 3.78 | 3.76 | 3.87"
+},
+{
+"id": "B0618",
+"exhibit": "ex-99_1.htm",
+"text": "Forward-starting | 3.97 | 4.01 | 4.23 | 4.56 | 4.56 | 4.55 | \u2014"
+},
+{
+"id": "B0619",
+"exhibit": "ex-99_1.htm",
+"text": "18"
+},
+{
+"id": "B0620",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0621",
+"exhibit": "ex-99_1.htm",
+"text": "Reconciliation of Quarterly GAAP to Non-GAAP Measures"
+},
+{
+"id": "B0622",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended | Nine Months Ended"
+},
+{
+"id": "B0623",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | September 30,"
+},
+{
+"id": "B0624",
+"exhibit": "ex-99_1.htm",
+"text": "2026 | 2025 | 2026 | 2025"
+},
+{
+"id": "B0625",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions, except per share)"
+},
+{
+"id": "B0626",
+"exhibit": "ex-99_1.htm",
+"text": "Income statement data"
+},
+{
+"id": "B0627",
+"exhibit": "ex-99_1.htm",
+"text": "Net income"
+},
+{
+"id": "B0628",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | $775 | $792 | $2,257 | $2,092"
+},
+{
+"id": "B0629",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets (1) | 5 | 6 | 17 | 24"
+},
+{
+"id": "B0630",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating income | $780 | $798 | $2,274 | $2,116"
+},
+{
+"id": "B0631",
+"exhibit": "ex-99_1.htm",
+"text": "Earnings per common share"
+},
+{
+"id": "B0632",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted earnings per common share | $5.04 | $4.82 | $14.48 | $12.34"
+},
+{
+"id": "B0633",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets (1) | .04 | .05 | .12 | .15"
+},
+{
+"id": "B0634",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted net operating earnings per common share | $5.08 | $4.87 | $14.60 | $12.49"
+},
+{
+"id": "B0635",
+"exhibit": "ex-99_1.htm",
+"text": "Other expense"
+},
+{
+"id": "B0636",
+"exhibit": "ex-99_1.htm",
+"text": "Other expense | $1,393 | $1,363 | $4,180 | $4,114"
+},
+{
+"id": "B0637",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets | (7) | (10) | (23) | (32)"
+},
+{
+"id": "B0638",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest operating expense | $1,386 | $1,353 | $4,157 | $4,082"
+},
+{
+"id": "B0639",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio"
+},
+{
+"id": "B0640",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest operating expense (numerator) | $1,386 | $1,353 | $4,157 | $4,082"
+},
+{
+"id": "B0641",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent net interest income | $1,805 | $1,773 | $5,372 | $5,202"
+},
+{
+"id": "B0642",
+"exhibit": "ex-99_1.htm",
+"text": "Other income | 743 | 752 | 2,172 | 2,046"
+},
+{
+"id": "B0643",
+"exhibit": "ex-99_1.htm",
+"text": "Less: Gain (loss) on bank investment securities | (1) | 1 | 5 | 1"
+},
+{
+"id": "B0644",
+"exhibit": "ex-99_1.htm",
+"text": "Denominator | $2,549 | $2,524 | $7,539 | $7,247"
+},
+{
+"id": "B0645",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio | 54.4% | 53.6% | 55.1% | 56.3%"
+},
+{
+"id": "B0646",
+"exhibit": "ex-99_1.htm",
+"text": "Balance sheet data"
+},
+{
+"id": "B0647",
+"exhibit": "ex-99_1.htm",
+"text": "Average assets"
+},
+{
+"id": "B0648",
+"exhibit": "ex-99_1.htm",
+"text": "Average assets | $218,860 | $211,053 | $216,424 | $209,889"
+},
+{
+"id": "B0649",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465) | (8,465) | (8,465)"
+},
+{
+"id": "B0650",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (45) | (79) | (52) | (86)"
+},
+{
+"id": "B0651",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 17 | 24 | 18 | 25"
+},
+{
+"id": "B0652",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible assets | $210,367 | $202,533 | $207,925 | $201,363"
+},
+{
+"id": "B0653",
+"exhibit": "ex-99_1.htm",
+"text": "Average common equity"
+},
+{
+"id": "B0654",
+"exhibit": "ex-99_1.htm",
+"text": "Average total equity | $28,331 | $28,583 | $28,305 | $28,748"
+},
+{
+"id": "B0655",
+"exhibit": "ex-99_1.htm",
+"text": "Preferred stock | (2,890) | (2,394) | (2,635) | (2,394)"
+},
+{
+"id": "B0656",
+"exhibit": "ex-99_1.htm",
+"text": "Average common equity | 25,441 | 26,189 | 25,670 | 26,354"
+},
+{
+"id": "B0657",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465) | (8,465) | (8,465)"
+},
+{
+"id": "B0658",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (45) | (79) | (52) | (86)"
+},
+{
+"id": "B0659",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 17 | 24 | 18 | 25"
+},
+{
+"id": "B0660",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible common equity | $16,948 | $17,669 | $17,171 | $17,828"
+},
+{
+"id": "B0661",
+"exhibit": "ex-99_1.htm",
+"text": "At end of quarter"
+},
+{
+"id": "B0662",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets"
+},
+{
+"id": "B0663",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets | $220,510 | $211,277"
+},
+{
+"id": "B0664",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465)"
+},
+{
+"id": "B0665",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (41) | (74)"
+},
+{
+"id": "B0666",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 16 | 23"
+},
+{
+"id": "B0667",
+"exhibit": "ex-99_1.htm",
+"text": "Total tangible assets | $212,020 | $202,761"
+},
+{
+"id": "B0668",
+"exhibit": "ex-99_1.htm",
+"text": "Total common equity"
+},
+{
+"id": "B0669",
+"exhibit": "ex-99_1.htm",
+"text": "Total equity | $28,159 | $28,728"
+},
+{
+"id": "B0670",
+"exhibit": "ex-99_1.htm",
+"text": "Preferred stock | (3,017) | (2,394)"
+},
+{
+"id": "B0671",
+"exhibit": "ex-99_1.htm",
+"text": "Common equity | 25,142 | 26,334"
+},
+{
+"id": "B0672",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465)"
+},
+{
+"id": "B0673",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (41) | (74)"
+},
+{
+"id": "B0674",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 16 | 23"
+},
+{
+"id": "B0675",
+"exhibit": "ex-99_1.htm",
+"text": "Total tangible common equity | $16,652 | $17,818"
+},
+{
+"id": "B0676",
+"exhibit": "ex-99_1.htm",
+"text": "(1) After any related tax effect."
+},
+{
+"id": "B0677",
+"exhibit": "ex-99_1.htm",
+"text": "19"
+},
+{
+"id": "B0678",
+"exhibit": "ex-99_1.htm",
+"text": "Third Quarter 2026 Results"
+},
+{
+"id": "B0679",
+"exhibit": "ex-99_1.htm",
+"text": "Reconciliation of Quarterly GAAP to Non-GAAP Measures, Five Quarter Trend"
+},
+{
+"id": "B0680",
+"exhibit": "ex-99_1.htm",
+"text": "Three Months Ended"
+},
+{
+"id": "B0681",
+"exhibit": "ex-99_1.htm",
+"text": "September 30, | June 30, | March 31, | December 31, | September 30,"
+},
+{
+"id": "B0682",
+"exhibit": "ex-99_1.htm",
+"text": "2026 | 2026 | 2026 | 2025 | 2025"
+},
+{
+"id": "B0683",
+"exhibit": "ex-99_1.htm",
+"text": "(Dollars in millions, except per share)"
+},
+{
+"id": "B0684",
+"exhibit": "ex-99_1.htm",
+"text": "Income statement data"
+},
+{
+"id": "B0685",
+"exhibit": "ex-99_1.htm",
+"text": "Net income"
+},
+{
+"id": "B0686",
+"exhibit": "ex-99_1.htm",
+"text": "Net income | $775 | $818 | $664 | $759 | $792"
+},
+{
+"id": "B0687",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets (1) | 5 | 5 | 7 | 8 | 6"
+},
+{
+"id": "B0688",
+"exhibit": "ex-99_1.htm",
+"text": "Net operating income | $780 | $823 | $671 | $767 | $798"
+},
+{
+"id": "B0689",
+"exhibit": "ex-99_1.htm",
+"text": "Earnings per common share"
+},
+{
+"id": "B0690",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted earnings per common share | $5.04 | $5.32 | $4.13 | $4.67 | $4.82"
+},
+{
+"id": "B0691",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets (1) | .04 | .03 | .05 | .05 | .05"
+},
+{
+"id": "B0692",
+"exhibit": "ex-99_1.htm",
+"text": "Diluted net operating earnings per common share | $5.08 | $5.35 | $4.18 | $4.72 | $4.87"
+},
+{
+"id": "B0693",
+"exhibit": "ex-99_1.htm",
+"text": "Other expense"
+},
+{
+"id": "B0694",
+"exhibit": "ex-99_1.htm",
+"text": "Other expense | $1,393 | $1,349 | $1,438 | $1,379 | $1,363"
+},
+{
+"id": "B0695",
+"exhibit": "ex-99_1.htm",
+"text": "Amortization of core deposit and other intangible assets | (7) | (7) | (9) | (10) | (10)"
+},
+{
+"id": "B0696",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest operating expense | $1,386 | $1,342 | $1,429 | $1,369 | $1,353"
+},
+{
+"id": "B0697",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio"
+},
+{
+"id": "B0698",
+"exhibit": "ex-99_1.htm",
+"text": "Noninterest operating expense (numerator) | $1,386 | $1,342 | $1,429 | $1,369 | $1,353"
+},
+{
+"id": "B0699",
+"exhibit": "ex-99_1.htm",
+"text": "Taxable-equivalent net interest income | $1,805 | $1,804 | $1,763 | $1,790 | $1,773"
+},
+{
+"id": "B0700",
+"exhibit": "ex-99_1.htm",
+"text": "Other income | 743 | 740 | 689 | 696 | 752"
+},
+{
+"id": "B0701",
+"exhibit": "ex-99_1.htm",
+"text": "Less: Gain (loss) on bank investment securities | (1) | 2 | 4 | 1 | 1"
+},
+{
+"id": "B0702",
+"exhibit": "ex-99_1.htm",
+"text": "Denominator | $2,549 | $2,542 | $2,448 | $2,485 | $2,524"
+},
+{
+"id": "B0703",
+"exhibit": "ex-99_1.htm",
+"text": "Efficiency ratio | 54.4% | 52.8% | 58.3% | 55.1% | 53.6%"
+},
+{
+"id": "B0704",
+"exhibit": "ex-99_1.htm",
+"text": "Balance sheet data"
+},
+{
+"id": "B0705",
+"exhibit": "ex-99_1.htm",
+"text": "Average assets"
+},
+{
+"id": "B0706",
+"exhibit": "ex-99_1.htm",
+"text": "Average assets | $218,860 | $216,532 | $213,828 | $212,891 | $211,053"
+},
+{
+"id": "B0707",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465) | (8,465) | (8,465) | (8,465)"
+},
+{
+"id": "B0708",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (45) | (51) | (59) | (69) | (79)"
+},
+{
+"id": "B0709",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 17 | 17 | 19 | 22 | 24"
+},
+{
+"id": "B0710",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible assets | $210,367 | $208,033 | $205,323 | $204,379 | $202,533"
+},
+{
+"id": "B0711",
+"exhibit": "ex-99_1.htm",
+"text": "Average common equity"
+},
+{
+"id": "B0712",
+"exhibit": "ex-99_1.htm",
+"text": "Average total equity | $28,331 | $27,939 | $28,648 | $28,970 | $28,583"
+},
+{
+"id": "B0713",
+"exhibit": "ex-99_1.htm",
+"text": "Preferred stock | (2,890) | (2,434) | (2,576) | (2,691) | (2,394)"
+},
+{
+"id": "B0714",
+"exhibit": "ex-99_1.htm",
+"text": "Average common equity | 25,441 | 25,505 | 26,072 | 26,279 | 26,189"
+},
+{
+"id": "B0715",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465) | (8,465) | (8,465) | (8,465)"
+},
+{
+"id": "B0716",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (45) | (51) | (59) | (69) | (79)"
+},
+{
+"id": "B0717",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 17 | 17 | 19 | 22 | 24"
+},
+{
+"id": "B0718",
+"exhibit": "ex-99_1.htm",
+"text": "Average tangible common equity | $16,948 | $17,006 | $17,567 | $17,767 | $17,669"
+},
+{
+"id": "B0719",
+"exhibit": "ex-99_1.htm",
+"text": "At end of quarter"
+},
+{
+"id": "B0720",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets"
+},
+{
+"id": "B0721",
+"exhibit": "ex-99_1.htm",
+"text": "Total assets | $220,510 | $219,261 | $214,736 | $213,510 | $211,277"
+},
+{
+"id": "B0722",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465) | (8,465) | (8,465) | (8,465)"
+},
+{
+"id": "B0723",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (41) | (48) | (55) | (64) | (74)"
+},
+{
+"id": "B0724",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 16 | 17 | 18 | 20 | 23"
+},
+{
+"id": "B0725",
+"exhibit": "ex-99_1.htm",
+"text": "Total tangible assets | $212,020 | $210,765 | $206,234 | $205,001 | $202,761"
+},
+{
+"id": "B0726",
+"exhibit": "ex-99_1.htm",
+"text": "Total common equity"
+},
+{
+"id": "B0727",
+"exhibit": "ex-99_1.htm",
+"text": "Total equity | $28,159 | $27,946 | $27,972 | $29,177 | $28,728"
+},
+{
+"id": "B0728",
+"exhibit": "ex-99_1.htm",
+"text": "Preferred stock | (3,017) | (2,434) | (2,434) | (2,834) | (2,394)"
+},
+{
+"id": "B0729",
+"exhibit": "ex-99_1.htm",
+"text": "Common equity | 25,142 | 25,512 | 25,538 | 26,343 | 26,334"
+},
+{
+"id": "B0730",
+"exhibit": "ex-99_1.htm",
+"text": "Goodwill | (8,465) | (8,465) | (8,465) | (8,465) | (8,465)"
+},
+{
+"id": "B0731",
+"exhibit": "ex-99_1.htm",
+"text": "Core deposit and other intangible assets | (41) | (48) | (55) | (64) | (74)"
+},
+{
+"id": "B0732",
+"exhibit": "ex-99_1.htm",
+"text": "Deferred taxes | 16 | 17 | 18 | 20 | 23"
+},
+{
+"id": "B0733",
+"exhibit": "ex-99_1.htm",
+"text": "Total tangible common equity | $16,652 | $17,016 | $17,036 | $17,834 | $17,818"
+},
+{
+"id": "B0734",
+"exhibit": "ex-99_1.htm",
+"text": "(1) After any related tax effect."
+},
+{
+"id": "B0735",
+"exhibit": "ex-99_1.htm",
+"text": "20"
+},
+{
+"id": "B0736",
+"exhibit": "ex-99_2.htm",
+"text": "EX-99.2"
+},
+{
+"id": "B0737",
+"exhibit": "ex-99_2.htm",
+"text": "3"
+},
+{
+"id": "B0738",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio.htm"
+},
+{
+"id": "B0739",
+"exhibit": "ex-99_2.htm",
+"text": "EX-99.2"
+},
+{
+"id": "B0740",
+"exhibit": "ex-99_2.htm",
+"text": "Document generated by Workiva Inc a3q26earningspresentatio"
+},
+{
+"id": "B0741",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio001.jpg"
+},
+{
+"id": "B0742",
+"exhibit": "ex-99_2.htm",
+"text": "Earnings Results 3rd Quarter 2026 October 16, 2026 Exhibit 99.2"
+},
+{
+"id": "B0743",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio002.jpg"
+},
+{
+"id": "B0744",
+"exhibit": "ex-99_2.htm",
+"text": "2 This presentation may contain forward-looking statements regarding M&T Bank Corporation (\u201cM&T\u201d) within the meaning of the Private Securities Litigation Reform Act of 1995 and the rules and regulations of the Securities and Exchange Commission (\u201cSEC\u201d). Any statement that does not describe historical or current facts is a forward-looking statement, including statements based on current expectations, estimates and projections about M&T's business, and management's beliefs and assumptions. Statements regarding the potential effects of events or factors specific to M&T and/or the financial industry as a whole, as well as national and global events generally, on M&T's business, financial condition, liquidity and results of operations may constitute forward-looking statements. Such statements are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in those forward-looking statements due to factors and future developments that are uncertain, unpredictable and in many cases beyond M&T's control. Forward-looking statements are typically identified by words such as \"believe,\" \"expect,\" \"anticipate,\" \"intend,\" \"target,\" \"estimate,\" \"continue,\" or \"potential,\" by future conditional verbs such as \"will,\" \"would,\" \"should,\" \"could,\" or \"may,\" or by variations of such words or by similar expressions. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions which are difficult to predict and may cause actual outcomes to differ materially from what is expressed or forecasted. While there can be no assurance that any list of risks and uncertainties is complete, important factors that could cause actual outcomes and results to differ materially from those contemplated by forward-looking statements include the following, without limitation: economic conditions and growth rates, including inflation and market volatility; events, developments and current conditions in the financial services industry, including trust, brokerage and investment management businesses; changes in interest rates, spreads on earning assets and interest-bearing liabilities, and interest rate sensitivity; prepayment speeds, loan originations, loan concentrations by type and industry, credit losses and market values on loans, collateral securing loans, and other assets; sources of liquidity; levels of client deposits; ability to contain costs and expenses; changes in M&T's credit ratings; domestic or international political developments and other geopolitical events, including trade and tariff policies and international conflicts and hostilities; changes and trends in the securities markets; common shares outstanding and common stock price volatility; fair value of and number of stock-based compensation awards to be issued in future periods; the impact of changes in market values on trust-, brokerage-, and investment management-related revenues; federal, state or local legislation and/or regulations affecting the financial services industry, or M&T and its subsidiaries individually or collectively, including tax policy; regulatory supervision and oversight, including monetary policy and capital requirements; governmental and public policy changes; political conditions, either nationally or in the states in which M&T and its subsidiaries do business; the initiation and outcome of potential, pending and future litigation, investigations and governmental proceedings, including tax-related examinations and other matters; operational risk events, including loss resulting from fraud by employees or persons outside M&T and breaches in data and cybersecurity; changes in accounting policies or procedures as may be required by the Financial Accounting Standards Board, regulatory agencies or legislation; increasing price, product and service competition by competitors, including new entrants; technological developments and changes; the ability to continue to introduce competitive new products and services on a timely, cost-effective basis; the mix of products and services; protection and validity of intellectual property rights; reliance on large customers; technological, implementation and cost/ financial risks in large, multi-year contracts; continued availability of financing; financial resources in the amounts, at the times and on the terms required to support M&T and its subsidiaries' future businesses; and material differences in the actual financial results of merger, acquisition, divestment and investment activities compared with M&T's initial expectations, including the full realization of anticipated cost savings and revenue enhancements. These are representative of the factors that could affect the outcome of the forward-looking statements. In addition, as noted, such statements could be affected by general industry and market conditions and growth rates, general economic and political conditions, either nationally or in the states in which M&T and its subsidiaries do business, and other factors. M&T provides further detail regarding these risks and uncertainties in its Form 10-K for the year ended December 31, 2025, including in the Risk Factors section of such report, as well as in other SEC filings. Forward-looking statements speak only as of the date they are made, and M&T assumes no duty and does not undertake to update forward-looking statements. Annualized, pro forma, projected, and estimated numbers are used for illustrative purposes only, are not forecasts and may not reflect actual results. This presentation also contains financial information and performance measures determined by methods other than in accordance with accounting principles generally accepted in the United States (\"GAAP\"). Management believes investors may find these non-GAAP financial measures useful. These disclosures should not be viewed as a substitute for financial measures determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Please see the Appendix for reconciliation of GAAP with corresponding non- GAAP measures, as indicated in the presentation. Forward-Looking Statements and Non-GAAP Financial Measures"
+},
+{
+"id": "B0745",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio003.jpg"
+},
+{
+"id": "B0746",
+"exhibit": "ex-99_2.htm",
+"text": "We are M&T Bank Purpose To make a difference in people\u2019s lives by knowing them, growing with them and connecting them with everything they need to thrive. Vision To be the bank invited into homes, businesses and communities, by earning trust and deepening relationships with every interaction. We are committed to Our Customers We deepen relationships through local knowledge, trusted advice and the full strength of M&T. Our Communities We create lasting value by showing up for the communities we serve. Our Colleagues We invest in our people because they are how customers experience M&T. Our Shareholders We build long-term value through disciplined execution, resilience and relationships that grow over time. 3"
+},
+{
+"id": "B0747",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio004.jpg"
+},
+{
+"id": "B0748",
+"exhibit": "ex-99_2.htm",
+"text": "Operational Excellence Alignment and integration across markets, lines of business and platform capabilities will accelerate regional bank growth 4 2026 Enterprise Priorities Teaming for Growth \u2022 Make it easy for clients to do business with us \u2022 Ensure all markets and clients experience us as one bank \u2022 Empower leaders to lead across businesses \u2022 Win in the markets and businesses where we operate \u2022 Drive more integration and collaboration in service of growth Enterprise execution with clarity, consistency, control and scalable strength \u2022 Build scalable operations that enable the bank's growth \u2022 Deliver exceptional experiences for customers and colleagues \u2022 Increase productivity through simplification, automation and disciplined risk management \u2022 Build the capabilities, talent and culture that sustain Operational Excellence \u2022 Streamlined organizational design \u2022 Added resiliency through platform modernization \u2022 Improve cycle times for credit decisioning \u2022 Faster call routing and servicing \u2022 Targeted talent recruitment and skill development \u2022 Primary checking account and deposit growth \u2022 New England regions lead in deposit and loan growth \u2022 Increased revenue per Relationship Manager \u2022 Increase Wealth referral volume and penetration \u2022 Top 5 SBA ranking in New England markets \u2022 Increased Mortgage Originations Objectives Objectives Outcomes Outcomes"
+},
+{
+"id": "B0749",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio005.jpg"
+},
+{
+"id": "B0750",
+"exhibit": "ex-99_2.htm",
+"text": "Key Awards and Accolades Received 13 \u201cBest Bank\u201d Awards across Small Business and Middle-Market Categories Jennifer Warren, CEO, Wilmington Trust Finalist, Executive Excellence Award Michael Wisler, CIO, M&T Bank Named to Inaugural Pacesetters List Received #1 Ranking among U.S. Companies 5"
+},
+{
+"id": "B0751",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio006.jpg"
+},
+{
+"id": "B0752",
+"exhibit": "ex-99_2.htm",
+"text": "6 Financial Results"
+},
+{
+"id": "B0753",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio007.jpg"
+},
+{
+"id": "B0754",
+"exhibit": "ex-99_2.htm",
+"text": "Third Quarter 2026 Highlights 7 (1) See Appendix for reconciliation of GAAP with these non-GAAP measures. (2) September 30, 2026 CET1 capital ratio is estimated. Note: As reported on M&T's Form 8-K dated September 28, 2026, effective for the third quarter of 2026 M&T made certain changes and reclassifications to Other income categories presented in its Consolidated Statement of Income. Also effective for the third quarter of 2026, M&T began separately presenting loans held for sale from loans held for investment in its Consolidated Balance Sheet and its Average Balance Sheet and Annualized Taxable-equivalent Rates disclosures. Accordingly, annualized taxable-equivalent rates for each impacted loan category and certain loan- based credit quality ratios exclude loans held for sale. Additionally, as reported in M&T's Form 10-Q for the quarter ended June 30, 2026, in conjunction with the implementation of a new general ledger platform during the second quarter of 2026, the Company modified its methodology for calculating annualized taxable-equivalent rates for certain earning assets and interest-bearing liabilities, including certain average deposit balances. All periods presented herein reflect those changes. Disciplined Focus on Returns, Consistent Balance Sheet Growth and Earnings, Strong NIM Strong and Consistent Earnings Sustained Attractive Returns Solid Loan Growth and Continued Fee Momentum Stable Credit Quality and Strong Capital Generation and Preservation $5.04 Diluted Earnings Per Share $775 million Net Income 1.47% Return on Tangible Assets(1) 17.29% Return on Tangible Common Equity(1) Average Loans +2% QoQ Growth in Each Category $743 million Fee Income 35 bps Net Charge-Offs 10.16%(2) CET1 Capital Ratio"
+},
+{
+"id": "B0755",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio008.jpg"
+},
+{
+"id": "B0756",
+"exhibit": "ex-99_2.htm",
+"text": "8 \u2022 Revenues increased +1% YoY \u2022 Diluted EPS increased +5% YoY \u2022 Net Charge-offs % Avg Loans decreased -7 bps YoY Notable items ($ in millions, except per share) 3Q26 2Q26 3Q25 Amt(1) EPS Amt(1) EPS Amt(1) EPS Earnout payment related to 2023 sale of CIT business(2) \u2014 \u2014 \u2014 \u2014 $28 $0.14 FDIC Special Assessment \u2014 \u2014 \u2014 \u2014 8 0.04 Third Quarter 2026 Earnings Highlights GAAP ($ in millions, except per share) 3Q26 2Q26 3Q25 Revenues $2,536 $2,532 $2,513 Noninterest Expense 1,393 1,349 1,363 Provision for Credit Losses 135 120 125 Net Income 775 818 792 Diluted EPS 5.04 5.32 4.82 Return on Assets 1.40% 1.51% 1.49% Return on Common Equity 11.44 12.30 11.45 Net Interest Margin 3.65 3.70 3.69 Net Charge-offs % Avg Loans .35 .23 .42 Note: (1) Amounts presented before any related tax effect. (2) Included in Other revenues from operations."
+},
+{
+"id": "B0757",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio009.jpg"
+},
+{
+"id": "B0758",
+"exhibit": "ex-99_2.htm",
+"text": "9 Note: (1) See Appendix for reconciliation of GAAP with these non-GAAP measures. (2) As of respective period end. Third Quarter 2026 Earnings Highlights Net Operating Results (Non-GAAP)(1) ($ in millions, except per share) 3Q26 2Q26 3Q25 Net Operating Income $780 $823 $798 Diluted Net Operating EPS 5.08 5.35 4.87 Efficiency Ratio 54.4% 52.8% 53.6% Net Operating ROTA 1.47 1.59 1.56 Net Operating ROTCE 17.29 18.57 17.13 Tangible Book Value per Share(2) $115.88 $117.41 $115.31 \u2022 Diluted Net Operating EPS increased +4% YoY \u2022 Net Operating ROTCE increased +16 bps YoY"
+},
+{
+"id": "B0759",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio010.jpg"
+},
+{
+"id": "B0760",
+"exhibit": "ex-99_2.htm",
+"text": "10 Net Interest Income(1) & Net Interest Margin Note: (1) Taxable-equivalent net interest income is a non-GAAP measure that adjusts income earned on a tax-exempt asset to present it on an equivalent basis to interest income earned on a fully taxable asset. Stable Net Interest Income Trends with Strong NIM $ IN M IL LI O N S $1,773 $1,790 $1,763 $1,804 $1,805 3.69% 3.70% 3.70% 3.70% 3.65% Net Interest Income (Taxable-equivalent)(1) Net Interest Margin 3Q25 4Q25 1Q26 2Q26 3Q26 QoQ Drivers Taxable-equivalent net interest income(1) increased nominally QoQ: \u2013 One additional day and growth in average loans \u2013 Lower interest income on nonaccrual loans \u2013 Interest-bearing deposit growth Net interest margin narrowed -5 bps to 3.65% QoQ: \u2013 Lower nonaccrual interest income (-3 bps) \u2013 Higher funding costs offset by asset repricing and net free funds (-2 bps) As expected, net interest margin for the quarter remained strong and reflects: \u2013 Customer preference for interest-bearing products in the current environment \u2013 Strong deposit growth to reduce higher-cost borrowings"
+},
+{
+"id": "B0761",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio011.jpg"
+},
+{
+"id": "B0762",
+"exhibit": "ex-99_2.htm",
+"text": "11 \u2022 Capital levels strong with CET1 capital ratio of 10.16%(2) \u2022 Repurchased $323 million(3) of common shares in 3Q26 Change 3Q26 vs Average Balances, $ in billions, except per share 3Q26 2Q26 3Q25 2Q26 3Q25 Interest-bearing Deposits at Banks $14.2 $15.1 $17.7 -6% -20% Investment Securities 38.6 38.7 36.6 \u2014 5 Loans Held for Sale 0.7 0.8 0.6 -12 7 Commercial and Industrial (\u201cC&I\u201d) 65.9 65.9 61.7 \u2014 7 Commercial Real Estate (\u201cCRE\u201d) 24.9 23.2 24.0 7 4 Residential Real Estate (\"RRE\") 25.2 24.9 24.1 1 4 Consumer 27.3 26.7 26.1 2 5 Total Loans 143.3 140.7 135.9 2 5 Earning Assets 196.7 195.2 190.9 1 3 Deposits 166.8 163.5 162.6 2 3 Borrowings 19.2 20.8 15.6 -8 23 Common Shareholders\u2019 Equity 25.4 25.5 26.2 \u2014 -3 As of Quarter End Common Shareholders' Equity per Share $174.95 $176.03 $170.43 -1% 3% Tangible Equity per Common Share(1) 115.88 117.41 115.31 -1 \u2014 Tangible Common Equity / Tangible Assets(1) 7.85 % 8.07 % 8.79 % -22 bps -94 bps Common Equity Tier 1 (\"CET1\") Capital Ratio 10.16 10.19 10.99 -3 bps -83 bps Balance Sheet \u2013 Overview Note: (1) See Appendix for reconciliation of GAAP with these non-GAAP measures. (2) September 30, 2026 CET1 capital ratio is estimated. (3) Includes share repurchase excise tax. Disciplined Balance Sheet Growth and Strong Capital Levels Supported by Capital Generation and Preservation (2)"
+},
+{
+"id": "B0763",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio012.jpg"
+},
+{
+"id": "B0764",
+"exhibit": "ex-99_2.htm",
+"text": "12 Balance Sheet \u2013 Average Loans QoQ Drivers Average loans increased +$2.6 billion QoQ: \u2013 Consumer loans increased +2% (+$634 million) \u2013 Growth in the recreational finance and HELOC portfolios \u2013 RRE loans increased +1% (+$367 million) \u2013 CRE loans increased +7% (+$1.6 billion) \u2013 Growth in loans secured by multifamily and health services properties $ IN B IL LI O N S $61.7 $62.2 $63.6 $65.9 $65.9 $24.0 $23.5 $23.0 $23.2 $24.9 $24.1 $24.3 $24.5 $24.9 $25.2 $26.1 $26.5 $26.3 $26.7 $27.3 $135.9 $136.5 $137.4 $140.7 $143.3 6.15% 6.01% 5.85% 5.89% 5.86% C&I CRE RRE Consumer Total Loans Total Loan Yield 3Q25 4Q25 1Q26 2Q26 3Q26 Broad-based Loan Growth Across Portfolios"
+},
+{
+"id": "B0765",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio013.jpg"
+},
+{
+"id": "B0766",
+"exhibit": "ex-99_2.htm",
+"text": "13 Balance Sheet \u2013 Securities and Invested Cash Liquidity Coverage Ratio was 107%(1) on September 30, 2026 Duration Pre-tax Unrealized Gain/(Loss) AFS ~3.6 years ($745 million) HTM ~4.5 years ($1,523 million) Total Debt Securities ~4.1 years ($2,268 million) $ IN B IL LI O N S Average Investment Securities and Yield $36.6 $36.7 $37.8 $38.7 $38.6 4.15% 4.19% 4.22% 4.29% 4.33% 3Q25 4Q25 1Q26 2Q26 3Q26 Interest- bearing deposits at banks 27% Other Securities 2% HTM Securities 39% AFS Securities 32% $52.2B TOTAL Securities and Invested Cash at 9/30/26(2) Note: (1) While not subject to the liquidity coverage ratio requirements (\"LCR\"), M&T estimates that its LCR on September 30, 2026 exceeded the regulatory minimum standards that would be applicable if it were a Category III institution subject to the Category III reduced LCR requirements. (2) In July 2026, the Company transferred $8.3 billion of residential mortgage-backed securities from the available-for-sale portfolio to the held-to-maturity portfolio. Strong Liquidity, Disciplined Portfolio Management and Continued Benefit from Repricing"
+},
+{
+"id": "B0767",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio014.jpg"
+},
+{
+"id": "B0768",
+"exhibit": "ex-99_2.htm",
+"text": "14 Balance Sheet \u2013 Average Deposits QoQ Drivers Average deposits increased +$3.3 billion QoQ: \u2013 Time deposits increased +$1.2 billion \u2013 Savings and interest-checking deposits increased +$2.2 billion \u2013 Average noninterest-bearing deposits decreased -$256 million Higher interest-bearing deposits supported loan growth and reduced reliance on higher-cost short-term borrowings which declined -$2.8 billion on average. Interest-bearing deposit cost increased +10 bps \u2013 September interest rate hike +2 bps \u2013 Growth and repricing of time deposits +4 bps \u2013 Growth in other interest-bearing deposit products +4 bps $ IN B IL LI O N S $44.0 $44.2 $44.6 $43.9 $43.7 $104.7 $107.2 $106.6 $105.8 $108.0 $13.9 $13.5 $13.0 $13.8 $15.1 $162.6 $164.9 $164.2 $163.5 $166.8 Noninterest-bearing Deposits Savings and Interest-checking Deposits Time Deposits Total Deposits 3Q25 4Q25 1Q26 2Q26 3Q26 3Q25 4Q25 1Q26 2Q26 3Q26 Total deposit cost 1.72% 1.59% 1.43% 1.42% 1.52% Interest-bearing deposit cost 2.36% 2.17% 1.97% 1.95% 2.05% Strong Deposit Growth to Fund Growing Loan Portfolio"
+},
+{
+"id": "B0769",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio015.jpg"
+},
+{
+"id": "B0770",
+"exhibit": "ex-99_2.htm",
+"text": "15 $ IN M IL LI O N S $752 $696 $689 $740 $743 Noninterest Income 3Q25 4Q25 1Q26 2Q26 3Q26 Change 3Q26 vs $ in millions 3Q26 2Q26 3Q25 2Q26 3Q25 Trust and Investment Services income $230 $235 $217 -2% 6% Mortgage Banking Revenues 152 127 147 19 3 Service Charges on Deposits 109 107 105 1 3 Card Revenues 90 89 90 2 \u2014 Letter of Credit/Related Fees 46 44 45 4 3 Capital Markets/Advisory Revenues 32 41 35 -24 -8 Securities Gain/(Loss) (1) 2 1 \u2014 \u2014 Other Revenues from Operations 85 95 112 -12 -25 Noninterest Income $743 $740 $752 \u2014% -1% \u2022 Capital markets and advisory revenues decreased -$9 million reflecting a decline in loan syndication fees and lower revenues from interest rate swap transactions with commercial customers \u2022 Other revenues from operations decreased -$10 million reflecting a lower distribution from M&T's investment in BLG Income Statement \u2013 Noninterest Income Noninterest income increased +$3 million QoQ: \u2022 Trust and investment services income declined -$5 million reflecting seasonal tax services fees earned in 2Q26 \u2022 Mortgage banking revenues increased +$25 million reflecting a rise in residential mortgage loan sub-servicing income QoQ Drivers Stable Broad-Based Fee Income and Strong Revenue Diversification"
+},
+{
+"id": "B0771",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio016.jpg"
+},
+{
+"id": "B0772",
+"exhibit": "ex-99_2.htm",
+"text": "16 $ IN M IL LI O N S $1,353 $1,369 $1,429 $1,342 $1,386 $1,363 $1,379 $1,438 $1,349 $1,393 53.6% 55.1% 58.3% 52.8% 54.4% Operating Noninterest Expense(1) Intangible Amort & Merger-Related Total Noninterest Expense Efficiency Ratio(1) 3Q25 4Q25 1Q26 2Q26 3Q26 Change 3Q26 vs $ in millions 3Q26 2Q26 3Q25 2Q26 3Q25 Salaries & Employee Benefits(2) $832 $826 $833 1% \u2014% Outside Data Proc & Software 173 154 138 12 25 Equipment & Net Occupancy 131 129 129 \u2014 1 Professional & Other Services 97 89 81 10 22 FDIC Assessments 19 18 13 15 55 Advertising & Marketing 29 27 23 7 26 Other Costs of Operations 105 99 136 6 -23 Operating Expense(1) 1,386 1,342 1,353 3 2 Intangible Amortization 7 7 10 \u2014 -27 Total Noninterest Expense $1,393 $1,349 $1,363 3% 2% Income Statement \u2013 Noninterest Expenses Noninterest expense rose $44 million, or +3% QoQ: \u2022 Salaries and employee benefits expense increased +$6 million reflecting an additional working day, partially offset by lower payroll-related taxes \u2022 Outside data processing and software costs increased +$19 million reflecting higher software maintenance and enhancements to the Company's technology infrastructure Note: (1) See Appendix for reconciliation of GAAP with these non-GAAP and adjusted measures. Noninterest operating expense excludes merger-related expenses and amortization of core deposit and other intangible assets. (2) Severance-related charges for 3Q26, 2Q26 and 3Q25 were $8 million, $6 million and $22 million, respectively. QoQ Drivers Adjusted Efficiency 54.5%(1) Adjusted Efficiency 55.0%(1) \u2022 Professional and other services rose +$8 million reflecting support for enhancements to the Company's technology infrastructure and other enterprise initiatives \u2022 Other costs of operations increased +$6 million reflecting the Company's obligation under agreements to share in losses stemming from certain litigation of Visa, Inc. Continued Expense Discipline"
+},
+{
+"id": "B0773",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio017.jpg"
+},
+{
+"id": "B0774",
+"exhibit": "ex-99_2.htm",
+"text": "17 $ IN M IL LI O N S Nonaccrual Loans $1,512 $1,252 $1,240 $1,208 $1,298 1.11% 0.91% 0.89% 0.85% 0.90% Nonaccrual Loans ($) Nonaccrual Loans (%) 3Q25 4Q25 1Q26 2Q26 3Q26 $ IN M IL LI O N S Net Charge-offs $146 $185 $105 $80 $127 0.42% 0.54% 0.31% 0.23% 0.35% Net Charge-offs ($) Net Charge-off Ratio (%) 3Q25 4Q25 1Q26 2Q26 3Q26 Credit $ IN M IL LI O N S Allowance for Loan Losses $2,161 $2,116 $2,136 $2,176 $2,179 1.59% 1.54% 1.54% 1.53% 1.51% Allowance for Loan Losses ($) Allowance for Loan Losses (%) 3Q25 4Q25 1Q26 2Q26 3Q26 $ IN M IL LI O N S Provision for Credit Losses $125 $125 $140 $120 $135 $110 $140 $125 $120 $130$15 -$15 $15 $5 Provision for Loan Losses Provision for Unfunded Credit Commitments 3Q25 4Q25 1Q26 2Q26 3Q26 Sound YOY Credit Trends with Stable Loss Expectations"
+},
+{
+"id": "B0775",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio018.jpg"
+},
+{
+"id": "B0776",
+"exhibit": "ex-99_2.htm",
+"text": "18 Criticized C&I and CRE Loans Criticized loans increased +$245 million QoQ: \u2013 C&I increased +$213 million \u2013 Predominantly driven by a loan to an auto leasing company \u2013 CRE increased +$32 million \u2013 Permanent CRE +$102 million \u2013 Construction -$70 million \u2013 97% of criticized accrual loans are current$ IN B IL LI O N S $7.8 $7.3 $6.6 $5.9 $6.1 9.1% 8.4% 7.4% 6.5% 6.6% Criticized Criticized % of C&I and CRE Loans 3Q25 4Q25 1Q26 2Q26 3Q26"
+},
+{
+"id": "B0777",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio019.jpg"
+},
+{
+"id": "B0778",
+"exhibit": "ex-99_2.htm",
+"text": "19 CET1 Capital 10.99% 10.84% 10.33% 10.19% 10.16% 3Q25 4Q25 1Q26 2Q26 3Q26 Tangible Book Value Per Share $115.31 $117.45 $115.96 $117.41 $115.88 3Q25 4Q25 1Q26 2Q26 3Q26 Capital \u2022 CET1 capital ratio decreased to 10.16%(1) at the end of 3Q26 \u2022 Tangible book value per share decreased -1% to $115.88 reflecting higher unrealized losses on available-for-sale securities in AOCI \u2022 AFS and pension-related AOCI would have impacted the CET1 capital ratio by -29 bps at the end of 3Q26 Note: (1) CET1 capital ratio at September 30, 2026 is estimated. (2) See Appendix for reconciliation of GAAP with this non-GAAP measure. QoQ Drivers (1) (2) Basel III - June 2026 Proposal \u2022 CET1 capital ratio at the end of 2Q26 would have increased an estimated +90 +/- bps under the standardized approach and an additional +10-20 bps under the expanded risk-based approach, excluding the impact of AOCI Solid Capital Foundation Supported by Strong Capital Generation and Management"
+},
+{
+"id": "B0779",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio020.jpg"
+},
+{
+"id": "B0780",
+"exhibit": "ex-99_2.htm",
+"text": "AI Pathways Enhance the Way We Work 20 Pathway 1: Enterprise Productivity Pathway 2: Vendor-Embedded AI Pathway 3: Build Differentiated AI Capabilities \u2018AI Factory\u2019 Scale AI-tools adoption to drive productivity via training, broader access, practitioner communities and agentic capabilities \u2022 Approximately 75% of employee base with access to AI tools \u2022 More than 150 employee-developed AI solutions demonstrate growing adoption of automation and analytics capabilities \u2022 Faster process to support early underwriting analysis / screening for commercial loans Accelerate adoption of vendor-embedded AI for consistency, scale & security \u2022 20% reduction in call transfers and improved first-call resolution through better customer routing \u2022 100% of developers use AI to accelerate software development and productivity across key engineering activities \u2022 Accelerated and automated data review for onboarding large volume of mortgage loans Establish the AI Factory \u2013 a secure, enterprise platform enabling rapid prototyping and deployment of differentiated solutions \u2022 Building an enterprise AI platform to support scalable, consistent deployment of AI solutions \u2022 Implementing automated controls verification across technology software development and deployment \u2022 Enhancing AI-enabled fraud investigation processes to streamline case review and documentation Improved Customer Experience Employee Experience & Productivity Improved Risk Management"
+},
+{
+"id": "B0781",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio021.jpg"
+},
+{
+"id": "B0782",
+"exhibit": "ex-99_2.htm",
+"text": "AI Enabled Focus on the Fundamentals 21 21 Customer Experience Employee Experience Risk Management Faster, more personalized customer interactions \u2022 Personalized financial insights help customers make smarter financial decisions \u2022 Predictive credit insights enable earlier engagement and more tailored support for clients \u2022 Real-time agent guidance improves service speed, accuracy, and consistency across customer interactions Greater workforce efficiency and effectiveness \u2022 Scales process documentation and reduces manual effort for business teams \u2022 Accelerates technical analysis and knowledge transfer across engineering teams \u2022 Converts employee feedback into operational insights that support faster business decisions Earlier risk detection and stronger controls \u2022 Continuous credit monitoring identifies emerging risks earlier and enables timely intervention \u2022 Automated complaint detection improves compliance oversight and reduces risk \u2022 Enhanced vulnerability analysis accelerates identification and resolution of security risks Growth Scalability Efficiency"
+},
+{
+"id": "B0783",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio022.jpg"
+},
+{
+"id": "B0784",
+"exhibit": "ex-99_2.htm",
+"text": "22 4Q26 Outlook 4Q26 Outlook Comments In co m e St at em en t Net Interest Income Taxable-equivalent $1.83 to $1.85 billion \u2022 4Q NIM in the mid-3.60's \u2022 Reflects one additional rate increase in 4Q Fee Income $710 to $730 million \u2022 Stable to modest growth in most fee income categories GAAP Expense Includes intangible amortization $1.39 to $1.41 billion \u2022 Continued investment in enterprise initiatives and well-managed non-investment spend Net Charge-Offs % of Average Loans 35 to 40 basis points Tax Rate Taxable-equivalent 24.0% +/- A ve ra ge B al an ce s Loans (including loans HFS) $145 to $146 billion \u2022 Growth in C&I, CRE and Consumer loans Deposits $169 to $170 billion \u2022 Focus on growing operational accounts and other customer deposits at a reasonable cost CET1 Capital Ratio 10.0% to 10.25%"
+},
+{
+"id": "B0785",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio023.jpg"
+},
+{
+"id": "B0786",
+"exhibit": "ex-99_2.htm",
+"text": "23 Why invest in M&T? \u2022 Long term focused with deeply embedded culture \u2022 Business operated to represent the best interests of all key stakeholders \u2022 Energized colleagues consistently serving our customers and communities \u2022 A safe haven for our clients as proven during turbulent times and crisis \u2022 Experienced and seasoned management team \u2022 Strong risk controls with long track record of credit outperformance through cycles \u2022 Leading position in core markets \u2022 15-17% ROTCE(1) \u2022 Robust dividend growth \u2022 8% TBV per share growth(2) Source: FactSet, S&P Global, Company Filings. Note: (1) ROTCE range comprises 5 years of the trailing 3-year ROTCE from 2020-2025, consistent with M&T's measurement of ROTCE for performance-based stock compensation. (2) TBV per share growth represents CAGR from 2020-2025. Purpose-Driven Successful and Sustainable Business Model that Produces Strong Shareholder Returns Purpose Driven Organization Successful and Sustainable Business Model Strong Shareholder Returns"
+},
+{
+"id": "B0787",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio024.jpg"
+},
+{
+"id": "B0788",
+"exhibit": "ex-99_2.htm",
+"text": "24 Appendix"
+},
+{
+"id": "B0789",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio025.jpg"
+},
+{
+"id": "B0790",
+"exhibit": "ex-99_2.htm",
+"text": "25 M&T consistently provides supplemental reporting of its results on a \u201cnet operating\u201d or \u201ctangible\u201d basis, from which M&T excludes the after-tax effect of amortization of core deposit and other intangible assets (and the related goodwill, core deposit and other intangible asset balances, net of applicable deferred tax amounts) and gains (when realized) and expenses (when incurred) associated with merging acquired operations into M&T, since such items are considered by management to be \u201cnonoperating\u201d in nature. Although \u201cnet operating income\u201d as defined by M&T is not a GAAP measure, M&T\u2019s management believes that this information helps investors understand the effect of acquisition activity in reported results. Appendix Note: (1) After any related tax effect. GAAP to Net Operating (Non-GAAP) Reconciliation In millions, except per share 3Q25 4Q25 1Q26 2Q26 3Q26 Net income Net income $792 $759 $664 $818 $775 Amortization of core deposits and other intangible assets (1) 6 8 7 5 5 Net operating income $798 $767 $671 $823 $780 Earnings per common share Diluted earnings per common share $4.82 $4.67 $4.13 $5.32 $5.04 Amortization of core deposits and other intangible assets (1) 0.05 0.05 0.05 0.03 0.04 Diluted net operating earnings per common share $4.87 $4.72 $4.18 $5.35 $5.08"
+},
+{
+"id": "B0791",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio026.jpg"
+},
+{
+"id": "B0792",
+"exhibit": "ex-99_2.htm",
+"text": "26 Appendix GAAP to Net Operating (Non-GAAP) Reconciliation In millions 3Q25 4Q25 1Q26 2Q26 3Q26 Other expense Other expense $1,363 $1,379 $1,438 $1,349 $1,393 Amortization of core deposit and other intangible assets (10) (10) (9) (7) (7) Noninterest operating expense $1,353 $1,369 $1,429 $1,342 $1,386 Efficiency ratio Noninterest operating expense (numerator) $1,353 $1,369 $1,429 $1,342 $1,386 Taxable-equivalent net interest income $1,773 $1,790 $1,763 $1,804 $1,805 Other income 752 696 689 740 743 Less: Gain (loss) on bank investment securities 1 1 4 2 (1) Denominator $2,524 $2,485 $2,448 $2,542 $2,549 Efficiency ratio 53.6 % 55.1 % 58.3 % 52.8 % 54.4 %"
+},
+{
+"id": "B0793",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio027.jpg"
+},
+{
+"id": "B0794",
+"exhibit": "ex-99_2.htm",
+"text": "27 Appendix In millions 3Q25 4Q25 1Q26 2Q26 3Q26 Average assets Average assets $211,053 $212,891 $213,828 $216,532 $218,860 Goodwill (8,465) (8,465) (8,465) (8,465) (8,465) Core deposit and other intangible assets (79) (69) (59) (51) (45) Deferred taxes 24 22 19 17 17 Average tangible assets $202,533 $204,379 $205,323 $208,033 $210,367 Average common equity Average total equity $28,583 $28,970 $28,648 $27,939 $28,331 Preferred stock (2,394) (2,691) (2,576) (2,434) (2,890) Average common equity 26,189 26,279 26,072 25,505 25,441 Goodwill (8,465) (8,465) (8,465) (8,465) (8,465) Core deposit and other intangible assets (79) (69) (59) (51) (45) Deferred taxes 24 22 19 17 17 Average tangible common equity $17,669 $17,767 $17,567 $17,006 $16,948 GAAP to Tangible (Non-GAAP) Reconciliation"
+},
+{
+"id": "B0795",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio028.jpg"
+},
+{
+"id": "B0796",
+"exhibit": "ex-99_2.htm",
+"text": "28 Appendix In millions 9/30/2025 12/31/2025 3/31/2026 6/30/2026 9/30/2026 Total assets Total assets $211,277 $213,510 $214,736 $219,261 $220,510 Goodwill (8,465) (8,465) (8,465) (8,465) (8,465) Core deposit and other intangible assets (74) (64) (55) (48) (41) Deferred taxes 23 20 18 17 16 Total tangible assets $202,761 $205,001 $206,234 $210,765 $212,020 Total common equity Total equity $28,728 $29,177 $27,972 $27,946 $28,159 Preferred stock (2,394) (2,834) (2,434) (2,434) (3,017) Common equity 26,334 26,343 25,538 25,512 25,142 Goodwill (8,465) (8,465) (8,465) (8,465) (8,465) Core deposit and other intangible assets (74) (64) (55) (48) (41) Deferred taxes 23 20 18 17 16 Total tangible common equity $17,818 $17,834 $17,036 $17,016 $16,652 GAAP to Tangible (Non-GAAP) Reconciliation"
+},
+{
+"id": "B0797",
+"exhibit": "ex-99_2.htm",
+"text": "a3q26earningspresentatio029.jpg"
+},
+{
+"id": "B0798",
+"exhibit": "ex-99_2.htm",
+"text": "29 Appendix Reconciliation of Adjusted Metrics In millions 3Q25 4Q25 1Q26 2Q26 3Q26 Other income - Adjusted Other income $752 $696 Earnout payment related to 2023 sale of CIT business (28) \u2014 Other income - Adjusted $724 $696 Noninterest operating expense - Adjusted Noninterest operating expense $1,353 $1,369 Charitable contribution \u2014 (30) FDIC Special Assessment 8 29 Noninterest operating expense - Adjusted $1,361 $1,368 Efficiency ratio - Adjusted Noninterest operating expense (numerator) - Adjusted $1,361 $1,368 Taxable-equivalent net interest income - Adjusted 1,773 1,790 Other income - Adjusted 724 696 Less: Gain (loss) on bank investment securities \u2014 1 Denominator $2,497 $2,485 Efficiency ratio - Adjusted 54.5% 55.0%"
+}
+]
