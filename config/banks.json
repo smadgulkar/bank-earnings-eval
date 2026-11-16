@@ -1,0 +1,17 @@
+{
+  "_note": "CIKs are filled from memory; run `python -m beval.fetch --check` to confirm each name against EDGAR before fetching. Quarter end is used to pick the earnings 8-K (Item 2.02) filed in the following ~6 weeks.",
+  "quarter": "2026Q3",
+  "quarter_end": "2026-09-30",
+  "banks": [
+    {"ticker": "PNC",  "name": "PNC Financial Services Group", "cik": 713676},
+    {"ticker": "TFC",  "name": "Truist Financial",             "cik": 92230},
+    {"ticker": "FITB", "name": "Fifth Third Bancorp",          "cik": 35527},
+    {"ticker": "KEY",  "name": "KeyCorp",                      "cik": 91576},
+    {"ticker": "HBAN", "name": "Huntington Bancshares",        "cik": 49196},
+    {"ticker": "RF",   "name": "Regions Financial",            "cik": 1281761},
+    {"ticker": "MTB",  "name": "M&T Bank",                     "cik": 36270},
+    {"ticker": "CFG",  "name": "Citizens Financial Group",     "cik": 759944},
+    {"ticker": "ZION", "name": "Zions Bancorporation",         "cik": 109380},
+    {"ticker": "FHN",  "name": "First Horizon",                "cik": 36966}
+  ]
+}

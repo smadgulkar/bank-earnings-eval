@@ -1,0 +1,9 @@
+# Raw filings are re-fetchable from EDGAR (see filings/*/meta.json); keep meta only
+filings/**/*.htm
+filings/**/*.html
+filings/**/*.pdf
+# Don't publish the blinding key until grading is finished
+grade/**/.key.json
+__pycache__/
+.pytest_cache/
+.env

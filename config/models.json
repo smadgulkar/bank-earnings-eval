@@ -1,0 +1,10 @@
+{
+  "_note": "Put each lab's CURRENT flagship model id here on run day, and record it in the write-up. API keys come from env vars: OPENAI_API_KEY, ANTHROPIC_API_KEY, GEMINI_API_KEY.",
+  "runs_per_model": 3,
+  "max_output_tokens": 16000,
+  "models": [
+    {"label": "openai",    "provider": "openai",    "model": "SET-ME-openai-flagship"},
+    {"label": "anthropic", "provider": "anthropic", "model": "SET-ME-anthropic-flagship"},
+    {"label": "google",    "provider": "google",    "model": "SET-ME-google-flagship"}
+  ]
+}
