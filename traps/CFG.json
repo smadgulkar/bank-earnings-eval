@@ -1,0 +1,53 @@
+{
+  "ticker": "CFG",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "Only GAAP EPS $1.41 (B0052); no adjusted EPS this quarter",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0428: NIM 3.18% GAAP vs 3.19% FTE",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B1101: 2Q26 NII 1,631",
+      "check": "auto:prior"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "none called notable; ~$15M Reimagine the Bank costs in expenses (B0436)",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision $125M < charge-offs $137M: small reserve release, ACL 1.48% -> 1.47%",
+      "check": "manual"
+    },
+    {
+      "id": "capital_aoci",
+      "type": "definitions",
+      "where": "B0448: CET1 10.5% but 8.7% adjusted for AOCI; TBV/share -6.6% QoQ driven by AOCI (-$3.37), not earnings",
+      "check": "manual"
+    },
+    {
+      "id": "guidance_4q",
+      "type": "definitions",
+      "where": "B0454: 4Q26 NII up ~2.5-3%, ~$200M buybacks; note must not invent or distort",
+      "check": "manual"
+    },
+    {
+      "id": "missing_eps_adjusted",
+      "type": "missing_data",
+      "where": "",
+      "check": "auto:not_disclosed:eps_adjusted"
+    }
+  ]
+}

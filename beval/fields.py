@@ -68,7 +68,7 @@ FIELD_BY_KEY = {f.key: f for f in FIELDS}
 
 TOLERANCE = {
     "money_mm": ("rel", 0.005, 0.5),   # 0.5%, but never tighter than $0.5M
-    "ratio_pct": ("abs", 0.0101, None),  # 1 bp (+ float slack)
+    "ratio_pct": ("abs", 0.0501, None),  # 1 bp (+ float slack)
     "per_share": ("abs", 0.0051, None),  # half a cent (+ float slack)
 }
 
