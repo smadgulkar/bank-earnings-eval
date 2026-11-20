@@ -1,0 +1,129 @@
+{
+  "ticker": "FHN",
+  "metrics": {
+    "eps_reported": {
+      "value": -0.2,
+      "source": "B0641",
+      "note": "GAAP loss from mortgage HFS reclass"
+    },
+    "eps_adjusted": {
+      "value": 0.53,
+      "source": "B0148",
+      "note": ""
+    },
+    "net_income_common": {
+      "value": -94,
+      "source": "B0636",
+      "note": ""
+    },
+    "notable_items_eps": {
+      "value": -0.73,
+      "source": "B0008",
+      "note": "$347M after tax, mortgage loans moved to HFS"
+    },
+    "nii": {
+      "value": 683,
+      "source": "B0373",
+      "note": "GAAP; FTE 686 (B0776)"
+    },
+    "nim": {
+      "value": 3.48,
+      "source": "B0200",
+      "note": ""
+    },
+    "nonint_income": {
+      "value": -276.0,
+      "source": "B0084",
+      "note": ""
+    },
+    "nonint_expense": {
+      "value": 529.0,
+      "source": "B0096",
+      "note": ""
+    },
+    "efficiency_ratio": {
+      "value": 129.56,
+      "source": "B0693",
+      "note": ""
+    },
+    "provision": {
+      "value": -25,
+      "source": "B0739",
+      "note": "GAAP benefit; adjusted provision +20 (B0145)"
+    },
+    "nco": {
+      "value": 36.0,
+      "source": "B0443",
+      "note": ""
+    },
+    "nco_ratio": {
+      "value": 0.22,
+      "source": "B0449",
+      "note": ""
+    },
+    "acl_ratio": {
+      "value": 1.25,
+      "source": "B0720",
+      "note": ""
+    },
+    "avg_loans": {
+      "value": 64489.0,
+      "source": "B0378",
+      "note": ""
+    },
+    "avg_deposits": {
+      "value": 68553.0,
+      "source": "B0379",
+      "note": ""
+    },
+    "eop_deposits": {
+      "value": 67701,
+      "source": "B0281",
+      "note": ""
+    },
+    "cet1": {
+      "value": 10.3,
+      "source": "B0213",
+      "note": ""
+    },
+    "tbvps": {
+      "value": 13.84,
+      "source": "B0223",
+      "note": ""
+    },
+    "rotce": {
+      "value": -5.33,
+      "source": "B0661",
+      "note": ""
+    },
+    "buybacks": {
+      "value": 4,
+      "source": "B0798",
+      "note": ""
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.54,
+      "source": "B0641"
+    },
+    "nii": {
+      "value": 676,
+      "source": "B0373"
+    },
+    "nim": {
+      "value": 3.49,
+      "source": "B0200"
+    },
+    "nonint_expense": {
+      "value": 531,
+      "source": "B0096"
+    },
+    "provision": {
+      "value": 15,
+      "source": "B0739"
+    }
+  },
+  "nim_basis": "FTE",
+  "notes": ""
+}

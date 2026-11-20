@@ -1,0 +1,47 @@
+{
+  "ticker": "FHN",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0008: GAAP EPS -$0.20 vs adjusted $0.53; note must say which and why",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0008/B0784: -$0.73/share ($347M after tax) loss on ~$4.5B mortgages moved to held-for-sale",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "GAAP provision -$25M benefit vs adjusted +$20M (B0145): benefit is reserves released on HFS loans, not better credit",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0776: NIM 3.48% FTE; GAAP NII 683 vs FTE 686",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B0373: 2Q26 NII 676",
+      "check": "auto:prior"
+    },
+    {
+      "id": "loans_eop_vs_avg",
+      "type": "period_mismatch",
+      "where": "B0774: period-end loans -8% ($65.3B -> $59.8B) from HFS move, while average loans flat (64,489)",
+      "check": "manual"
+    },
+    {
+      "id": "guidance_2027",
+      "type": "definitions",
+      "where": "B0784: sale ~+4% 2027 EPS accretion, ~150bp ROTCE; must not be distorted",
+      "check": "manual"
+    }
+  ]
+}
