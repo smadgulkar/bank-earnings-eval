@@ -1,0 +1,53 @@
+{
+  "ticker": "FITB",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0008: GAAP EPS $0.90 vs adjusted $1.13",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0008: $0.23/share of certain items (Comerica integration)",
+      "check": "manual"
+    },
+    {
+      "id": "acquisition_growth",
+      "type": "definitions",
+      "where": "B0215: avg deposits +45% YoY and NII $1,520M -> $2,271M YoY driven by Comerica acquisition, not organic",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B1088: NIM 3.34% FTE; GAAP NII 2,271 vs FTE 2,276",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B1075: 2Q26 NII 2,215",
+      "check": "auto:prior"
+    },
+    {
+      "id": "tbv_aoci",
+      "type": "definitions",
+      "where": "B1123: TBV/share $22.01 incl. AOCI vs $27.43 excl. AOCI",
+      "check": "manual"
+    },
+    {
+      "id": "nco_acquisition",
+      "type": "definitions",
+      "where": "B0272: NCO ratio excludes $100M charge-offs taken at acquisition",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision $122M < charge-offs $139M: small release; ACL 1.74%",
+      "check": "manual"
+    }
+  ]
+}

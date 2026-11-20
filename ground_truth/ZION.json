@@ -1,0 +1,129 @@
+{
+  "ticker": "ZION",
+  "metrics": {
+    "eps_reported": {
+      "value": 1.78,
+      "source": "B0248",
+      "note": ""
+    },
+    "eps_adjusted": {
+      "value": null,
+      "source": null,
+      "note": "not disclosed: ZION reports adjusted PPNR, not adjusted EPS"
+    },
+    "net_income_common": {
+      "value": 262.0,
+      "source": "B0239",
+      "note": ""
+    },
+    "notable_items_eps": {
+      "value": null,
+      "source": null,
+      "note": "not disclosed: notable item is the Basis acquisition (B0032), no EPS impact given"
+    },
+    "nii": {
+      "value": 684.0,
+      "source": "B0703",
+      "note": ""
+    },
+    "nim": {
+      "value": 3.23,
+      "source": "B0589",
+      "note": ""
+    },
+    "nonint_income": {
+      "value": 197.0,
+      "source": "B0357",
+      "note": ""
+    },
+    "nonint_expense": {
+      "value": 553.0,
+      "source": "B0368",
+      "note": ""
+    },
+    "efficiency_ratio": {
+      "value": 61.9,
+      "source": "B0716",
+      "note": ""
+    },
+    "provision": {
+      "value": -8.0,
+      "source": "B0344",
+      "note": ""
+    },
+    "nco": {
+      "value": 3.0,
+      "source": "B0142",
+      "note": ""
+    },
+    "nco_ratio": {
+      "value": 0.02,
+      "source": "B0264",
+      "note": ""
+    },
+    "acl_ratio": {
+      "value": 1.11,
+      "source": "B0146",
+      "note": ""
+    },
+    "avg_loans": {
+      "value": 62472.0,
+      "source": "B0131",
+      "note": ""
+    },
+    "avg_deposits": {
+      "value": 77979,
+      "source": "B0590",
+      "note": "average; 77,948 is period-end"
+    },
+    "eop_deposits": {
+      "value": 77948.0,
+      "source": "B0309",
+      "note": ""
+    },
+    "cet1": {
+      "value": 11.8,
+      "source": "B0271",
+      "note": ""
+    },
+    "tbvps": {
+      "value": 43.5,
+      "source": "B0686",
+      "note": ""
+    },
+    "rotce": {
+      "value": 16.2,
+      "source": "B0669",
+      "note": ""
+    },
+    "buybacks": {
+      "value": 75,
+      "source": "B0187",
+      "note": ""
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 3.05,
+      "source": "B0248"
+    },
+    "nii": {
+      "value": 677.0,
+      "source": "B0703"
+    },
+    "nim": {
+      "value": 3.27,
+      "source": "B0589"
+    },
+    "nonint_expense": {
+      "value": 551.0,
+      "source": "B0368"
+    },
+    "provision": {
+      "value": 3.0,
+      "source": "B0344"
+    }
+  },
+  "nim_basis": "FTE",
+  "notes": ""
+}

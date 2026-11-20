@@ -1,0 +1,41 @@
+{
+  "ticker": "ZION",
+  "traps": [
+    {
+      "id": "prior_quarter_gain",
+      "type": "period_mismatch",
+      "where": "B0357: 2Q26 fee income 460 (one-off gain; ROTCE 28.6%) vs 3Q 197: QoQ 'collapse' is not real",
+      "check": "manual"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B0703: 2Q26 NII 677",
+      "check": "auto:prior"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0065/B0241: NIM 3.23% on TE basis; TE NII 696 vs GAAP 684",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "B0150: provision -$8M benefit vs $49M expense a year ago; charge-offs only $3M",
+      "check": "manual"
+    },
+    {
+      "id": "efficiency_def",
+      "type": "definitions",
+      "where": "B0716: efficiency ratio 61.9% is non-GAAP; adjusted expenses $549M vs reported $553M",
+      "check": "manual"
+    },
+    {
+      "id": "missing_eps_adjusted",
+      "type": "missing_data",
+      "where": "no adjusted EPS published",
+      "check": "auto:not_disclosed:eps_adjusted"
+    }
+  ]
+}
