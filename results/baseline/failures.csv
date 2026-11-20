@@ -1,0 +1,10 @@
+run_id,label,ticker,period,field,truth,value,source,suggested_root_cause,root_cause,comment
+anthropic/PNC/run1,anthropic,PNC,current,net_income_common,2006.0,1994.0,B0126,retrieval: pulled from the wrong line or table,,
+anthropic/TFC/run1,anthropic,TFC,current,avg_loans,329458.0,325523.0,B0158,retrieval: pulled from the wrong line or table,,
+anthropic/ZION/run1,anthropic,ZION,current,avg_deposits,77979.0,,,retrieval: missed a disclosed figure,,
+openai/FHN/run1,openai,FHN,current,buybacks,4.0,,,retrieval: missed a disclosed figure,,
+openai/MTB/run1,openai,MTB,current,eps_adjusted,5.08,,,retrieval: missed a disclosed figure,,
+openai/MTB/run1,openai,MTB,current,acl_ratio,1.51,,,retrieval: missed a disclosed figure,,
+openai/MTB/run1,openai,MTB,current,tbvps,115.88,,,retrieval: missed a disclosed figure,,
+openai/PNC/run1,openai,PNC,current,net_income_common,2006.0,,,retrieval: missed a disclosed figure,,
+openai/TFC/run1,openai,TFC,current,acl_ratio,1.25,,,retrieval: missed a disclosed figure,,

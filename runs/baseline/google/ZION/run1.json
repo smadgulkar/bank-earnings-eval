@@ -1,0 +1,179 @@
+{
+ "label": "google",
+ "provider": "chat-app",
+ "model": "Carbon",
+ "ticker": "ZION",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:07+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 1.78,
+    "source": "B0011",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": null,
+    "source": null,
+    "not_disclosed": true
+   },
+   "net_income_common": {
+    "value": 262,
+    "source": "B0011",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": 0.05,
+    "source": "B0033",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 684,
+    "source": "B0059",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.23,
+    "source": "B0064",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 197,
+    "source": "B0087",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 553,
+    "source": "B0106",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 61.9,
+    "source": "B0042",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": -8,
+    "source": "B0140",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 3,
+    "source": "B0142",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.02,
+    "source": "B0147",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.11,
+    "source": "B0146",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 62441,
+    "source": "B0561",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 77979,
+    "source": "B0590",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 77948,
+    "source": "B0165",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 11.8,
+    "source": "B0014",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 43.5,
+    "source": "B0031",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 16.2,
+    "source": "B0014",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 75,
+    "source": "B0187",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 3.05,
+    "source": "B0012"
+   },
+   "nii": {
+    "value": 677,
+    "source": "B0059"
+   },
+   "nim": {
+    "value": 3.27,
+    "source": "B0064"
+   },
+   "nonint_expense": {
+    "value": 551,
+    "source": "B0106"
+   },
+   "provision": {
+    "value": 3,
+    "source": "B0140"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": -1.27,
+   "nii": 7,
+   "nim": -0.04,
+   "nonint_expense": 2,
+   "provision": -11
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Net credit valuation adjustment (CVA) gain on client-related interest rate swaps ($10M pre-tax)",
+    "eps_impact": 0.05,
+    "source": "B0033"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "3Q27E vs. 3Q26A Loan Balances (period-end)",
+    "quote": "2% \u2013 4%",
+    "source": "B0788"
+   },
+   {
+    "item": "3Q27E vs. 3Q26A Net Interest Income",
+    "quote": "8% \u2013 12%",
+    "source": "B0788"
+   },
+   {
+    "item": "3Q27E vs. 3Q26A Adjusted Customer-Related Noninterest Income",
+    "quote": "6% \u2013 9%",
+    "source": "B0788"
+   },
+   {
+    "item": "3Q27E vs. 3Q26A Adjusted Noninterest Expense",
+    "quote": "4% \u2013 6%",
+    "source": "B0788"
+   }
+  ],
+  "note_markdown": "**Zions Bancorporation (ZION) 3Q26: Clean Core Growth, Near-Zero NCOs, and Strong 1-Year NII Outlook**\n\n**Headline & EPS Drivers:** Discussing **reported** GAAP diluted EPS (no 3Q26 adjusted EPS disclosed), ZION earned $1.78 in 3Q26, down $1.27 from 2Q26 ($3.05) but up 20% YoY [B0011, B0012, B0035]. The sequential drop is purely optical: 2Q26 included $1.31 per share of notable securities gains ($1.12 from Visa share sales and $0.19 from SBIC valuation gains) [B0758], whereas 3Q26 included a modest +$0.05 net CVA gain ($10 million pre-tax) [B0033, B0758]. Excluding 2Q26's notable gains ($1.74 base), 3Q26 EPS rose $0.04 QoQ [B0756], supported by a $6 million (+2% QoQ) rise in adjusted PPNR to $338 million and an $11 million favorable swing in credit provision to a $(8) million benefit [B0140, B0760].\n\n**Revenue & Margin:** GAAP NII rose $7 million (+1% QoQ) to $684 million ($696 million TE) as average loans grew 3.7% annualized to $62.4 billion and average customer deposits jumped 8.8% annualized to $74.0 billion (total average deposits $78.0 billion) [B0059, B0241, B0590, B0756]. However, FTE NIM compressed 4 bps QoQ to 3.23% as total deposit costs rose 11 bps to 1.59% (including ~3 bps from a derivative collateral reclassification) and excess deposit liquidity was parked in lower-yielding money market investments [B0063, B0064, B0068, B0770]. Reported noninterest income fell $263 million QoQ to $197 million on the absence of 2Q26's $269 million securities gains [B0085, B0087]; adjusted customer-related noninterest income (ex-CVA) edged up $1 million QoQ (+5% YoY) to $182 million [B0088]. Noninterest expense was well contained at $553 million (+$2 million QoQ; adjusted $549 million, +$3 million), improving the efficiency ratio 30 bps QoQ to 61.9% [B0106, B0107, B0111].\n\n**Credit:** Credit was a standout. NCOs were just $3 million, or 0.02% annualized (-4 bps QoQ, -35 bps YoY), driving an $8 million provision release [B0140, B0142, B0147]. Classified loans fell $204 million (-9% QoQ) to $2,123 million (3.40%), while NPAs edged up $17 million to $315 million (0.50%); ACL/loans eased 2 bps to 1.11% [B0143-B0149].\n\n**Capital & Returns:** ROTCE was 16.2% (vs. ~17.1% ex-gains in 2Q26) [B0014, B0670]. CET1 held steady at a robust 11.8% after $75 million in buybacks and a dividend hike to $0.48 [B0187, B0193, B0271], while TBVPS dipped to $43.50 on $229 million of goodwill/intangibles from the Basis Multifamily Finance acquisition and $122 million of AOCI widening [B0031, B0195, B0196].\n\n**Guidance & Thesis:** ZION's 3Q27E vs. 3Q26A outlook projects strong 8%\u201312% NII growth, 6%\u20139% adjusted customer fee growth, 2%\u20134% loan growth, and 4%\u20136% adjusted expense growth (positive operating leverage) [B0788]. Asset sensitivity, deposit momentum, and pristine credit reinforce a constructive thesis."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": 1.78,\n      \"source\": \"B0011\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": null,\n      \"source\": null,\n      \"not_disclosed\": true\n    },\n    \"net_income_common\": {\n      \"value\": 262,\n      \"source\": \"B0011\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": 0.05,\n      \"source\": \"B0033\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 684,\n      \"source\": \"B0059\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 3.23,\n      \"source\": \"B0064\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": 197,\n      \"source\": \"B0087\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 553,\n      \"source\": \"B0106\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 61.9,\n      \"source\": \"B0042\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": -8,\n      \"source\": \"B0140\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 3,\n      \"source\": \"B0142\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.02,\n      \"source\": \"B0147\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.11,\n      \"source\": \"B0146\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 62441,\n      \"source\": \"B0561\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 77979,\n      \"source\": \"B0590\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 77948,\n      \"source\": \"B0165\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 11.8,\n      \"source\": \"B0014\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 43.5,\n      \"source\": \"B0031\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": 16.2,\n      \"source\": \"B0014\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 75,\n      \"source\": \"B0187\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 3.05,\n      \"source\": \"B0012\"\n    },\n    \"nii\": {\n      \"value\": 677,\n      \"source\": \"B0059\"\n    },\n    \"nim\": {\n      \"value\": 3.27,\n      \"source\": \"B0064\"\n    },\n    \"nonint_expense\": {\n      \"value\": 551,\n      \"source\": \"B0106\"\n    },\n    \"provision\": {\n      \"value\": 3,\n      \"source\": \"B0140\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": -1.27,\n    \"nii\": 7,\n    \"nim\": -0.04,\n    \"nonint_expense\": 2,\n    \"provision\": -11\n  },\n  \"eps_basis_used_in_note\": \"reported\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"Net credit valuation adjustment (CVA) gain on client-related interest rate swaps ($10M pre-tax)\",\n      \"eps_impact\": 0.05,\n      \"source\": \"B0033\"\n    }\n  ],\n  \"guidance\": [\n    {\n      \"item\": \"3Q27E vs. 3Q26A Loan Balances (period-end)\",\n      \"quote\": \"2% \u2013 4%\",\n      \"source\": \"B0788\"\n    },\n    {\n      \"item\": \"3Q27E vs. 3Q26A Net Interest Income\",\n      \"quote\": \"8% \u2013 12%\",\n      \"source\": \"B0788\"\n    },\n    {\n      \"item\": \"3Q27E vs. 3Q26A Adjusted Customer-Related Noninterest Income\",\n      \"quote\": \"6% \u2013 9%\",\n      \"source\": \"B0788\"\n    },\n    {\n      \"item\": \"3Q27E vs. 3Q26A Adjusted Noninterest Expense\",\n      \"quote\": \"4% \u2013 6%\",\n      \"source\": \"B0788\"\n    }\n  ],\n  \"note_markdown\": \"**Zions Bancorporation (ZION) 3Q26: Clean Core Growth, Near-Zero NCOs, and Strong 1-Year NII Outlook**\\n\\n**Headline & EPS Drivers:** Discussing **reported** GAAP diluted EPS (no 3Q26 adjusted EPS disclosed), ZION earned $1.78 in 3Q26, down $1.27 from 2Q26 ($3.05) but up 20% YoY [B0011, B0012, B0035]. The sequential drop is purely optical: 2Q26 included $1.31 per share of notable securities gains ($1.12 from Visa share sales and $0.19 from SBIC valuation gains) [B0758], whereas 3Q26 included a modest +$0.05 net CVA gain ($10 million pre-tax) [B0033, B0758]. Excluding 2Q26's notable gains ($1.74 base), 3Q26 EPS rose $0.04 QoQ [B0756], supported by a $6 million (+2% QoQ) rise in adjusted PPNR to $338 million and an $11 million favorable swing in credit provision to a $(8) million benefit [B0140, B0760].\\n\\n**Revenue & Margin:** GAAP NII rose $7 million (+1% QoQ) to $684 million ($696 million TE) as average loans grew 3.7% annualized to $62.4 billion and average customer deposits jumped 8.8% annualized to $74.0 billion (total average deposits $78.0 billion) [B0059, B0241, B0590, B0756]. However, FTE NIM compressed 4 bps QoQ to 3.23% as total deposit costs rose 11 bps to 1.59% (including ~3 bps from a derivative collateral reclassification) and excess deposit liquidity was parked in lower-yielding money market investments [B0063, B0064, B0068, B0770]. Reported noninterest income fell $263 million QoQ to $197 million on the absence of 2Q26's $269 million securities gains [B0085, B0087]; adjusted customer-related noninterest income (ex-CVA) edged up $1 million QoQ (+5% YoY) to $182 million [B0088]. Noninterest expense was well contained at $553 million (+$2 million QoQ; adjusted $549 million, +$3 million), improving the efficiency ratio 30 bps QoQ to 61.9% [B0106, B0107, B0111].\\n\\n**Credit:** Credit was a standout. NCOs were just $3 million, or 0.02% annualized (-4 bps QoQ, -35 bps YoY), driving an $8 million provision release [B0140, B0142, B0147]. Classified loans fell $204 million (-9% QoQ) to $2,123 million (3.40%), while NPAs edged up $17 million to $315 million (0.50%); ACL/loans eased 2 bps to 1.11% [B0143-B0149].\\n\\n**Capital & Returns:** ROTCE was 16.2% (vs. ~17.1% ex-gains in 2Q26) [B0014, B0670]. CET1 held steady at a robust 11.8% after $75 million in buybacks and a dividend hike to $0.48 [B0187, B0193, B0271], while TBVPS dipped to $43.50 on $229 million of goodwill/intangibles from the Basis Multifamily Finance acquisition and $122 million of AOCI widening [B0031, B0195, B0196].\\n\\n**Guidance & Thesis:** ZION's 3Q27E vs. 3Q26A outlook projects strong 8%\u201312% NII growth, 6%\u20139% adjusted customer fee growth, 2%\u20134% loan growth, and 4%\u20136% adjusted expense growth (positive operating leverage) [B0788]. Asset sensitivity, deposit momentum, and pristine credit reinforce a constructive thesis.\"\n}"
+}

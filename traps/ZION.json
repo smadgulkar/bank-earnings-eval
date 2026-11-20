@@ -34,7 +34,7 @@
     {
       "id": "missing_eps_adjusted",
       "type": "missing_data",
-      "where": "no adjusted EPS published",
+      "where": "no adjusted EPS published; notable item is +$0.05 CVA gain (B0033)",
       "check": "auto:not_disclosed:eps_adjusted"
     }
   ]

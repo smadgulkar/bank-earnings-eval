@@ -1,0 +1,189 @@
+{
+ "label": "google",
+ "provider": "chat-app",
+ "model": "Carbon",
+ "ticker": "FHN",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": -0.2,
+    "source": "B0109",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 0.53,
+    "source": "B0148",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": -94,
+    "source": "B0105",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.73,
+    "source": "B0782",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 683,
+    "source": "B0073",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.48,
+    "source": "B0200",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": -276,
+    "source": "B0084",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 529,
+    "source": "B0096",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 129.56,
+    "source": "B0208",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": -25,
+    "source": "B0098",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 36,
+    "source": "B0443",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.22,
+    "source": "B0449",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.25,
+    "source": "B0211",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 64489,
+    "source": "B0300",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 68553,
+    "source": "B0338",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 67701,
+    "source": "B0281",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.3,
+    "source": "B0213",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 13.84,
+    "source": "B0223",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": -5.33,
+    "source": "B0204",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 4,
+    "source": "B0798",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.54,
+    "source": "B0109"
+   },
+   "nii": {
+    "value": 676,
+    "source": "B0073"
+   },
+   "nim": {
+    "value": 3.49,
+    "source": "B0200"
+   },
+   "nonint_expense": {
+    "value": 531,
+    "source": "B0096"
+   },
+   "provision": {
+    "value": 15,
+    "source": "B0098"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": -0.74,
+   "nii": 7,
+   "nim": -0.01,
+   "nonint_expense": -2,
+   "provision": -40
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Total notable items: loss on pending mortgage loan sale ($473M pre-tax), provision reversal for pending mortgage loan sale (+$45M pre-tax), restructuring expenses ($3M pre-tax), and Visa derivative valuation expense ($5M pre-tax)",
+    "eps_impact": -0.73,
+    "source": "B0782"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "2026 Adjusted Revenue ex. deferred comp.",
+    "quote": "Low end of 3% \u2013 7% prior: 3-7%",
+    "source": "B0800"
+   },
+   {
+    "item": "2026 Adjusted Expenses ex. deferred comp.",
+    "quote": "~0%",
+    "source": "B0800"
+   },
+   {
+    "item": "2026 Net Charge-Offs",
+    "quote": "0.15% \u2013 0.25%",
+    "source": "B0800"
+   },
+   {
+    "item": "2026 Tax Rate",
+    "quote": "21% \u2013 23%",
+    "source": "B0800"
+   },
+   {
+    "item": "2026 CET1 Ratio",
+    "quote": "10.25% \u2013 10.5% prior: ~10.5%",
+    "source": "B0800"
+   },
+   {
+    "item": "2027 Mortgage Realignment Impact",
+    "quote": "+4% or +$45mm after-tax '27 Earnings Accretion; ~150 bps '27 ROTCE Improvement",
+    "source": "B0784"
+   }
+  ],
+  "note_markdown": "**First Horizon (FHN) 3Q26: Slight Core Miss vs. 2Q26 Masked by $4.5B Mortgage Sale Restructuring**\n\n**Headline & EPS Drivers:** Focusing on **adjusted** diluted EPS, FHN posted $0.53 in 3Q26, missing 2Q26 ($0.54) by $0.01 (-2% QoQ) but up $0.02 YoY [B0148]. Reported GAAP EPS was a loss of $(0.20) vs. $0.54 in 2Q26 [B0109], depressed by $(0.73) per share ($347 million after-tax) in net notable items\u2014primarily a $473 million pre-tax loss on reclassifying ~$4.5 billion of lower-yielding consumer mortgages to held-for-sale, partially offset by a $45 million reserve reversal, alongside $5 million in Visa derivative expenses and $3 million in restructuring charges [B0007, B0782]. On an underlying basis, adjusted PPNR edged down $2 million (-1% QoQ) to $362 million, while adjusted provision rose $5 million to $20 million and the adjusted tax rate normalized up 149 bps to 21.0% [B0144, B0145, B0776].\n\n**Revenue & Margin:** GAAP NII rose $7 million (+1% QoQ) to $683 million ($686 million FTE) on a 6 bps expansion in loan yields to 5.73% and day count [B0071, B0073, B0036, B0786]. FTE NIM compressed 1 bp QoQ to 3.48% as interest-bearing deposit costs rose 12 bps to 2.45% from brokered deposit carryover and higher client rates [B0200, B0036, B0786]. Reported noninterest income was $(276) million due to the $473 million mortgage mark [B0084, B0081]; adjusted noninterest income fell $14 million QoQ to $197 million on lower deferred compensation (-$17 million), though fees ex-deferred comp rose $3 million to $198 million led by fixed income (+$3 million, ADR $629k) [B0131, B0792]. Reported expenses fell $2 million to $529 million [B0096], while adjusted expenses ex-deferred comp rose $8 million to $521 million on seasonal new-account promotions [B0794]; adjusted efficiency improved 20 bps to 58.91% (reported 129.56%) [B0208, B0209].\n\n**Credit:** Credit remained benign. Reported provision was a $(25) million benefit ($20 million adjusted) [B0098, B0145]. NCOs ticked up to $36 million (0.22% vs. 0.20% in 2Q26) [B0443, B0449], while NPLs fell $49 million to $482 million (0.81% flat QoQ) and ACL coverage edged up 1 bp to 1.25% [B0397, B0404, B0211].\n\n**Capital & Returns:** Reported ROTCE was (5.33)% and adjusted ROTCE dipped 93 bps QoQ to 14.36% [B0204, B0205]. CET1 fell 12 bps to 10.3% and TBVPS dropped $0.69 to $13.84 on the mortgage restructuring [B0213, B0223, B0798]. Buybacks paused to $4 million [B0798].\n\n**Guidance & Thesis:** Management guided FY26 adjusted revenue growth to the low end of 3%\u20137% and trimmed the CET1 target to 10.25%\u201310.5% (from ~10.5%), while projecting +4% (+$45 million) 2027 earnings accretion and ~150 bps ROTCE lift from the mortgage sale [B0800, B0784]. The balance sheet repositioning modestly improves the medium-term thesis by trading near-term TBV dilution for structurally higher ROTCE and a healthier 88.3% LDR [B0225]."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": -0.2,\n      \"source\": \"B0109\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": 0.53,\n      \"source\": \"B0148\",\n      \"not_disclosed\": false\n    },\n    \"net_income_common\": {\n      \"value\": -94,\n      \"source\": \"B0105\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": -0.73,\n      \"source\": \"B0782\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 683,\n      \"source\": \"B0073\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 3.48,\n      \"source\": \"B0200\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": -276,\n      \"source\": \"B0084\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 529,\n      \"source\": \"B0096\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 129.56,\n      \"source\": \"B0208\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": -25,\n      \"source\": \"B0098\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 36,\n      \"source\": \"B0443\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.22,\n      \"source\": \"B0449\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.25,\n      \"source\": \"B0211\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 64489,\n      \"source\": \"B0300\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 68553,\n      \"source\": \"B0338\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 67701,\n      \"source\": \"B0281\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 10.3,\n      \"source\": \"B0213\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 13.84,\n      \"source\": \"B0223\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": -5.33,\n      \"source\": \"B0204\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 4,\n      \"source\": \"B0798\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 0.54,\n      \"source\": \"B0109\"\n    },\n    \"nii\": {\n      \"value\": 676,\n      \"source\": \"B0073\"\n    },\n    \"nim\": {\n      \"value\": 3.49,\n      \"source\": \"B0200\"\n    },\n    \"nonint_expense\": {\n      \"value\": 531,\n      \"source\": \"B0096\"\n    },\n    \"provision\": {\n      \"value\": 15,\n      \"source\": \"B0098\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": -0.74,\n    \"nii\": 7,\n    \"nim\": -0.01,\n    \"nonint_expense\": -2,\n    \"provision\": -40\n  },\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"Total notable items: loss on pending mortgage loan sale ($473M pre-tax), provision reversal for pending mortgage loan sale (+$45M pre-tax), restructuring expenses ($3M pre-tax), and Visa derivative valuation expense ($5M pre-tax)\",\n      \"eps_impact\": -0.73,\n      \"source\": \"B0782\"\n    }\n  ],\n  \"guidance\": [\n    {\n      \"item\": \"2026 Adjusted Revenue ex. deferred comp.\",\n      \"quote\": \"Low end of 3% \u2013 7% prior: 3-7%\",\n      \"source\": \"B0800\"\n    },\n    {\n      \"item\": \"2026 Adjusted Expenses ex. deferred comp.\",\n      \"quote\": \"~0%\",\n      \"source\": \"B0800\"\n    },\n    {\n      \"item\": \"2026 Net Charge-Offs\",\n      \"quote\": \"0.15% \u2013 0.25%\",\n      \"source\": \"B0800\"\n    },\n    {\n      \"item\": \"2026 Tax Rate\",\n      \"quote\": \"21% \u2013 23%\",\n      \"source\": \"B0800\"\n    },\n    {\n      \"item\": \"2026 CET1 Ratio\",\n      \"quote\": \"10.25% \u2013 10.5% prior: ~10.5%\",\n      \"source\": \"B0800\"\n    },\n    {\n      \"item\": \"2027 Mortgage Realignment Impact\",\n      \"quote\": \"+4% or +$45mm after-tax '27 Earnings Accretion; ~150 bps '27 ROTCE Improvement\",\n      \"source\": \"B0784\"\n    }\n  ],\n  \"note_markdown\": \"**First Horizon (FHN) 3Q26: Slight Core Miss vs. 2Q26 Masked by $4.5B Mortgage Sale Restructuring**\\n\\n**Headline & EPS Drivers:** Focusing on **adjusted** diluted EPS, FHN posted $0.53 in 3Q26, missing 2Q26 ($0.54) by $0.01 (-2% QoQ) but up $0.02 YoY [B0148]. Reported GAAP EPS was a loss of $(0.20) vs. $0.54 in 2Q26 [B0109], depressed by $(0.73) per share ($347 million after-tax) in net notable items\u2014primarily a $473 million pre-tax loss on reclassifying ~$4.5 billion of lower-yielding consumer mortgages to held-for-sale, partially offset by a $45 million reserve reversal, alongside $5 million in Visa derivative expenses and $3 million in restructuring charges [B0007, B0782]. On an underlying basis, adjusted PPNR edged down $2 million (-1% QoQ) to $362 million, while adjusted provision rose $5 million to $20 million and the adjusted tax rate normalized up 149 bps to 21.0% [B0144, B0145, B0776].\\n\\n**Revenue & Margin:** GAAP NII rose $7 million (+1% QoQ) to $683 million ($686 million FTE) on a 6 bps expansion in loan yields to 5.73% and day count [B0071, B0073, B0036, B0786]. FTE NIM compressed 1 bp QoQ to 3.48% as interest-bearing deposit costs rose 12 bps to 2.45% from brokered deposit carryover and higher client rates [B0200, B0036, B0786]. Reported noninterest income was $(276) million due to the $473 million mortgage mark [B0084, B0081]; adjusted noninterest income fell $14 million QoQ to $197 million on lower deferred compensation (-$17 million), though fees ex-deferred comp rose $3 million to $198 million led by fixed income (+$3 million, ADR $629k) [B0131, B0792]. Reported expenses fell $2 million to $529 million [B0096], while adjusted expenses ex-deferred comp rose $8 million to $521 million on seasonal new-account promotions [B0794]; adjusted efficiency improved 20 bps to 58.91% (reported 129.56%) [B0208, B0209].\\n\\n**Credit:** Credit remained benign. Reported provision was a $(25) million benefit ($20 million adjusted) [B0098, B0145]. NCOs ticked up to $36 million (0.22% vs. 0.20% in 2Q26) [B0443, B0449], while NPLs fell $49 million to $482 million (0.81% flat QoQ) and ACL coverage edged up 1 bp to 1.25% [B0397, B0404, B0211].\\n\\n**Capital & Returns:** Reported ROTCE was (5.33)% and adjusted ROTCE dipped 93 bps QoQ to 14.36% [B0204, B0205]. CET1 fell 12 bps to 10.3% and TBVPS dropped $0.69 to $13.84 on the mortgage restructuring [B0213, B0223, B0798]. Buybacks paused to $4 million [B0798].\\n\\n**Guidance & Thesis:** Management guided FY26 adjusted revenue growth to the low end of 3%\u20137% and trimmed the CET1 target to 10.25%\u201310.5% (from ~10.5%), while projecting +4% (+$45 million) 2027 earnings accretion and ~150 bps ROTCE lift from the mortgage sale [B0800, B0784]. The balance sheet repositioning modestly improves the medium-term thesis by trading near-term TBV dilution for structurally higher ROTCE and a healthier 88.3% LDR [B0225].\"\n}"
+}

@@ -17,9 +17,9 @@
       "note": ""
     },
     "notable_items_eps": {
-      "value": null,
-      "source": null,
-      "note": "not disclosed: notable item is the Basis acquisition (B0032), no EPS impact given"
+      "value": 0.05,
+      "source": "B0033",
+      "note": "CVA gain on client swaps, $10M"
     },
     "nii": {
       "value": 684.0,

@@ -1,0 +1,193 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "CFG",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:05+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 1.41,
+    "source": "B0052",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": null,
+    "source": null,
+    "not_disclosed": true
+   },
+   "net_income_common": {
+    "value": 599.0,
+    "source": "B0048",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": null,
+    "source": null,
+    "not_disclosed": true
+   },
+   "nii": {
+    "value": 1675.0,
+    "source": "B0040",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.19,
+    "source": "B0055",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 647.0,
+    "source": "B0041",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1393.0,
+    "source": "B0043",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 60.0,
+    "source": "B0057",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 125.0,
+    "source": "B0045",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 137.0,
+    "source": "B0282",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.37,
+    "source": "B0069",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.47,
+    "source": "B0065",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 147354.0,
+    "source": "B0188",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 183736.0,
+    "source": "B0217",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 185228.0,
+    "source": "B0210",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.5,
+    "source": "B0061",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 35.78,
+    "source": "B0258",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 15.1,
+    "source": "B0058",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 125.0,
+    "source": "B0272",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 1.3,
+    "source": "B0052"
+   },
+   "nii": {
+    "value": 1631.0,
+    "source": "B0040"
+   },
+   "nim": {
+    "value": 3.17,
+    "source": "B0055"
+   },
+   "nonint_expense": {
+    "value": 1394.0,
+    "source": "B0043"
+   },
+   "provision": {
+    "value": 134.0,
+    "source": "B0045"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.11,
+   "nii": 44.0,
+   "nim": 0.02,
+   "nonint_expense": -1.0,
+   "provision": -9.0
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+   {
+    "item": "4Q26 NII vs 3Q26",
+    "quote": "Up ~2.5% to 3%",
+    "source": "B0454"
+   },
+   {
+    "item": "4Q26 noninterest income vs 3Q26",
+    "quote": "Up ~4 to 5%",
+    "source": "B0454"
+   },
+   {
+    "item": "4Q26 noninterest expense vs 3Q26",
+    "quote": "Up ~1%",
+    "source": "B0454"
+   },
+   {
+    "item": "4Q26 net charge-offs",
+    "quote": "Stable to down slightly",
+    "source": "B0454"
+   },
+   {
+    "item": "4Q26 CET1 and buybacks",
+    "quote": "~10.6% to 10.7%; expect ~$200 million in share repurchases",
+    "source": "B0454"
+   },
+   {
+    "item": "4Q26 tax rate",
+    "quote": "~22%",
+    "source": "B0454"
+   },
+   {
+    "item": "NIM target 4Q27",
+    "quote": "NIM projected to reach 3.30-3.50% by 4Q27",
+    "source": "B0430"
+   },
+   {
+    "item": "ROTCE target",
+    "quote": "Well positioned to achieve 16-18% ROTCE by end of 2027",
+    "source": "B0430"
+   }
+  ],
+  "note_markdown": "### CFG 3Q26: Clean beat, revenue-led\n\n**Headline (reported GAAP EPS):** Diluted EPS was $1.41, up from $1.30 in 2Q26 (+8% QoQ, +34% YoY). This beat the prior quarter. CFG discloses no notable items and gives no adjusted EPS, so reported EPS is the underlying figure. One caveat: the tax rate fell to 20.9% from 22.3% on discrete tax benefits, which helped EPS modestly.\n\n**EPS drivers:** PPNR rose 4.5% to $929m on a record $2.32bn of revenue, with expenses flat at $1.39bn. Provision fell $9m to $125m and the diluted share count fell by 1.0m. The Private Bank contributed $0.16 of EPS.\n\n**Revenue and margin:** NII rose 2.7% to $1,675m. FTE NIM rose 2bp to 3.19% on lower terminated-swap drag and fixed-rate asset repricing, partly offset by funding costs (total deposit costs +3bp to 1.66%). Fees fell 1% to $647m: mortgage (MSR marks) and capital markets were lower, partly offset by record Wealth. Efficiency improved 110bp to 60.0% and operating leverage was +1.8% QoQ.\n\n**Credit:** NCOs were $137m (37bp), stable. ACL/loans eased to 1.47% on loan mix. Nonaccruals rose 2% to 0.99% of loans.\n\n**Capital and returns:** ROTCE was 15.1% (13.9% in 2Q). CET1 rose to 10.5%. TBV/share fell 6.6% to $35.78 as higher long-term rates hit AOCI. CFG bought back $125m of stock, raised the dividend 13% to $0.52, and lifted the buyback capacity to $1.95bn.\n\n**Guidance:** For 4Q26: NII up ~2.5-3%, fees up ~4-5%, expenses up ~1%, NCOs stable to down slightly, CET1 ~10.6-10.7% with ~$200m of buybacks. Medium term: NIM of 3.30-3.50% by 4Q27 and 16-18% ROTCE by end-2027 are reiterated.\n\n**Thesis:** Reinforces it. NIM expansion, Private Bank momentum and capital return are on track. The TBV hit from rates is the main blemish."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 1.41, \"source\": \"B0052\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": null, \"source\": null, \"not_disclosed\": true},\n    \"net_income_common\": {\"value\": 599.0, \"source\": \"B0048\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": null, \"source\": null, \"not_disclosed\": true},\n    \"nii\": {\"value\": 1675.0, \"source\": \"B0040\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 3.19, \"source\": \"B0055\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 647.0, \"source\": \"B0041\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 1393.0, \"source\": \"B0043\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 60.0, \"source\": \"B0057\", \"not_disclosed\": false},\n    \"provision\": {\"value\": 125.0, \"source\": \"B0045\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 137.0, \"source\": \"B0282\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.37, \"source\": \"B0069\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.47, \"source\": \"B0065\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 147354.0, \"source\": \"B0188\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 183736.0, \"source\": \"B0217\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 185228.0, \"source\": \"B0210\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 10.5, \"source\": \"B0061\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 35.78, \"source\": \"B0258\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 15.1, \"source\": \"B0058\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 125.0, \"source\": \"B0272\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 1.30, \"source\": \"B0052\"},\n    \"nii\": {\"value\": 1631.0, \"source\": \"B0040\"},\n    \"nim\": {\"value\": 3.17, \"source\": \"B0055\"},\n    \"nonint_expense\": {\"value\": 1394.0, \"source\": \"B0043\"},\n    \"provision\": {\"value\": 134.0, \"source\": \"B0045\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": 0.11, \"nii\": 44.0, \"nim\": 0.02, \"nonint_expense\": -1.0, \"provision\": -9.0},\n  \"eps_basis_used_in_note\": \"reported\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [],\n  \"guidance\": [\n    {\"item\": \"4Q26 NII vs 3Q26\", \"quote\": \"Up ~2.5% to 3%\", \"source\": \"B0454\"},\n    {\"item\": \"4Q26 noninterest income vs 3Q26\", \"quote\": \"Up ~4 to 5%\", \"source\": \"B0454\"},\n    {\"item\": \"4Q26 noninterest expense vs 3Q26\", \"quote\": \"Up ~1%\", \"source\": \"B0454\"},\n    {\"item\": \"4Q26 net charge-offs\", \"quote\": \"Stable to down slightly\", \"source\": \"B0454\"},\n    {\"item\": \"4Q26 CET1 and buybacks\", \"quote\": \"~10.6% to 10.7%; expect ~$200 million in share repurchases\", \"source\": \"B0454\"},\n    {\"item\": \"4Q26 tax rate\", \"quote\": \"~22%\", \"source\": \"B0454\"},\n    {\"item\": \"NIM target 4Q27\", \"quote\": \"NIM projected to reach 3.30-3.50% by 4Q27\", \"source\": \"B0430\"},\n    {\"item\": \"ROTCE target\", \"quote\": \"Well positioned to achieve 16-18% ROTCE by end of 2027\", \"source\": \"B0430\"}\n  ],\n  \"note_markdown\": \"### CFG 3Q26: Clean beat, revenue-led\\n\\n**Headline (reported GAAP EPS):** Diluted EPS was $1.41, up from $1.30 in 2Q26 (+8% QoQ, +34% YoY). This beat the prior quarter. CFG discloses no notable items and gives no adjusted EPS, so reported EPS is the underlying figure. One caveat: the tax rate fell to 20.9% from 22.3% on discrete tax benefits, which helped EPS modestly.\\n\\n**EPS drivers:** PPNR rose 4.5% to $929m on a record $2.32bn of revenue, with expenses flat at $1.39bn. Provision fell $9m to $125m and the diluted share count fell by 1.0m. The Private Bank contributed $0.16 of EPS.\\n\\n**Revenue and margin:** NII rose 2.7% to $1,675m. FTE NIM rose 2bp to 3.19% on lower terminated-swap drag and fixed-rate asset repricing, partly offset by funding costs (total deposit costs +3bp to 1.66%). Fees fell 1% to $647m: mortgage (MSR marks) and capital markets were lower, partly offset by record Wealth. Efficiency improved 110bp to 60.0% and operating leverage was +1.8% QoQ.\\n\\n**Credit:** NCOs were $137m (37bp), stable. ACL/loans eased to 1.47% on loan mix. Nonaccruals rose 2% to 0.99% of loans.\\n\\n**Capital and returns:** ROTCE was 15.1% (13.9% in 2Q). CET1 rose to 10.5%. TBV/share fell 6.6% to $35.78 as higher long-term rates hit AOCI. CFG bought back $125m of stock, raised the dividend 13% to $0.52, and lifted the buyback capacity to $1.95bn.\\n\\n**Guidance:** For 4Q26: NII up ~2.5-3%, fees up ~4-5%, expenses up ~1%, NCOs stable to down slightly, CET1 ~10.6-10.7% with ~$200m of buybacks. Medium term: NIM of 3.30-3.50% by 4Q27 and 16-18% ROTCE by end-2027 are reiterated.\\n\\n**Thesis:** Reinforces it. NIM expansion, Private Bank momentum and capital return are on track. The TBV hit from rates is the main blemish.\"\n}\n"
+}

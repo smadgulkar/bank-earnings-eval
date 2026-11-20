@@ -1,0 +1,46 @@
+{
+  "metrics": {
+    "eps_reported": {"value": -0.20, "source": "B0109", "not_disclosed": false},
+    "eps_adjusted": {"value": 0.53, "source": "B0148", "not_disclosed": false},
+    "net_income_common": {"value": -94.0, "source": "B0105", "not_disclosed": false},
+    "notable_items_eps": {"value": -0.73, "source": "B0191", "not_disclosed": false},
+    "nii": {"value": 683.0, "source": "B0073", "not_disclosed": false},
+    "nim": {"value": 3.48, "source": "B0200", "not_disclosed": false},
+    "nonint_income": {"value": -276.0, "source": "B0084", "not_disclosed": false},
+    "nonint_expense": {"value": 529.0, "source": "B0096", "not_disclosed": false},
+    "efficiency_ratio": {"value": 129.56, "source": "B0208", "not_disclosed": false},
+    "provision": {"value": -25.0, "source": "B0098", "not_disclosed": false},
+    "nco": {"value": 36.0, "source": "B0443", "not_disclosed": false},
+    "nco_ratio": {"value": 0.22, "source": "B0449", "not_disclosed": false},
+    "acl_ratio": {"value": 1.25, "source": "B0211", "not_disclosed": false},
+    "avg_loans": {"value": 64489.0, "source": "B0378", "not_disclosed": false},
+    "avg_deposits": {"value": 68553.0, "source": "B0379", "not_disclosed": false},
+    "eop_deposits": {"value": 67701.0, "source": "B0281", "not_disclosed": false},
+    "cet1": {"value": 10.3, "source": "B0213", "not_disclosed": false},
+    "tbvps": {"value": 13.84, "source": "B0223", "not_disclosed": false},
+    "rotce": {"value": -5.33, "source": "B0204", "not_disclosed": false},
+    "buybacks": {"value": 4.0, "source": "B0798", "not_disclosed": false}
+  },
+  "prior_quarter": {
+    "eps_reported": {"value": 0.54, "source": "B0109"},
+    "nii": {"value": 676.0, "source": "B0073"},
+    "nim": {"value": 3.49, "source": "B0200"},
+    "nonint_expense": {"value": 531.0, "source": "B0096"},
+    "provision": {"value": 15.0, "source": "B0098"}
+  },
+  "changes_qoq": {"eps_reported": -0.74, "nii": 7.0, "nim": -0.01, "nonint_expense": -2.0, "provision": -40.0},
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {"description": "Total notable items ($347m after tax): loss on pending sale of ~$4.5bn mortgage loans ($473m pre-tax), provision reversal on those loans (+$45m), restructuring ($3m), Visa derivative valuation ($5m)", "eps_impact": -0.73, "source": "B0191"}
+  ],
+  "guidance": [
+    {"item": "2026 adjusted revenue ex. deferred comp", "quote": "Low end of 3% – 7% prior: 3-7%", "source": "B0800"},
+    {"item": "2026 adjusted expenses ex. deferred comp", "quote": "~0%", "source": "B0800"},
+    {"item": "2026 net charge-offs", "quote": "0.15% – 0.25%", "source": "B0800"},
+    {"item": "2026 tax rate", "quote": "21% – 23%", "source": "B0800"},
+    {"item": "2026 CET1 ratio", "quote": "10.25% – 10.5% prior: ~10.5%", "source": "B0800"},
+    {"item": "2027 impact of mortgage sale", "quote": "+4% or +$45mm after-tax ~150 bps ‘27 ROTCE Improvement‘27 Earnings Accretion", "source": "B0784"}
+  ],
+  "note_markdown": "### FHN 3Q26: Reported loss on mortgage reset; core steady\n\n**Headline:** FHN reported a GAAP diluted loss of $(0.20), versus EPS of $0.54 in 2Q26. This note discusses **adjusted EPS**, which was $0.53, down $0.01 from $0.54, a slight miss versus the prior quarter. Notable items cost $0.73 ($347m after tax). Almost all of it is the $473m pre-tax loss from moving ~$4.5bn of low-yield consumer mortgages to held-for-sale ahead of a sale that settles early in 4Q.\n\n**EPS drivers (ex notable items):** Adjusted PPNR slipped to $362m from $364m. Adjusted fees fell $14m to $197m, mostly the deferred-comp swing (offset in expense). Adjusted provision rose to $20m from $15m, and the adjusted tax rate rose to 21.0% from 19.5%.\n\n**Revenue and margin:** GAAP NII was $683m (+$7m). FTE NIM dipped 1bp to 3.48% as interest-bearing deposit costs rose 12bp to 2.45% on brokered carryover and client pricing; loan yields rose 6bp. Adjusted expense fell to $521m. Adjusted efficiency was 58.9%; reported efficiency was 129.6% because of the loss.\n\n**Credit:** NCOs were $36m (22bp) versus 20bp. NPLs fell $49m to $482m. ACL/loans rose 1bp to 1.25% because the mortgages moved out of the loan base.\n\n**Capital and returns:** CET1 fell to 10.3% from 10.5% on the notable items. TBV/share fell 5% to $13.84. Buybacks were minimal at $4m. Adjusted ROTCE was 14.4%; reported ROTCE was -5.3%.\n\n**Guidance:** 2026 revenue is now at the low end of 3-7%. Expenses ~flat, NCOs 15-25bp. The CET1 range is cut to 10.25-10.5% from ~10.5%. Management guides the sale to +4% (~$45m) to 2027 earnings and ~150bp to ROTCE, before any redeployment.\n\n**Thesis:** A modest positive for 2027 earnings power and the loan-to-deposit ratio (to ~88%). It costs near-term capital and buybacks, and the revenue guide was trimmed. The thesis is largely intact."
+}

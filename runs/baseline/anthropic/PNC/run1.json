@@ -1,0 +1,169 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "PNC",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 4.97,
+    "source": "B0041",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 5.09,
+    "source": "B0043",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 1994.0,
+    "source": "B0126",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.12,
+    "source": "B0089",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 4206.0,
+    "source": "B0029",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 2.94,
+    "source": "B0058",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 2356.0,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 3751.0,
+    "source": "B0034",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 57.0,
+    "source": "B0060",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 189.0,
+    "source": "B0038",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 257.0,
+    "source": "B0052",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.28,
+    "source": "B0465",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.42,
+    "source": "B0053",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 372174.0,
+    "source": "B0817",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 461200.0,
+    "source": "B0050",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 466362.0,
+    "source": "B0437",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 9.8,
+    "source": "B0061",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 107.64,
+    "source": "B0046",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 18.28,
+    "source": "B0056",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 600.0,
+    "source": "B0117",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 4.81,
+    "source": "B0041"
+   },
+   "nii": {
+    "value": 4107.0,
+    "source": "B0029"
+   },
+   "nim": {
+    "value": 2.96,
+    "source": "B0058"
+   },
+   "nonint_expense": {
+    "value": 4098.0,
+    "source": "B0034"
+   },
+   "provision": {
+    "value": 191.0,
+    "source": "B0038"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.16,
+   "nii": 99.0,
+   "nim": -0.02,
+   "nonint_expense": -347.0,
+   "provision": -2.0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "FirstBank integration costs ($36m pre-tax) and significant items of negative $25m from net Visa activity; combined $48m after-tax",
+    "eps_impact": -0.12,
+    "source": "B0089"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "4Q26 share repurchases",
+    "quote": "Share repurchase activity in the fourth quarter of 2026 is expected to approximate third quarter 2026 share repurchase levels.",
+    "source": "B0118"
+   },
+   {
+    "item": "Fed funds rate assumption",
+    "quote": "Our baseline forecast is for the Federal Reserve to raise rates twice more, at the December 2026 and March 2027 FOMC meetings, ultimately bringing the federal funds rate to a range of 4.25% to 4.50%.",
+    "source": "B0607"
+   }
+  ],
+  "note_markdown": "### PNC 3Q26: Loan growth and cost discipline lift adjusted EPS\n\n**Headline:** GAAP diluted EPS was $4.97, up from $4.81 in 2Q26. This note focuses on **adjusted EPS of $5.09**, up $0.24 from $4.85, a beat versus the prior quarter. Integration costs ($36m) and Visa-related significant items (-$25m) cost $0.12 this quarter, versus $0.04 in 2Q26.\n\n**EPS drivers (underlying):** NII rose and adjusted expense fell $113m (-3%) on lower compensation. That more than offset lower capital markets fees after an elevated 2Q. PPNR rose 1% to $2,811m. Provision was stable at $189m, and the diluted share count fell to 401m.\n\n**Revenue and margin:** NII rose 2% to $4,206m on commercial loan growth and higher asset yields, partly offset by funding costs. NIM eased 2bp to 2.94%. Average loans rose $9.0bn (+2%), with commercial up $10.4bn on production and utilization. Fee income fell 6% to $2,142m, with capital markets and advisory down $144m. Efficiency improved to 57% from 60%.\n\n**Credit:** NCOs were $257m (28bp vs 25bp), including $35m tied to moving a $1.4bn student loan book to held-for-sale. NPLs rose 8% to $2.2bn, driven by commercial. ACL/loans fell to 1.42% from 1.48%.\n\n**Capital and returns:** CET1 was 9.8% (from 9.9%). PNC returned $1.4bn: $0.8bn of dividends and $0.6bn of buybacks. The quarterly dividend was raised to $2.00. AOCI widened to -$6.5bn and TBV/share fell to $107.64 from $111.09. ROTCE was 18.3%.\n\n**Guidance:** No formal NII or expense outlook in the release. 4Q buybacks are expected to approximate 3Q levels. The baseline assumes two more Fed hikes, taking fed funds to 4.25-4.50%.\n\n**Thesis:** Intact. Commercial growth and positive operating leverage support it, and FirstBank integration is progressing. Rising commercial NPLs and TBV pressure from rates are the watch points."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 4.97, \"source\": \"B0041\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": 5.09, \"source\": \"B0043\", \"not_disclosed\": false},\n    \"net_income_common\": {\"value\": 1994.0, \"source\": \"B0126\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": -0.12, \"source\": \"B0089\", \"not_disclosed\": false},\n    \"nii\": {\"value\": 4206.0, \"source\": \"B0029\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 2.94, \"source\": \"B0058\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 2356.0, \"source\": \"B0032\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 3751.0, \"source\": \"B0034\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 57.0, \"source\": \"B0060\", \"not_disclosed\": false},\n    \"provision\": {\"value\": 189.0, \"source\": \"B0038\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 257.0, \"source\": \"B0052\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.28, \"source\": \"B0465\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.42, \"source\": \"B0053\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 372174.0, \"source\": \"B0817\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 461200.0, \"source\": \"B0050\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 466362.0, \"source\": \"B0437\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 9.8, \"source\": \"B0061\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 107.64, \"source\": \"B0046\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 18.28, \"source\": \"B0056\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 600.0, \"source\": \"B0117\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 4.81, \"source\": \"B0041\"},\n    \"nii\": {\"value\": 4107.0, \"source\": \"B0029\"},\n    \"nim\": {\"value\": 2.96, \"source\": \"B0058\"},\n    \"nonint_expense\": {\"value\": 4098.0, \"source\": \"B0034\"},\n    \"provision\": {\"value\": 191.0, \"source\": \"B0038\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": 0.16, \"nii\": 99.0, \"nim\": -0.02, \"nonint_expense\": -347.0, \"provision\": -2.0},\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\"description\": \"FirstBank integration costs ($36m pre-tax) and significant items of negative $25m from net Visa activity; combined $48m after-tax\", \"eps_impact\": -0.12, \"source\": \"B0089\"}\n  ],\n  \"guidance\": [\n    {\"item\": \"4Q26 share repurchases\", \"quote\": \"Share repurchase activity in the fourth quarter of 2026 is expected to approximate third quarter 2026 share repurchase levels.\", \"source\": \"B0118\"},\n    {\"item\": \"Fed funds rate assumption\", \"quote\": \"Our baseline forecast is for the Federal Reserve to raise rates twice more, at the December 2026 and March 2027 FOMC meetings, ultimately bringing the federal funds rate to a range of 4.25% to 4.50%.\", \"source\": \"B0607\"}\n  ],\n  \"note_markdown\": \"### PNC 3Q26: Loan growth and cost discipline lift adjusted EPS\\n\\n**Headline:** GAAP diluted EPS was $4.97, up from $4.81 in 2Q26. This note focuses on **adjusted EPS of $5.09**, up $0.24 from $4.85, a beat versus the prior quarter. Integration costs ($36m) and Visa-related significant items (-$25m) cost $0.12 this quarter, versus $0.04 in 2Q26.\\n\\n**EPS drivers (underlying):** NII rose and adjusted expense fell $113m (-3%) on lower compensation. That more than offset lower capital markets fees after an elevated 2Q. PPNR rose 1% to $2,811m. Provision was stable at $189m, and the diluted share count fell to 401m.\\n\\n**Revenue and margin:** NII rose 2% to $4,206m on commercial loan growth and higher asset yields, partly offset by funding costs. NIM eased 2bp to 2.94%. Average loans rose $9.0bn (+2%), with commercial up $10.4bn on production and utilization. Fee income fell 6% to $2,142m, with capital markets and advisory down $144m. Efficiency improved to 57% from 60%.\\n\\n**Credit:** NCOs were $257m (28bp vs 25bp), including $35m tied to moving a $1.4bn student loan book to held-for-sale. NPLs rose 8% to $2.2bn, driven by commercial. ACL/loans fell to 1.42% from 1.48%.\\n\\n**Capital and returns:** CET1 was 9.8% (from 9.9%). PNC returned $1.4bn: $0.8bn of dividends and $0.6bn of buybacks. The quarterly dividend was raised to $2.00. AOCI widened to -$6.5bn and TBV/share fell to $107.64 from $111.09. ROTCE was 18.3%.\\n\\n**Guidance:** No formal NII or expense outlook in the release. 4Q buybacks are expected to approximate 3Q levels. The baseline assumes two more Fed hikes, taking fed funds to 4.25-4.50%.\\n\\n**Thesis:** Intact. Commercial growth and positive operating leverage support it, and FirstBank integration is progressing. Rising commercial NPLs and TBV pressure from rates are the watch points.\"\n}\n"
+}

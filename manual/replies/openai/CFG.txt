@@ -1,0 +1,164 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 1.41,
+      "source": "B0052",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "net_income_common": {
+      "value": 599,
+      "source": "B0048",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "nii": {
+      "value": 1675,
+      "source": "B0040",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.19,
+      "source": "B0055",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 647,
+      "source": "B0041",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 1393,
+      "source": "B0043",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 60,
+      "source": "B0057",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 125,
+      "source": "B0045",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 137,
+      "source": "B0282",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.37,
+      "source": "B0069",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.47,
+      "source": "B0065",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 147354,
+      "source": "B0188",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 183736,
+      "source": "B0217",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 185228,
+      "source": "B0084",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.5,
+      "source": "B0061",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 35.78,
+      "source": "B0258",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 15.1,
+      "source": "B0058",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 125,
+      "source": "B0272",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 1.3,
+      "source": "B0052"
+    },
+    "nii": {
+      "value": 1631,
+      "source": "B0040"
+    },
+    "nim": {
+      "value": 3.17,
+      "source": "B0055"
+    },
+    "nonint_expense": {
+      "value": 1394,
+      "source": "B0043"
+    },
+    "provision": {
+      "value": 134,
+      "source": "B0045"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": 0.11,
+    "nii": 44,
+    "nim": 0.02,
+    "nonint_expense": -1,
+    "provision": -9
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+    {
+      "item": "4Q26 NII growth",
+      "quote": "Up ~2.5% to 3%",
+      "source": "B0454"
+    },
+    {
+      "item": "4Q26 noninterest income growth",
+      "quote": "Up ~4 to 5%",
+      "source": "B0454"
+    },
+    {
+      "item": "4Q26 noninterest expense growth",
+      "quote": "Up ~1%",
+      "source": "B0454"
+    },
+    {
+      "item": "4Q26 net charge-offs",
+      "quote": "Stable to down slightly",
+      "source": "B0454"
+    },
+    {
+      "item": "4Q26 CET1 and repurchases",
+      "quote": "~10.6% to 10.7%; expect ~$200 million in share repurchases",
+      "source": "B0454"
+    }
+  ],
+  "note_markdown": "### CFG — Earnings momentum continues\n\n**Reported GAAP diluted EPS of $1.41 beat the prior quarter's $1.30 by $0.11**, an 8% sequential increase. Net income available to common shareholders increased to $599 million from $554 million [B0048, B0052]. No company-designated aggregate notable-item EPS adjustment was identified.\n\n**Revenue and margin:** Net interest income increased $44 million to $1,675 million, and FTE NIM expanded 2 basis points to 3.19%. Management attributed improvement to lower terminated-swap impacts and fixed-rate asset repricing, partly offset by funding costs [B0040, B0055, B0112]. Noninterest income declined $5 million to $647 million, while noninterest expense was essentially flat at $1,393 million. The efficiency ratio improved to 60.0% [B0041, B0043, B0057].\n\n**Credit:** Provision declined to $125 million from $134 million. Net charge-offs totaled $137 million, with the annualized ratio stable at 0.37%. ACL coverage was 1.47% [B0045, B0282, B0069, B0065].\n\n**Capital and returns:** CET1 stood at 10.5%, ROTCE reached 15.1%, and tangible book value was $35.78 per share. Citizens repurchased $125 million of shares [B0061, B0058, B0258, B0272].\n\n**Outlook:** Management projected fourth-quarter NII growth of approximately 2.5%–3%, noninterest income growth of 4%–5%, expense growth around 1%, and stable-to-slightly-lower charge-offs [B0454].\n\n**Investment thesis:** Incrementally positive. Improving spread income, operating efficiency and profitability support the earnings-growth case, although funding costs and credit normalization remain important monitoring points."
+}

@@ -1,0 +1,179 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 5.04,
+      "source": "B0021",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 5.08,
+      "source": "B0062",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": 732,
+      "source": "B0020",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": 0.0,
+      "source": "B0756",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 1793,
+      "source": "B0013",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.65,
+      "source": "B0033",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 743,
+      "source": "B0017",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 1393,
+      "source": "B0018",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 54.4,
+      "source": "B0034",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 135,
+      "source": "B0016",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 127,
+      "source": "B0126",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.35,
+      "source": "B0035",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.51,
+      "source": "B0036",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 143296,
+      "source": "B0028",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 166777,
+      "source": "B0029",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 167510,
+      "source": "B0403",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.16,
+      "source": "B0038",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 115.88,
+      "source": "B0066",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 17.29,
+      "source": "B0064",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 323,
+      "source": "B0048",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 5.32,
+      "source": "B0021"
+    },
+    "nii": {
+      "value": 1792,
+      "source": "B0013"
+    },
+    "nim": {
+      "value": 3.7,
+      "source": "B0033"
+    },
+    "nonint_expense": {
+      "value": 1349,
+      "source": "B0018"
+    },
+    "provision": {
+      "value": 120,
+      "source": "B0016"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": -0.28,
+    "nii": 1,
+    "nim": -0.05,
+    "nonint_expense": 44,
+    "provision": 15
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+    {
+      "item": "4Q26 Net Interest Income (TE)",
+      "quote": "$1.83 to $1.85 billion",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 NIM",
+      "quote": "4Q NIM in the mid-3.60's",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 Fee Income",
+      "quote": "$710 to $730 million",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 GAAP Expense",
+      "quote": "$1.39 to $1.41 billion",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 Net Charge-Offs",
+      "quote": "35 to 40 basis points",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 Average Loans (incl. HFS)",
+      "quote": "$145 to $146 billion",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 Average Deposits",
+      "quote": "$169 to $170 billion",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 CET1 Capital Ratio",
+      "quote": "10.0% to 10.25%",
+      "source": "B0784"
+    }
+  ],
+  "note_markdown": "**M&T Bank (MTB) 3Q26: Sequential Miss on Higher Tech Spend and Credit Costs Despite Solid Growth**\n\n**Headline & EPS Drivers:** Discussing **reported** GAAP diluted EPS (with zero notable items in 3Q26 or 2Q26; net operating EPS excluding $0.04 of intangible amortization was $5.08 vs. $5.35 in 2Q26) [B0062, B0691, B0756], MTB earned $5.04 in 3Q26, missing 2Q26 ($5.32) by $0.28 (-5% QoQ), though up 5% YoY [B0021, B0756]. The sequential decline was driven by a $44 million (+3%) jump in noninterest expense [B0018], a $15 million (+13%) increase in credit provision [B0125], and $42 million in preferred dividends (up from prior quarters after preferred issuance) [B0190, B0444], while total revenue was essentially flat (+$4 million QoQ) [B0756].\n\n**Revenue & Margin:** GAAP NII edged up $1 million QoQ to $1,793 million ($1,805 million TE) as an extra day and $2.6 billion (+2% QoQ) of average loan growth—led by CRE (+$1.6 billion), consumer (+$634 million), and residential real estate (+$367 million)—were offset by lower nonaccrual interest and higher funding costs [B0013, B0015, B0043, B0044]. FTE NIM compressed 5 bps QoQ to 3.65% (-3 bps from nonaccrual interest, -2 bps from higher funding costs), as interest-bearing deposit costs rose 10 bps to 2.05% alongside $3.3 billion (+2% QoQ) of average deposit growth [B0033, B0760, B0768]. Noninterest income rose $3 million QoQ to $743 million, as a $25 million jump in mortgage banking (from $62.9 billion of new residential sub-servicing added in June) offset lower BLG distributions (-$10 million), capital markets (-$9 million), and seasonal trust fees (-$5 million) [B0143, B0147-B0151]. Noninterest expense rose $44 million to $1,393 million on outside data processing/software (+$19 million), professional services (+$8 million), salaries (+$6 million), and Visa litigation (+$6 million), pushing the efficiency ratio up 160 bps to 54.4% [B0034, B0168-B0173].\n\n**Credit:** Credit normalized upward from a low 2Q26 base. NCOs jumped to $127 million (0.35% vs. 0.23% in 2Q26), nonaccruals rose 7% to $1,298 million (0.90% vs. 0.85%), and criticized C&I/CRE loans rose $245 million to $6.1 billion (6.6%) [B0114, B0118, B0126, B0127, B0776]. Provision increased $15 million to $135 million, with ALLL/loans easing 2 bps to 1.51% [B0120, B0125].\n\n**Capital & Returns:** Net operating ROTCE declined 128 bps QoQ to a still-strong 17.29% [B0064]. CET1 slipped 3 bps to 10.16% after $323 million in buybacks [B0038, B0048], while TBVPS fell 1% to $115.88 on $588 million of AOCI headwinds [B0066, B0191].\n\n**Guidance & Thesis:** 4Q26 outlook guides TE NII up to $1.83–$1.85 billion (mid-3.60s NIM), fees $710–$730 million, GAAP expenses $1.39–$1.41 billion, and NCOs 35–40 bps [B0784]. Higher expenses and normalizing credit temper near-term upside, leaving the thesis intact but balanced."
+}

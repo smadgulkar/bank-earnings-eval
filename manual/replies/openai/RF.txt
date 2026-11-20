@@ -1,0 +1,144 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 0.71,
+      "source": "B0019",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 0.73,
+      "source": "B0020",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": 611,
+      "source": "B0017",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": -0.02,
+      "source": "B0019",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 1298,
+      "source": "B0051",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.68,
+      "source": "B0054",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 675,
+      "source": "B0066",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 1118,
+      "source": "B0091",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 56.2,
+      "source": "B0040",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 68,
+      "source": "B0167",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 72,
+      "source": "B0168",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.29,
+      "source": "B0169",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.61,
+      "source": "B0164",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 99183,
+      "source": "B0025",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 129140,
+      "source": "B0026",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 129510,
+      "source": "B0154",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.8,
+      "source": "B0183",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 12.65,
+      "source": "B0188",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 21.27,
+      "source": "B0037",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 95,
+      "source": "B0191",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.64,
+      "source": "B0019"
+    },
+    "nii": {
+      "value": 1277,
+      "source": "B0051"
+    },
+    "nim": {
+      "value": 3.66,
+      "source": "B0054"
+    },
+    "nonint_expense": {
+      "value": 1121,
+      "source": "B0091"
+    },
+    "provision": {
+      "value": 68,
+      "source": "B0167"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": 0.07,
+    "nii": 21,
+    "nim": 0.02,
+    "nonint_expense": -3,
+    "provision": 0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "Net effect of company adjustments reconciling reported EPS to adjusted EPS",
+      "eps_impact": -0.02,
+      "source": "B1145"
+    }
+  ],
+  "guidance": [],
+  "note_markdown": "### RF — Broad earnings improvement with healthier credit\n\n**Reported GAAP diluted EPS increased to $0.71 from $0.64 sequentially**, while adjusted EPS rose from $0.68 to $0.73. Net income available to common shareholders advanced to $611 million from $549 million [B0017–B0020]. The adjusted comparison excludes the bank's identified non-GAAP adjustments rather than treating reported and underlying results as interchangeable.\n\n**Revenue and margin:** GAAP NII increased $21 million to $1,298 million, and FTE NIM expanded 2 basis points to 3.68%. Noninterest income rose to $675 million from $630 million, supported by capital markets and other fee categories. Noninterest expense edged down to $1,118 million from $1,121 million, improving the reported efficiency ratio to 56.2% from 58.3% [B0051, B0054, B0066, B0059, B0091, B0040].\n\n**Credit:** Provision remained steady at $68 million, while net charge-offs declined to $72 million from $102 million. The annualized charge-off ratio improved to 0.29% from 0.42%. ACL coverage stood at 1.61% [B0167–B0169, B0164].\n\n**Capital and returns:** Estimated CET1 was 10.8%, reported ROTCE reached 21.27%, and tangible common book value was $12.65 per share. Share repurchases totaled $95 million [B0183, B0037, B0188, B0191].\n\n**Guidance:** No explicit quantified revision to forward guidance was identified in the supplied release.\n\n**Investment thesis:** Positive incremental development. Improved spread income, stronger fees, operating leverage and better credit performance reinforce Regions' profitability case."
+}

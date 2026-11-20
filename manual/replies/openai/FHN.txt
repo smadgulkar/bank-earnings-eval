@@ -1,0 +1,175 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": -0.2,
+      "source": "B0109",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 0.53,
+      "source": "B0148",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": -94,
+      "source": "B0105",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": -0.73,
+      "source": "B0022",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 683,
+      "source": "B0073",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.48,
+      "source": "B0200",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": -276,
+      "source": "B0084",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 529,
+      "source": "B0096",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 129.56,
+      "source": "B0208",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": -25,
+      "source": "B0098",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 36,
+      "source": "B0443",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.22,
+      "source": "B0449",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.25,
+      "source": "B0211",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 64489,
+      "source": "B0378",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 68553,
+      "source": "B0379",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 67701,
+      "source": "B0281",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.3,
+      "source": "B0213",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 13.84,
+      "source": "B0223",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": -5.33,
+      "source": "B0204",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.54,
+      "source": "B0109"
+    },
+    "nii": {
+      "value": 676,
+      "source": "B0073"
+    },
+    "nim": {
+      "value": 3.49,
+      "source": "B0200"
+    },
+    "nonint_expense": {
+      "value": 531,
+      "source": "B0096"
+    },
+    "provision": {
+      "value": 15,
+      "source": "B0098"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": -0.74,
+    "nii": 7,
+    "nim": -0.01,
+    "nonint_expense": -2,
+    "provision": -40
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "Aggregate adverse impact of notable items, including mortgage-loan sale loss, related provision reversal and restructuring expenses",
+      "eps_impact": -0.73,
+      "source": "B0022"
+    },
+    {
+      "description": "Loss on pending sale of mortgage loans, pre-tax $473 million",
+      "eps_impact": null,
+      "source": "B0160"
+    },
+    {
+      "description": "Provision reversal related to pending sale of mortgage loans, pre-tax $45 million benefit",
+      "eps_impact": null,
+      "source": "B0161"
+    },
+    {
+      "description": "Restructuring and other notable expenses",
+      "eps_impact": null,
+      "source": "B0162"
+    }
+  ],
+  "guidance": [
+    {
+      "item": "2026 adjusted revenue excluding deferred compensation",
+      "quote": "Low end of 3% – 7% prior: 3-7%",
+      "source": "B0800"
+    },
+    {
+      "item": "2026 adjusted expenses excluding deferred compensation",
+      "quote": "~0% Flat guidance",
+      "source": "B0800"
+    },
+    {
+      "item": "2026 net charge-offs",
+      "quote": "0.15% – 0.25%",
+      "source": "B0800"
+    }
+  ],
+  "note_markdown": "### FHN — Strategic repositioning obscures underlying profitability\n\n**Reported GAAP diluted EPS was negative $0.20 versus positive $0.54 in 2Q26**, a $0.74 sequential decline. The reported loss available to common shareholders was $94 million [B0105, B0109]. However, **adjusted EPS was $0.53**, down only $0.01 sequentially, after excluding $0.73 per share of adverse notable items [B0148, B0022].\n\n**EPS drivers:** The most significant unusual item was a $473 million pre-tax loss associated with the pending mortgage-loan sale, partially offset by a $45 million related provision reversal. Additional restructuring and other expenses contributed to the adjustment [B0160–B0165].\n\n**Revenue and margin:** GAAP NII increased $7 million to $683 million. FTE NIM slipped 1 basis point to 3.48%. Reported noninterest income was negative $276 million because of the repositioning, whereas adjusted noninterest income was $197 million. Noninterest expense declined to $529 million from $531 million [B0073, B0200, B0084, B0131, B0096].\n\n**Credit:** The reported provision was a $25 million benefit; net charge-offs totaled $36 million and ACL coverage reached 1.25% [B0098, B0443, B0211].\n\n**Capital and returns:** CET1 declined to 10.3%, while reported ROTCE was negative 5.33%. Adjusted ROTCE was 14.36%, and tangible book value was $13.84 per share [B0213, B0204, B0205, B0223].\n\n**Guidance:** Management indicated revenue growth near the low end of its previously communicated 3%–7% adjusted range, with approximately flat adjusted expenses [B0800].\n\n**Investment thesis:** Mixed. Core earnings remained relatively stable, but the repositioning meaningfully affected reported capital and book value. Execution and subsequent margin benefits are critical."
+}

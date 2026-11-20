@@ -1,0 +1,188 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "MTB",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 5.04,
+    "source": "B0021",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 5.08,
+    "source": "B0062",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 732.0,
+    "source": "B0020",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": null,
+    "source": null,
+    "not_disclosed": true
+   },
+   "nii": {
+    "value": 1793.0,
+    "source": "B0013",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.65,
+    "source": "B0077",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 743.0,
+    "source": "B0017",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1393.0,
+    "source": "B0018",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 54.4,
+    "source": "B0034",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 135.0,
+    "source": "B0016",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 127.0,
+    "source": "B0126",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.35,
+    "source": "B0127",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.51,
+    "source": "B0036",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 143296.0,
+    "source": "B0028",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 166777.0,
+    "source": "B0029",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 167510.0,
+    "source": "B0403",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.16,
+    "source": "B0185",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 115.88,
+    "source": "B0066",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 17.29,
+    "source": "B0064",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 323.0,
+    "source": "B0192",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 5.32,
+    "source": "B0021"
+   },
+   "nii": {
+    "value": 1792.0,
+    "source": "B0013"
+   },
+   "nim": {
+    "value": 3.7,
+    "source": "B0033"
+   },
+   "nonint_expense": {
+    "value": 1349.0,
+    "source": "B0018"
+   },
+   "provision": {
+    "value": 120.0,
+    "source": "B0016"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": -0.28,
+   "nii": 1.0,
+   "nim": -0.05,
+   "nonint_expense": 44.0,
+   "provision": 15.0
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+   {
+    "item": "4Q26 taxable-equivalent NII",
+    "quote": "Net Interest Income Taxable-equivalent $1.83 to $1.85 billion",
+    "source": "B0784"
+   },
+   {
+    "item": "4Q26 NIM",
+    "quote": "4Q NIM in the mid-3.60's",
+    "source": "B0784"
+   },
+   {
+    "item": "4Q26 fee income",
+    "quote": "Fee Income $710 to $730 million",
+    "source": "B0784"
+   },
+   {
+    "item": "4Q26 GAAP expense",
+    "quote": "GAAP Expense Includes intangible amortization $1.39 to $1.41 billion",
+    "source": "B0784"
+   },
+   {
+    "item": "4Q26 net charge-offs",
+    "quote": "Net Charge-Offs % of Average Loans 35 to 40 basis points",
+    "source": "B0784"
+   },
+   {
+    "item": "4Q26 average deposits",
+    "quote": "Deposits $169 to $170 billion",
+    "source": "B0784"
+   },
+   {
+    "item": "4Q26 CET1",
+    "quote": "CET1 Capital Ratio 10.0% to 10.25%",
+    "source": "B0784"
+   }
+  ],
+  "note_markdown": "### MTB 3Q26: Soft quarter on costs and credit\n\n**Headline (reported GAAP EPS):** Diluted EPS was $5.04, down from $5.32 in 2Q26, a miss versus the prior quarter (up from $4.82 YoY). M&T does not call out notable items. Its non-GAAP diluted net operating EPS, which excludes intangible amortization, was $5.08 versus $5.35. Reported EPS is used here since the gap is only amortization.\n\n**EPS drivers:** The QoQ decline came from expense (+$44m, +3%) and provision (+$15m). Revenue was essentially flat, and a lower share count (145.2m vs 146.8m diluted) only partly cushioned the drop.\n\n**Revenue and margin:** NII was flat at $1,793m (TE $1,805m). An extra day was offset by lower interest income on nonaccrual loans. TE NIM fell 5bp to 3.65% as liability costs rose (2.44% vs 2.36%). Average loans grew $2.6bn (+2%), led by CRE (+$1.6bn). Fees rose $3m to $743m: mortgage was up $25m on new sub-servicing, offset by lower capital markets and a smaller BLG distribution. Tech-driven expense growth pushed efficiency to 54.4% from 52.8%.\n\n**Credit:** NCOs jumped to $127m (35bp) from $80m (23bp). Nonaccruals rose 7% to $1.30bn (0.90%). The allowance for loan losses edged down to 1.51% of loans on fewer criticized loans.\n\n**Capital and returns:** CET1 was 10.16%, about flat. Buybacks slowed to $323m from $465m. AOCI fell $588m. Tangible equity per share fell to $115.88 from $117.41. ROTCE (net operating) was 17.29% versus 18.57%.\n\n**Guidance:** For 4Q26: TE NII $1.83-1.85bn (a step-up), NIM mid-3.60s, fees $710-730m (below 3Q), expense $1.39-1.41bn, NCOs 35-40bp, CET1 10.0-10.25%.\n\n**Thesis:** No change. Loan growth and the NII guide are supportive. However, NCOs guided at the 3Q level and slower buybacks temper the near-term EPS trajectory."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 5.04, \"source\": \"B0021\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": 5.08, \"source\": \"B0062\", \"not_disclosed\": false},\n    \"net_income_common\": {\"value\": 732.0, \"source\": \"B0020\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": null, \"source\": null, \"not_disclosed\": true},\n    \"nii\": {\"value\": 1793.0, \"source\": \"B0013\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 3.65, \"source\": \"B0077\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 743.0, \"source\": \"B0017\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 1393.0, \"source\": \"B0018\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 54.4, \"source\": \"B0034\", \"not_disclosed\": false},\n    \"provision\": {\"value\": 135.0, \"source\": \"B0016\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 127.0, \"source\": \"B0126\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.35, \"source\": \"B0127\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.51, \"source\": \"B0036\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 143296.0, \"source\": \"B0028\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 166777.0, \"source\": \"B0029\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 167510.0, \"source\": \"B0403\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 10.16, \"source\": \"B0185\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 115.88, \"source\": \"B0066\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 17.29, \"source\": \"B0064\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 323.0, \"source\": \"B0192\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 5.32, \"source\": \"B0021\"},\n    \"nii\": {\"value\": 1792.0, \"source\": \"B0013\"},\n    \"nim\": {\"value\": 3.70, \"source\": \"B0033\"},\n    \"nonint_expense\": {\"value\": 1349.0, \"source\": \"B0018\"},\n    \"provision\": {\"value\": 120.0, \"source\": \"B0016\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": -0.28, \"nii\": 1.0, \"nim\": -0.05, \"nonint_expense\": 44.0, \"provision\": 15.0},\n  \"eps_basis_used_in_note\": \"reported\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [],\n  \"guidance\": [\n    {\"item\": \"4Q26 taxable-equivalent NII\", \"quote\": \"Net Interest Income Taxable-equivalent $1.83 to $1.85 billion\", \"source\": \"B0784\"},\n    {\"item\": \"4Q26 NIM\", \"quote\": \"4Q NIM in the mid-3.60's\", \"source\": \"B0784\"},\n    {\"item\": \"4Q26 fee income\", \"quote\": \"Fee Income $710 to $730 million\", \"source\": \"B0784\"},\n    {\"item\": \"4Q26 GAAP expense\", \"quote\": \"GAAP Expense Includes intangible amortization $1.39 to $1.41 billion\", \"source\": \"B0784\"},\n    {\"item\": \"4Q26 net charge-offs\", \"quote\": \"Net Charge-Offs % of Average Loans 35 to 40 basis points\", \"source\": \"B0784\"},\n    {\"item\": \"4Q26 average deposits\", \"quote\": \"Deposits $169 to $170 billion\", \"source\": \"B0784\"},\n    {\"item\": \"4Q26 CET1\", \"quote\": \"CET1 Capital Ratio 10.0% to 10.25%\", \"source\": \"B0784\"}\n  ],\n  \"note_markdown\": \"### MTB 3Q26: Soft quarter on costs and credit\\n\\n**Headline (reported GAAP EPS):** Diluted EPS was $5.04, down from $5.32 in 2Q26, a miss versus the prior quarter (up from $4.82 YoY). M&T does not call out notable items. Its non-GAAP diluted net operating EPS, which excludes intangible amortization, was $5.08 versus $5.35. Reported EPS is used here since the gap is only amortization.\\n\\n**EPS drivers:** The QoQ decline came from expense (+$44m, +3%) and provision (+$15m). Revenue was essentially flat, and a lower share count (145.2m vs 146.8m diluted) only partly cushioned the drop.\\n\\n**Revenue and margin:** NII was flat at $1,793m (TE $1,805m). An extra day was offset by lower interest income on nonaccrual loans. TE NIM fell 5bp to 3.65% as liability costs rose (2.44% vs 2.36%). Average loans grew $2.6bn (+2%), led by CRE (+$1.6bn). Fees rose $3m to $743m: mortgage was up $25m on new sub-servicing, offset by lower capital markets and a smaller BLG distribution. Tech-driven expense growth pushed efficiency to 54.4% from 52.8%.\\n\\n**Credit:** NCOs jumped to $127m (35bp) from $80m (23bp). Nonaccruals rose 7% to $1.30bn (0.90%). The allowance for loan losses edged down to 1.51% of loans on fewer criticized loans.\\n\\n**Capital and returns:** CET1 was 10.16%, about flat. Buybacks slowed to $323m from $465m. AOCI fell $588m. Tangible equity per share fell to $115.88 from $117.41. ROTCE (net operating) was 17.29% versus 18.57%.\\n\\n**Guidance:** For 4Q26: TE NII $1.83-1.85bn (a step-up), NIM mid-3.60s, fees $710-730m (below 3Q), expense $1.39-1.41bn, NCOs 35-40bp, CET1 10.0-10.25%.\\n\\n**Thesis:** No change. Loan growth and the NII guide are supportive. However, NCOs guided at the 3Q level and slower buybacks temper the near-term EPS trajectory.\"\n}\n"
+}

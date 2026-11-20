@@ -1,0 +1,189 @@
+{
+ "label": "google",
+ "provider": "chat-app",
+ "model": "Carbon",
+ "ticker": "FITB",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.9,
+    "source": "B0030",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 1.13,
+    "source": "B0008",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 828,
+    "source": "B0023",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.23,
+    "source": "B0075",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 2271,
+    "source": "B0024",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.34,
+    "source": "B0044",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 1008,
+    "source": "B0026",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 2049,
+    "source": "B0027",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 62.4,
+    "source": "B0045",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 122,
+    "source": "B0058",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 139,
+    "source": "B0275",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.31,
+    "source": "B0037",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.74,
+    "source": "B0261",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 180011,
+    "source": "B0179",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 238344,
+    "source": "B0035",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 239486,
+    "source": "B0604",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.02,
+    "source": "B0043",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 22.01,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 16.6,
+    "source": "B0042",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 0,
+    "source": "B0292",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.83,
+    "source": "B0030"
+   },
+   "nii": {
+    "value": 2215,
+    "source": "B0024"
+   },
+   "nim": {
+    "value": 3.36,
+    "source": "B0044"
+   },
+   "nonint_expense": {
+    "value": 2109,
+    "source": "B0027"
+   },
+   "provision": {
+    "value": 129,
+    "source": "B0058"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.07,
+   "nii": 56,
+   "nim": -0.02,
+   "nonint_expense": -60,
+   "provision": -7
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Combined certain items: merger-related charges ($225M pre-tax / $171M after-tax), interchange litigation matters ($34M pre-tax / $26M after-tax), and technology-related asset impairments ($19M pre-tax / $14M after-tax)",
+    "eps_impact": -0.23,
+    "source": "B0075"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "4Q26 Avg. loans & leases (incl. HFS)",
+    "quote": "up 1 - 2%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 Net interest income (FTE)",
+    "quote": "up 2.5 - 3.5%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 Noninterest income (ex. securities g/l)",
+    "quote": "up 2 - 4%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 Noninterest expense (ex. NQDC and acquisition charges)",
+    "quote": "down 2 - 3%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 Net charge-off ratio",
+    "quote": "30 - 35 bps",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 Effective tax rate",
+    "quote": "22.5%",
+    "source": "B1273"
+   }
+  ],
+  "note_markdown": "**Fifth Third Bancorp (FITB) 3Q26: Strong Post-Comerica Inflection with 20.6% Adjusted ROTCE**\n\n**Headline & EPS Drivers:** Discussing **adjusted** diluted EPS, FITB delivered $1.13 in 3Q26, up sharply from 2Q26 (reported GAAP EPS was $0.90 vs. $0.83 in 2Q26, +8% QoQ) [B0008, B0030]. Reported results included $(0.23) per share ($211 million after-tax) of notable items: $171 million after-tax ($225 million pre-tax) in Comerica merger-related charges, $26 million after-tax in interchange litigation matters, and $14 million after-tax in technology asset impairments [B0071-B0075, B1325]. Stripping these out, earnings power accelerated on 8% QoQ adjusted PPNR growth to $1,512 million (+450 bps positive operating leverage) [B0016, B1177], a $7 million lower credit provision ($122 million) [B0058], and a 90 bps lower effective tax rate (21.8%) [B0295].\n\n**Revenue & Margin:** GAAP NII rose $56 million (+3% QoQ) to $2,271 million ($2,276 million FTE) on higher market rates, fixed-rate asset repricing, loan growth, and one extra day [B0024, B0025, B0092, B1257]. FTE NIM slipped 2 bps QoQ to 3.34%, entirely due to elevated conversion-related cash (-4 bps) and day count (-1 bp), while core loan/deposit performance (+2 bps) and fixed-rate repricing (+1 bp) expanded underlying margin [B0044, B1257]. Reported noninterest income fell 5% QoQ to $1,008 million on $39 million of litigation/merger charges and $(5) million securities losses [B0108, B0116-B0119]; adjusted noninterest income rose 1% QoQ to $1,052 million as mortgage (+21%), commercial banking (+2%), wealth (+1%), and commercial payments (+1%) outweighed a 5% dip in capital markets [B0100-B0105, B0121]. Reported expenses fell 3% QoQ to $2,049 million [B0137]; adjusted expenses ex-deferred comp fell 2% QoQ to $1,816 million, driving the adjusted efficiency ratio down 250 bps to 54.6% (reported 62.4%) [B0152, B1172, B1173].\n\n**Credit:** Asset quality remained resilient. NCOs were $139 million, or 0.31% of average portfolio loans (+1 bp QoQ) [B0275]. The ACL ratio eased 2 bps to 1.74% ($3,131 million), covering NPLs by 292% [B0259, B0261, B0262]. NPAs ticked up 4 bps to 0.64% due to $74 million of Comerica branch real estate moved to OREO [B0245, B0277].\n\n**Capital & Returns:** Reported ROTCE rose 100 bps to 16.6%, while adjusted ROTCE hit 20.6% (+160 bps QoQ) [B0042, B1168]. CET1 climbed 9 bps to 10.02% with zero share buybacks [B0288, B0292]; TBVPS fell 5% QoQ to $22.01 on a $1.6 billion AOCI widening [B0032, B0036].\n\n**Guidance & Thesis:** With the Comerica systems conversion complete and the full $850 million expense synergy run-rate locked in for 4Q26 [B1253], 4Q26 guidance projects NII up 2.5%\u20133.5%, fees up 2%\u20134%, adjusted expenses down 2%\u20133%, and NCOs at 30\u201335 bps [B1273]. Execution de-risks the Comerica merger and strengthens the bull thesis."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": 0.9,\n      \"source\": \"B0030\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": 1.13,\n      \"source\": \"B0008\",\n      \"not_disclosed\": false\n    },\n    \"net_income_common\": {\n      \"value\": 828,\n      \"source\": \"B0023\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": -0.23,\n      \"source\": \"B0075\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 2271,\n      \"source\": \"B0024\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 3.34,\n      \"source\": \"B0044\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": 1008,\n      \"source\": \"B0026\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 2049,\n      \"source\": \"B0027\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 62.4,\n      \"source\": \"B0045\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": 122,\n      \"source\": \"B0058\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 139,\n      \"source\": \"B0275\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.31,\n      \"source\": \"B0037\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.74,\n      \"source\": \"B0261\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 180011,\n      \"source\": \"B0179\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 238344,\n      \"source\": \"B0035\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 239486,\n      \"source\": \"B0604\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 10.02,\n      \"source\": \"B0043\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 22.01,\n      \"source\": \"B0032\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": 16.6,\n      \"source\": \"B0042\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 0,\n      \"source\": \"B0292\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 0.83,\n      \"source\": \"B0030\"\n    },\n    \"nii\": {\n      \"value\": 2215,\n      \"source\": \"B0024\"\n    },\n    \"nim\": {\n      \"value\": 3.36,\n      \"source\": \"B0044\"\n    },\n    \"nonint_expense\": {\n      \"value\": 2109,\n      \"source\": \"B0027\"\n    },\n    \"provision\": {\n      \"value\": 129,\n      \"source\": \"B0058\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": 0.07,\n    \"nii\": 56,\n    \"nim\": -0.02,\n    \"nonint_expense\": -60,\n    \"provision\": -7\n  },\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"Combined certain items: merger-related charges ($225M pre-tax / $171M after-tax), interchange litigation matters ($34M pre-tax / $26M after-tax), and technology-related asset impairments ($19M pre-tax / $14M after-tax)\",\n      \"eps_impact\": -0.23,\n      \"source\": \"B0075\"\n    }\n  ],\n  \"guidance\": [\n    {\n      \"item\": \"4Q26 Avg. loans & leases (incl. HFS)\",\n      \"quote\": \"up 1 - 2%\",\n      \"source\": \"B1273\"\n    },\n    {\n      \"item\": \"4Q26 Net interest income (FTE)\",\n      \"quote\": \"up 2.5 - 3.5%\",\n      \"source\": \"B1273\"\n    },\n    {\n      \"item\": \"4Q26 Noninterest income (ex. securities g/l)\",\n      \"quote\": \"up 2 - 4%\",\n      \"source\": \"B1273\"\n    },\n    {\n      \"item\": \"4Q26 Noninterest expense (ex. NQDC and acquisition charges)\",\n      \"quote\": \"down 2 - 3%\",\n      \"source\": \"B1273\"\n    },\n    {\n      \"item\": \"4Q26 Net charge-off ratio\",\n      \"quote\": \"30 - 35 bps\",\n      \"source\": \"B1273\"\n    },\n    {\n      \"item\": \"4Q26 Effective tax rate\",\n      \"quote\": \"22.5%\",\n      \"source\": \"B1273\"\n    }\n  ],\n  \"note_markdown\": \"**Fifth Third Bancorp (FITB) 3Q26: Strong Post-Comerica Inflection with 20.6% Adjusted ROTCE**\\n\\n**Headline & EPS Drivers:** Discussing **adjusted** diluted EPS, FITB delivered $1.13 in 3Q26, up sharply from 2Q26 (reported GAAP EPS was $0.90 vs. $0.83 in 2Q26, +8% QoQ) [B0008, B0030]. Reported results included $(0.23) per share ($211 million after-tax) of notable items: $171 million after-tax ($225 million pre-tax) in Comerica merger-related charges, $26 million after-tax in interchange litigation matters, and $14 million after-tax in technology asset impairments [B0071-B0075, B1325]. Stripping these out, earnings power accelerated on 8% QoQ adjusted PPNR growth to $1,512 million (+450 bps positive operating leverage) [B0016, B1177], a $7 million lower credit provision ($122 million) [B0058], and a 90 bps lower effective tax rate (21.8%) [B0295].\\n\\n**Revenue & Margin:** GAAP NII rose $56 million (+3% QoQ) to $2,271 million ($2,276 million FTE) on higher market rates, fixed-rate asset repricing, loan growth, and one extra day [B0024, B0025, B0092, B1257]. FTE NIM slipped 2 bps QoQ to 3.34%, entirely due to elevated conversion-related cash (-4 bps) and day count (-1 bp), while core loan/deposit performance (+2 bps) and fixed-rate repricing (+1 bp) expanded underlying margin [B0044, B1257]. Reported noninterest income fell 5% QoQ to $1,008 million on $39 million of litigation/merger charges and $(5) million securities losses [B0108, B0116-B0119]; adjusted noninterest income rose 1% QoQ to $1,052 million as mortgage (+21%), commercial banking (+2%), wealth (+1%), and commercial payments (+1%) outweighed a 5% dip in capital markets [B0100-B0105, B0121]. Reported expenses fell 3% QoQ to $2,049 million [B0137]; adjusted expenses ex-deferred comp fell 2% QoQ to $1,816 million, driving the adjusted efficiency ratio down 250 bps to 54.6% (reported 62.4%) [B0152, B1172, B1173].\\n\\n**Credit:** Asset quality remained resilient. NCOs were $139 million, or 0.31% of average portfolio loans (+1 bp QoQ) [B0275]. The ACL ratio eased 2 bps to 1.74% ($3,131 million), covering NPLs by 292% [B0259, B0261, B0262]. NPAs ticked up 4 bps to 0.64% due to $74 million of Comerica branch real estate moved to OREO [B0245, B0277].\\n\\n**Capital & Returns:** Reported ROTCE rose 100 bps to 16.6%, while adjusted ROTCE hit 20.6% (+160 bps QoQ) [B0042, B1168]. CET1 climbed 9 bps to 10.02% with zero share buybacks [B0288, B0292]; TBVPS fell 5% QoQ to $22.01 on a $1.6 billion AOCI widening [B0032, B0036].\\n\\n**Guidance & Thesis:** With the Comerica systems conversion complete and the full $850 million expense synergy run-rate locked in for 4Q26 [B1253], 4Q26 guidance projects NII up 2.5%\u20133.5%, fees up 2%\u20134%, adjusted expenses down 2%\u20133%, and NCOs at 30\u201335 bps [B1273]. Execution de-risks the Comerica merger and strengthens the bull thesis.\"\n}"
+}

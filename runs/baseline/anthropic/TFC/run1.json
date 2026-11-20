@@ -1,0 +1,194 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "TFC",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.56,
+    "source": "B0025",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 1.16,
+    "source": "B0026",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 684.0,
+    "source": "B0447",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.6,
+    "source": "B0975",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 3663.0,
+    "source": "B0338",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.0,
+    "source": "B0077",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 84.0,
+    "source": "B0108",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 3105.0,
+    "source": "B0129",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 82.9,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": -253.0,
+    "source": "B0203",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 629.0,
+    "source": "B0204",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.77,
+    "source": "B0205",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.25,
+    "source": "B0035",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 325523.0,
+    "source": "B0158",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 410699.0,
+    "source": "B0169",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 413200.0,
+    "source": "B0056",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.7,
+    "source": "B0176",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 31.9,
+    "source": "B0028",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 7.2,
+    "source": "B0030",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 1200.0,
+    "source": "B0182",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 1.23,
+    "source": "B0025"
+   },
+   "nii": {
+    "value": 3621.0,
+    "source": "B0338"
+   },
+   "nim": {
+    "value": 2.98,
+    "source": "B0077"
+   },
+   "nonint_expense": {
+    "value": 3055.0,
+    "source": "B0129"
+   },
+   "provision": {
+    "value": 395.0,
+    "source": "B0203"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": -0.67,
+   "nii": 42.0,
+   "nim": 0.02,
+   "nonint_expense": 50.0,
+   "provision": -648.0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Loss on sale of AFS securities (repositioning), $1.4bn pre-tax",
+    "eps_impact": -0.9,
+    "source": "B0049"
+   },
+   {
+    "description": "Loan loss reserve recapture from RAC loan sale, $581m pre-tax",
+    "eps_impact": 0.36,
+    "source": "B0050"
+   },
+   {
+    "description": "Other impacts associated with the RAC loan sale, $106m pre-tax",
+    "eps_impact": -0.06,
+    "source": "B0050"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "4Q26 revenue-TE",
+    "quote": "~$5.35 billion (reflects $125 million reduction from RAC loan sale and $40 million increase from AFS securities repositioning)",
+    "source": "B0991"
+   },
+   {
+    "item": "4Q26 noninterest expense",
+    "quote": "Up 2.5%",
+    "source": "B0991"
+   },
+   {
+    "item": "4Q26 net charge-off ratio",
+    "quote": "~0.45%",
+    "source": "B0991"
+   },
+   {
+    "item": "4Q26 tax rate",
+    "quote": "~13.5% effective; ~15.5% FTE",
+    "source": "B0991"
+   },
+   {
+    "item": "4Q26 share repurchases",
+    "quote": "~$1 billion",
+    "source": "B0991"
+   }
+  ],
+  "note_markdown": "### TFC 3Q26: Balance-sheet clean-up masks a flat core\n\n**Headline:** GAAP diluted EPS was $0.56, versus $1.23 in 2Q26. This note focuses on **adjusted EPS of $1.16**, down from $1.23, a miss versus the prior quarter. Strategic actions cost $0.60/share: a $1.4bn pre-tax AFS securities loss (-$0.90), a $581m reserve recapture from the RAC loan sale (+$0.36), and $106m of other RAC impacts (-$0.06).\n\n**EPS drivers (underlying):** Adjusted PPNR slipped to $2.24bn from $2.26bn. Adjusted fees fell 2.9% to $1,597m on lower trading. Adjusted expense rose slightly to $3,065m. Underlying credit costs rose, with NCOs elevated by RAC.\n\n**Revenue and margin:** GAAP NII rose to $3,663m from $3,621m (TE +1.1%) on an extra day and fixed-rate repricing, partly offset by lower loans. TE NIM rose 2bp to 3.00%. Average deposits rose 1.4% to $410.7bn, but average HFI loans fell 1.1% (RAC sale, C&I down). Wealth income hit a record $407m. Reported efficiency was 82.9%, distorted by the securities loss.\n\n**Credit:** NCOs were $629m (77bp), including 39bp from RAC. Provision was a $253m benefit after the reserve release. ALLL/loans fell 26bp to 1.25%, NPLs fell to 0.40%, and ALLL/NPL coverage was 3.1x.\n\n**Capital and returns:** CET1 fell to 10.7% from 10.9% on $1.2bn of buybacks and the repositioning. TBV/share fell to $31.90 from $33.40. ROTCE was 7.2% reported and 14.6% adjusted. TFC also agreed to sell $7.7bn of LightStream loans to Carlyle.\n\n**Guidance:** For 4Q26: revenue-TE ~$5.35bn (a $125m RAC drag, partly offset by $40m of repositioning benefit), expense +2.5%, NCOs ~0.45%, buybacks ~$1bn, tax ~13.5%.\n\n**Thesis:** Modestly positive for the medium term: a cleaner risk profile, better securities yields and continued buybacks. Near-term revenue shrinks and the 4Q expense guide is unhelpful, so execution under new leadership is the swing factor."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 0.56, \"source\": \"B0025\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": 1.16, \"source\": \"B0026\", \"not_disclosed\": false},\n    \"net_income_common\": {\"value\": 684.0, \"source\": \"B0447\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": -0.60, \"source\": \"B0975\", \"not_disclosed\": false},\n    \"nii\": {\"value\": 3663.0, \"source\": \"B0338\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 3.00, \"source\": \"B0077\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 84.0, \"source\": \"B0108\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 3105.0, \"source\": \"B0129\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 82.9, \"source\": \"B0032\", \"not_disclosed\": false},\n    \"provision\": {\"value\": -253.0, \"source\": \"B0203\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 629.0, \"source\": \"B0204\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.77, \"source\": \"B0205\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.25, \"source\": \"B0035\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 325523.0, \"source\": \"B0158\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 410699.0, \"source\": \"B0169\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 413200.0, \"source\": \"B0056\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 10.7, \"source\": \"B0176\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 31.90, \"source\": \"B0028\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 7.2, \"source\": \"B0030\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 1200.0, \"source\": \"B0182\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 1.23, \"source\": \"B0025\"},\n    \"nii\": {\"value\": 3621.0, \"source\": \"B0338\"},\n    \"nim\": {\"value\": 2.98, \"source\": \"B0077\"},\n    \"nonint_expense\": {\"value\": 3055.0, \"source\": \"B0129\"},\n    \"provision\": {\"value\": 395.0, \"source\": \"B0203\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": -0.67, \"nii\": 42.0, \"nim\": 0.02, \"nonint_expense\": 50.0, \"provision\": -648.0},\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\"description\": \"Loss on sale of AFS securities (repositioning), $1.4bn pre-tax\", \"eps_impact\": -0.90, \"source\": \"B0049\"},\n    {\"description\": \"Loan loss reserve recapture from RAC loan sale, $581m pre-tax\", \"eps_impact\": 0.36, \"source\": \"B0050\"},\n    {\"description\": \"Other impacts associated with the RAC loan sale, $106m pre-tax\", \"eps_impact\": -0.06, \"source\": \"B0050\"}\n  ],\n  \"guidance\": [\n    {\"item\": \"4Q26 revenue-TE\", \"quote\": \"~$5.35 billion (reflects $125 million reduction from RAC loan sale and $40 million increase from AFS securities repositioning)\", \"source\": \"B0991\"},\n    {\"item\": \"4Q26 noninterest expense\", \"quote\": \"Up 2.5%\", \"source\": \"B0991\"},\n    {\"item\": \"4Q26 net charge-off ratio\", \"quote\": \"~0.45%\", \"source\": \"B0991\"},\n    {\"item\": \"4Q26 tax rate\", \"quote\": \"~13.5% effective; ~15.5% FTE\", \"source\": \"B0991\"},\n    {\"item\": \"4Q26 share repurchases\", \"quote\": \"~$1 billion\", \"source\": \"B0991\"}\n  ],\n  \"note_markdown\": \"### TFC 3Q26: Balance-sheet clean-up masks a flat core\\n\\n**Headline:** GAAP diluted EPS was $0.56, versus $1.23 in 2Q26. This note focuses on **adjusted EPS of $1.16**, down from $1.23, a miss versus the prior quarter. Strategic actions cost $0.60/share: a $1.4bn pre-tax AFS securities loss (-$0.90), a $581m reserve recapture from the RAC loan sale (+$0.36), and $106m of other RAC impacts (-$0.06).\\n\\n**EPS drivers (underlying):** Adjusted PPNR slipped to $2.24bn from $2.26bn. Adjusted fees fell 2.9% to $1,597m on lower trading. Adjusted expense rose slightly to $3,065m. Underlying credit costs rose, with NCOs elevated by RAC.\\n\\n**Revenue and margin:** GAAP NII rose to $3,663m from $3,621m (TE +1.1%) on an extra day and fixed-rate repricing, partly offset by lower loans. TE NIM rose 2bp to 3.00%. Average deposits rose 1.4% to $410.7bn, but average HFI loans fell 1.1% (RAC sale, C&I down). Wealth income hit a record $407m. Reported efficiency was 82.9%, distorted by the securities loss.\\n\\n**Credit:** NCOs were $629m (77bp), including 39bp from RAC. Provision was a $253m benefit after the reserve release. ALLL/loans fell 26bp to 1.25%, NPLs fell to 0.40%, and ALLL/NPL coverage was 3.1x.\\n\\n**Capital and returns:** CET1 fell to 10.7% from 10.9% on $1.2bn of buybacks and the repositioning. TBV/share fell to $31.90 from $33.40. ROTCE was 7.2% reported and 14.6% adjusted. TFC also agreed to sell $7.7bn of LightStream loans to Carlyle.\\n\\n**Guidance:** For 4Q26: revenue-TE ~$5.35bn (a $125m RAC drag, partly offset by $40m of repositioning benefit), expense +2.5%, NCOs ~0.45%, buybacks ~$1bn, tax ~13.5%.\\n\\n**Thesis:** Modestly positive for the medium term: a cleaner risk profile, better securities yields and continued buybacks. Near-term revenue shrinks and the 4Q expense guide is unhelpful, so execution under new leadership is the swing factor.\"\n}\n"
+}

@@ -1,0 +1,188 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "KEY",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.51,
+    "source": "B0030",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 0.51,
+    "source": "B0522",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 537.0,
+    "source": "B0029",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": 0.0,
+    "source": "B0521",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 1300.0,
+    "source": "B0043",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 2.95,
+    "source": "B0035",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 744.0,
+    "source": "B0044",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1245.0,
+    "source": "B0086",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 60.6,
+    "source": "B0368",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 61.0,
+    "source": "B0127",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 89.0,
+    "source": "B0118",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.32,
+    "source": "B0119",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.5,
+    "source": "B0126",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 111585.0,
+    "source": "B0099",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 151175.0,
+    "source": "B0108",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 153814.0,
+    "source": "B0557",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 11.1,
+    "source": "B0138",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 12.35,
+    "source": "B0360",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 15.11,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 320.0,
+    "source": "B0157",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.44,
+    "source": "B0030"
+   },
+   "nii": {
+    "value": 1250.0,
+    "source": "B0043"
+   },
+   "nim": {
+    "value": 2.89,
+    "source": "B0035"
+   },
+   "nonint_expense": {
+    "value": 1217.0,
+    "source": "B0086"
+   },
+   "provision": {
+    "value": 92.0,
+    "source": "B0127"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.07,
+   "nii": 50.0,
+   "nim": 0.06,
+   "nonint_expense": 28.0,
+   "provision": -31.0
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+   {
+    "item": "FY26 NII (TE)",
+    "quote": "Net interest income(1),(2) (FY25 baseline: $4,671) up ~10% (previously up 9 \u2013 11%)",
+    "source": "B1017"
+   },
+   {
+    "item": "4Q26 NIM exit rate",
+    "quote": "Net interest margin(2) 4Q exit rate: ~3.00%",
+    "source": "B1017"
+   },
+   {
+    "item": "FY26 average loans",
+    "quote": "Average loans (FY25 baseline: $105.7Bn) up ~5% (previously up 4 \u2013 5%)",
+    "source": "B1017"
+   },
+   {
+    "item": "FY26 noninterest income",
+    "quote": "Noninterest income (FY25 baseline: $2,842) up 4 \u2013 5%",
+    "source": "B1017"
+   },
+   {
+    "item": "FY26 adjusted noninterest expense",
+    "quote": "Adjusted noninterest expense(1) (FY25 baseline: $4,729)(5) up ~4%",
+    "source": "B1017"
+   },
+   {
+    "item": "FY26 NCOs",
+    "quote": "NCOs to average loans 37 \u2013 39 bps (previously 40 \u2013 45 bps)",
+    "source": "B1017"
+   },
+   {
+    "item": "ROTCE target",
+    "quote": "achieving and sustaining a return on tangible common equity of 15%+ by the end of 2027",
+    "source": "B0016"
+   }
+  ],
+  "note_markdown": "### KEY 3Q26: Record revenue, credit improving, guide raised\n\n**Headline (reported GAAP EPS):** Diluted EPS from continuing operations was $0.51, up from $0.44 in 2Q26 (+16% QoQ, +24% YoY), a clear beat versus the prior quarter. KEY reports no selected items this quarter, so reported and adjusted EPS are the same and reported is the underlying trend.\n\n**EPS drivers:** Revenue was a record $2.04bn, up 4.5%. PPNR was a record $807m versus $747m. Provision fell $31m to $61m. Buybacks of $320m cut shares outstanding 1.3%. Expense rose 2.3% to $1,245m on incentive comp.\n\n**Revenue and margin:** NII rose 4% to $1,300m. TE NIM rose 6bp to 2.95% on C&I growth, $3.6bn of average deposit growth, reinvestment of maturing low-yield securities and swaps, and an extra day. Fees rose 5.4% to $744m, led by investment banking and debt placement (+27% to $214m). Cash efficiency improved to 60.6% from 61.9%.\n\n**Credit:** Broad improvement. NCOs were $89m (32bp vs 42bp). NPLs fell 24% to $618m (0.55% of loans). ACL/loans eased to 1.50% from 1.56%, and coverage of NPLs rose to 274%.\n\n**Capital and returns:** CET1 was 11.1% (est.), down 10bp after buybacks. TBV/share fell to $12.35 from $13.62 on AOCI; the TCE ratio fell to 6.9%. ROTCE was 15.11% versus 12.89%.\n\n**Guidance:** Raised. FY26 NII is now ~+10% (prior 9-11%) and average loans ~+5% (prior 4-5%). The NCO guide is lowered to 37-39bp (prior 40-45bp). Exit NIM ~3.00%, fees +4-5%, adjusted expense +~4%. The 15%+ ROTCE by end-2027 target is reaffirmed.\n\n**Thesis:** Strengthens it. Margin expansion, capital markets and credit all moved favourably, and ROTCE has already crossed 15%. TBV sensitivity to rates is the watch item."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 0.51, \"source\": \"B0030\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": 0.51, \"source\": \"B0522\", \"not_disclosed\": false},\n    \"net_income_common\": {\"value\": 537.0, \"source\": \"B0029\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": 0.0, \"source\": \"B0521\", \"not_disclosed\": false},\n    \"nii\": {\"value\": 1300.0, \"source\": \"B0043\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 2.95, \"source\": \"B0035\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 744.0, \"source\": \"B0044\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 1245.0, \"source\": \"B0086\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 60.6, \"source\": \"B0368\", \"not_disclosed\": false},\n    \"provision\": {\"value\": 61.0, \"source\": \"B0127\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 89.0, \"source\": \"B0118\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.32, \"source\": \"B0119\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.50, \"source\": \"B0126\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 111585.0, \"source\": \"B0099\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 151175.0, \"source\": \"B0108\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 153814.0, \"source\": \"B0557\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 11.1, \"source\": \"B0138\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 12.35, \"source\": \"B0360\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 15.11, \"source\": \"B0032\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 320.0, \"source\": \"B0157\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 0.44, \"source\": \"B0030\"},\n    \"nii\": {\"value\": 1250.0, \"source\": \"B0043\"},\n    \"nim\": {\"value\": 2.89, \"source\": \"B0035\"},\n    \"nonint_expense\": {\"value\": 1217.0, \"source\": \"B0086\"},\n    \"provision\": {\"value\": 92.0, \"source\": \"B0127\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": 0.07, \"nii\": 50.0, \"nim\": 0.06, \"nonint_expense\": 28.0, \"provision\": -31.0},\n  \"eps_basis_used_in_note\": \"reported\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [],\n  \"guidance\": [\n    {\"item\": \"FY26 NII (TE)\", \"quote\": \"Net interest income(1),(2) (FY25 baseline: $4,671) up ~10% (previously up 9 \u2013 11%)\", \"source\": \"B1017\"},\n    {\"item\": \"4Q26 NIM exit rate\", \"quote\": \"Net interest margin(2) 4Q exit rate: ~3.00%\", \"source\": \"B1017\"},\n    {\"item\": \"FY26 average loans\", \"quote\": \"Average loans (FY25 baseline: $105.7Bn) up ~5% (previously up 4 \u2013 5%)\", \"source\": \"B1017\"},\n    {\"item\": \"FY26 noninterest income\", \"quote\": \"Noninterest income (FY25 baseline: $2,842) up 4 \u2013 5%\", \"source\": \"B1017\"},\n    {\"item\": \"FY26 adjusted noninterest expense\", \"quote\": \"Adjusted noninterest expense(1) (FY25 baseline: $4,729)(5) up ~4%\", \"source\": \"B1017\"},\n    {\"item\": \"FY26 NCOs\", \"quote\": \"NCOs to average loans 37 \u2013 39 bps (previously 40 \u2013 45 bps)\", \"source\": \"B1017\"},\n    {\"item\": \"ROTCE target\", \"quote\": \"achieving and sustaining a return on tangible common equity of 15%+ by the end of 2027\", \"source\": \"B0016\"}\n  ],\n  \"note_markdown\": \"### KEY 3Q26: Record revenue, credit improving, guide raised\\n\\n**Headline (reported GAAP EPS):** Diluted EPS from continuing operations was $0.51, up from $0.44 in 2Q26 (+16% QoQ, +24% YoY), a clear beat versus the prior quarter. KEY reports no selected items this quarter, so reported and adjusted EPS are the same and reported is the underlying trend.\\n\\n**EPS drivers:** Revenue was a record $2.04bn, up 4.5%. PPNR was a record $807m versus $747m. Provision fell $31m to $61m. Buybacks of $320m cut shares outstanding 1.3%. Expense rose 2.3% to $1,245m on incentive comp.\\n\\n**Revenue and margin:** NII rose 4% to $1,300m. TE NIM rose 6bp to 2.95% on C&I growth, $3.6bn of average deposit growth, reinvestment of maturing low-yield securities and swaps, and an extra day. Fees rose 5.4% to $744m, led by investment banking and debt placement (+27% to $214m). Cash efficiency improved to 60.6% from 61.9%.\\n\\n**Credit:** Broad improvement. NCOs were $89m (32bp vs 42bp). NPLs fell 24% to $618m (0.55% of loans). ACL/loans eased to 1.50% from 1.56%, and coverage of NPLs rose to 274%.\\n\\n**Capital and returns:** CET1 was 11.1% (est.), down 10bp after buybacks. TBV/share fell to $12.35 from $13.62 on AOCI; the TCE ratio fell to 6.9%. ROTCE was 15.11% versus 12.89%.\\n\\n**Guidance:** Raised. FY26 NII is now ~+10% (prior 9-11%) and average loans ~+5% (prior 4-5%). The NCO guide is lowered to 37-39bp (prior 40-45bp). Exit NIM ~3.00%, fees +4-5%, adjusted expense +~4%. The 15%+ ROTCE by end-2027 target is reaffirmed.\\n\\n**Thesis:** Strengthens it. Margin expansion, capital markets and credit all moved favourably, and ROTCE has already crossed 15%. TBV sensitivity to rates is the watch item.\"\n}\n"
+}

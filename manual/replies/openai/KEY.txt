@@ -1,0 +1,165 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 0.51,
+      "source": "B0357",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 0.51,
+      "source": "B0522",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": 537,
+      "source": "B0350",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": 0,
+      "source": "B0521",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 1300,
+      "source": "B0043",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 2.95,
+      "source": "B0035",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 744,
+      "source": "B0044",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 1245,
+      "source": "B0086",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 60.6,
+      "source": "B0368",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 61,
+      "source": "B0127",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 89,
+      "source": "B0118",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.32,
+      "source": "B0119",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.5,
+      "source": "B0126",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 111585,
+      "source": "B0099",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 151175,
+      "source": "B0108",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 153814,
+      "source": "B0557",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 11.1,
+      "source": "B0138",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 12.35,
+      "source": "B0360",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 15.11,
+      "source": "B0032",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 320,
+      "source": "B0157",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.44,
+      "source": "B0357"
+    },
+    "nii": {
+      "value": 1250,
+      "source": "B0043"
+    },
+    "nim": {
+      "value": 2.89,
+      "source": "B0035"
+    },
+    "nonint_expense": {
+      "value": 1217,
+      "source": "B0086"
+    },
+    "provision": {
+      "value": 92,
+      "source": "B0127"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": 0.07,
+    "nii": 50,
+    "nim": 0.06,
+    "nonint_expense": 28,
+    "provision": -31
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "No EPS impact from selected items in 3Q26",
+      "eps_impact": 0,
+      "source": "B0521"
+    }
+  ],
+  "guidance": [
+    {
+      "item": "FY2026 operating NII growth",
+      "quote": "up ~10% (previously up 9 – 11%)",
+      "source": "B1017"
+    },
+    {
+      "item": "FY2026 average loan growth",
+      "quote": "up ~5% (previously up 4 – 5%)",
+      "source": "B1017"
+    },
+    {
+      "item": "FY2026 charge-off outlook",
+      "quote": "37 – 39 bps (previously 40 – 45 bps)",
+      "source": "B1017"
+    },
+    {
+      "item": "4Q26 NIM exit rate",
+      "quote": "~3.00%",
+      "source": "B1017"
+    }
+  ],
+  "note_markdown": "### KEY — Strong spread growth and improving credit\n\n**Reported GAAP diluted EPS increased to $0.51 from $0.44 in 2Q26**, a $0.07 sequential improvement. Net income available to common shareholders totaled $537 million, up from $473 million. Reported and adjusted EPS were identical, with no selected-item EPS adjustment [B0350, B0357, B0521, B0522].\n\n**Revenue and margin:** GAAP NII grew $50 million to $1,300 million, with taxable-equivalent NIM expanding 6 basis points to 2.95%. Noninterest income rose to $744 million from $706 million, while expenses increased to $1,245 million from $1,217 million [B0043, B0035, B0044, B0086]. The reported cash efficiency ratio was 60.6% [B0368].\n\n**Credit:** Provision declined from $92 million to $61 million, and net charge-offs decreased from $115 million to $89 million. The annualized charge-off ratio improved to 0.32%, with ACL coverage of 1.50% [B0127, B0118, B0119, B0126].\n\n**Capital and returns:** CET1 was 11.1%; ROTCE reached 15.11%; tangible book value was $12.35 per share. Share repurchases totaled $320 million [B0138, B0032, B0360, B0157].\n\n**Outlook:** Management indicated approximately 10% full-year NII growth, approximately 5% average loan growth, a fourth-quarter NIM exit target near 3.00%, and a lower 37–39 basis-point charge-off expectation versus the previous 40–45 basis-point range [B1017].\n\n**Investment thesis:** Positive incremental development. Stronger NIM, earnings growth and an improved credit outlook reinforce the recovery narrative, though expense growth and tangible book value remain important considerations."
+}

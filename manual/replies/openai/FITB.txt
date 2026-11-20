@@ -1,0 +1,159 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 0.9,
+      "source": "B0067",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 1.13,
+      "source": "B0008",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": 828,
+      "source": "B0066",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": -0.23,
+      "source": "B0075",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 2271,
+      "source": "B0024",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.34,
+      "source": "B0091",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 1008,
+      "source": "B0059",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 2049,
+      "source": "B0060",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 62.4,
+      "source": "B0045",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 122,
+      "source": "B0058",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 139,
+      "source": "B0267",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.31,
+      "source": "B0268",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.74,
+      "source": "B0261",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 180011,
+      "source": "B0179",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 238344,
+      "source": "B0215",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 239486,
+      "source": "B0604",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.02,
+      "source": "B0043",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 22.01,
+      "source": "B0032",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 16.6,
+      "source": "B0042",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 0,
+      "source": "B0292",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.83,
+      "source": "B0067"
+    },
+    "nii": {
+      "value": 2215,
+      "source": "B0024"
+    },
+    "nim": {
+      "value": 3.36,
+      "source": "B0091"
+    },
+    "nonint_expense": {
+      "value": 2109,
+      "source": "B0060"
+    },
+    "provision": {
+      "value": 129,
+      "source": "B0058"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": 0.07,
+    "nii": 56,
+    "nim": -0.02,
+    "nonint_expense": -60,
+    "provision": -7
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "Merger-related charges, $171 million after tax",
+      "eps_impact": null,
+      "source": "B0071"
+    },
+    {
+      "description": "Interchange litigation matters, $26 million after tax",
+      "eps_impact": null,
+      "source": "B0072"
+    },
+    {
+      "description": "Technology-related asset impairments, $14 million after tax",
+      "eps_impact": null,
+      "source": "B0073"
+    },
+    {
+      "description": "Combined after-tax EPS effect of certain items",
+      "eps_impact": -0.23,
+      "source": "B0075"
+    }
+  ],
+  "guidance": [],
+  "note_markdown": "### FITB — Integration progress supports earnings growth\n\n**Reported GAAP diluted EPS increased to $0.90 from $0.83 in 2Q26**, an improvement of $0.07. Adjusted EPS was $1.13 after excluding $0.23 per share of specified charges [B0067, B0008]. Net income available to common shareholders increased to $828 million from $763 million [B0066].\n\n**Underlying earnings:** The $211 million after-tax adjustment comprised merger-related costs, interchange litigation and technology-related impairments [B0071–B0075]. Management reported sequential improvement in adjusted pre-provision earnings and positive operating leverage as Comerica integration continued [B0016, B0048].\n\n**Revenue and margin:** GAAP NII grew $56 million to $2,271 million, though FTE NIM contracted 2 basis points to 3.34%. Noninterest income declined to $1,008 million, while expenses fell $60 million to $2,049 million [B0024, B0091, B0059, B0060].\n\n**Credit:** Provision decreased to $122 million from $129 million. Net charge-offs were $139 million, representing an annualized 0.31% ratio, and ACL coverage stood at 1.74% [B0058, B0267, B0268, B0261].\n\n**Capital and returns:** CET1 increased to 10.02%, and reported ROTCE improved to 16.6%. Tangible book value was $22.01 per share. No common shares were repurchased during the quarter [B0043, B0042, B0032, B0292].\n\n**Guidance:** No explicit numerical revision to forward earnings guidance was identified in the supplied release.\n\n**Investment thesis:** Modestly positive. Expense discipline and integration progress support profitability, although margin compression, fee weakness and acquisition execution warrant continued monitoring."
+}

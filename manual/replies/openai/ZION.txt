@@ -1,0 +1,165 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 1.78,
+      "source": "B0248",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "net_income_common": {
+      "value": 262,
+      "source": "B0239",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": 0.05,
+      "source": "B0033",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 684,
+      "source": "B0059",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.23,
+      "source": "B0064",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 197,
+      "source": "B0087",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 553,
+      "source": "B0106",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 61.9,
+      "source": "B0261",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": -8,
+      "source": "B0246",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 3,
+      "source": "B0041",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.02,
+      "source": "B0264",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.11,
+      "source": "B0265",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 62441,
+      "source": "B0561",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 77979,
+      "source": "B0590",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 77948,
+      "source": "B0165",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 11.8,
+      "source": "B0271",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 43.5,
+      "source": "B0251",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 16.2,
+      "source": "B0258",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 75,
+      "source": "B0187",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 3.05,
+      "source": "B0248"
+    },
+    "nii": {
+      "value": 677,
+      "source": "B0059"
+    },
+    "nim": {
+      "value": 3.27,
+      "source": "B0064"
+    },
+    "nonint_expense": {
+      "value": 551,
+      "source": "B0106"
+    },
+    "provision": {
+      "value": 3,
+      "source": "B0246"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": -1.27,
+    "nii": 7,
+    "nim": -0.04,
+    "nonint_expense": 2,
+    "provision": -11
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "Net credit valuation adjustment gain on client-related interest-rate swaps",
+      "eps_impact": 0.05,
+      "source": "B0033"
+    }
+  ],
+  "guidance": [
+    {
+      "item": "3Q27 versus 3Q26 period-end loan balances",
+      "quote": "2% – 4%",
+      "source": "B0788"
+    },
+    {
+      "item": "3Q27 versus 3Q26 NII growth",
+      "quote": "8% – 12%",
+      "source": "B0788"
+    },
+    {
+      "item": "3Q27 versus 3Q26 adjusted customer-related noninterest income growth",
+      "quote": "6% – 9%",
+      "source": "B0788"
+    },
+    {
+      "item": "3Q27 versus 3Q26 adjusted noninterest expense growth",
+      "quote": "4% – 6%",
+      "source": "B0788"
+    }
+  ],
+  "note_markdown": "### ZION — Earnings normalize after an unusually strong second quarter\n\n**Reported GAAP diluted EPS declined to $1.78 from $3.05 in 2Q26**, a $1.27 sequential decline. Net earnings applicable to common shareholders fell to $262 million from $452 million [B0239, B0248]. The comparison is distorted by the prior quarter's significantly higher noninterest income [B0242].\n\n**EPS drivers:** Current-quarter earnings included a $10 million credit valuation adjustment gain on client-related swaps, equivalent to $0.05 per share. Excluding that disclosed gain would lower the indicated underlying contribution, but the bank did not provide a comprehensive adjusted diluted EPS measure [B0033].\n\n**Revenue and margin:** GAAP NII increased $7 million to $684 million, while FTE NIM contracted 4 basis points to 3.23%. Noninterest income fell to $197 million from $460 million, and expenses increased modestly to $553 million from $551 million [B0059, B0064, B0242, B0243].\n\n**Credit:** Provision was an $8 million benefit versus a $3 million expense in 2Q26. Net charge-offs fell to $3 million, representing an exceptionally low annualized ratio of 0.02%. ACL coverage was 1.11% [B0246, B0041, B0264, B0265].\n\n**Capital and returns:** CET1 stood at 11.8%, reported ROTCE was 16.2%, and tangible book value totaled $43.50 per share. Share repurchases were $75 million [B0271, B0258, B0251, B0187].\n\n**Outlook:** Management projected 8%–12% NII growth and 2%–4% period-end loan growth for 3Q27 versus 3Q26, alongside positive expected operating leverage [B0788].\n\n**Investment thesis:** Broadly intact. Quarterly EPS normalization is substantial, but improving loan growth expectations and subdued credit losses support the forward outlook."
+}

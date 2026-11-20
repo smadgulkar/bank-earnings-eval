@@ -1,0 +1,159 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 5.04,
+      "source": "B0021",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "net_income_common": {
+      "value": 732,
+      "source": "B0020",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "nii": {
+      "value": 1793,
+      "source": "B0013",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3.65,
+      "source": "B0033",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 743,
+      "source": "B0017",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 1393,
+      "source": "B0018",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 54.4,
+      "source": "B0034",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 135,
+      "source": "B0016",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 127,
+      "source": "B0126",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.35,
+      "source": "B0127",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "avg_loans": {
+      "value": 143296,
+      "source": "B0028",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 166777,
+      "source": "B0029",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 167510,
+      "source": "B0438",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.16,
+      "source": "B0038",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "rotce": {
+      "value": 17.29,
+      "source": "B0064",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 323,
+      "source": "B0048",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 5.32,
+      "source": "B0021"
+    },
+    "nii": {
+      "value": 1792,
+      "source": "B0013"
+    },
+    "nim": {
+      "value": 3.7,
+      "source": "B0033"
+    },
+    "nonint_expense": {
+      "value": 1349,
+      "source": "B0018"
+    },
+    "provision": {
+      "value": 120,
+      "source": "B0016"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": -0.28,
+    "nii": 1,
+    "nim": -0.05,
+    "nonint_expense": 44,
+    "provision": 15
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+    {
+      "item": "4Q26 taxable-equivalent NII",
+      "quote": "$1.83 to $1.85 billion",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 fee income",
+      "quote": "$710 to $730 million",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 GAAP expense",
+      "quote": "$1.39 to $1.41 billion",
+      "source": "B0784"
+    },
+    {
+      "item": "4Q26 charge-off ratio",
+      "quote": "35 to 40 basis points",
+      "source": "B0784"
+    }
+  ],
+  "note_markdown": "### MTB — Earnings soften as expenses and credit costs rise\n\n**Reported GAAP diluted EPS declined to $5.04 from $5.32 in 2Q26**, a $0.28 sequential miss. Net income available to common shareholders declined to $732 million from $781 million [B0020, B0021]. The bank also disclosed diluted net operating EPS of $5.08, a separate operating measure rather than a designated ex-notable-items EPS figure [B0287].\n\n**Revenue and margin:** GAAP NII was broadly flat at $1,793 million versus $1,792 million. Headline NIM declined 5 basis points to 3.65%. Noninterest income increased modestly to $743 million, but noninterest expense rose $44 million to $1,393 million. The efficiency ratio deteriorated to 54.4% from 52.8% [B0013, B0033, B0017, B0018, B0034].\n\n**Credit:** Provision increased to $135 million from $120 million. Net charge-offs rose to $127 million from $80 million, and the annualized charge-off ratio increased to 0.35% from 0.23%. The disclosed allowance-for-loan-losses ratio was 1.51%, but this is not a separately confirmed total ACL coverage ratio [B0016, B0126, B0127, B0036].\n\n**Capital and returns:** CET1 was 10.16%, while annualized ROTCE was 17.29%. M&T repurchased $323 million of common shares [B0038, B0064, B0048].\n\n**Outlook:** Fourth-quarter guidance called for $1.83–$1.85 billion of taxable-equivalent NII, $710–$730 million of fees and $1.39–$1.41 billion of GAAP expenses [B0784].\n\n**Investment thesis:** Slightly negative near term. Capital and profitability remain substantial, but margin compression, higher expenses and rising charge-offs temper the outlook."
+}

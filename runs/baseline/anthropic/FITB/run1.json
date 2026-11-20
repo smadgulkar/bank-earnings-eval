@@ -1,0 +1,189 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "FITB",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:05+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.9,
+    "source": "B0030",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 1.13,
+    "source": "B0008",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 828.0,
+    "source": "B0023",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.23,
+    "source": "B0075",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 2271.0,
+    "source": "B0024",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.34,
+    "source": "B0044",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 1008.0,
+    "source": "B0026",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 2049.0,
+    "source": "B0027",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 62.4,
+    "source": "B0045",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 122.0,
+    "source": "B0058",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 139.0,
+    "source": "B0267",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.31,
+    "source": "B0268",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.74,
+    "source": "B0261",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 179244.0,
+    "source": "B0034",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 238344.0,
+    "source": "B0215",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 239486.0,
+    "source": "B0604",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.02,
+    "source": "B0288",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 22.01,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 16.6,
+    "source": "B0042",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 0.0,
+    "source": "B0292",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.83,
+    "source": "B0030"
+   },
+   "nii": {
+    "value": 2215.0,
+    "source": "B0024"
+   },
+   "nim": {
+    "value": 3.36,
+    "source": "B0044"
+   },
+   "nonint_expense": {
+    "value": 2109.0,
+    "source": "B0027"
+   },
+   "provision": {
+    "value": 129.0,
+    "source": "B0058"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.07,
+   "nii": 56.0,
+   "nim": -0.02,
+   "nonint_expense": -60.0,
+   "provision": -7.0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Certain items after tax ($211m total): merger-related charges ($171m), interchange litigation matters ($26m), technology-related asset impairments ($14m)",
+    "eps_impact": -0.23,
+    "source": "B0075"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "4Q26 average loans & leases",
+    "quote": "Avg. loans & leases (Including HFS) up 1 - 2%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 NII vs 3Q26",
+    "quote": "Net interest income1 (3Q26 baseline: $2.28 billion) up 2.5 - 3.5%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 noninterest income vs 3Q26",
+    "quote": "Noninterest income1 (3Q26 baseline: $1.05 billion; excludes securities g/l) up 2 - 4%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 noninterest expense vs 3Q26",
+    "quote": "down 2 - 3%",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 net charge-off ratio",
+    "quote": "Net charge-off ratio 30 - 35 bps",
+    "source": "B1273"
+   },
+   {
+    "item": "4Q26 effective tax rate",
+    "quote": "Effective tax rate 22.5%",
+    "source": "B1273"
+   }
+  ],
+  "note_markdown": "### FITB 3Q26: Comerica integration delivering\n\n**Headline:** GAAP diluted EPS was $0.90, up from $0.83 in 2Q26, a beat versus the prior quarter. This note focuses on **adjusted EPS of $1.13**, which excludes $0.23 of certain items ($211m after tax): $171m of merger-related charges, $26m of interchange litigation and $14m of technology impairments.\n\n**EPS drivers (underlying):** Adjusted PPNR grew 8% QoQ with 450bp of positive operating leverage. NII rose and core costs fell. Fees ex items rose 1% to $1.05bn. Expense ex items fell 4% to $1.81bn, and fell 2% further adjusted for deferred comp.\n\n**Revenue and margin:** GAAP NII was $2,271m (FTE $2.28bn, +3%). Drivers were higher rates, fixed-rate asset repricing, securities deployment and loan growth. FTE NIM eased 2bp to 3.34% as Comerica sweep balances migrated on-balance-sheet into interest-bearing deposits. Average deposits rose 3% and core deposits 3%. Reported efficiency improved to 62.4% from 64.3%.\n\n**Credit:** Stable. NCOs were $139m (31bp vs 30bp). Provision fell to $122m. The ACL ratio eased to 1.74% of portfolio loans on a better commercial risk profile. NPAs rose to 0.64% from 0.60%, partly branch OREO.\n\n**Capital and returns:** CET1 rose to 10.02%. FITB bought back no stock in the quarter or YTD. TBV/share fell to $22.01 from $23.22 as AOCI losses widened to $4.9bn. ROTCE was 16.6% reported and 20.6% adjusted.\n\n**Guidance:** For 4Q26: NII +2.5-3.5%, fees +2-4%, expenses -2-3% (ex deferred comp), average loans +1-2%, NCOs 30-35bp, tax 22.5%. This implies further positive operating leverage.\n\n**Thesis:** Reinforces it. Systems conversion is complete with strong retention, and cost synergies are visible. The open questions are the timing of buyback resumption and AOCI drag on TBV."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 0.90, \"source\": \"B0030\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": 1.13, \"source\": \"B0008\", \"not_disclosed\": false},\n    \"net_income_common\": {\"value\": 828.0, \"source\": \"B0023\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": -0.23, \"source\": \"B0075\", \"not_disclosed\": false},\n    \"nii\": {\"value\": 2271.0, \"source\": \"B0024\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 3.34, \"source\": \"B0044\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 1008.0, \"source\": \"B0026\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 2049.0, \"source\": \"B0027\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 62.4, \"source\": \"B0045\", \"not_disclosed\": false},\n    \"provision\": {\"value\": 122.0, \"source\": \"B0058\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 139.0, \"source\": \"B0267\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.31, \"source\": \"B0268\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.74, \"source\": \"B0261\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 179244.0, \"source\": \"B0034\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 238344.0, \"source\": \"B0215\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 239486.0, \"source\": \"B0604\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 10.02, \"source\": \"B0288\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 22.01, \"source\": \"B0032\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 16.6, \"source\": \"B0042\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 0.0, \"source\": \"B0292\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 0.83, \"source\": \"B0030\"},\n    \"nii\": {\"value\": 2215.0, \"source\": \"B0024\"},\n    \"nim\": {\"value\": 3.36, \"source\": \"B0044\"},\n    \"nonint_expense\": {\"value\": 2109.0, \"source\": \"B0027\"},\n    \"provision\": {\"value\": 129.0, \"source\": \"B0058\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": 0.07, \"nii\": 56.0, \"nim\": -0.02, \"nonint_expense\": -60.0, \"provision\": -7.0},\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\"description\": \"Certain items after tax ($211m total): merger-related charges ($171m), interchange litigation matters ($26m), technology-related asset impairments ($14m)\", \"eps_impact\": -0.23, \"source\": \"B0075\"}\n  ],\n  \"guidance\": [\n    {\"item\": \"4Q26 average loans & leases\", \"quote\": \"Avg. loans & leases (Including HFS) up 1 - 2%\", \"source\": \"B1273\"},\n    {\"item\": \"4Q26 NII vs 3Q26\", \"quote\": \"Net interest income1 (3Q26 baseline: $2.28 billion) up 2.5 - 3.5%\", \"source\": \"B1273\"},\n    {\"item\": \"4Q26 noninterest income vs 3Q26\", \"quote\": \"Noninterest income1 (3Q26 baseline: $1.05 billion; excludes securities g/l) up 2 - 4%\", \"source\": \"B1273\"},\n    {\"item\": \"4Q26 noninterest expense vs 3Q26\", \"quote\": \"down 2 - 3%\", \"source\": \"B1273\"},\n    {\"item\": \"4Q26 net charge-off ratio\", \"quote\": \"Net charge-off ratio 30 - 35 bps\", \"source\": \"B1273\"},\n    {\"item\": \"4Q26 effective tax rate\", \"quote\": \"Effective tax rate 22.5%\", \"source\": \"B1273\"}\n  ],\n  \"note_markdown\": \"### FITB 3Q26: Comerica integration delivering\\n\\n**Headline:** GAAP diluted EPS was $0.90, up from $0.83 in 2Q26, a beat versus the prior quarter. This note focuses on **adjusted EPS of $1.13**, which excludes $0.23 of certain items ($211m after tax): $171m of merger-related charges, $26m of interchange litigation and $14m of technology impairments.\\n\\n**EPS drivers (underlying):** Adjusted PPNR grew 8% QoQ with 450bp of positive operating leverage. NII rose and core costs fell. Fees ex items rose 1% to $1.05bn. Expense ex items fell 4% to $1.81bn, and fell 2% further adjusted for deferred comp.\\n\\n**Revenue and margin:** GAAP NII was $2,271m (FTE $2.28bn, +3%). Drivers were higher rates, fixed-rate asset repricing, securities deployment and loan growth. FTE NIM eased 2bp to 3.34% as Comerica sweep balances migrated on-balance-sheet into interest-bearing deposits. Average deposits rose 3% and core deposits 3%. Reported efficiency improved to 62.4% from 64.3%.\\n\\n**Credit:** Stable. NCOs were $139m (31bp vs 30bp). Provision fell to $122m. The ACL ratio eased to 1.74% of portfolio loans on a better commercial risk profile. NPAs rose to 0.64% from 0.60%, partly branch OREO.\\n\\n**Capital and returns:** CET1 rose to 10.02%. FITB bought back no stock in the quarter or YTD. TBV/share fell to $22.01 from $23.22 as AOCI losses widened to $4.9bn. ROTCE was 16.6% reported and 20.6% adjusted.\\n\\n**Guidance:** For 4Q26: NII +2.5-3.5%, fees +2-4%, expenses -2-3% (ex deferred comp), average loans +1-2%, NCOs 30-35bp, tax 22.5%. This implies further positive operating leverage.\\n\\n**Thesis:** Reinforces it. Systems conversion is complete with strong retention, and cost synergies are visible. The open questions are the timing of buyback resumption and AOCI drag on TBV.\"\n}\n"
+}

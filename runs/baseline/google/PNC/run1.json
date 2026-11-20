@@ -1,0 +1,169 @@
+{
+ "label": "google",
+ "provider": "chat-app",
+ "model": "Carbon",
+ "ticker": "PNC",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:07+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 4.97,
+    "source": "B0041",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 5.09,
+    "source": "B0043",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 2006,
+    "source": "B0406",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.12,
+    "source": "B0089",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 4206,
+    "source": "B0029",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 2.94,
+    "source": "B0058",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 2356,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 3751,
+    "source": "B0034",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 57,
+    "source": "B0060",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 189,
+    "source": "B0038",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 257,
+    "source": "B0052",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.28,
+    "source": "B0260",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.42,
+    "source": "B0053",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 372174,
+    "source": "B0817",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 461200,
+    "source": "B0050",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 466362,
+    "source": "B0437",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 9.8,
+    "source": "B0061",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 107.64,
+    "source": "B0046",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 18.28,
+    "source": "B0056",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 600,
+    "source": "B0028",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 4.81,
+    "source": "B0041"
+   },
+   "nii": {
+    "value": 4107,
+    "source": "B0029"
+   },
+   "nim": {
+    "value": 2.96,
+    "source": "B0058"
+   },
+   "nonint_expense": {
+    "value": 4098,
+    "source": "B0034"
+   },
+   "provision": {
+    "value": 191,
+    "source": "B0038"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.16,
+   "nii": 99,
+   "nim": -0.02,
+   "nonint_expense": -347,
+   "provision": -2
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "FirstBank integration costs ($36M pre-tax) and net Visa significant items (-$25M pre-tax: +$11M Visa share exchange gain, -$36M Visa Class B-3 derivative fair value adjustments); combined -$61M pre-tax / -$48M after-tax",
+    "eps_impact": -0.12,
+    "source": "B0089"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "4Q26 Share repurchases",
+    "quote": "Share repurchase activity in the fourth quarter of 2026 is expected to approximate third quarter 2026 share repurchase levels.",
+    "source": "B0118"
+   },
+   {
+    "item": "Stress Capital Buffer",
+    "quote": "PNC\u2019s SCB will be maintained at the regulatory minimum of 2.5% through December 31, 2027.",
+    "source": "B0246"
+   }
+  ],
+  "note_markdown": "**PNC Financial Services (PNC) 3Q26: Solid Beat vs. 2Q26 on Commercial Loan Growth and Cost Discipline**\n\n**Headline & EPS Drivers:** Focusing on **adjusted** diluted EPS, PNC delivered $5.09 in 3Q26, beating 2Q26 ($4.85) by $0.24 (+5% QoQ) [B0016, B0043]. Reported GAAP EPS rose $0.16 QoQ to $4.97 (+14% YoY) [B0041]. 3Q26 notable items reduced EPS by $(0.12) ($48 million after-tax), comprising $36 million pre-tax in FirstBank integration costs and $(25) million pre-tax in net Visa items (+$11 million share exchange gain, -$36 million Class B-3 derivative adjustments), compared with $(0.04) in 2Q26 [B0068, B0069, B0089]. Stripping out notable items, adjusted EPS growth was powered by strong NII (+$99 million QoQ), a 3% ($113 million) drop in adjusted noninterest expense, lower preferred dividends ($73 million vs. $85 million), and a lower effective tax rate (20.0% vs. 20.5%) [B0029, B0036, B0102, B0404].\n\n**Revenue & Margin:** GAAP NII grew $99 million (+2% QoQ) to $4,206 million on a $9.0 billion (+2% QoQ) jump in average loans to $372.2 billion (commercial loans +$10.4 billion, +4% QoQ) and 3% securities growth [B0029, B0105, B0112]. FTE NIM eased 2 bps QoQ to 2.94% as higher interest-bearing liability costs (+10 bps to 2.49%) slightly outpaced earning-asset yield expansion (+8 bps to 4.90%) [B0058, B0873, B0887]. Average deposits rose 1% to $461.2 billion and spot deposits jumped 4% ($16.6 billion) to $466.4 billion [B0050, B0114, B0437]. Reported noninterest income fell $412 million (-15% QoQ) to $2,356 million (adjusted -$160 million to $2,390 million) as capital markets normalized (-$144 million from elevated 2Q26) and 2Q26 included a $218 million net notable benefit [B0032, B0158, B0534]. Reported expenses dropped 8% QoQ to $3,751 million (adjusted -3% to $3,724 million on lower compensation), improving the reported efficiency ratio 300 bps to 57% [B0034, B0036, B0060, B0175].\n\n**Credit:** Provision was steady at $189 million (-$2 million QoQ) [B0038]. NCOs rose $31 million to $257 million (0.28% vs. 0.25%), but included $35 million from transferring a $1.4 billion student loan portfolio to HFS [B0026, B0256, B0260]. Delinquencies fell 9% to $1,301 million, though commercial NPLs drove total NPLs up 8% to $2,194 million (0.58%); ACL/loans fell 6 bps to 1.42% [B0258, B0259, B0261, B0262].\n\n**Capital & Returns:** ROTCE expanded 40 bps QoQ to 18.28% [B0056]. CET1 edged down 10 bps to 9.8% following $0.6 billion in buybacks and $0.8 billion in common dividends (quarterly dividend raised to $2.00) [B0061, B0116, B0117, B0131]. TBVPS fell 3% to $107.64 as AOCI widened to $(6.5) billion [B0046, B0051].\n\n**Guidance & Thesis:** PNC expects 4Q26 buybacks to match 3Q26 (~$0.6 billion), with its SCB locked at 2.5% through 2027 [B0118, B0246]. Strong commercial momentum and 18%+ ROTCE reinforce the core thesis."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": 4.97,\n      \"source\": \"B0041\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": 5.09,\n      \"source\": \"B0043\",\n      \"not_disclosed\": false\n    },\n    \"net_income_common\": {\n      \"value\": 2006,\n      \"source\": \"B0406\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": -0.12,\n      \"source\": \"B0089\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 4206,\n      \"source\": \"B0029\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 2.94,\n      \"source\": \"B0058\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": 2356,\n      \"source\": \"B0032\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 3751,\n      \"source\": \"B0034\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 57,\n      \"source\": \"B0060\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": 189,\n      \"source\": \"B0038\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 257,\n      \"source\": \"B0052\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.28,\n      \"source\": \"B0260\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.42,\n      \"source\": \"B0053\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 372174,\n      \"source\": \"B0817\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 461200,\n      \"source\": \"B0050\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 466362,\n      \"source\": \"B0437\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 9.8,\n      \"source\": \"B0061\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 107.64,\n      \"source\": \"B0046\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": 18.28,\n      \"source\": \"B0056\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 600,\n      \"source\": \"B0028\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 4.81,\n      \"source\": \"B0041\"\n    },\n    \"nii\": {\n      \"value\": 4107,\n      \"source\": \"B0029\"\n    },\n    \"nim\": {\n      \"value\": 2.96,\n      \"source\": \"B0058\"\n    },\n    \"nonint_expense\": {\n      \"value\": 4098,\n      \"source\": \"B0034\"\n    },\n    \"provision\": {\n      \"value\": 191,\n      \"source\": \"B0038\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": 0.16,\n    \"nii\": 99,\n    \"nim\": -0.02,\n    \"nonint_expense\": -347,\n    \"provision\": -2\n  },\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"FirstBank integration costs ($36M pre-tax) and net Visa significant items (-$25M pre-tax: +$11M Visa share exchange gain, -$36M Visa Class B-3 derivative fair value adjustments); combined -$61M pre-tax / -$48M after-tax\",\n      \"eps_impact\": -0.12,\n      \"source\": \"B0089\"\n    }\n  ],\n  \"guidance\": [\n    {\n      \"item\": \"4Q26 Share repurchases\",\n      \"quote\": \"Share repurchase activity in the fourth quarter of 2026 is expected to approximate third quarter 2026 share repurchase levels.\",\n      \"source\": \"B0118\"\n    },\n    {\n      \"item\": \"Stress Capital Buffer\",\n      \"quote\": \"PNC\u2019s SCB will be maintained at the regulatory minimum of 2.5% through December 31, 2027.\",\n      \"source\": \"B0246\"\n    }\n  ],\n  \"note_markdown\": \"**PNC Financial Services (PNC) 3Q26: Solid Beat vs. 2Q26 on Commercial Loan Growth and Cost Discipline**\\n\\n**Headline & EPS Drivers:** Focusing on **adjusted** diluted EPS, PNC delivered $5.09 in 3Q26, beating 2Q26 ($4.85) by $0.24 (+5% QoQ) [B0016, B0043]. Reported GAAP EPS rose $0.16 QoQ to $4.97 (+14% YoY) [B0041]. 3Q26 notable items reduced EPS by $(0.12) ($48 million after-tax), comprising $36 million pre-tax in FirstBank integration costs and $(25) million pre-tax in net Visa items (+$11 million share exchange gain, -$36 million Class B-3 derivative adjustments), compared with $(0.04) in 2Q26 [B0068, B0069, B0089]. Stripping out notable items, adjusted EPS growth was powered by strong NII (+$99 million QoQ), a 3% ($113 million) drop in adjusted noninterest expense, lower preferred dividends ($73 million vs. $85 million), and a lower effective tax rate (20.0% vs. 20.5%) [B0029, B0036, B0102, B0404].\\n\\n**Revenue & Margin:** GAAP NII grew $99 million (+2% QoQ) to $4,206 million on a $9.0 billion (+2% QoQ) jump in average loans to $372.2 billion (commercial loans +$10.4 billion, +4% QoQ) and 3% securities growth [B0029, B0105, B0112]. FTE NIM eased 2 bps QoQ to 2.94% as higher interest-bearing liability costs (+10 bps to 2.49%) slightly outpaced earning-asset yield expansion (+8 bps to 4.90%) [B0058, B0873, B0887]. Average deposits rose 1% to $461.2 billion and spot deposits jumped 4% ($16.6 billion) to $466.4 billion [B0050, B0114, B0437]. Reported noninterest income fell $412 million (-15% QoQ) to $2,356 million (adjusted -$160 million to $2,390 million) as capital markets normalized (-$144 million from elevated 2Q26) and 2Q26 included a $218 million net notable benefit [B0032, B0158, B0534]. Reported expenses dropped 8% QoQ to $3,751 million (adjusted -3% to $3,724 million on lower compensation), improving the reported efficiency ratio 300 bps to 57% [B0034, B0036, B0060, B0175].\\n\\n**Credit:** Provision was steady at $189 million (-$2 million QoQ) [B0038]. NCOs rose $31 million to $257 million (0.28% vs. 0.25%), but included $35 million from transferring a $1.4 billion student loan portfolio to HFS [B0026, B0256, B0260]. Delinquencies fell 9% to $1,301 million, though commercial NPLs drove total NPLs up 8% to $2,194 million (0.58%); ACL/loans fell 6 bps to 1.42% [B0258, B0259, B0261, B0262].\\n\\n**Capital & Returns:** ROTCE expanded 40 bps QoQ to 18.28% [B0056]. CET1 edged down 10 bps to 9.8% following $0.6 billion in buybacks and $0.8 billion in common dividends (quarterly dividend raised to $2.00) [B0061, B0116, B0117, B0131]. TBVPS fell 3% to $107.64 as AOCI widened to $(6.5) billion [B0046, B0051].\\n\\n**Guidance & Thesis:** PNC expects 4Q26 buybacks to match 3Q26 (~$0.6 billion), with its SCB locked at 2.5% through 2027 [B0118, B0246]. Strong commercial momentum and 18%+ ROTCE reinforce the core thesis.\"\n}"
+}

@@ -1,0 +1,160 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 4.97,
+      "source": "B0041",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 5.09,
+      "source": "B0043",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "notable_items_eps": {
+      "value": -0.12,
+      "source": "B0068",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 4206,
+      "source": "B0029",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 2.94,
+      "source": "B0058",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 2356,
+      "source": "B0032",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 3751,
+      "source": "B0034",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 57,
+      "source": "B0060",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 189,
+      "source": "B0038",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 257,
+      "source": "B0052",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.28,
+      "source": "B0260",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.42,
+      "source": "B0053",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 372174,
+      "source": "B0817",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 461200,
+      "source": "B0050",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 466362,
+      "source": "B0768",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 9.8,
+      "source": "B0061",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 107.64,
+      "source": "B0046",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 18.28,
+      "source": "B0056",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 600,
+      "source": "B0117",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 4.81,
+      "source": "B0041"
+    },
+    "nii": {
+      "value": 4107,
+      "source": "B0029"
+    },
+    "nim": {
+      "value": 2.96,
+      "source": "B0058"
+    },
+    "nonint_expense": {
+      "value": 4098,
+      "source": "B0034"
+    },
+    "provision": {
+      "value": 191,
+      "source": "B0038"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": 0.16,
+    "nii": 99,
+    "nim": -0.02,
+    "nonint_expense": -347,
+    "provision": -2
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "Integration costs associated with FirstBank acquisition, $36 million pre-tax",
+      "eps_impact": null,
+      "source": "B0068"
+    },
+    {
+      "description": "Net adverse Visa-related significant items, $25 million pre-tax",
+      "eps_impact": null,
+      "source": "B0068"
+    },
+    {
+      "description": "Combined after-tax integration and significant-item impact",
+      "eps_impact": -0.12,
+      "source": "B0068"
+    }
+  ],
+  "guidance": [
+    {
+      "item": "4Q26 share repurchases",
+      "quote": "Share repurchase activity in the fourth quarter of 2026 is expected to approximate third quarter 2026 share repurchase levels.",
+      "source": "B0118"
+    }
+  ],
+  "note_markdown": "### PNC — Sequential EPS improves despite weaker reported revenue\n\n**Reported GAAP diluted EPS increased to $4.97 from $4.81 in 2Q26**, while adjusted EPS increased from $4.85 to $5.09. The latter excludes integration costs and significant items from both periods [B0041–B0043].\n\n**EPS drivers:** Third-quarter results included $36 million of integration costs and a net $25 million of adverse Visa-related items. Combined, these reduced after-tax earnings by $48 million, or $0.12 per share. Excluding these items provides a clearer view of underlying profitability [B0068].\n\n**Revenue and margin:** GAAP NII rose $99 million to $4,206 million, supported by commercial loan growth and earning-asset yields. NIM slipped 2 basis points to 2.94%. Reported noninterest income decreased to $2,356 million, while expenses fell substantially to $3,751 million. Adjusted expenses declined from $3,837 million to $3,724 million [B0029, B0094, B0058, B0032, B0034, B0036].\n\n**Credit:** Provision was essentially unchanged at $189 million, while net charge-offs rose to $257 million, equivalent to an annualized 0.28%. ACL coverage was 1.42% [B0038, B0052, B0260, B0053].\n\n**Capital and returns:** CET1 was 9.8%, reported ROTCE was 18.28%, and tangible book value was $107.64 per share. Common share repurchases approximated $600 million [B0061, B0056, B0046, B0117].\n\n**Guidance:** Management anticipated fourth-quarter repurchase activity approximating the third quarter [B0118].\n\n**Investment thesis:** Modestly positive. Underlying EPS and expense improvements support the case, although margin pressure and elevated charge-offs remain areas to monitor."
+}

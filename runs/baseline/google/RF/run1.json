@@ -1,0 +1,194 @@
+{
+ "label": "google",
+ "provider": "chat-app",
+ "model": "Carbon",
+ "ticker": "RF",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:07+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.71,
+    "source": "B0019",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 0.73,
+    "source": "B0020",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 611,
+    "source": "B0017",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.02,
+    "source": "B1145",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 1298,
+    "source": "B0051",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.68,
+    "source": "B0039",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 675,
+    "source": "B0066",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1118,
+    "source": "B0091",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 56.2,
+    "source": "B0040",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 68,
+    "source": "B0167",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 72,
+    "source": "B0168",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.29,
+    "source": "B0029",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.61,
+    "source": "B0028",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 99183,
+    "source": "B0025",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 129140,
+    "source": "B0026",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 129510,
+    "source": "B0154",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.8,
+    "source": "B0042",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 12.65,
+    "source": "B0188",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 21.27,
+    "source": "B0037",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 95,
+    "source": "B0191",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.64,
+    "source": "B0019"
+   },
+   "nii": {
+    "value": 1277,
+    "source": "B0051"
+   },
+   "nim": {
+    "value": 3.66,
+    "source": "B0039"
+   },
+   "nonint_expense": {
+    "value": 1121,
+    "source": "B0091"
+   },
+   "provision": {
+    "value": 68,
+    "source": "B0167"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.07,
+   "nii": 21,
+   "nim": 0.02,
+   "nonint_expense": -3,
+   "provision": 0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Securities repositioning losses, net ($15M pre-tax / $11M after-tax)",
+    "eps_impact": -0.02,
+    "source": "B1137"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "4Q26 NII",
+    "quote": "4Q26 NII expected to increase 1 \u2013 2% vs 3Q26",
+    "source": "B1424"
+   },
+   {
+    "item": "4Q26 NIM",
+    "quote": "4Q26 NIM expected to be ~3.70%",
+    "source": "B1424"
+   },
+   {
+    "item": "4Q26 Capital Markets",
+    "quote": "Expect Capital Markets revenue within the $90 \u2013 $105M range in 4Q26",
+    "source": "B1424"
+   },
+   {
+    "item": "FY26 NII",
+    "quote": "up 2.5 \u2013 4%",
+    "source": "B1424"
+   },
+   {
+    "item": "FY26 Adjusted Non-Interest Income",
+    "quote": "up 3 \u2013 5% (Expect to be toward lower end)",
+    "source": "B1424"
+   },
+   {
+    "item": "FY26 Adjusted Non-Interest Expense",
+    "quote": "up 1.5 \u2013 3.5% (Inclusive of investments)",
+    "source": "B1424"
+   },
+   {
+    "item": "FY26 Net Charge-Offs / Average Loans",
+    "quote": "40 \u2013 50 bps (Expect to be toward lower end)",
+    "source": "B1424"
+   }
+  ],
+  "note_markdown": "**Regions Financial (RF) 3Q26: High-Quality Beat vs. 2Q26 on Record Capital Markets, NIM, and Credit**\n\n**Headline & EPS Drivers:** Focusing on **adjusted** diluted EPS, RF delivered $0.73 in 3Q26, beating 2Q26 ($0.68) by $0.05 (+7% QoQ) and up 16% YoY [B0008, B0020, B1145]. Reported GAAP EPS rose $0.07 (+11% QoQ) to $0.71 [B0019, B1144]. The sole 3Q26 notable item was $15 million pre-tax ($11 million after-tax, or $(0.02)/share) in securities repositioning losses, down from $45 million pre-tax ($(0.04)/share) in 2Q26 [B1137-B1145]. Stripping out adjustments, core earnings were driven by a $39 million (+5% QoQ) rise in adjusted PPNR to $870 million, flat credit provision ($68 million), and a lower effective tax rate (19.8% vs. 20.7%) [B0043, B0167, B0888].\n\n**Revenue & Margin:** GAAP NII grew $21 million (+1.6% QoQ) to $1,298 million ($1,314 million FTE) on fixed-rate asset turnover (+$10 million), day count (+$6 million), higher hedge rates (+$4 million), and 0.5% average loan growth ($99.2 billion) [B0051, B0053, B0116, B1412]. FTE NIM expanded 2 bps QoQ to a top-quartile 3.68%, supported by peer-leading interest-bearing deposit costs of 1.70% (+1 bp QoQ) and total deposit costs of 1.17% (-1 bp QoQ), despite a 1.2% QoQ dip in average deposits ($129.1 billion) [B0010, B0039, B0140, B0755]. Reported noninterest income jumped $45 million (+7.1% QoQ) to $675 million, while adjusted noninterest income rose $20 million (+3.0% QoQ) to $690 million on record capital markets ($107 million, +27% QoQ), record treasury management/service charges ($171 million, +2%), commercial credit fees (+$7 million), and BOLI (+$8 million) [B0056-B0067, B0075]. Noninterest expense was tightly controlled at $1,118 million (-$3 million reported; +$2 million adjusted), driving 1.9% adjusted positive operating leverage and a 55.8% adjusted efficiency ratio (56.2% reported) [B0091, B0092, B1086-B1088].\n\n**Credit:** Asset quality strengthened markedly. Annualized NCOs dropped 13 bps QoQ to 0.29% ($72 million) [B0168, B0169], NPLs fell 8 bps to 0.59%, and business criticized loans dropped 30 bps to 4.71% [B0165, B0170]. Provision held at $68 million, keeping ACL/loans at 1.61% (-2 bps) with NPL coverage jumping to 275% [B0164, B0166, B0167].\n\n**Capital & Returns:** Reported ROTCE hit 21.27% (adjusted 21.66%, +148 bps QoQ) [B0037, B0038]. CET1 rose 10 bps to 10.8% (~10% Basel III Endgame pro forma) [B0042, B1422] alongside $95 million in buybacks and $255 million in dividends, though TBVPS fell to $12.65 on AOCI [B0188, B0191].\n\n**Guidance & Thesis:** RF guided 4Q26 NII up 1%\u20132% and NIM to ~3.70%, with FY26 adjusted fees and NCOs (40\u201350 bps) both tracking toward the lower end [B1424]. Peer-leading 21%+ ROTCE and improving credit reinforce the bullish thesis."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": 0.71,\n      \"source\": \"B0019\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": 0.73,\n      \"source\": \"B0020\",\n      \"not_disclosed\": false\n    },\n    \"net_income_common\": {\n      \"value\": 611,\n      \"source\": \"B0017\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": -0.02,\n      \"source\": \"B1145\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 1298,\n      \"source\": \"B0051\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 3.68,\n      \"source\": \"B0039\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": 675,\n      \"source\": \"B0066\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 1118,\n      \"source\": \"B0091\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 56.2,\n      \"source\": \"B0040\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": 68,\n      \"source\": \"B0167\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 72,\n      \"source\": \"B0168\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.29,\n      \"source\": \"B0029\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.61,\n      \"source\": \"B0028\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 99183,\n      \"source\": \"B0025\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 129140,\n      \"source\": \"B0026\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 129510,\n      \"source\": \"B0154\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 10.8,\n      \"source\": \"B0042\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 12.65,\n      \"source\": \"B0188\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": 21.27,\n      \"source\": \"B0037\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 95,\n      \"source\": \"B0191\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 0.64,\n      \"source\": \"B0019\"\n    },\n    \"nii\": {\n      \"value\": 1277,\n      \"source\": \"B0051\"\n    },\n    \"nim\": {\n      \"value\": 3.66,\n      \"source\": \"B0039\"\n    },\n    \"nonint_expense\": {\n      \"value\": 1121,\n      \"source\": \"B0091\"\n    },\n    \"provision\": {\n      \"value\": 68,\n      \"source\": \"B0167\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": 0.07,\n    \"nii\": 21,\n    \"nim\": 0.02,\n    \"nonint_expense\": -3,\n    \"provision\": 0\n  },\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"Securities repositioning losses, net ($15M pre-tax / $11M after-tax)\",\n      \"eps_impact\": -0.02,\n      \"source\": \"B1137\"\n    }\n  ],\n  \"guidance\": [\n    {\n      \"item\": \"4Q26 NII\",\n      \"quote\": \"4Q26 NII expected to increase 1 \u2013 2% vs 3Q26\",\n      \"source\": \"B1424\"\n    },\n    {\n      \"item\": \"4Q26 NIM\",\n      \"quote\": \"4Q26 NIM expected to be ~3.70%\",\n      \"source\": \"B1424\"\n    },\n    {\n      \"item\": \"4Q26 Capital Markets\",\n      \"quote\": \"Expect Capital Markets revenue within the $90 \u2013 $105M range in 4Q26\",\n      \"source\": \"B1424\"\n    },\n    {\n      \"item\": \"FY26 NII\",\n      \"quote\": \"up 2.5 \u2013 4%\",\n      \"source\": \"B1424\"\n    },\n    {\n      \"item\": \"FY26 Adjusted Non-Interest Income\",\n      \"quote\": \"up 3 \u2013 5% (Expect to be toward lower end)\",\n      \"source\": \"B1424\"\n    },\n    {\n      \"item\": \"FY26 Adjusted Non-Interest Expense\",\n      \"quote\": \"up 1.5 \u2013 3.5% (Inclusive of investments)\",\n      \"source\": \"B1424\"\n    },\n    {\n      \"item\": \"FY26 Net Charge-Offs / Average Loans\",\n      \"quote\": \"40 \u2013 50 bps (Expect to be toward lower end)\",\n      \"source\": \"B1424\"\n    }\n  ],\n  \"note_markdown\": \"**Regions Financial (RF) 3Q26: High-Quality Beat vs. 2Q26 on Record Capital Markets, NIM, and Credit**\\n\\n**Headline & EPS Drivers:** Focusing on **adjusted** diluted EPS, RF delivered $0.73 in 3Q26, beating 2Q26 ($0.68) by $0.05 (+7% QoQ) and up 16% YoY [B0008, B0020, B1145]. Reported GAAP EPS rose $0.07 (+11% QoQ) to $0.71 [B0019, B1144]. The sole 3Q26 notable item was $15 million pre-tax ($11 million after-tax, or $(0.02)/share) in securities repositioning losses, down from $45 million pre-tax ($(0.04)/share) in 2Q26 [B1137-B1145]. Stripping out adjustments, core earnings were driven by a $39 million (+5% QoQ) rise in adjusted PPNR to $870 million, flat credit provision ($68 million), and a lower effective tax rate (19.8% vs. 20.7%) [B0043, B0167, B0888].\\n\\n**Revenue & Margin:** GAAP NII grew $21 million (+1.6% QoQ) to $1,298 million ($1,314 million FTE) on fixed-rate asset turnover (+$10 million), day count (+$6 million), higher hedge rates (+$4 million), and 0.5% average loan growth ($99.2 billion) [B0051, B0053, B0116, B1412]. FTE NIM expanded 2 bps QoQ to a top-quartile 3.68%, supported by peer-leading interest-bearing deposit costs of 1.70% (+1 bp QoQ) and total deposit costs of 1.17% (-1 bp QoQ), despite a 1.2% QoQ dip in average deposits ($129.1 billion) [B0010, B0039, B0140, B0755]. Reported noninterest income jumped $45 million (+7.1% QoQ) to $675 million, while adjusted noninterest income rose $20 million (+3.0% QoQ) to $690 million on record capital markets ($107 million, +27% QoQ), record treasury management/service charges ($171 million, +2%), commercial credit fees (+$7 million), and BOLI (+$8 million) [B0056-B0067, B0075]. Noninterest expense was tightly controlled at $1,118 million (-$3 million reported; +$2 million adjusted), driving 1.9% adjusted positive operating leverage and a 55.8% adjusted efficiency ratio (56.2% reported) [B0091, B0092, B1086-B1088].\\n\\n**Credit:** Asset quality strengthened markedly. Annualized NCOs dropped 13 bps QoQ to 0.29% ($72 million) [B0168, B0169], NPLs fell 8 bps to 0.59%, and business criticized loans dropped 30 bps to 4.71% [B0165, B0170]. Provision held at $68 million, keeping ACL/loans at 1.61% (-2 bps) with NPL coverage jumping to 275% [B0164, B0166, B0167].\\n\\n**Capital & Returns:** Reported ROTCE hit 21.27% (adjusted 21.66%, +148 bps QoQ) [B0037, B0038]. CET1 rose 10 bps to 10.8% (~10% Basel III Endgame pro forma) [B0042, B1422] alongside $95 million in buybacks and $255 million in dividends, though TBVPS fell to $12.65 on AOCI [B0188, B0191].\\n\\n**Guidance & Thesis:** RF guided 4Q26 NII up 1%\u20132% and NIM to ~3.70%, with FY26 adjusted fees and NCOs (40\u201350 bps) both tracking toward the lower end [B1424]. Peer-leading 21%+ ROTCE and improving credit reinforce the bullish thesis.\"\n}"
+}

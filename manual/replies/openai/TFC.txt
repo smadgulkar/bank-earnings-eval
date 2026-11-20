@@ -1,0 +1,175 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 0.56,
+      "source": "B0025",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 1.16,
+      "source": "B0026",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": 684,
+      "source": "B0348",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": -0.6,
+      "source": "B0048",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 3663,
+      "source": "B0338",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 3,
+      "source": "B0077",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 84,
+      "source": "B0108",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 3105,
+      "source": "B0129",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 82.9,
+      "source": "B0032",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": -253,
+      "source": "B0203",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 629,
+      "source": "B0204",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.77,
+      "source": "B0205",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": null,
+      "source": null,
+      "not_disclosed": true
+    },
+    "avg_loans": {
+      "value": 329458,
+      "source": "B0531",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 410699,
+      "source": "B0169",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 413233,
+      "source": "B0492",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 10.7,
+      "source": "B0176",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 31.9,
+      "source": "B0028",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 7.2,
+      "source": "B0030",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 1200,
+      "source": "B0182",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 1.23,
+      "source": "B0025"
+    },
+    "nii": {
+      "value": 3621,
+      "source": "B0338"
+    },
+    "nim": {
+      "value": 2.98,
+      "source": "B0077"
+    },
+    "nonint_expense": {
+      "value": 3055,
+      "source": "B0129"
+    },
+    "provision": {
+      "value": 395,
+      "source": "B0203"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": -0.67,
+    "nii": 42,
+    "nim": 0.02,
+    "nonint_expense": 50,
+    "provision": -648
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+    {
+      "description": "Loss on available-for-sale securities repositioning, negative $0.90 per share",
+      "eps_impact": -0.9,
+      "source": "B0049"
+    },
+    {
+      "description": "RAC loan sale reserve recapture, positive $0.36 per share",
+      "eps_impact": 0.36,
+      "source": "B0050"
+    },
+    {
+      "description": "Other RAC loan sale impacts, positive $0.06 per share",
+      "eps_impact": 0.06,
+      "source": "B0050"
+    }
+  ],
+  "guidance": [
+    {
+      "item": "4Q26 taxable-equivalent revenue",
+      "quote": "~$5.35 billion",
+      "source": "B0991"
+    },
+    {
+      "item": "4Q26 noninterest expense",
+      "quote": "Up 2.5%",
+      "source": "B0991"
+    },
+    {
+      "item": "4Q26 net charge-off ratio",
+      "quote": "~0.45%",
+      "source": "B0991"
+    },
+    {
+      "item": "4Q26 share repurchases",
+      "quote": "~$1 billion",
+      "source": "B0991"
+    }
+  ],
+  "note_markdown": "### TFC — Strategic repositioning drives reported EPS sharply lower\n\n**Reported GAAP diluted EPS fell to $0.56 from $1.23 in 2Q26**, a $0.67 sequential decline. Adjusted EPS was $1.16, down from $1.23, after excluding specified repositioning and loan-sale impacts [B0025, B0026]. Reported net income available to common shareholders was $684 million [B0348].\n\n**EPS drivers:** The AFS securities repositioning generated a $0.90 per-share loss. The RAC loan sale produced a $0.36 per-share reserve recapture and a further $0.06 positive per-share impact. Management excluded these impacts when presenting adjusted earnings [B0049, B0050].\n\n**Revenue and margin:** GAAP NII increased to $3,663 million from $3,621 million, and FTE NIM improved to 3.00% from 2.98%. Reported noninterest income plunged to $84 million from $1,644 million because of repositioning and loan-sale effects. Expenses increased to $3,105 million from $3,055 million [B0338, B0077, B0108, B0129, B0053].\n\n**Credit:** The reported provision was a $253 million benefit, including a $581 million reserve release associated with the RAC transaction. Net charge-offs reached $629 million, with 39 basis points of the 0.77% charge-off ratio attributed to RAC [B0203, B0206, B0204, B0058].\n\n**Capital and returns:** CET1 was 10.7%; reported ROTCE was 7.2% versus adjusted ROTCE of 14.6%. Buybacks totaled $1.2 billion [B0176, B0030, B0031, B0182].\n\n**Outlook:** Management projected approximately $5.35 billion of fourth-quarter taxable-equivalent revenue and a charge-off ratio near 0.45% [B0991].\n\n**Investment thesis:** Mixed. Repositioning may improve prospective earnings, but underlying EPS softened and transaction execution remains central to the thesis."
+}

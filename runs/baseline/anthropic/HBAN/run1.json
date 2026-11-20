@@ -1,0 +1,169 @@
+{
+ "label": "anthropic",
+ "provider": "chat-app",
+ "model": "Opus-5.5",
+ "ticker": "HBAN",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:06+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.33,
+    "source": "B0031",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 0.38,
+    "source": "B0065",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 680.0,
+    "source": "B0028",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.05,
+    "source": "B0063",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 2069.0,
+    "source": "B0022",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.25,
+    "source": "B0037",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 722.0,
+    "source": "B0024",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1772.0,
+    "source": "B0027",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 61.2,
+    "source": "B0038",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 123.0,
+    "source": "B0251",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 146.0,
+    "source": "B0252",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.31,
+    "source": "B0042",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.75,
+    "source": "B0044",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 188449.0,
+    "source": "B0047",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 223816.0,
+    "source": "B0048",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 224678.0,
+    "source": "B0467",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.1,
+    "source": "B0040",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 9.47,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 14.6,
+    "source": "B0035",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 100.0,
+    "source": "B0019",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.33,
+    "source": "B0031"
+   },
+   "nii": {
+    "value": 2052.0,
+    "source": "B0022"
+   },
+   "nim": {
+    "value": 3.21,
+    "source": "B0037"
+   },
+   "nonint_expense": {
+    "value": 1809.0,
+    "source": "B0027"
+   },
+   "provision": {
+    "value": 132.0,
+    "source": "B0251"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.0,
+   "nii": 17.0,
+   "nim": 0.04,
+   "nonint_expense": -37.0,
+   "provision": -9.0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Acquisition-related expenses ($117m pre-tax, $92m after tax)",
+    "eps_impact": -0.05,
+    "source": "B0063"
+   },
+   {
+    "description": "Acquired equity security conversion adjustment ($8m pre-tax, $6m after tax)",
+    "eps_impact": 0.0,
+    "source": "B0064"
+   }
+  ],
+  "guidance": [
+   {
+    "item": "Financial targets (qualitative; no numeric guidance in release)",
+    "quote": "give us confidence that we are on track to meet our financial targets and deliver sustained growth in earnings, tangible book value and long-term shareholder returns",
+    "source": "B0050"
+   }
+  ],
+  "note_markdown": "### HBAN 3Q26: Margin up, fees soft, credit drifting\n\n**Headline:** GAAP diluted EPS was $0.33, unchanged QoQ. This note focuses on **adjusted EPS**, which was $0.38, down $0.01 from $0.39 in 2Q26, a slight miss versus the prior quarter. Notable items cost $0.05: mainly $117m pre-tax of Cadence/Veritex acquisition-related expenses, versus $0.06 in 2Q26.\n\n**EPS drivers:** Underlying PPNR was roughly flat (reported $1,040m vs $1,048m). Better NII and a lower provision were offset by weaker fees and a higher tax rate (19.3% vs 18.4%).\n\n**Revenue and margin:** NII rose 1% to $2,069m. FTE NIM rose 4bp to 3.25%, helped by securities reinvestment at higher yields and $3.6bn less average borrowings. Noninterest income fell 8% to $722m (-7% ex notable items to $730m) on lower capital markets fees and unfavourable equity valuation marks. Adjusted expense was flat at $1,655m. Reported efficiency was 61.2%.\n\n**Credit:** This is the soft spot. NCOs rose to $146m (31bp) from 25bp, led by C&I and other consumer. NPAs rose to 0.90% from 0.85%. The ACL ratio slipped 3bp to 1.75% and provision eased to $123m. Reserve coverage of NALs fell to 198% from 213%.\n\n**Capital and returns:** CET1 was 10.1% (adjusted for AOCI: 8.9%). TBV/share fell 2% to $9.47 on AOCI. HBAN bought back $100m ($409m YTD). ROTCE was 14.6% (adjusted 16.6%, down from 17.5%).\n\n**Guidance:** The release gives no numeric outlook. Management says it is achieving its cost and revenue synergy targets and is on track to meet its financial targets.\n\n**Thesis:** No change. The deal integration story is progressing, but rising NCOs and NPAs, along with fee volatility, cap near-term upside."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\"value\": 0.33, \"source\": \"B0031\", \"not_disclosed\": false},\n    \"eps_adjusted\": {\"value\": 0.38, \"source\": \"B0065\", \"not_disclosed\": false},\n    \"net_income_common\": {\"value\": 680.0, \"source\": \"B0028\", \"not_disclosed\": false},\n    \"notable_items_eps\": {\"value\": -0.05, \"source\": \"B0063\", \"not_disclosed\": false},\n    \"nii\": {\"value\": 2069.0, \"source\": \"B0022\", \"not_disclosed\": false},\n    \"nim\": {\"value\": 3.25, \"source\": \"B0037\", \"not_disclosed\": false},\n    \"nonint_income\": {\"value\": 722.0, \"source\": \"B0024\", \"not_disclosed\": false},\n    \"nonint_expense\": {\"value\": 1772.0, \"source\": \"B0027\", \"not_disclosed\": false},\n    \"efficiency_ratio\": {\"value\": 61.2, \"source\": \"B0038\", \"not_disclosed\": false},\n    \"provision\": {\"value\": 123.0, \"source\": \"B0251\", \"not_disclosed\": false},\n    \"nco\": {\"value\": 146.0, \"source\": \"B0252\", \"not_disclosed\": false},\n    \"nco_ratio\": {\"value\": 0.31, \"source\": \"B0042\", \"not_disclosed\": false},\n    \"acl_ratio\": {\"value\": 1.75, \"source\": \"B0044\", \"not_disclosed\": false},\n    \"avg_loans\": {\"value\": 188449.0, \"source\": \"B0047\", \"not_disclosed\": false},\n    \"avg_deposits\": {\"value\": 223816.0, \"source\": \"B0048\", \"not_disclosed\": false},\n    \"eop_deposits\": {\"value\": 224678.0, \"source\": \"B0467\", \"not_disclosed\": false},\n    \"cet1\": {\"value\": 10.1, \"source\": \"B0040\", \"not_disclosed\": false},\n    \"tbvps\": {\"value\": 9.47, \"source\": \"B0032\", \"not_disclosed\": false},\n    \"rotce\": {\"value\": 14.6, \"source\": \"B0035\", \"not_disclosed\": false},\n    \"buybacks\": {\"value\": 100.0, \"source\": \"B0019\", \"not_disclosed\": false}\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\"value\": 0.33, \"source\": \"B0031\"},\n    \"nii\": {\"value\": 2052.0, \"source\": \"B0022\"},\n    \"nim\": {\"value\": 3.21, \"source\": \"B0037\"},\n    \"nonint_expense\": {\"value\": 1809.0, \"source\": \"B0027\"},\n    \"provision\": {\"value\": 132.0, \"source\": \"B0251\"}\n  },\n  \"changes_qoq\": {\"eps_reported\": 0.0, \"nii\": 17.0, \"nim\": 0.04, \"nonint_expense\": -37.0, \"provision\": -9.0},\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\"description\": \"Acquisition-related expenses ($117m pre-tax, $92m after tax)\", \"eps_impact\": -0.05, \"source\": \"B0063\"},\n    {\"description\": \"Acquired equity security conversion adjustment ($8m pre-tax, $6m after tax)\", \"eps_impact\": 0.0, \"source\": \"B0064\"}\n  ],\n  \"guidance\": [\n    {\"item\": \"Financial targets (qualitative; no numeric guidance in release)\", \"quote\": \"give us confidence that we are on track to meet our financial targets and deliver sustained growth in earnings, tangible book value and long-term shareholder returns\", \"source\": \"B0050\"}\n  ],\n  \"note_markdown\": \"### HBAN 3Q26: Margin up, fees soft, credit drifting\\n\\n**Headline:** GAAP diluted EPS was $0.33, unchanged QoQ. This note focuses on **adjusted EPS**, which was $0.38, down $0.01 from $0.39 in 2Q26, a slight miss versus the prior quarter. Notable items cost $0.05: mainly $117m pre-tax of Cadence/Veritex acquisition-related expenses, versus $0.06 in 2Q26.\\n\\n**EPS drivers:** Underlying PPNR was roughly flat (reported $1,040m vs $1,048m). Better NII and a lower provision were offset by weaker fees and a higher tax rate (19.3% vs 18.4%).\\n\\n**Revenue and margin:** NII rose 1% to $2,069m. FTE NIM rose 4bp to 3.25%, helped by securities reinvestment at higher yields and $3.6bn less average borrowings. Noninterest income fell 8% to $722m (-7% ex notable items to $730m) on lower capital markets fees and unfavourable equity valuation marks. Adjusted expense was flat at $1,655m. Reported efficiency was 61.2%.\\n\\n**Credit:** This is the soft spot. NCOs rose to $146m (31bp) from 25bp, led by C&I and other consumer. NPAs rose to 0.90% from 0.85%. The ACL ratio slipped 3bp to 1.75% and provision eased to $123m. Reserve coverage of NALs fell to 198% from 213%.\\n\\n**Capital and returns:** CET1 was 10.1% (adjusted for AOCI: 8.9%). TBV/share fell 2% to $9.47 on AOCI. HBAN bought back $100m ($409m YTD). ROTCE was 14.6% (adjusted 16.6%, down from 17.5%).\\n\\n**Guidance:** The release gives no numeric outlook. Management says it is achieving its cost and revenue synergy targets and is on track to meet its financial targets.\\n\\n**Thesis:** No change. The deal integration story is progressing, but rising NCOs and NPAs, along with fee volatility, cap near-term upside.\"\n}\n"
+}

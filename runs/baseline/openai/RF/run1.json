@@ -1,0 +1,158 @@
+{
+ "label": "openai",
+ "provider": "chat-app",
+ "model": "GPT-6.0",
+ "ticker": "RF",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:07+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.71,
+    "source": "B0019",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 0.73,
+    "source": "B0020",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 611,
+    "source": "B0017",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.02,
+    "source": "B0019",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 1298,
+    "source": "B0051",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.68,
+    "source": "B0054",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 675,
+    "source": "B0066",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1118,
+    "source": "B0091",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 56.2,
+    "source": "B0040",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 68,
+    "source": "B0167",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 72,
+    "source": "B0168",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.29,
+    "source": "B0169",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.61,
+    "source": "B0164",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 99183,
+    "source": "B0025",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 129140,
+    "source": "B0026",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 129510,
+    "source": "B0154",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.8,
+    "source": "B0183",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 12.65,
+    "source": "B0188",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 21.27,
+    "source": "B0037",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 95,
+    "source": "B0191",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.64,
+    "source": "B0019"
+   },
+   "nii": {
+    "value": 1277,
+    "source": "B0051"
+   },
+   "nim": {
+    "value": 3.66,
+    "source": "B0054"
+   },
+   "nonint_expense": {
+    "value": 1121,
+    "source": "B0091"
+   },
+   "provision": {
+    "value": 68,
+    "source": "B0167"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.07,
+   "nii": 21,
+   "nim": 0.02,
+   "nonint_expense": -3,
+   "provision": 0
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Net effect of company adjustments reconciling reported EPS to adjusted EPS",
+    "eps_impact": -0.02,
+    "source": "B1145"
+   }
+  ],
+  "guidance": [],
+  "note_markdown": "### RF \u2014 Broad earnings improvement with healthier credit\n\n**Reported GAAP diluted EPS increased to $0.71 from $0.64 sequentially**, while adjusted EPS rose from $0.68 to $0.73. Net income available to common shareholders advanced to $611 million from $549 million [B0017\u2013B0020]. The adjusted comparison excludes the bank's identified non-GAAP adjustments rather than treating reported and underlying results as interchangeable.\n\n**Revenue and margin:** GAAP NII increased $21 million to $1,298 million, and FTE NIM expanded 2 basis points to 3.68%. Noninterest income rose to $675 million from $630 million, supported by capital markets and other fee categories. Noninterest expense edged down to $1,118 million from $1,121 million, improving the reported efficiency ratio to 56.2% from 58.3% [B0051, B0054, B0066, B0059, B0091, B0040].\n\n**Credit:** Provision remained steady at $68 million, while net charge-offs declined to $72 million from $102 million. The annualized charge-off ratio improved to 0.29% from 0.42%. ACL coverage stood at 1.61% [B0167\u2013B0169, B0164].\n\n**Capital and returns:** Estimated CET1 was 10.8%, reported ROTCE reached 21.27%, and tangible common book value was $12.65 per share. Share repurchases totaled $95 million [B0183, B0037, B0188, B0191].\n\n**Guidance:** No explicit quantified revision to forward guidance was identified in the supplied release.\n\n**Investment thesis:** Positive incremental development. Improved spread income, stronger fees, operating leverage and better credit performance reinforce Regions' profitability case."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": 0.71,\n      \"source\": \"B0019\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": 0.73,\n      \"source\": \"B0020\",\n      \"not_disclosed\": false\n    },\n    \"net_income_common\": {\n      \"value\": 611,\n      \"source\": \"B0017\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": -0.02,\n      \"source\": \"B0019\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 1298,\n      \"source\": \"B0051\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 3.68,\n      \"source\": \"B0054\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": 675,\n      \"source\": \"B0066\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 1118,\n      \"source\": \"B0091\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 56.2,\n      \"source\": \"B0040\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": 68,\n      \"source\": \"B0167\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 72,\n      \"source\": \"B0168\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.29,\n      \"source\": \"B0169\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.61,\n      \"source\": \"B0164\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 99183,\n      \"source\": \"B0025\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 129140,\n      \"source\": \"B0026\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 129510,\n      \"source\": \"B0154\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 10.8,\n      \"source\": \"B0183\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 12.65,\n      \"source\": \"B0188\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": 21.27,\n      \"source\": \"B0037\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 95,\n      \"source\": \"B0191\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 0.64,\n      \"source\": \"B0019\"\n    },\n    \"nii\": {\n      \"value\": 1277,\n      \"source\": \"B0051\"\n    },\n    \"nim\": {\n      \"value\": 3.66,\n      \"source\": \"B0054\"\n    },\n    \"nonint_expense\": {\n      \"value\": 1121,\n      \"source\": \"B0091\"\n    },\n    \"provision\": {\n      \"value\": 68,\n      \"source\": \"B0167\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": 0.07,\n    \"nii\": 21,\n    \"nim\": 0.02,\n    \"nonint_expense\": -3,\n    \"provision\": 0\n  },\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"Net effect of company adjustments reconciling reported EPS to adjusted EPS\",\n      \"eps_impact\": -0.02,\n      \"source\": \"B1145\"\n    }\n  ],\n  \"guidance\": [],\n  \"note_markdown\": \"### RF \u2014 Broad earnings improvement with healthier credit\\n\\n**Reported GAAP diluted EPS increased to $0.71 from $0.64 sequentially**, while adjusted EPS rose from $0.68 to $0.73. Net income available to common shareholders advanced to $611 million from $549 million [B0017\u2013B0020]. The adjusted comparison excludes the bank's identified non-GAAP adjustments rather than treating reported and underlying results as interchangeable.\\n\\n**Revenue and margin:** GAAP NII increased $21 million to $1,298 million, and FTE NIM expanded 2 basis points to 3.68%. Noninterest income rose to $675 million from $630 million, supported by capital markets and other fee categories. Noninterest expense edged down to $1,118 million from $1,121 million, improving the reported efficiency ratio to 56.2% from 58.3% [B0051, B0054, B0066, B0059, B0091, B0040].\\n\\n**Credit:** Provision remained steady at $68 million, while net charge-offs declined to $72 million from $102 million. The annualized charge-off ratio improved to 0.29% from 0.42%. ACL coverage stood at 1.61% [B0167\u2013B0169, B0164].\\n\\n**Capital and returns:** Estimated CET1 was 10.8%, reported ROTCE reached 21.27%, and tangible common book value was $12.65 per share. Share repurchases totaled $95 million [B0183, B0037, B0188, B0191].\\n\\n**Guidance:** No explicit quantified revision to forward guidance was identified in the supplied release.\\n\\n**Investment thesis:** Positive incremental development. Improved spread income, stronger fees, operating leverage and better credit performance reinforce Regions' profitability case.\"\n}\n"
+}

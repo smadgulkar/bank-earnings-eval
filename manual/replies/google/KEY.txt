@@ -1,0 +1,179 @@
+{
+  "metrics": {
+    "eps_reported": {
+      "value": 0.51,
+      "source": "B0030",
+      "not_disclosed": false
+    },
+    "eps_adjusted": {
+      "value": 0.51,
+      "source": "B0522",
+      "not_disclosed": false
+    },
+    "net_income_common": {
+      "value": 537,
+      "source": "B0350",
+      "not_disclosed": false
+    },
+    "notable_items_eps": {
+      "value": 0.0,
+      "source": "B0971",
+      "not_disclosed": false
+    },
+    "nii": {
+      "value": 1300,
+      "source": "B0043",
+      "not_disclosed": false
+    },
+    "nim": {
+      "value": 2.95,
+      "source": "B0035",
+      "not_disclosed": false
+    },
+    "nonint_income": {
+      "value": 744,
+      "source": "B0044",
+      "not_disclosed": false
+    },
+    "nonint_expense": {
+      "value": 1245,
+      "source": "B0086",
+      "not_disclosed": false
+    },
+    "efficiency_ratio": {
+      "value": 60.6,
+      "source": "B0368",
+      "not_disclosed": false
+    },
+    "provision": {
+      "value": 61,
+      "source": "B0127",
+      "not_disclosed": false
+    },
+    "nco": {
+      "value": 89,
+      "source": "B0118",
+      "not_disclosed": false
+    },
+    "nco_ratio": {
+      "value": 0.32,
+      "source": "B0119",
+      "not_disclosed": false
+    },
+    "acl_ratio": {
+      "value": 1.5,
+      "source": "B0126",
+      "not_disclosed": false
+    },
+    "avg_loans": {
+      "value": 111585,
+      "source": "B0099",
+      "not_disclosed": false
+    },
+    "avg_deposits": {
+      "value": 151175,
+      "source": "B0108",
+      "not_disclosed": false
+    },
+    "eop_deposits": {
+      "value": 153814,
+      "source": "B0557",
+      "not_disclosed": false
+    },
+    "cet1": {
+      "value": 11.1,
+      "source": "B0034",
+      "not_disclosed": false
+    },
+    "tbvps": {
+      "value": 12.35,
+      "source": "B0360",
+      "not_disclosed": false
+    },
+    "rotce": {
+      "value": 15.11,
+      "source": "B0032",
+      "not_disclosed": false
+    },
+    "buybacks": {
+      "value": 320,
+      "source": "B0012",
+      "not_disclosed": false
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.44,
+      "source": "B0030"
+    },
+    "nii": {
+      "value": 1250,
+      "source": "B0043"
+    },
+    "nim": {
+      "value": 2.89,
+      "source": "B0035"
+    },
+    "nonint_expense": {
+      "value": 1217,
+      "source": "B0086"
+    },
+    "provision": {
+      "value": 92,
+      "source": "B0127"
+    }
+  },
+  "changes_qoq": {
+    "eps_reported": 0.07,
+    "nii": 50,
+    "nim": 0.06,
+    "nonint_expense": 28,
+    "provision": -31
+  },
+  "eps_basis_used_in_note": "reported",
+  "nim_basis": "FTE",
+  "notable_items": [],
+  "guidance": [
+    {
+      "item": "FY26 NII (TE) growth",
+      "quote": "up ~10% (previously up 9 – 11%)",
+      "source": "B1017"
+    },
+    {
+      "item": "4Q26 NIM (TE) exit rate",
+      "quote": "4Q exit rate: ~3.00%",
+      "source": "B1017"
+    },
+    {
+      "item": "FY26 Noninterest income growth",
+      "quote": "up 4 – 5%",
+      "source": "B1017"
+    },
+    {
+      "item": "FY26 Adjusted noninterest expense growth",
+      "quote": "up ~4%",
+      "source": "B1017"
+    },
+    {
+      "item": "FY26 Average loans growth",
+      "quote": "up ~5% (previously up 4 – 5%)",
+      "source": "B1017"
+    },
+    {
+      "item": "FY26 NCOs to average loans",
+      "quote": "37 – 39 bps (previously 40 – 45 bps)",
+      "source": "B1017"
+    },
+    {
+      "item": "2026 planned share repurchases",
+      "quote": "Expect to repurchase $1.3Bn in 2026",
+      "source": "B1015"
+    },
+    {
+      "item": "4Q27 Targets",
+      "quote": "3.25%+ / 15%+ NIM and ROTCE",
+      "source": "B1017"
+    }
+  ],
+  "note_markdown": "**KeyCorp (KEY) 3Q26: Broad-Based Beat vs. 2Q26; ROTCE Crosses 15% Ahead of Schedule**\n\n**Headline & EPS Drivers:** Discussing **reported** GAAP diluted EPS (identical to adjusted EPS as KEY had zero selected items in 3Q26 and 2Q26) [B0520-B0522, B0971], KEY delivered $0.51 in 3Q26, beating 2Q26 ($0.44) by $0.07 (+16% QoQ) and up 24% YoY [B0030]. Strength was clean and broad-based: PPNR jumped $60 million (+8% QoQ) to a record $807 million [B0517, B0016], provision for credit losses dropped $31 million (-34% QoQ) to $61 million [B0127], and share repurchases trimmed diluted share count by 1.5% QoQ [B0639].\n\n**Revenue & Margin:** Total GAAP revenue reached a record $2,044 million ($2,052 million TE, +4.5% QoQ) [B0045, B0047]. GAAP NII climbed $50 million (+4.0% QoQ) to $1,300 million ($1,308 million TE), driven by C&I loan growth (+$14 million), funding optimization (+$13 million), securities/swap repricing (+$11 million), and day count (+$8 million) [B0043, B0048, B1007]. FTE NIM expanded 6 bps QoQ to 2.95% despite a 3 bps uptick in total deposit costs to 1.66% [B0035, B0109]. Average loans grew $1.5 billion (+1.4% QoQ) to $111.6 billion on 3.7% C&I growth, while average deposits surged $3.6 billion (+2.4% QoQ) to $151.2 billion [B0096, B0099, B0108]. Noninterest income rose $38 million (+5.4% QoQ) to $744 million, led by a 27% jump in investment banking and debt placement fees ($214 million, +$45 million) and higher trust/investment fees ($165 million, +$6 million) [B0060, B0061, B0071]. Noninterest expense increased $28 million (+2.3% QoQ) to $1,245 million on higher incentive compensation and computer processing, yet positive operating leverage drove the cash efficiency ratio down 128 bps to 60.6% [B0086, B0088, B0368, B0515].\n\n**Credit:** Credit quality improved across the board. NCOs fell $26 million QoQ to $89 million (0.32% vs. 0.42% in 2Q26) [B0118, B0119], while NPAs dropped 23% QoQ to $627 million (0.55% vs. 0.74%) [B0122, B0123]. KEY released $28 million of reserves ($61 million provision), bringing ACL/loans to 1.50% (-6 bps QoQ) and ACL/NPLs up to 274% [B0126, B0129, B1001].\n\n**Capital & Returns:** ROTCE jumped 222 bps QoQ to 15.11% [B0032]. CET1 dipped 10 bps to 11.1% (marked CET1 9.0%) as KEY repurchased $320 million of stock [B0034, B0491, B0012]; TBVPS fell 9% QoQ to $12.35 on wider AOCI losses [B0360, B0569].\n\n**Guidance & Thesis:** KEY tightened FY26 NII (~10%), raised loan growth (~5% total, ~10% commercial), and lowered NCO guidance (37–39 bps vs. 40–45 bps), targeting ~3.00% 4Q26 exit NIM and $1.3 billion in FY26 buybacks [B1015, B1017]. Reaching 15%+ ROTCE ahead of its 4Q27 target meaningfully strengthens the thesis."
+}

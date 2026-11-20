@@ -1,0 +1,163 @@
+{
+ "label": "openai",
+ "provider": "chat-app",
+ "model": "GPT-6.0",
+ "ticker": "HBAN",
+ "run": 1,
+ "condition": "baseline",
+ "started_utc": "2026-11-20T21:22:07+00:00",
+ "latency_s": null,
+ "usage": {},
+ "error": null,
+ "parse_note": null,
+ "parsed": {
+  "metrics": {
+   "eps_reported": {
+    "value": 0.33,
+    "source": "B0031",
+    "not_disclosed": false
+   },
+   "eps_adjusted": {
+    "value": 0.38,
+    "source": "B0065",
+    "not_disclosed": false
+   },
+   "net_income_common": {
+    "value": 680,
+    "source": "B0028",
+    "not_disclosed": false
+   },
+   "notable_items_eps": {
+    "value": -0.05,
+    "source": "B0063",
+    "not_disclosed": false
+   },
+   "nii": {
+    "value": 2069,
+    "source": "B0022",
+    "not_disclosed": false
+   },
+   "nim": {
+    "value": 3.25,
+    "source": "B0037",
+    "not_disclosed": false
+   },
+   "nonint_income": {
+    "value": 722,
+    "source": "B0024",
+    "not_disclosed": false
+   },
+   "nonint_expense": {
+    "value": 1772,
+    "source": "B0027",
+    "not_disclosed": false
+   },
+   "efficiency_ratio": {
+    "value": 61.2,
+    "source": "B0038",
+    "not_disclosed": false
+   },
+   "provision": {
+    "value": 123,
+    "source": "B0251",
+    "not_disclosed": false
+   },
+   "nco": {
+    "value": 146,
+    "source": "B0252",
+    "not_disclosed": false
+   },
+   "nco_ratio": {
+    "value": 0.31,
+    "source": "B0253",
+    "not_disclosed": false
+   },
+   "acl_ratio": {
+    "value": 1.75,
+    "source": "B0429",
+    "not_disclosed": false
+   },
+   "avg_loans": {
+    "value": 188449,
+    "source": "B0414",
+    "not_disclosed": false
+   },
+   "avg_deposits": {
+    "value": 223816,
+    "source": "B0415",
+    "not_disclosed": false
+   },
+   "eop_deposits": {
+    "value": 224678,
+    "source": "B0534",
+    "not_disclosed": false
+   },
+   "cet1": {
+    "value": 10.1,
+    "source": "B0040",
+    "not_disclosed": false
+   },
+   "tbvps": {
+    "value": 9.47,
+    "source": "B0032",
+    "not_disclosed": false
+   },
+   "rotce": {
+    "value": 14.6,
+    "source": "B0035",
+    "not_disclosed": false
+   },
+   "buybacks": {
+    "value": 100,
+    "source": "B0019",
+    "not_disclosed": false
+   }
+  },
+  "prior_quarter": {
+   "eps_reported": {
+    "value": 0.33,
+    "source": "B0031"
+   },
+   "nii": {
+    "value": 2052,
+    "source": "B0022"
+   },
+   "nim": {
+    "value": 3.21,
+    "source": "B0037"
+   },
+   "nonint_expense": {
+    "value": 1809,
+    "source": "B0027"
+   },
+   "provision": {
+    "value": 132,
+    "source": "B0251"
+   }
+  },
+  "changes_qoq": {
+   "eps_reported": 0.0,
+   "nii": 17,
+   "nim": 0.04,
+   "nonint_expense": -37,
+   "provision": -9
+  },
+  "eps_basis_used_in_note": "adjusted",
+  "nim_basis": "FTE",
+  "notable_items": [
+   {
+    "description": "Acquisition-related expenses with an adverse diluted EPS impact",
+    "eps_impact": -0.05,
+    "source": "B0063"
+   },
+   {
+    "description": "Acquired equity security conversion adjustment, $6 million adverse after-tax impact, rounding to zero per share",
+    "eps_impact": 0,
+    "source": "B0064"
+   }
+  ],
+  "guidance": [],
+  "note_markdown": "### HBAN \u2014 Stable reported EPS, softer adjusted earnings\n\n**Reported GAAP diluted EPS was unchanged sequentially at $0.33**, while adjusted EPS declined from $0.39 to $0.38 after excluding acquisition-related and other notable impacts. Net income available to common shareholders was $680 million versus $686 million in 2Q26 [B0031, B0063\u2013B0069, B0028].\n\n**EPS drivers:** Acquisition-related expenses had a negative $0.05 per-share impact. Underlying fee income declined while spread income improved, and adjusted expenses were nearly unchanged [B0063, B0166, B0225].\n\n**Revenue and margin:** GAAP NII grew $17 million to $2,069 million. FTE NIM expanded 4 basis points to 3.25%. Noninterest income declined $63 million to $722 million, while reported expenses fell $37 million to $1,772 million [B0022, B0037, B0024, B0027].\n\n**Credit:** Provision decreased to $123 million from $132 million. Net charge-offs increased to $146 million, producing a 0.31% annualized charge-off ratio. ACL coverage was 1.75% [B0251\u2013B0253, B0429].\n\n**Capital and returns:** CET1 reached 10.1%, with reported ROTCE of 14.6% and adjusted ROTCE of 16.6%. Tangible book value was $9.47 per share, and share repurchases totaled $100 million [B0040, B0035, B0036, B0032, B0019].\n\n**Guidance:** Management expressed confidence in achieving financial targets and acquisition synergies without providing a new quantified revision in the identified release commentary [B0050].\n\n**Investment thesis:** Broadly unchanged. Margin expansion and integration synergies provide support, but adjusted EPS declined and charge-offs increased."
+ },
+ "raw_text": "{\n  \"metrics\": {\n    \"eps_reported\": {\n      \"value\": 0.33,\n      \"source\": \"B0031\",\n      \"not_disclosed\": false\n    },\n    \"eps_adjusted\": {\n      \"value\": 0.38,\n      \"source\": \"B0065\",\n      \"not_disclosed\": false\n    },\n    \"net_income_common\": {\n      \"value\": 680,\n      \"source\": \"B0028\",\n      \"not_disclosed\": false\n    },\n    \"notable_items_eps\": {\n      \"value\": -0.05,\n      \"source\": \"B0063\",\n      \"not_disclosed\": false\n    },\n    \"nii\": {\n      \"value\": 2069,\n      \"source\": \"B0022\",\n      \"not_disclosed\": false\n    },\n    \"nim\": {\n      \"value\": 3.25,\n      \"source\": \"B0037\",\n      \"not_disclosed\": false\n    },\n    \"nonint_income\": {\n      \"value\": 722,\n      \"source\": \"B0024\",\n      \"not_disclosed\": false\n    },\n    \"nonint_expense\": {\n      \"value\": 1772,\n      \"source\": \"B0027\",\n      \"not_disclosed\": false\n    },\n    \"efficiency_ratio\": {\n      \"value\": 61.2,\n      \"source\": \"B0038\",\n      \"not_disclosed\": false\n    },\n    \"provision\": {\n      \"value\": 123,\n      \"source\": \"B0251\",\n      \"not_disclosed\": false\n    },\n    \"nco\": {\n      \"value\": 146,\n      \"source\": \"B0252\",\n      \"not_disclosed\": false\n    },\n    \"nco_ratio\": {\n      \"value\": 0.31,\n      \"source\": \"B0253\",\n      \"not_disclosed\": false\n    },\n    \"acl_ratio\": {\n      \"value\": 1.75,\n      \"source\": \"B0429\",\n      \"not_disclosed\": false\n    },\n    \"avg_loans\": {\n      \"value\": 188449,\n      \"source\": \"B0414\",\n      \"not_disclosed\": false\n    },\n    \"avg_deposits\": {\n      \"value\": 223816,\n      \"source\": \"B0415\",\n      \"not_disclosed\": false\n    },\n    \"eop_deposits\": {\n      \"value\": 224678,\n      \"source\": \"B0534\",\n      \"not_disclosed\": false\n    },\n    \"cet1\": {\n      \"value\": 10.1,\n      \"source\": \"B0040\",\n      \"not_disclosed\": false\n    },\n    \"tbvps\": {\n      \"value\": 9.47,\n      \"source\": \"B0032\",\n      \"not_disclosed\": false\n    },\n    \"rotce\": {\n      \"value\": 14.6,\n      \"source\": \"B0035\",\n      \"not_disclosed\": false\n    },\n    \"buybacks\": {\n      \"value\": 100,\n      \"source\": \"B0019\",\n      \"not_disclosed\": false\n    }\n  },\n  \"prior_quarter\": {\n    \"eps_reported\": {\n      \"value\": 0.33,\n      \"source\": \"B0031\"\n    },\n    \"nii\": {\n      \"value\": 2052,\n      \"source\": \"B0022\"\n    },\n    \"nim\": {\n      \"value\": 3.21,\n      \"source\": \"B0037\"\n    },\n    \"nonint_expense\": {\n      \"value\": 1809,\n      \"source\": \"B0027\"\n    },\n    \"provision\": {\n      \"value\": 132,\n      \"source\": \"B0251\"\n    }\n  },\n  \"changes_qoq\": {\n    \"eps_reported\": 0.0,\n    \"nii\": 17,\n    \"nim\": 0.04,\n    \"nonint_expense\": -37,\n    \"provision\": -9\n  },\n  \"eps_basis_used_in_note\": \"adjusted\",\n  \"nim_basis\": \"FTE\",\n  \"notable_items\": [\n    {\n      \"description\": \"Acquisition-related expenses with an adverse diluted EPS impact\",\n      \"eps_impact\": -0.05,\n      \"source\": \"B0063\"\n    },\n    {\n      \"description\": \"Acquired equity security conversion adjustment, $6 million adverse after-tax impact, rounding to zero per share\",\n      \"eps_impact\": 0,\n      \"source\": \"B0064\"\n    }\n  ],\n  \"guidance\": [],\n  \"note_markdown\": \"### HBAN \u2014 Stable reported EPS, softer adjusted earnings\\n\\n**Reported GAAP diluted EPS was unchanged sequentially at $0.33**, while adjusted EPS declined from $0.39 to $0.38 after excluding acquisition-related and other notable impacts. Net income available to common shareholders was $680 million versus $686 million in 2Q26 [B0031, B0063\u2013B0069, B0028].\\n\\n**EPS drivers:** Acquisition-related expenses had a negative $0.05 per-share impact. Underlying fee income declined while spread income improved, and adjusted expenses were nearly unchanged [B0063, B0166, B0225].\\n\\n**Revenue and margin:** GAAP NII grew $17 million to $2,069 million. FTE NIM expanded 4 basis points to 3.25%. Noninterest income declined $63 million to $722 million, while reported expenses fell $37 million to $1,772 million [B0022, B0037, B0024, B0027].\\n\\n**Credit:** Provision decreased to $123 million from $132 million. Net charge-offs increased to $146 million, producing a 0.31% annualized charge-off ratio. ACL coverage was 1.75% [B0251\u2013B0253, B0429].\\n\\n**Capital and returns:** CET1 reached 10.1%, with reported ROTCE of 14.6% and adjusted ROTCE of 16.6%. Tangible book value was $9.47 per share, and share repurchases totaled $100 million [B0040, B0035, B0036, B0032, B0019].\\n\\n**Guidance:** Management expressed confidence in achieving financial targets and acquisition synergies without providing a new quantified revision in the identified release commentary [B0050].\\n\\n**Investment thesis:** Broadly unchanged. Margin expansion and integration synergies provide support, but adjusted EPS declined and charge-offs increased.\"\n}\n"
+}

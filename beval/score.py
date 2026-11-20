@@ -56,11 +56,14 @@ def score_run(rec, gt, traps):
         value = num(ans.get("value")) if isinstance(ans, dict) else num(ans)
         source = ans.get("source") if isinstance(ans, dict) else None
         truth = num(truth)
+        NONE_EQ_ZERO = {"notable_items_eps", "buybacks"}   # "none" can be written as 0 or not disclosed
         if truth is None:
-            correct = value is None
+            correct = value is None or (key in NONE_EQ_ZERO and value == 0)
         else:
             correct = value is not None and within_tolerance(kind, truth, value)
-        cite_ok = block_contains(t, source, kind, value) if value is not None else None
+        gt_note = ((gt["metrics"] if period == "current" else gt["prior_quarter"]).get(key) or {}).get("note") or ""
+        skip_cite = key == "notable_items_eps" or gt_note.startswith("derived:") or (truth is None and value == 0)
+        cite_ok = None if (value is None or skip_cite) else block_contains(t, source, kind, value)
         fields.append({"run_id": run_id, "label": rec["label"], "ticker": t, "run": rec["run"],
                        "period": period, "field": key, "truth": truth, "value": value,
                        "source": source, "correct": int(correct),
