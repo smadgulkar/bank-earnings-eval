@@ -1,0 +1,129 @@
+{
+  "ticker": "KEY",
+  "metrics": {
+    "eps_reported": {
+      "value": 0.51,
+      "source": "B0014",
+      "note": ""
+    },
+    "eps_adjusted": {
+      "value": 0.51,
+      "source": "B0522",
+      "note": "no adjustments this quarter"
+    },
+    "net_income_common": {
+      "value": 537,
+      "source": "B0014",
+      "note": "continuing operations"
+    },
+    "notable_items_eps": {
+      "value": null,
+      "source": null,
+      "note": "not disclosed: no notable items this quarter (FDIC benefit was 3Q25)"
+    },
+    "nii": {
+      "value": 1300.0,
+      "source": "B1100",
+      "note": ""
+    },
+    "nim": {
+      "value": 2.95,
+      "source": "B0373",
+      "note": ""
+    },
+    "nonint_income": {
+      "value": 744.0,
+      "source": "B1115",
+      "note": ""
+    },
+    "nonint_expense": {
+      "value": 1245.0,
+      "source": "B1125",
+      "note": ""
+    },
+    "efficiency_ratio": {
+      "value": 60.6,
+      "source": "B0368",
+      "note": "KEY reports cash efficiency ratio (non-GAAP, ex intangible amortization); no GAAP ratio"
+    },
+    "provision": {
+      "value": 61.0,
+      "source": "B1101",
+      "note": ""
+    },
+    "nco": {
+      "value": 89.0,
+      "source": "B0886",
+      "note": ""
+    },
+    "nco_ratio": {
+      "value": 0.32,
+      "source": "B0887",
+      "note": ""
+    },
+    "acl_ratio": {
+      "value": 1.5,
+      "source": "B0891",
+      "note": ""
+    },
+    "avg_loans": {
+      "value": 111585,
+      "source": "B0099",
+      "note": ""
+    },
+    "avg_deposits": {
+      "value": 151175,
+      "source": "B0108",
+      "note": ""
+    },
+    "eop_deposits": {
+      "value": 153814.0,
+      "source": "B1065",
+      "note": ""
+    },
+    "cet1": {
+      "value": 11.1,
+      "source": "B0490",
+      "note": ""
+    },
+    "tbvps": {
+      "value": 12.35,
+      "source": "B0360",
+      "note": ""
+    },
+    "rotce": {
+      "value": 15.11,
+      "source": "B0502",
+      "note": ""
+    },
+    "buybacks": {
+      "value": 320,
+      "source": "B0157",
+      "note": ""
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.44,
+      "source": "B0522"
+    },
+    "nii": {
+      "value": 1250.0,
+      "source": "B1100"
+    },
+    "nim": {
+      "value": 2.89,
+      "source": "B0373"
+    },
+    "nonint_expense": {
+      "value": 1217.0,
+      "source": "B1125"
+    },
+    "provision": {
+      "value": 92.0,
+      "source": "B1101"
+    }
+  },
+  "nim_basis": "FTE",
+  "notes": ""
+}

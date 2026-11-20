@@ -1,0 +1,53 @@
+{
+  "ticker": "KEY",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0014: EPS $0.51 GAAP = adjusted; 3Q25 comparison had $4M FDIC benefit",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B1001: NII shown $1,308 TE vs GAAP $1,300 (B1100); NIM 2.95% TE",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B1100: 2Q26 NII 1,250",
+      "check": "auto:prior"
+    },
+    {
+      "id": "segment_balances",
+      "type": "period_mismatch",
+      "where": "B0191/B0212: segment loans 32,596 and deposits 87,367 vs total 111,585 / 151,175",
+      "check": "auto:field:avg_loans"
+    },
+    {
+      "id": "efficiency_def",
+      "type": "definitions",
+      "where": "B0368: only a cash efficiency ratio (60.6%, non-GAAP) is reported",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "B1001: provision $61M < charge-offs $89M, $28M reserve release",
+      "check": "manual"
+    },
+    {
+      "id": "capital_marked",
+      "type": "definitions",
+      "where": "B1001: CET1 11.1% vs marked CET1 9.0% (AOCI); TBV/share -9% QoQ",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "none this quarter",
+      "check": "manual"
+    }
+  ]
+}
