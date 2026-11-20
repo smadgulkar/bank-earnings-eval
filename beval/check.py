@@ -8,7 +8,7 @@ from pathlib import Path
 from .fields import within_tolerance
 
 ROOT = Path(__file__).resolve().parent.parent
-NUM = re.compile(r"\(?-?\$?\s?\d[\d,]*\.?\d*\)?")
+NUM = re.compile(r"\(?-?\$?\s?(?:\d[\d,]*\.?\d*|\.\d+)\)?")
 # A block may state money in thousands, millions or billions; values are in millions.
 SCALES = (1.0, 1e-3, 1e3)
 

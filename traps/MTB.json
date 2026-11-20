@@ -1,0 +1,47 @@
+{
+  "ticker": "MTB",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0758: GAAP EPS $5.04 vs net operating EPS $5.08; gap is intangible amortization, not notable items",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0756: no notable items in 3Q26; 3Q25 had $28M CIT earnout + $8M FDIC",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0486: NIM 3.65% on taxable-equivalent basis; GAAP NII 1,793 vs TE 1,805 (B0015)",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B0352: 2Q26 NII 1,792; EPS fell $5.32 -> $5.04",
+      "check": "auto:prior"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision $135M > charge-offs $127M: small build; NCO ratio up 0.23% -> 0.35% (B0756)",
+      "check": "manual"
+    },
+    {
+      "id": "reclassification",
+      "type": "definitions",
+      "where": "B0058: 3Q26 reclassified Other income and split out held-for-sale loans; prior periods restated",
+      "check": "manual"
+    },
+    {
+      "id": "efficiency_def",
+      "type": "definitions",
+      "where": "B0034: efficiency ratio 54.4% is non-GAAP (excludes amortization, merger costs)",
+      "check": "manual"
+    }
+  ]
+}

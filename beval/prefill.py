@@ -53,7 +53,7 @@ PATTERNS = {
 }
 # notable_items_eps and buybacks are usually in prose, so they are left for you.
 
-NUM = re.compile(r"^\$?\(?-?\$?\s?\d[\d,]*\.?\d*\s?%?\)?%?$")
+NUM = re.compile(r"^\$?\(?-?\$?\s?(?:\d[\d,]*\.?\d*|\.\d+)\s?%?\)?%?$")
 
 
 def to_number(cell: str):
