@@ -61,10 +61,15 @@ def validate() -> int:
         for name, sec in sections:
             for key, v in sec.items():
                 kind = FIELD_BY_KEY[key].kind
+                if "PREFILLED" in (v.get("note") or ""):
+                    print(f"{t} {name}.{key}: prefilled but not yet checked (delete 'PREFILLED - check' once verified)")
+                    problems += 1
                 if v["value"] is None:
                     if name == "metrics" and not v.get("note"):
                         print(f"{t} {name}.{key}: empty -- fill it, or add a note saying 'not disclosed'")
                         problems += 1
+                    continue
+                if (v.get("note") or "").startswith("derived:"):
                     continue
                 if not block_contains(t, v["source"], kind, v["value"]):
                     hits = find_value(t, kind, v["value"])[:5]

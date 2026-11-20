@@ -1,0 +1,47 @@
+{
+  "ticker": "RF",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0008: GAAP EPS $0.71 vs adjusted $0.73",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0075/B1460: $15M securities repositioning losses ($40M in 2Q); fee income +7% reported vs +3% adjusted",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0370: NIM 3.68% FTE; GAAP NII 1,298 vs FTE 1,314 (B0650)",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B1074: 2Q26 NII 1,277",
+      "check": "auto:prior"
+    },
+    {
+      "id": "nco_ytd",
+      "type": "period_mismatch",
+      "where": "B1283: net charge-offs 304 is year-to-date; quarter is 72 (B0177)",
+      "check": "auto:field:nco"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision $68M < charge-offs $72M: small release; NCO ratio fell 0.42% -> 0.29%",
+      "check": "manual"
+    },
+    {
+      "id": "tbv_drop",
+      "type": "definitions",
+      "where": "B1186: TBV/share $13.78 -> $12.65 (-8%) while earnings rose; note must not misread the cause",
+      "check": "manual"
+    }
+  ]
+}
