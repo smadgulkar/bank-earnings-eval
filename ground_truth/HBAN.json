@@ -1,0 +1,129 @@
+{
+  "ticker": "HBAN",
+  "metrics": {
+    "eps_reported": {
+      "value": 0.33,
+      "source": "B0031",
+      "note": ""
+    },
+    "eps_adjusted": {
+      "value": 0.38,
+      "source": "B0065",
+      "note": ""
+    },
+    "net_income_common": {
+      "value": 680.0,
+      "source": "B0890",
+      "note": ""
+    },
+    "notable_items_eps": {
+      "value": -0.05,
+      "source": "B0065",
+      "note": "derived: GAAP 0.33 vs adjusted 0.38; mainly $117M acquisition-related expenses (B0213)"
+    },
+    "nii": {
+      "value": 2069.0,
+      "source": "B0906",
+      "note": ""
+    },
+    "nim": {
+      "value": 3.25,
+      "source": "B0406",
+      "note": ""
+    },
+    "nonint_income": {
+      "value": 722.0,
+      "source": "B0907",
+      "note": ""
+    },
+    "nonint_expense": {
+      "value": 1772.0,
+      "source": "B0697",
+      "note": ""
+    },
+    "efficiency_ratio": {
+      "value": 61.2,
+      "source": "B0912",
+      "note": ""
+    },
+    "provision": {
+      "value": 123.0,
+      "source": "B0679",
+      "note": ""
+    },
+    "nco": {
+      "value": 146.0,
+      "source": "B0768",
+      "note": ""
+    },
+    "nco_ratio": {
+      "value": 0.31,
+      "source": "B0782",
+      "note": ""
+    },
+    "acl_ratio": {
+      "value": 1.75,
+      "source": "B0429",
+      "note": ""
+    },
+    "avg_loans": {
+      "value": 188449.0,
+      "source": "B0414",
+      "note": ""
+    },
+    "avg_deposits": {
+      "value": 223816.0,
+      "source": "B0415",
+      "note": ""
+    },
+    "eop_deposits": {
+      "value": 224678.0,
+      "source": "B0539",
+      "note": ""
+    },
+    "cet1": {
+      "value": 10.1,
+      "source": "B0843",
+      "note": ""
+    },
+    "tbvps": {
+      "value": 9.47,
+      "source": "B0401",
+      "note": ""
+    },
+    "rotce": {
+      "value": 14.6,
+      "source": "B0897",
+      "note": ""
+    },
+    "buybacks": {
+      "value": 100,
+      "source": "B0019",
+      "note": "quarter; $409M is year-to-date"
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 0.33,
+      "source": "B0031"
+    },
+    "nii": {
+      "value": 2052.0,
+      "source": "B0906"
+    },
+    "nim": {
+      "value": 3.21,
+      "source": "B0406"
+    },
+    "nonint_expense": {
+      "value": 1809.0,
+      "source": "B0697"
+    },
+    "provision": {
+      "value": 132.0,
+      "source": "B0679"
+    }
+  },
+  "nim_basis": "FTE",
+  "notes": ""
+}

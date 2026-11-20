@@ -48,7 +48,7 @@ PATTERNS = {
     "avg_deposits": [r"^average (total )?deposits$", r"^total average deposits"],
     "eop_deposits": [r"^(period-end|end of period|ending) (total )?deposits$", r"^total deposits$"],
     "cet1": [r"common equity tier 1( capital)? ratio", r"cet ?1( capital)? ratio", r"common equity tier 1 \(cet1\)"],
-    "tbvps": [r"^tangible book value per (common )?share"],
+    "tbvps": [r"^tangible book value per (common )?share", r"^tbv per (common )?share", r"tangible (common )?book value per"],
     "rotce": [r"^return on (average )?tangible common (shareholders' |stockholders' )?equity", r"^rotce"],
 }
 # notable_items_eps and buybacks are usually in prose, so they are left for you.

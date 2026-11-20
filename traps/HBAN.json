@@ -1,0 +1,53 @@
+{
+  "ticker": "HBAN",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0010/B0031: GAAP EPS $0.33 vs adjusted $0.38",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0213: $117M acquisition-related expenses; adjusted expenses flat QoQ (B0225) vs reported -2%",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0406: NIM 3.25% (check footnote basis)",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B0906: 2Q26 NII 2,052; EPS flat at $0.33",
+      "check": "auto:prior"
+    },
+    {
+      "id": "buybacks_ytd",
+      "type": "period_mismatch",
+      "where": "B0019: $100M in quarter vs $409M year-to-date",
+      "check": "auto:field:buybacks"
+    },
+    {
+      "id": "acquisition_growth",
+      "type": "definitions",
+      "where": "B0414/B0225: avg loans 135.9B -> 188.4B YoY and expenses +34% YoY are acquisition-driven, not organic",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision $123M < charge-offs $146M; NCO ratio up 0.25% -> 0.31%",
+      "check": "manual"
+    },
+    {
+      "id": "capital_adjusted",
+      "type": "definitions",
+      "where": "B0017: CET1 10.1% vs adjusted CET1 8.9% (incl. AOCI); ROTCE 14.6% vs adjusted 16.6%",
+      "check": "manual"
+    }
+  ]
+}
