@@ -1,0 +1,47 @@
+{
+  "ticker": "TFC",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0009: GAAP EPS $0.56 vs adjusted $1.16",
+      "check": "manual"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0106: $1,447M securities loss; fee income $84M reported vs $1,597M adjusted (B0111)",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision benefit -$253M (derived, B0341) while charge-offs jumped to $629M (0.77%); reserve release, check cause",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0551: NIM 3.00% TE; TE NII 3,707 vs GAAP 3,663",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B0553: 2Q26 NII 3,621",
+      "check": "auto:prior"
+    },
+    {
+      "id": "deposits_avg_vs_eop",
+      "type": "period_mismatch",
+      "where": "B0169/B0382 average 410,699 vs period-end 413,233 (B0390)",
+      "check": "auto:field:eop_deposits"
+    },
+    {
+      "id": "efficiency_def",
+      "type": "definitions",
+      "where": "B0372: GAAP efficiency 82.9% distorted by securities loss; ROTCE 7.2% vs adjusted 14.6% (B0370)",
+      "check": "manual"
+    }
+  ]
+}
