@@ -24,10 +24,25 @@ def clean(text: str) -> str:
     return WS.sub(" ", text.replace("\xa0", " ")).strip()
 
 
+LONG_CELL = 160          # a table cell longer than this is prose, not a number cell
+BULLETS = re.compile(r"\s*[▪•●◦]\s*")
+
+
+def split_prose(text: str) -> list[str]:
+    """Split a prose cell (e.g. a 'highlights' box laid out as a table cell) on its bullets."""
+    return [p.strip(" –-") for p in BULLETS.split(text) if p.strip(" –-")]
+
+
 def table_rows(table: Tag) -> list[str]:
     rows = []
     for tr in table.find_all("tr"):
-        cells = [clean(c.get_text(" ")) for c in tr.find_all(["td", "th"])]
+        raw = [clean(c.get_text(" ")) for c in tr.find_all(["td", "th"])]
+        # Prose cells become their own blocks, so a citation to a table row can't be
+        # "verified" by a number sitting in a paragraph of text next to it.
+        prose = [c for c in raw if len(c) > LONG_CELL]
+        cells = [c for c in raw if len(c) <= LONG_CELL]
+        for c in prose:
+            rows.extend(split_prose(c))
         # EDGAR splits "$" and ")" into their own cells; glue them back on.
         merged: list[str] = []
         for c in cells:
