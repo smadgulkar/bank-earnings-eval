@@ -1,0 +1,129 @@
+{
+  "ticker": "PNC",
+  "metrics": {
+    "eps_reported": {
+      "value": 4.97,
+      "source": "B0128",
+      "note": ""
+    },
+    "eps_adjusted": {
+      "value": 5.09,
+      "source": "B0129",
+      "note": ""
+    },
+    "net_income_common": {
+      "value": 2006.0,
+      "source": "B0733",
+      "note": ""
+    },
+    "notable_items_eps": {
+      "value": -0.12,
+      "source": "B0042",
+      "note": "integration costs + Visa items; table shows 0.12 reduction"
+    },
+    "nii": {
+      "value": 4206.0,
+      "source": "B0705",
+      "note": ""
+    },
+    "nim": {
+      "value": 2.94,
+      "source": "B0890",
+      "note": ""
+    },
+    "nonint_income": {
+      "value": 2356.0,
+      "source": "B0717",
+      "note": ""
+    },
+    "nonint_expense": {
+      "value": 3751.0,
+      "source": "B0726",
+      "note": ""
+    },
+    "efficiency_ratio": {
+      "value": 57,
+      "source": "B0022",
+      "note": "disclosed only as rounded 57%"
+    },
+    "provision": {
+      "value": 189.0,
+      "source": "B0991",
+      "note": ""
+    },
+    "nco": {
+      "value": 257.0,
+      "source": "B0052",
+      "note": ""
+    },
+    "nco_ratio": {
+      "value": 0.28,
+      "source": "B0973",
+      "note": ""
+    },
+    "acl_ratio": {
+      "value": 1.42,
+      "source": "B1011",
+      "note": ""
+    },
+    "avg_loans": {
+      "value": 372200.0,
+      "source": "B0186",
+      "note": ""
+    },
+    "avg_deposits": {
+      "value": 461200.0,
+      "source": "B0215",
+      "note": ""
+    },
+    "eop_deposits": {
+      "value": 466362.0,
+      "source": "B0768",
+      "note": ""
+    },
+    "cet1": {
+      "value": 9.8,
+      "source": "B0492",
+      "note": ""
+    },
+    "tbvps": {
+      "value": 107.64,
+      "source": "B0564",
+      "note": ""
+    },
+    "rotce": {
+      "value": 18.28,
+      "source": "B0577",
+      "note": ""
+    },
+    "buybacks": {
+      "value": 600,
+      "source": "B0245",
+      "note": ""
+    }
+  },
+  "prior_quarter": {
+    "eps_reported": {
+      "value": 4.81,
+      "source": "B0128"
+    },
+    "nii": {
+      "value": 4107.0,
+      "source": "B0705"
+    },
+    "nim": {
+      "value": 2.96,
+      "source": "B0890"
+    },
+    "nonint_expense": {
+      "value": 4098.0,
+      "source": "B0726"
+    },
+    "provision": {
+      "value": 191.0,
+      "source": "B0991"
+    }
+  },
+  "nim_basis": "FTE",
+  "notes": ""
+}

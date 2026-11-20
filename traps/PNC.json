@@ -1,0 +1,35 @@
+{
+  "ticker": "PNC",
+  "traps": [
+    {
+      "id": "eps_basis",
+      "type": "eps_basis",
+      "where": "B0128 reported $4.97 vs B0016 adjusted $5.09",
+      "check": "manual"
+    },
+    {
+      "id": "nim_basis",
+      "type": "nim_basis",
+      "where": "B0423: NIM 2.94% on FTE basis; GAAP NII 4,206 vs FTE 4,232 (B0587)",
+      "check": "auto:nim_basis"
+    },
+    {
+      "id": "prior_quarter",
+      "type": "period_mismatch",
+      "where": "B0138: 2Q26 NII 4,107; 2Q26 had +$84M significant items (B0069) that flatter the QoQ fee comparison",
+      "check": "auto:prior"
+    },
+    {
+      "id": "notable_items",
+      "type": "notable_items",
+      "where": "B0068: $36M FirstBank integration costs + -$25M Visa items = -$0.12 EPS",
+      "check": "manual"
+    },
+    {
+      "id": "reserve_build",
+      "type": "reserve_build",
+      "where": "Provision $189M < net charge-offs $257M, which include $35M from moving student loans to held-for-sale (B0016): a reserve release, not worsening credit",
+      "check": "manual"
+    }
+    ]
+}
